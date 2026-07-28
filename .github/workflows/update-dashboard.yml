@@ -1,0 +1,43 @@
+name: Update CEO Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions cron uses UTC. Every hour at minute 5.
+    - cron: "5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ceo-dashboard
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch, validate, and write dashboard data
+        env:
+          MARKET_API_KEY: ${{ secrets.MARKET_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          TZ: Asia/Taipei
+        run: python scripts/update_dashboard.py
+
+      - name: Commit changed data
+        run: |
+          git config user.name "dashboard-bot"
+          git config user.email "dashboard-bot@users.noreply.github.com"
+          git add dashboard.json
+          git diff --cached --quiet || git commit -m "chore: hourly dashboard update"
+          git push
