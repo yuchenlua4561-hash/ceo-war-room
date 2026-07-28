@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>CEO 戰情室｜AI 基礎建設與原物料</title>
+  <style>
+    :root{--bg:#07101c;--panel:#0d1928;--panel2:#111f30;--line:#203047;--text:#f2f6fb;--muted:#91a0b5;--cyan:#52d6d0;--lime:#b7e35c;--red:#ff6b6b;--amber:#ffbd59;--blue:#6ea8ff;--shadow:0 18px 50px rgba(0,0,0,.24)}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 82% -10%,#163653 0,transparent 29%),var(--bg);color:var(--text);font-family:Inter,"Noto Sans TC","Microsoft JhengHei",sans-serif;line-height:1.5}
+    button,a{font:inherit}.shell{width:min(1480px,calc(100% - 40px));margin:auto;padding:28px 0 52px}
+    header{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;margin-bottom:22px}.eyebrow{color:var(--cyan);letter-spacing:.18em;font-size:12px;font-weight:800}.brand h1{font-size:clamp(28px,4vw,52px);line-height:1.05;margin:7px 0 10px;letter-spacing:-.04em}.brand p{margin:0;color:var(--muted);max-width:760px}.actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+    .btn{border:1px solid var(--line);background:#101d2b;color:var(--text);border-radius:10px;padding:9px 13px;cursor:pointer}.btn:hover{border-color:var(--cyan)}.btn.primary{background:var(--cyan);color:#05201f;border-color:var(--cyan);font-weight:800}
+    .statusbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:12px 15px;border:1px solid var(--line);border-radius:12px;background:rgba(13,25,40,.84);margin-bottom:16px;color:var(--muted);font-size:13px}.dot{width:9px;height:9px;border-radius:50%;background:var(--amber);box-shadow:0 0 14px currentColor}.dot.ok{background:var(--lime)}.dot.bad{background:var(--red)}.spacer{flex:1}.tag{border:1px solid var(--line);border-radius:999px;padding:3px 8px;color:#b9c5d4;background:#0b1623;font-size:11px;font-weight:700}.tag.live{color:var(--lime)}.tag.delay{color:var(--amber)}.tag.close{color:var(--blue)}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px}.panel{background:linear-gradient(150deg,rgba(17,31,48,.98),rgba(10,21,34,.98));border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);overflow:hidden}.panel-head{padding:16px 18px 12px;display:flex;align-items:center;justify-content:space-between;gap:12px}.panel-head h2{font-size:14px;letter-spacing:.08em;text-transform:uppercase;margin:0;color:#c7d1de}.panel-body{padding:0 18px 18px}
+    .hero{grid-column:span 8}.radar{grid-column:span 4}.markets{grid-column:span 12}.pump{grid-column:span 6}.competitors{grid-column:span 6}.news{grid-column:span 8}.supply{grid-column:span 4}
+    .brief{font-size:clamp(18px,2.3vw,29px);font-weight:700;line-height:1.4;letter-spacing:-.02em;margin:3px 0 12px}.brief-note{color:var(--muted);margin:0}
+    .signal-list{display:grid;gap:10px}.signal{display:grid;grid-template-columns:12px 1fr auto;gap:10px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}.signal:first-child{border-top:0}.light{width:10px;height:10px;border-radius:50%}.green{background:var(--lime)}.yellow{background:var(--amber)}.red{background:var(--red)}.signal small{color:var(--muted)}
+    .market-grid{display:grid;grid-template-columns:repeat(7,minmax(150px,1fr));border-top:1px solid var(--line);overflow-x:auto}.metric{padding:16px;border-right:1px solid var(--line);min-width:150px}.metric:last-child{border-right:0}.metric-name{color:var(--muted);font-size:12px;min-height:37px}.metric-value{font-size:23px;font-weight:800;margin:7px 0 2px;white-space:nowrap}.metric-delta{font-size:12px;font-weight:700}.up{color:var(--red)}.down{color:var(--lime)}.flat{color:var(--muted)}.meta{font-size:10px;color:#718198;margin-top:10px;line-height:1.5}
+    .news-list{display:grid}.article{display:grid;grid-template-columns:110px 1fr auto;gap:14px;padding:15px 0;border-top:1px solid var(--line);align-items:start}.article:first-child{border-top:0}.category{color:var(--cyan);font-size:11px;font-weight:800}.article h3{margin:0 0 5px;font-size:15px}.article p{color:var(--muted);margin:0;font-size:13px}.article a{color:var(--text);text-decoration:none;font-size:12px}.article a:hover{color:var(--cyan)}
+    .theme{padding:13px 0;border-top:1px solid var(--line)}.theme:first-child{border-top:0}.theme-top{display:flex;justify-content:space-between;gap:12px}.theme strong{font-size:14px}.theme p{margin:5px 0 0;color:var(--muted);font-size:12px}.score{font-size:12px;font-weight:800;color:var(--cyan)}
+    .pump .panel-body,.competitors .panel-body{overflow-x:auto}.intel-table{width:100%;min-width:560px;border-collapse:collapse;font-size:12px}.intel-table th{text-align:left;color:var(--muted);font-size:10px;letter-spacing:.08em;text-transform:uppercase;padding:8px 6px;border-bottom:1px solid var(--line)}.intel-table td{padding:11px 6px;border-bottom:1px solid var(--line);vertical-align:top}.intel-table tr:last-child td{border-bottom:0}.intel-table p{margin:3px 0 0;color:var(--muted)}.intel-table a,.meta a{color:var(--cyan);text-decoration:none}.intel-table a:hover,.meta a:hover{text-decoration:underline}
+    .empty{color:var(--muted);padding:18px 0}.footer{color:#6d7d92;font-size:11px;margin-top:18px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+    .toast{position:fixed;right:18px;bottom:18px;max-width:360px;background:#172537;border:1px solid var(--line);padding:12px 15px;border-radius:12px;box-shadow:var(--shadow);display:none;font-size:13px}.toast.show{display:block}
+    @media(max-width:980px){.hero,.radar,.pump,.competitors,.news,.supply{grid-column:span 12}.market-grid{grid-template-columns:repeat(4,minmax(160px,1fr))}}
+    @media(max-width:640px){.shell{width:min(100% - 24px,1480px);padding-top:18px}header{display:block}.actions{justify-content:flex-start;margin-top:18px}.market-grid{grid-template-columns:repeat(2,minmax(150px,1fr))}.article{grid-template-columns:1fr}.article a{justify-self:start}.spacer{display:none}.statusbar{align-items:flex-start}.brand h1{font-size:34px}}
+    @media print{body{background:#fff;color:#111}.shell{width:100%;padding:0}.actions,.toast{display:none!important}.panel,.statusbar{box-shadow:none;background:#fff;border-color:#ccd2d9;break-inside:avoid}.muted,.brand p,.brief-note,.article p,.theme p,.meta,.statusbar{color:#555}.market-grid{overflow:visible}.news,.supply{grid-column:span 6}.footer{color:#555}}
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div class="brand">
+        <div class="eyebrow">EXECUTIVE MARKET INTELLIGENCE</div>
+        <h1>CEO 戰情室</h1>
+        <p>AI 基礎建設、關鍵原物料與供應鏈每日決策介面</p>
+      </div>
+      <div class="actions">
+        <button class="btn" id="compactBtn">精簡模式</button>
+        <button class="btn" id="printBtn">列印 / PDF</button>
+        <button class="btn primary" id="refreshBtn">立即更新</button>
+      </div>
+    </header>
+
+    <div class="statusbar">
+      <span class="dot" id="healthDot"></span>
+      <strong id="healthText">正在載入資料…</strong>
+      <span id="updatedText">最後更新：—</span>
+      <span id="freshnessText">資料新鮮度：—</span>
+      <span class="spacer"></span>
+      <span>每 60 分鐘自動更新</span>
+      <span id="nextRefresh">下次更新：—</span>
+    </div>
+
+    <section class="grid">
+      <article class="panel hero">
+        <div class="panel-head"><h2>CEO 今日摘要</h2><span class="tag" id="stanceTag">判讀中</span></div>
+        <div class="panel-body"><p class="brief" id="summary">正在彙整市場訊號與供應鏈變化。</p><p class="brief-note" id="action">—</p></div>
+      </article>
+      <article class="panel radar">
+        <div class="panel-head"><h2>風險雷達</h2><span class="tag" id="riskTag">—</span></div>
+        <div class="panel-body signal-list" id="riskList"></div>
+      </article>
+      <article class="panel markets">
+        <div class="panel-head"><h2>市場儀表</h2><span class="tag">前一交易日比較</span></div>
+        <div class="market-grid" id="marketGrid"></div>
+      </article>
+      <article class="panel pump">
+        <div class="panel-head"><h2>液冷幫浦監控</h2><span class="tag">CDU 關鍵子系統</span></div>
+        <div class="panel-body" id="pumpList"></div>
+      </article>
+      <article class="panel competitors">
+        <div class="panel-head"><h2>競爭對手動態</h2><span class="tag" id="competitorCount">0 家</span></div>
+        <div class="panel-body" id="competitorList"></div>
+      </article>
+      <article class="panel news" id="newsPanel">
+        <div class="panel-head"><h2>AI 伺服器情報</h2><span class="tag" id="newsCount">0 則</span></div>
+        <div class="panel-body news-list" id="newsList"></div>
+      </article>
+      <article class="panel supply" id="supplyPanel">
+        <div class="panel-head"><h2>供應鏈監控</h2><span class="tag">六大主題</span></div>
+        <div class="panel-body" id="themeList"></div>
+      </article>
+    </section>
+    <div class="footer"><span>數字僅供管理決策參考；交易前請向授權資料源覆核。</span><span id="sourceNote">資料來源：—</span></div>
+  </main>
+  <div class="toast" id="toast"></div>
+  <script>
+    const REFRESH_MS=60*60*1000;
+    const fallbackKey="ceo-dashboard-session-cache-v1";
+    const marketOrder=["usd_twd","jpy_twd","eur_twd","gold_twd","brent","copper_3m","aluminium_3m"];
+    let nextAt=Date.now()+REFRESH_MS, timer;
+    const $=id=>document.getElementById(id);
+    const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    function safeUrl(value){try{const u=new URL(value);return["http:","https:"].includes(u.protocol)?u.href:""}catch{return""}}
+    function sourceLink(url,label="查看來源 ↗"){const href=safeUrl(url);return href?`<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`:'<span class="flat">尚無連結</span>'}
+    function toast(msg){$("toast").textContent=msg;$("toast").classList.add("show");setTimeout(()=>$("toast").classList.remove("show"),4200)}
+    function ageText(date){const m=Math.max(0,Math.floor((Date.now()-date.getTime())/60000));if(m<1)return"剛剛";if(m<60)return`${m} 分鐘前`;return`${Math.floor(m/60)} 小時 ${m%60} 分前`}
+    function format(v,d=2){return Number(v).toLocaleString("zh-TW",{minimumFractionDigits:d,maximumFractionDigits:d})}
+    function render(data,fromCache=false){
+      const updated=new Date(data.updated_at), age=Date.now()-updated.getTime(), stale=age>REFRESH_MS*2;
+      $("updatedText").textContent=`最後更新：${updated.toLocaleString("zh-TW",{hour12:false})}`;
+      $("freshnessText").textContent=`資料新鮮度：${ageText(updated)}`;
+      $("healthText").textContent=fromCache?"即時來源失敗，顯示最近快取":stale?"資料已逾期":"資料正常";
+      $("healthDot").className=`dot ${fromCache||stale?"bad":"ok"}`;
+      $("summary").textContent=data.ceo_summary.headline;
+      $("action").textContent=`今日行動：${data.ceo_summary.action}`;
+      $("stanceTag").textContent=data.ceo_summary.stance;
+      $("riskTag").textContent=data.risk.overall_label;
+      $("riskList").innerHTML=data.risk.items.map(x=>`<div class="signal"><span class="light ${esc(x.level)}"></span><div><strong>${esc(x.name)}</strong><br><small>${esc(x.note)}</small></div><strong>${esc(x.label)}</strong></div>`).join("");
+      $("marketGrid").innerHTML=marketOrder.map(k=>{const x=data.markets[k], ch=Number(x.change), cls=ch>0?"up":ch<0?"down":"flat", arrow=ch>0?"▲":ch<0?"▼":"—";return `<div class="metric"><div class="metric-name">${esc(x.name)} <span class="tag ${esc(x.price_type)}">${esc(x.price_label)}</span></div><div class="metric-value">${format(x.value,x.decimals)}</div><div class="metric-delta ${cls}">${arrow} ${format(Math.abs(ch),x.decimals)} · ${format(Math.abs(x.change_pct),2)}%</div><div class="meta">${esc(x.currency)} / ${esc(x.unit)}<br>${esc(x.source)} · ${sourceLink(x.source_url,"來源 ↗")}<br>${esc(x.as_of)}</div></div>`}).join("");
+      $("pumpList").innerHTML=`<table class="intel-table"><thead><tr><th>監控項目</th><th>判讀</th><th>CEO 關注點</th></tr></thead><tbody>${data.liquid_cooling_pumps.map(x=>`<tr><td><strong>${esc(x.name)}</strong><p>${esc(x.spec)}</p></td><td><span class="tag">${esc(x.signal)}</span><p>${esc(x.note)}</p></td><td>${esc(x.watch)}<br>${sourceLink(x.url)}</td></tr>`).join("")}</tbody></table>`;
+      $("competitorCount").textContent=`${data.competitors.length} 家`;
+      $("competitorList").innerHTML=`<table class="intel-table"><thead><tr><th>業者／產品</th><th>最新動態</th><th>競爭含意</th></tr></thead><tbody>${data.competitors.map(x=>`<tr><td><strong>${esc(x.company)}</strong><p>${esc(x.product)}</p></td><td>${esc(x.move)}<br>${sourceLink(x.url)}</td><td>${esc(x.implication)}</td></tr>`).join("")}</tbody></table>`;
+      $("newsCount").textContent=`${data.news.length} 則`;
+      $("newsList").innerHTML=data.news.length?data.news.map(x=>`<article class="article"><div class="category">${esc(x.category)}<br><span class="tag ${esc(x.data_type)}">${esc(x.data_label)}</span></div><div><h3>${esc(x.headline)}</h3><p>${esc(x.summary)}</p></div>${sourceLink(x.url)}</article>`).join(""):'<div class="empty">目前沒有新聞資料。</div>';
+      $("themeList").innerHTML=data.supply_chain.map(x=>`<div class="theme"><div class="theme-top"><strong>${esc(x.name)}</strong><span class="score">${esc(x.signal)} · ${esc(x.score)}/5</span></div><p>${esc(x.note)}</p></div>`).join("");
+      $("sourceNote").textContent=`資料來源：${[...new Set(Object.values(data.markets).map(x=>x.source))].join("、")}`;
+      sessionStorage.setItem(fallbackKey,JSON.stringify(data));
+    }
+    async function load(silent=false){
+      $("refreshBtn").disabled=true;
+      try{const r=await fetch(`./dashboard.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error(`HTTP ${r.status}`);const d=await r.json();render(d);if(!silent)toast("戰情室資料已更新")}
+      catch(e){const cached=sessionStorage.getItem(fallbackKey);if(cached){render(JSON.parse(cached),true);toast("更新失敗，已切換至本次瀏覽快取")}else{$("healthText").textContent="資料載入失敗";$("healthDot").className="dot bad";toast("無法取得 dashboard.json，請由網站伺服器開啟")}}
+      finally{$("refreshBtn").disabled=false;nextAt=Date.now()+REFRESH_MS}
+    }
+    function tick(){const s=Math.max(0,Math.ceil((nextAt-Date.now())/1000)),m=Math.floor(s/60),r=s%60;$("nextRefresh").textContent=`下次更新：${m}分 ${String(r).padStart(2,"0")}秒`;if(s===0)load(true)}
+    $("refreshBtn").onclick=()=>load();$("printBtn").onclick=()=>window.print();$("compactBtn").onclick=()=>{const hidden=$("newsPanel").style.display==="none";$("newsPanel").style.display=hidden?"":"none";$("supplyPanel").style.display=hidden?"":"none";$("compactBtn").textContent=hidden?"精簡模式":"完整模式"};
+    load(true);tick();timer=setInterval(tick,1000);
+  </script>
+</body>
+</html>

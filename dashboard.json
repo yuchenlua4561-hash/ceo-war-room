@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-07-24T11:37:46+08:00",
+  "ceo_summary": {
+    "stance": "審慎偏多",
+    "headline": "匯市震盪有限，能源與工業金屬維持高檔；AI 資料中心資本支出仍支撐液冷、PCB 與電力基礎建設需求。",
+    "action": "關注銅與鋁成本向下游報價的傳導速度，並優先追蹤液冷關鍵零組件交期與高階 PCB 產能利用率。"
+  },
+  "risk": {
+    "overall_label": "中度風險",
+    "items": [
+      {
+        "name": "匯率曝險",
+        "level": "yellow",
+        "label": "觀察",
+        "note": "美元偏強，出口與進口成本影響方向分化。"
+      },
+      {
+        "name": "原料成本",
+        "level": "red",
+        "label": "偏高",
+        "note": "銅價仍處高檔，散熱與電力零組件成本承壓。"
+      },
+      {
+        "name": "AI 需求",
+        "level": "green",
+        "label": "穩健",
+        "note": "Hyperscaler 資本支出與高功率機櫃部署延續。"
+      }
+    ]
+  },
+  "markets": {
+    "usd_twd": {
+      "name": "USD / TWD 即期賣出",
+      "value": 32.385,
+      "previous": 32.38,
+      "change": 0.005,
+      "change_pct": 0.0154,
+      "decimals": 3,
+      "currency": "TWD",
+      "unit": "每 1 USD",
+      "source": "臺灣銀行",
+      "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+      "as_of": "2026-07-24 10:55 GMT+8",
+      "price_type": "live",
+      "price_label": "牌告"
+    },
+    "jpy_twd": {
+      "name": "JPY / TWD 即期賣出",
+      "value": 0.1995,
+      "previous": 0.1999,
+      "change": -0.0004,
+      "change_pct": -0.2001,
+      "decimals": 4,
+      "currency": "TWD",
+      "unit": "每 1 JPY",
+      "source": "臺灣銀行",
+      "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+      "as_of": "2026-07-24 10:55 GMT+8",
+      "price_type": "live",
+      "price_label": "牌告"
+    },
+    "eur_twd": {
+      "name": "EUR / TWD 即期賣出",
+      "value": 36.95,
+      "previous": 36.876,
+      "change": 0.074,
+      "change_pct": 0.2007,
+      "decimals": 3,
+      "currency": "TWD",
+      "unit": "每 1 EUR",
+      "source": "臺灣銀行",
+      "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+      "as_of": "2026-07-24 10:55 GMT+8",
+      "price_type": "live",
+      "price_label": "牌告"
+    },
+    "gold_twd": {
+      "name": "新臺幣黃金牌價",
+      "value": 3288,
+      "previous": 3276,
+      "change": 12,
+      "change_pct": 0.3663,
+      "decimals": 0,
+      "currency": "TWD",
+      "unit": "每公克賣出",
+      "source": "臺灣銀行",
+      "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
+      "as_of": "2026-07-24 10:50 GMT+8",
+      "price_type": "live",
+      "price_label": "牌告"
+    },
+    "brent": {
+      "name": "Brent 近月",
+      "value": 100.5,
+      "previous": 100.65,
+      "change": -0.15,
+      "change_pct": -0.149,
+      "decimals": 2,
+      "currency": "USD",
+      "unit": "每桶",
+      "source": "ICE 產品頁（示例）",
+      "source_url": "https://www.ice.com/products/219/Brent-Crude-Futures",
+      "as_of": "2026-07-24 10:45 GMT+8",
+      "price_type": "delay",
+      "price_label": "延遲"
+    },
+    "copper_3m": {
+      "name": "LME Copper 3M",
+      "value": 9950,
+      "previous": 9980,
+      "change": -30,
+      "change_pct": -0.3006,
+      "decimals": 0,
+      "currency": "USD",
+      "unit": "每公噸",
+      "source": "LME 官方價格頁（示例）",
+      "source_url": "https://www.lme.com/market-data/reports-and-data/lme-closing-prices",
+      "as_of": "2026-07-23 Close",
+      "price_type": "close",
+      "price_label": "收盤"
+    },
+    "aluminium_3m": {
+      "name": "LME Aluminium 3M",
+      "value": 2608,
+      "previous": 2597,
+      "change": 11,
+      "change_pct": 0.4236,
+      "decimals": 0,
+      "currency": "USD",
+      "unit": "每公噸",
+      "source": "LME 官方價格頁（示例）",
+      "source_url": "https://www.lme.com/market-data/reports-and-data/lme-closing-prices",
+      "as_of": "2026-07-23 Close",
+      "price_type": "close",
+      "price_label": "收盤"
+    }
+  },
+  "liquid_cooling_pumps": [
+    {
+      "name": "備援架構",
+      "spec": "N+1／雙泵、獨立電源與失效切換",
+      "signal": "必要規格",
+      "note": "幫浦是 TCS 循環核心，單點故障會直接威脅伺服器散熱。",
+      "watch": "驗證單泵故障時剩餘泵浦能否維持流量、壓差及不中斷切換。",
+      "url": "https://ocpprodweb3.opencompute.org/documents/ocp-specification-deschutes-final-2025-09-05-pdf"
+    },
+    {
+      "name": "流量與壓差",
+      "spec": "依機櫃熱負載、冷板阻抗與冷卻液黏度設計",
+      "signal": "擴規",
+      "note": "高功率 GPU 機櫃推升流量與可用壓頭，變頻控制有助節能與穩壓。",
+      "watch": "不要只比較額定流量；應在實際 PG25、水溫及系統阻抗下比較泵曲線。",
+      "url": "https://www.opencompute.org/products/734/stulz-deschutes-cdu-cybercool-liquid-cooling-distribution-unit"
+    },
+    {
+      "name": "可維修性",
+      "spec": "熱插拔幫浦、前後維修、隔離閥與線上監測",
+      "signal": "差異化",
+      "note": "大型 AI 叢集更重視不停機維修與平均修復時間。",
+      "watch": "追蹤熱插拔時間、備品共用率、區域服務能力與預防性維護週期。",
+      "url": "https://www.coolitsystems.com/product/chx2000-cdu/"
+    },
+    {
+      "name": "可靠度與材料",
+      "spec": "無軸封泵、冷卻液相容性、過濾與洩漏監測",
+      "signal": "高風險",
+      "note": "密封、軸承、腐蝕與微粒會影響長期可靠度；冷卻液規格不可脫離泵材質評估。",
+      "watch": "要求壽命測試、壓力循環、污染控制及 PG25／指定冷卻液相容性資料。",
+      "url": "https://www.opencompute.org/products/728/boyd-rol4000-48u65-deschutes-cdu"
+    }
+  ],
+  "competitors": [
+    {
+      "company": "Schneider Electric／Motivair",
+      "product": "MCDU-70、MCDU-45／55",
+      "move": "推出 2.5 MW CDU，產品線由 105 kW 延伸至 2.5 MW，並主打集中控制、全球服務及端到端 chip-to-chiller。",
+      "implication": "以完整基礎設施與服務綁定大型 AI Factory 專案，系統整合能力是主要壁壘。",
+      "url": "https://www.se.com/it/it/about-us/newsroom/news/press-releases/Motivair-by-Schneider-Electric-annuncia-una-nuova-CDU-che-pu%C3%B2-scalare-a-10-MW-e-oltre-per-la-prossima-generazione-di-AI-Factory-697201ca067052dbfc09189c/"
+    },
+    {
+      "company": "CoolIT Systems",
+      "product": "CHx2000",
+      "move": "2 MW 級 CDU 強調熱插拔泵浦、六個九可用性、最多 20 台群控與多協定遠端監控。",
+      "implication": "在高密度單機占地、泵浦性能及全球部署服務上加速競爭。",
+      "url": "https://www.coolitsystems.com/product/chx2000-cdu/"
+    },
+    {
+      "company": "Boyd",
+      "product": "ROL2300／ROL4000",
+      "move": "ROL2300 達 2.3 MW，採熱插拔 N+1 泵；ROL4000 依 OCP Deschutes 規格採無軸封 N+1 泵與雙路電源。",
+      "implication": "以可靠度、區域製造與 OCP 相容性切入 hyperscaler 及 colocation。",
+      "url": "https://www.boydcorp.com/about-boyd/resources/news-and-events/boyd-unveils-a-high-capacity-cdu.html"
+    },
+    {
+      "company": "Vertiv",
+      "product": "CoolChip CDU 350",
+      "move": "擴充液對氣 CDU，整合補液泵，瞄準既有氣冷資料中心導入液冷的改造需求。",
+      "implication": "可利用既有資料中心客戶、電力與熱管理通路進行交叉銷售。",
+      "url": "https://www.vertiv.com/497960/globalassets/products/thermal-management/high-density-solutions/vertiv-coolchip-cdu/vertiv-coolchip-cdu-350kw-data-sheet-sl-71957.pdf"
+    },
+    {
+      "company": "台達電子",
+      "product": "SuperCDU-1500",
+      "move": "布局 1.5 MW 液對液 CDU，並結合資料中心電力、機櫃與模組化基礎設施。",
+      "implication": "在亞洲供應鏈、電力電子與整體資料中心方案整合上具協同優勢。",
+      "url": "https://filecenter.deltaww.com/Products/download/07/070202/Catalogue/Leaflet_InfraSuite_L2L-CDU-1500_en_EIAIEI-10-JY.pdf"
+    }
+  ],
+  "news": [
+    {
+      "category": "液冷散熱",
+      "headline": "高功率 AI 機櫃推動直接液冷基礎設施升級",
+      "summary": "CDU、冷板、快接頭與泵浦的驗證及交付能力成為部署節奏關鍵。",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-07-24T08:30:00+08:00",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "data_type": "live",
+      "data_label": "今日"
+    },
+    {
+      "category": "PCB／供應鏈",
+      "headline": "AI 工廠生態系擴大高階運算供應鏈需求",
+      "summary": "高階伺服器、交換器與冷卻系統規格升級，帶動關鍵零組件與製造夥伴投入。",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-07-24T07:40:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/computer-industry-ai-factories-data-centers",
+      "data_type": "delay",
+      "data_label": "彙整"
+    },
+    {
+      "category": "資料中心",
+      "headline": "液冷 AI 工廠降低大型資料中心冷卻能耗",
+      "summary": "液冷基礎建設將熱源直接帶離機櫃，是高密度 AI 資料中心提升能源效率的重要環節。",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-07-23T22:10:00+08:00",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "data_type": "close",
+      "data_label": "昨日"
+    }
+  ],
+  "supply_chain": [
+    {
+      "name": "液冷散熱",
+      "signal": "正向",
+      "score": 5,
+      "note": "滲透率提升，關注 CDU、冷板、快接頭與泵浦驗證。"
+    },
+    {
+      "name": "銅價影響",
+      "signal": "警戒",
+      "score": 4,
+      "note": "高銅價推升 busbar、線纜、冷板與電力設備成本。"
+    },
+    {
+      "name": "PCB 產業",
+      "signal": "正向",
+      "score": 4,
+      "note": "AI server、switch 帶動 HLC、HDI 與低損耗材料需求。"
+    },
+    {
+      "name": "散熱產業",
+      "signal": "正向",
+      "score": 5,
+      "note": "風冷轉液冷，提高單機櫃散熱系統價值量。"
+    },
+    {
+      "name": "資料中心建設",
+      "signal": "擴張",
+      "score": 5,
+      "note": "電力取得、機房工期與高密度部署速度為核心指標。"
+    },
+    {
+      "name": "主要供應鏈",
+      "signal": "追蹤",
+      "score": 4,
+      "note": "留意 GPU 平台量產、ODM 出貨與關鍵零組件交期。"
+    }
+  ]
+}
