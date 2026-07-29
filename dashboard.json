@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-07-30T00:12:28+08:00",
+  "intel_updated_at": "2026-07-30T04:32:53+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -209,11 +209,31 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "AI Demands Push Data Center Power Density, Grid Limits - Indiatimes",
+      "summary": "AI Demands Push Data Center Power Density, Grid Limits Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-07-29T23:38:31+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1Z0c3JwYTlnemtDN1N5Vi0xY2JqMG5BcjNqWURVQlhDVVNuUHp0d1hTY1VLdGd6c2hZVVBXSXVSczZnVGJaNmxxSXBnMURrbUFudElMSy1wS3FnVXR1aWl2LThWT3FOWGVqV3lVUU9ZY1N3ZXprUEVDdk1fRzB4bnoxN0tNdktjaURfbnhPdzA4alJTdFhWWUJkOGtTdEc4cjYta3QtQS12OTFwcWlBMVpWX2VLNVFuRHBvcGNCeWZkdC1EMDR4T2ZxaVZQNmFlZzRjRWsxQlpZQVM3U2d2Mg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints - Data Center Dynamics",
+      "summary": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-07-29T23:02:12+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSThobWhDU1AwQ241dGZOcm94c29GaGlYMG1uWm14UEVBT2dadDhFMXhLM0pUU1VxbUNPS21pYVlibHkzWWZjTjdCNjM4SjAxelFxMlhlREpiR01kbTVkM3dYMG1NVGZQSGk1ZVd5ejA5a2ZsNFdIYl9qLWU2N3ZNaTdQcHlKQ25RN084UDMyR0FDbnRuQngydG5ZLU80LUhid05jNThVWlJXSDhqQlRweGxuSDEwUi1wcV81ZW9MTy1TWVpuX0pXYU55QjhuaXAxREluNTcxRkFGeThhcUNF?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "AI's Trillion-Dollar Infrastructure Buildout is Fueling the Next Wave of Data Center Investment Opportunities - TradingView",
       "summary": "AI's Trillion-Dollar Infrastructure Buildout is Fueling the Next Wave of Data Center Investment Opportunities TradingView",
       "source": "TradingView",
       "published_at": "2026-07-29T20:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZnA3Y1kyRmtTaFpqR3VJTDVSRjE4cUZadlVveElzVXBFTmszTEdxdzlYUnVEdWdVdjlINThYYjYtUHRqTGRKNnd1YWMtMzViSkR1UkhPSW5VODlHYzNRRVZwUnNLSkZWRXQ4eWxnYmp2NF95a0poY0JmVWJwTlk4bHZxQTMyQi10V0ZBVzlibHdqdE1OOFBIYUdENTg5QWpkck5hSWVEVzhNWk5LNlFUaXo1SEdjbE9zTmhvdkVDOTRqRFhhdUJ4emI4NldQbVBpRWtJUEc4TzVOeGVHYjZhM1hJdmROaGpPWjZIaTl6NTdxVkNyX01ETDUteEYzWkk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtTnpPVmN3NEVGcHJDalFxV244TmZydWtzbW1IblJPQ2cwQ0g1dnVjM2RxeDRkMEc2Q0g4aXViUVFVTEVHMkZuRm1IMFB2RnhoekE0NXpKVkZURWk3LXVDNEVKbDFidjFFbUhV?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -224,16 +244,6 @@
       "source": "Telecompaper",
       "published_at": "2026-07-29T13:06:49+08:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnctOFlJMVAtVzJPSXpHbEtqQ0E1T2tLalV4TkFhZTVNSlVEbkhsUDJLWlkwREFrSTg1OG1TSlREdHB6UlY2T0tzVTlhdXR2Z0xjVnhpcDJHR3U4dHVrcVNOOXpnUElFb25SODhhOEhuQndHMFJKcUk5UF9JTzEzbjlPam9mYXFfUkdUNHFYNTF4T1RJVGNUU3J1Ty05cHgtYnBSaHkyc0NrWjM0d1lIQkNVc2w?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "NXP finds new AI data center role beyond GPUs - digitimes.com",
-      "summary": "NXP finds new AI data center role beyond GPUs digitimes.com",
-      "source": "digitimes.com",
-      "published_at": "2026-07-29T12:44:16+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUhpZm1rSmNOTjdFQ0ZlV2c4YkprYzJFZEN1SUhwUHlTV2s3alp0LWdtZjZuOEF4MWRlM1BDdVhyZG90clBrQ0E2ZEJfMmNpb3F5eVZFUEJHeHRpTlpEQ1VKaGxlMUtEOVpucDRMZnEtWHlZNnBmdzY1eXBsM2ZiVjVxclVoaFU1aGI1anJ5RnRVUURoNHZTTmpFZUdGclFBUnBz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -314,16 +324,6 @@
       "source": "Canadian Manufacturing",
       "published_at": "2026-07-28T00:22:58+08:00",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONHR5ZnZ0eFhGcURpdmhodFVwdm85THNFQUs5eHY2NG8xWUYxY2d6TndVM2Q5S1BCZzFNMWlVUE10amI5NF9pYmdhNVNGd292elpSOU5KMHBvNmhUR2Yzc1B0RHAzaVFCbDNVb1FIWlJESncxeDZQRmFSRkxrUVVWMTRnM042RU9DXzA1Y1R3X0FIYkVGTkpHcHptUG81TjdNc2xGZ1dFUnZnUjRDWm5lODRuRjlSeXZYWGg1LURRZjdSaVRIUWl1ajczOHRyODI1WXhadXlKajA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "A California data center has run for two years with no power line at all, making its own electricity from hydrogen and cooling its 1,800 GPUs with the water that drips out of the fuel cells, and it just ordered stacks for a bigger one - Autonocion.com",
-      "summary": "A California data center has run for two years with no power line at all, making its own electricity from hydrogen and cooling its 1,800 GPUs with the water that drips out of the fuel cells, and it just ordered stacks for a bigger one Autonocion.com",
-      "source": "Autonocion.com",
-      "published_at": "2026-07-27T23:00:34+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rVENHRHBtLVdtVDRpRkd2cXhjRjVVLUs2UE5wc1FsamdWdl9nNVVTeXpHbWx0SEEwVHlkQXFuY0R3OWZTSC1ERkltRnhhMGxPYy1McGJNajVnaVVHQ1dCZ3ozaUNTLWlYdkxNYXBkNDVoSDFMT0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
