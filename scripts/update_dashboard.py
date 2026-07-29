@@ -1,7 +1,8 @@
-"""Hourly data collector stub.
+"""Hourly data collector guard.
 
-Replace `collect()` with licensed API calls. Keep API keys in repository secrets.
-The sample deliberately preserves the existing JSON when no provider is configured.
+The dashboard must not pretend that a successful GitHub Action means market data
+was refreshed. Until a licensed provider is configured, preserve the last
+verified quotes and emit a clear workflow warning.
 """
 from __future__ import annotations
 
@@ -34,7 +35,11 @@ def validate(data: dict) -> None:
 
 def collect(previous: dict) -> dict | None:
     if not os.getenv("MARKET_API_KEY"):
-        print("MARKET_API_KEY not configured; sample data was validated but not refreshed.")
+        print(
+            "::warning title=Market data not refreshed::"
+            "MARKET_API_KEY is not configured. The workflow checked the file, "
+            "but preserved the last verified market quotes."
+        )
         return None
     # Integrate licensed providers here. Normalize every quote to the schema in
     # dashboard.json and calculate change against the previous trading day.

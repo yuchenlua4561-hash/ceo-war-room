@@ -38,7 +38,7 @@
       <div class="actions">
         <button class="btn" id="compactBtn">精簡模式</button>
         <button class="btn" id="printBtn">列印 / PDF</button>
-        <button class="btn primary" id="refreshBtn">立即更新</button>
+        <button class="btn primary" id="refreshBtn">重新載入資料</button>
       </div>
     </header>
 
@@ -48,7 +48,7 @@
       <span id="updatedText">最後更新：—</span>
       <span id="freshnessText">資料新鮮度：—</span>
       <span class="spacer"></span>
-      <span>每 60 分鐘自動更新</span>
+      <span>每 60 分鐘重新載入 GitHub 最新資料</span>
       <span id="nextRefresh">下次更新：—</span>
     </div>
 
@@ -89,7 +89,7 @@
     const REFRESH_MS=60*60*1000;
     const fallbackKey="ceo-dashboard-session-cache-v1";
     const marketOrder=["usd_twd","jpy_twd","eur_twd","gold_twd","brent","copper_3m","aluminium_3m"];
-    let nextAt=Date.now()+REFRESH_MS, timer;
+    let nextAt=Date.now()+REFRESH_MS, timer, lastLoadedAt="";
     const $=id=>document.getElementById(id);
     const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
     function safeUrl(value){try{const u=new URL(value);return["http:","https:"].includes(u.protocol)?u.href:""}catch{return""}}
@@ -120,7 +120,7 @@
     }
     async function load(silent=false){
       $("refreshBtn").disabled=true;
-      try{const r=await fetch(`./dashboard.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error(`HTTP ${r.status}`);const d=await r.json();render(d);if(!silent)toast("戰情室資料已更新")}
+      try{const r=await fetch(`./dashboard.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error(`HTTP ${r.status}`);const d=await r.json();const changed=Boolean(lastLoadedAt&&lastLoadedAt!==d.updated_at);lastLoadedAt=d.updated_at;render(d);if(!silent)toast(changed?"已載入 GitHub 的最新戰情資料":`已重新載入；資料來源尚無更新（最後資料：${new Date(d.updated_at).toLocaleString("zh-TW",{hour12:false})}）`)}
       catch(e){const cached=sessionStorage.getItem(fallbackKey);if(cached){render(JSON.parse(cached),true);toast("更新失敗，已切換至本次瀏覽快取")}else{$("healthText").textContent="資料載入失敗";$("healthDot").className="dot bad";toast("無法取得 dashboard.json，請由網站伺服器開啟")}}
       finally{$("refreshBtn").disabled=false;nextAt=Date.now()+REFRESH_MS}
     }
