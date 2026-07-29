@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-07-24T11:37:46+08:00",
+  "intel_updated_at": "2026-07-29T17:04:02+08:00",
   "intel_status": {
-    "state": "stale",
-    "collected": 3,
-    "message": "等待 GitHub Actions 首次更新 AI Cooling 公開情報。"
+    "state": "ok",
+    "collected": 12,
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -192,13 +192,6 @@
       "url": "https://www.coolitsystems.com/product/chx2000-cdu/"
     },
     {
-      "company": "Boyd",
-      "product": "ROL2300／ROL4000",
-      "move": "ROL2300 達 2.3 MW，採熱插拔 N+1 泵；ROL4000 依 OCP Deschutes 規格採無軸封 N+1 泵與雙路電源。",
-      "implication": "以可靠度、區域製造與 OCP 相容性切入 hyperscaler 及 colocation。",
-      "url": "https://www.boydcorp.com/about-boyd/resources/news-and-events/boyd-unveils-a-high-capacity-cdu.html"
-    },
-    {
       "company": "Vertiv",
       "product": "CoolChip CDU 350",
       "move": "擴充液對氣 CDU，整合補液泵，瞄準既有氣冷資料中心導入液冷的改造需求。",
@@ -206,43 +199,133 @@
       "url": "https://www.vertiv.com/497960/globalassets/products/thermal-management/high-density-solutions/vertiv-coolchip-cdu/vertiv-coolchip-cdu-350kw-data-sheet-sl-71957.pdf"
     },
     {
-      "company": "台達電子",
-      "product": "SuperCDU-1500",
-      "move": "布局 1.5 MW 液對液 CDU，並結合資料中心電力、機櫃與模組化基礎設施。",
-      "implication": "在亞洲供應鏈、電力電子與整體資料中心方案整合上具協同優勢。",
-      "url": "https://filecenter.deltaww.com/Products/download/07/070202/Catalogue/Leaflet_InfraSuite_L2L-CDU-1500_en_EIAIEI-10-JY.pdf"
+      "company": "Boyd",
+      "product": "ROL2300／ROL4000",
+      "move": "ROL2300 達 2.3 MW，採熱插拔 N+1 泵；ROL4000 依 OCP Deschutes 規格採無軸封 N+1 泵與雙路電源。",
+      "implication": "以可靠度、區域製造與 OCP 相容性切入 hyperscaler 及 colocation。",
+      "url": "https://www.boydcorp.com/about-boyd/resources/news-and-events/boyd-unveils-a-high-capacity-cdu.html"
     }
   ],
   "news": [
     {
-      "category": "液冷散熱",
-      "headline": "高功率 AI 機櫃推動直接液冷基礎設施升級",
-      "summary": "CDU、冷板、快接頭與泵浦的驗證及交付能力成為部署節奏關鍵。",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-07-24T08:30:00+08:00",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "category": "資料中心",
+      "headline": "Workhorse Group Plans Mobile AI Data Center - Work Truck Online",
+      "summary": "Workhorse Group Plans Mobile AI Data Center Work Truck Online",
+      "source": "Work Truck Online",
+      "published_at": "2026-07-29T07:35:31+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSU5iWDRWSUd4YTFJZFYwaDU3Rno0Y1pLRlk4TXR6SjdHb1pwOVZiRVVNa1A0ZEJENUdMTF9SQnF6MFl0N1Ffelg0VW95dXdlRXdfSmIzOVpLWHFRUm1Zb1JkMXdVMzRpYWdQaEhXeENvQk0xdFk1TUJsMThnelNETmF6X1R0UzQ?oc=5",
       "data_type": "live",
-      "data_label": "今日"
-    },
-    {
-      "category": "PCB／供應鏈",
-      "headline": "AI 工廠生態系擴大高階運算供應鏈需求",
-      "summary": "高階伺服器、交換器與冷卻系統規格升級，帶動關鍵零組件與製造夥伴投入。",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-07-24T07:40:00+08:00",
-      "url": "https://nvidianews.nvidia.com/news/computer-industry-ai-factories-data-centers",
-      "data_type": "delay",
-      "data_label": "彙整"
+      "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "液冷 AI 工廠降低大型資料中心冷卻能耗",
-      "summary": "液冷基礎建設將熱源直接帶離機櫃，是高密度 AI 資料中心提升能源效率的重要環節。",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-07-23T22:10:00+08:00",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "data_type": "close",
-      "data_label": "昨日"
+      "headline": "Workhorse Plans Mobile AI Data Centers at Its Indiana Plant - Stock Titan",
+      "summary": "Workhorse Plans Mobile AI Data Centers at Its Indiana Plant Stock Titan",
+      "source": "Stock Titan",
+      "published_at": "2026-07-28T21:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG5wRVQ3c2F2a0tRNkVmOVBuc3RoR1JiYnVBb2g5QXRGdkpiTzRoQUdTeHpfOGVhNWtpTk9UTm9yUHgtMU1WbFZQcTkwOTBEMERERi1uY1IweU5md2pCWFNPY0tfcDRIU3FzaWZRZ2V2a2dKV3dnajNSbTRraDlpaFIzX084SmFBOFlGYl9EVWJ3bkNrZDhlRjVYZFQtT0JTeHk3NXcyTEliUnhqLTRTSHA4MHRXd3JZX19vRzln?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Workhorse Group Announces Planned Entry into Mobile AI Data Center Category - Taiwan News",
+      "summary": "Workhorse Group Announces Planned Entry into Mobile AI Data Center Category Taiwan News",
+      "source": "Taiwan News",
+      "published_at": "2026-07-28T21:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tWjlOcXdCY2hHV0ZzRDNjb1Y2cHA0Ul9uaDllbkVUbDVuMGlLWTk3WGI0NXlKTzlydjVpVUxzcnVwc3Z5SWRSRWZMVmVZMVNKLUlMbE40UGI?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Rubix Data Centers to build US$1.14 billion AI facility in Catalonia - Indiatimes",
+      "summary": "Rubix Data Centers to build US$1.14 billion AI facility in Catalonia Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-07-28T17:38:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc1pvanBDQUh1cVQzQmFtQllsRm11NkdZV2g2d1ByYnV0bGVfSFRlNUdFRjVoZExzd2kxcHZoeDM2Rm94RVBDOFY0UnpJUTE0U2YyT1VSWjdYLWg0el84NDFGVF9xMVEyejhzc1FWeFMxY2FlMjJIUGRLUGpUYTd0RFVudUtnc3dYZXhHdjJybkFZQ2JWSnJQZ0o4QzhTVW1ISTlYSkwtX2FVQVMyZ2Zpck1RcUVuYzBocnAzT3FXZmxRM0NoT3psaWJtMXcxenVJQkEzeXdJNzR0a3dIb0FYOF9pLTRoWTYwbGRLTk53?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG wins Nvidia certification for AI data center cooling - 매일경제",
+      "summary": "LG wins Nvidia certification for AI data center cooling 매일경제",
+      "source": "매일경제",
+      "published_at": "2026-07-28T10:10:40+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HMFRKRjdlUGRJQUtPR25KcmlleTdYM0tJTHpJc1dZRllyWU1Zc1Y2VTZ4UDNPWUtabHZ3cTB6RmVSVUtMVDdjVkZSSEZVLU1fWXNSc2N5cw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "[Click eStocks] \"Otech's AI Data Center Cooling Solution Business on Track... Expected to Benefit from Samsung's Investment in Honam Region\" - 아시아경제",
+      "summary": "[Click eStocks] \"Otech's AI Data Center Cooling Solution Business on Track... Expected to Benefit from Samsung's Investment in Honam Region\" 아시아경제",
+      "source": "아시아경제",
+      "published_at": "2026-07-28T07:15:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wNzlkVHE2bFpjVDdlamNtSV8yQTRYX0dDT0FUNnlmbTJ1UXRpeDFjWVVLNlNEVE50MUMyUjJubDdUU0dPSlVmbUxIRVNCRHU5aTZJYTdPOWVVOWlBUUp4NkpGY3o?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "LG Electronics Secures NVIDIA Certification For Its Coolant Distribution Unit (CDU) - Canadian Manufacturing",
+      "summary": "LG Electronics Secures NVIDIA Certification For Its Coolant Distribution Unit (CDU) Canadian Manufacturing",
+      "source": "Canadian Manufacturing",
+      "published_at": "2026-07-28T00:22:58+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONHR5ZnZ0eFhGcURpdmhodFVwdm85THNFQUs5eHY2NG8xWUYxY2d6TndVM2Q5S1BCZzFNMWlVUE10amI5NF9pYmdhNVNGd292elpSOU5KMHBvNmhUR2Yzc1B0RHAzaVFCbDNVb1FIWlJESncxeDZQRmFSRkxrUVVWMTRnM042RU9DXzA1Y1R3X0FIYkVGTkpHcHptUG81TjdNc2xGZ1dFUnZnUjRDWm5lODRuRjlSeXZYWGg1LURRZjdSaVRIUWl1ajczOHRyODI1WXhadXlKajA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "A California data center has run for two years with no power line at all, making its own electricity from hydrogen and cooling its 1,800 GPUs with the water that drips out of the fuel cells, and it just ordered stacks for a bigger one - Autonocion.com",
+      "summary": "A California data center has run for two years with no power line at all, making its own electricity from hydrogen and cooling its 1,800 GPUs with the water that drips out of the fuel cells, and it just ordered stacks for a bigger one Autonocion.com",
+      "source": "Autonocion.com",
+      "published_at": "2026-07-27T23:00:34+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rVENHRHBtLVdtVDRpRkd2cXhjRjVVLUs2UE5wc1FsamdWdl9nNVVTeXpHbWx0SEEwVHlkQXFuY0R3OWZTSC1ERkltRnhhMGxPYy1McGJNajVnaVVHQ1dCZ3ozaUNTLWlYdkxNYXBkNDVoSDFMT0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit - LG Corp",
+      "summary": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit LG Corp",
+      "source": "LG Corp",
+      "published_at": "2026-07-27T23:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13bWRKRE9xLVdVVnRzRTJIanlyWERMVFZndVZxYkJTM0tQVlk0b0ZQaW55a3dTbW43V05LM1ZiRzF0VlB0QzFucWpOTG9oRmV0ZVI5al9LWUhlSFk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Chinese firm unveils full-chain battery defense for data centers - Interesting Engineering",
+      "summary": "Chinese firm unveils full-chain battery defense for data centers Interesting Engineering",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-27T21:49:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTF0cHEzUUtXc0NKaHFWVTRZZnBtdWRVQ2diTXFxS3dtQjFQdTktaVVVZU5EX2U3ckZMcjVCd3piUU1nUkpQcm9FTlFUYm1Kekc5T1lSTVZSWkVfQlJUdVRVcXF2T1NoU1V5WEhqRXpPS1IwR1VnZkFCOEVoY2VmVjNkM1lON1NjMGY1SG9YVmlrdGhvdGprQXB0WHk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "LG Electronics' liquid cooling solution receives NVIDIA certification - 매일경제",
+      "summary": "LG Electronics' liquid cooling solution receives NVIDIA certification 매일경제",
+      "source": "매일경제",
+      "published_at": "2026-07-27T16:35:42+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pOXV4ZWNPV2JwM01QNWpwS3dWTXU1UUwyd3dkS1dDMDVheGRWeUhwcld6RGtPX2dfOW1MbjRwUnU5LUlfZlFSU2JXMlJTLW1lakpJ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
+      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-07-27T15:50:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
     }
   ],
   "supply_chain": [
