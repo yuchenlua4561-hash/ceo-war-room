@@ -24,9 +24,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
       - name: Fetch, validate, and write dashboard data
         env:
           MARKET_API_KEY: ${{ secrets.MARKET_API_KEY }}
