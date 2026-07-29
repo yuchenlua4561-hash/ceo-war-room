@@ -47,6 +47,7 @@
       <strong id="healthText">正在載入資料…</strong>
       <span id="updatedText">最後更新：—</span>
       <span id="freshnessText">資料新鮮度：—</span>
+      <span id="intelFreshness">AI Cooling 情報：—</span>
       <span class="spacer"></span>
       <span>每 60 分鐘重新載入 GitHub 最新資料</span>
       <span id="nextRefresh">下次更新：—</span>
@@ -101,6 +102,8 @@
       const updated=new Date(data.updated_at), age=Date.now()-updated.getTime(), stale=age>REFRESH_MS*2;
       $("updatedText").textContent=`最後更新：${updated.toLocaleString("zh-TW",{hour12:false})}`;
       $("freshnessText").textContent=`資料新鮮度：${ageText(updated)}`;
+      const intelUpdated=new Date(data.intel_updated_at||data.updated_at), intelState=data.intel_status?.state||"unknown";
+      $("intelFreshness").textContent=`AI Cooling 情報：${ageText(intelUpdated)} · ${intelState==="ok"?"正常":intelState==="partial"?"部分來源可用":intelState==="fallback"?"顯示前次資料":"待更新"}`;
       $("healthText").textContent=fromCache?"即時來源失敗，顯示最近快取":stale?"資料已逾期":"資料正常";
       $("healthDot").className=`dot ${fromCache||stale?"bad":"ok"}`;
       $("summary").textContent=data.ceo_summary.headline;

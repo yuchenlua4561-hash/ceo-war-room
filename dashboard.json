@@ -1,6 +1,12 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
+  "intel_updated_at": "2026-07-24T11:37:46+08:00",
+  "intel_status": {
+    "state": "stale",
+    "collected": 3,
+    "message": "等待 GitHub Actions 首次更新 AI Cooling 公開情報。"
+  },
   "ceo_summary": {
     "stance": "審慎偏多",
     "headline": "匯市震盪有限，能源與工業金屬維持高檔；AI 資料中心資本支出仍支撐液冷、PCB 與電力基礎建設需求。",
