@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-07-30T18:04:52+08:00",
+  "intel_updated_at": "2026-07-31T00:09:38+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -209,9 +209,29 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "LG Electronics targets trillions as AI data center cooling orders surge - CHOSUNBIZ - Chosunbiz",
-      "summary": "LG Electronics targets trillions as AI data center cooling orders surge - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
+      "headline": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant - International Business Times",
+      "summary": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant International Business Times",
+      "source": "International Business Times",
+      "published_at": "2026-07-30T22:38:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1MzMGNmZFlTN2dLNWtSeDBhQXZBQzRxMnVFVDBuSWdWWk5wQnVORl82bkZiel9reDFJN1djQnpGN0dFejVwaGVFNjU2RFlZM01lSHRlMWtTVjZJNzUtMk52ZXJ0NG5UamlOVEp5bWR0Tlo1NzhORG1Jd2kxTEhKTmtxeFVMM0VIbGprckhjTQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Cooling Distribution Unit (CDU) Market Analysis Covering Liquid Cooling, CDU Technologies and Growth - openPR.com",
+      "summary": "Cooling Distribution Unit (CDU) Market Analysis Covering Liquid Cooling, CDU Technologies and Growth openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-07-30T20:35:32+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2JCRDFSek1lZXhmTFVTVDZKVmV0V0JoRFI4WDk4ZjByM1Qxbjgwd0d2WklBcW93b1FweUNtUWRYWUFCSWdYRTMtcGVMQ2NOWTY5eEZPLUhNR05kSFQtcGVDaHBWVWZDanl4WGdKZkJSdlllUVc2SmNKOVRwb3huX0pRZW5VUEhGOFVFVWRZaFdrNEYz?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Electronics targets trillions as AI data center cooling orders surge - CHOSUNBIZ - biz.chosun.com",
+      "summary": "LG Electronics targets trillions as AI data center cooling orders surge - CHOSUNBIZ biz.chosun.com",
+      "source": "biz.chosun.com",
       "published_at": "2026-07-30T15:15:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jQmJuYkVXV2JIS09jWnM0Nk5QQ2k1aEJsRTlSYnUzM0QzamE0YmlqWDZEMld6ZVc0RGs0dTdnU0pfY28zdDhuS1lzZzNCd05BTUtJVG51X3FYNDNPWWlMcHVZazFlV0xqNDFvcnp4ZkhaMFp1aGlPQmFn0gGOAUFVX3lxTE8wSmtQbGZfQU4tQzNpekRGT3Q3UHU1SWpJSnJPSDFxX1NIdFgzSk91aF82cmxzaGhwSExiYkpqQUM3OHFGVjRLS3dEWDNQdmhfLXI5bGhpY1Q3cWk2ajdoYi1QbmFYT3lkNnkweGMyc2NYU2EwazVyV3ZlUGd2SklyTHVFSU0tVWR1SkRhV3c?oc=5",
       "data_type": "live",
@@ -219,9 +239,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers - Indiatimes",
-      "summary": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers Indiatimes",
-      "source": "Indiatimes",
+      "headline": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers - datacenters.economictimes.indiatimes.com",
+      "summary": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers datacenters.economictimes.indiatimes.com",
+      "source": "datacenters.economictimes.indiatimes.com",
       "published_at": "2026-07-30T12:09:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWC1talZrb0wyQlhRTG5GZlkyRGhoVExkTGNEY3Q4MElzcFYxSGxqeXJIZHJzVURlOVhoczNzNHJQYTRQOFJUN3otY0wtb1BHd2hMUHpfZEk2Znk3STk3RzlvQWd0Y0Z5Ym9wNWY0S0Jpd29ZSm0wZlJNZW1ZVDMxNnd3Ujc0WW53U0JmUTRRMUR6OU1za2pJczZqc3Z1NlhWQkJyLTEybVg5enhiOXFTLURNMVN2ekxoOVZVWU84NVpoSDRvTThjUGZFNHBIZkpUMlVRcnVKVHRZWEljUXRlZWd4bXFzWUxlT2NvcVcwQXo?oc=5",
       "data_type": "live",
@@ -278,6 +298,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "The Data Center Boom Has a Component Problem - Supply Chain Brain",
+      "summary": "The Data Center Boom Has a Component Problem Supply Chain Brain",
+      "source": "Supply Chain Brain",
+      "published_at": "2026-07-29T15:09:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSm56eVlER3hwM1pZVXBaYWVKT3FLWmJjMFFUYjNRUEJXWkVvSWhGN3laRDZ6ek9zZThFdjdHT29kbXUtTjZrV1pJNDBCMjZBT2N0aXZDTFcza2ZCLWZlWUFIWlBJV1RzMC1rOFM3b2pXOTVWLTIzYzNYUnpUaGZ3Z3ZuRnRma2tiVXgyWTJ4dnpVVy11WnViNzVSX2ttdnVLeHJBNjhMREpWcm8?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "LG Electronics secures Nvidia certification for liquid cooling solution - Telecompaper",
       "summary": "LG Electronics secures Nvidia certification for liquid cooling solution Telecompaper",
@@ -289,41 +319,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Workhorse Plans Mobile AI Data Centers at Its Indiana Plant - Stock Titan",
-      "summary": "Workhorse Plans Mobile AI Data Centers at Its Indiana Plant Stock Titan",
-      "source": "Stock Titan",
-      "published_at": "2026-07-28T21:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG5wRVQ3c2F2a0tRNkVmOVBuc3RoR1JiYnVBb2g5QXRGdkpiTzRoQUdTeHpfOGVhNWtpTk9UTm9yUHgtMU1WbFZQcTkwOTBEMERERi1uY1IweU5md2pCWFNPY0tfcDRIU3FzaWZRZ2V2a2dKV3dnajNSbTRraDlpaFIzX084SmFBOFlGYl9EVWJ3bkNrZDhlRjVYZFQtT0JTeHk3NXcyTEliUnhqLTRTSHA4MHRXd3JZX19vRzln?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints",
-      "summary": "AI is changing how data centers are planned, focusing more on where compute can realistically be deployed than on how much can be added. As data center power density grows, cooling, electrical infrastructure, and utility access have become one interconnected c",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-07-28T20:00:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/07/28/data-center-power-density-planning-liquid-cooled-ai-data-centers-around-grid-and-power-constraints/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Rubix Data Centers to build US$1.14 billion AI facility in Catalonia - Indiatimes",
-      "summary": "Rubix Data Centers to build US$1.14 billion AI facility in Catalonia Indiatimes",
-      "source": "Indiatimes",
-      "published_at": "2026-07-28T17:38:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc1pvanBDQUh1cVQzQmFtQllsRm11NkdZV2g2d1ByYnV0bGVfSFRlNUdFRjVoZExzd2kxcHZoeDM2Rm94RVBDOFY0UnpJUTE0U2YyT1VSWjdYLWg0el84NDFGVF9xMVEyejhzc1FWeFMxY2FlMjJIUGRLUGpUYTd0RFVudUtnc3dYZXhHdjJybkFZQ2JWSnJQZ0o4QzhTVW1ISTlYSkwtX2FVQVMyZ2Zpck1RcUVuYzBocnAzT3FXZmxRM0NoT3psaWJtMXcxenVJQkEzeXdJNzR0a3dIb0FYOF9pLTRoWTYwbGRLTk53?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG wins Nvidia certification for AI data center cooling - 매일경제",
-      "summary": "LG wins Nvidia certification for AI data center cooling 매일경제",
-      "source": "매일경제",
-      "published_at": "2026-07-28T10:10:40+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HMFRKRjdlUGRJQUtPR25KcmlleTdYM0tJTHpJc1dZRllyWU1Zc1Y2VTZ4UDNPWUtabHZ3cTB6RmVSVUtMVDdjVkZSSEZVLU1fWXNSc2N5cw?oc=5",
+      "headline": "LG Secures NVIDIA Validation for 600kW AI Cooling Unit - datacenters.economictimes.indiatimes.com",
+      "summary": "LG Secures NVIDIA Validation for 600kW AI Cooling Unit datacenters.economictimes.indiatimes.com",
+      "source": "datacenters.economictimes.indiatimes.com",
+      "published_at": "2026-07-28T22:41:28+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWxjMjdCV1d1QVVCY3ByZDMyc0lJdGdYVXp2NTFBSTFSalBTRTdiODdFdVowNF9KTEpFRHRpdE5xMUgxVl9mTVlsVy16cXRxMTFuQlY3ME9pVXU0N1FXajc0UGxhVFpNaXg0Qkk4UzJYUjhOaXo4YmY3bnpKcU03RUlabGc4VFpSbjczOVJXMmJaUjJfRE45YXU5NnA2cGk0Wk9ta0VqckFHVEVkaXAyY3FKNHBxdzNfMHp6N3dxLTM4SnI5MnppMC1vS1d6Y0N6UnZBeFVsTnloNDRyMFJfZ3Nn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
