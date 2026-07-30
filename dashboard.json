@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-07-30T08:15:47+08:00",
+  "intel_updated_at": "2026-07-30T18:04:52+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -209,19 +209,49 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "AI Demands Push Data Center Power Density, Grid Limits - Indiatimes",
-      "summary": "AI Demands Push Data Center Power Density, Grid Limits Indiatimes",
-      "source": "Indiatimes",
-      "published_at": "2026-07-29T23:38:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1Z0c3JwYTlnemtDN1N5Vi0xY2JqMG5BcjNqWURVQlhDVVNuUHp0d1hTY1VLdGd6c2hZVVBXSXVSczZnVGJaNmxxSXBnMURrbUFudElMSy1wS3FnVXR1aWl2LThWT3FOWGVqV3lVUU9ZY1N3ZXprUEVDdk1fRzB4bnoxN0tNdktjaURfbnhPdzA4alJTdFhWWUJkOGtTdEc4cjYta3QtQS12OTFwcWlBMVpWX2VLNVFuRHBvcGNCeWZkdC1EMDR4T2ZxaVZQNmFlZzRjRWsxQlpZQVM3U2d2Mg?oc=5",
+      "headline": "LG Electronics targets trillions as AI data center cooling orders surge - CHOSUNBIZ - Chosunbiz",
+      "summary": "LG Electronics targets trillions as AI data center cooling orders surge - CHOSUNBIZ Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-07-30T15:15:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jQmJuYkVXV2JIS09jWnM0Nk5QQ2k1aEJsRTlSYnUzM0QzamE0YmlqWDZEMld6ZVc0RGs0dTdnU0pfY28zdDhuS1lzZzNCd05BTUtJVG51X3FYNDNPWWlMcHVZazFlV0xqNDFvcnp4ZkhaMFp1aGlPQmFn0gGOAUFVX3lxTE8wSmtQbGZfQU4tQzNpekRGT3Q3UHU1SWpJSnJPSDFxX1NIdFgzSk91aF82cmxzaGhwSExiYkpqQUM3OHFGVjRLS3dEWDNQdmhfLXI5bGhpY1Q3cWk2ajdoYi1QbmFYT3lkNnkweGMyc2NYU2EwazVyV3ZlUGd2SklyTHVFSU0tVWR1SkRhV3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints - datacenterdynamics.com",
-      "summary": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers - Indiatimes",
+      "summary": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-07-30T12:09:40+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWC1talZrb0wyQlhRTG5GZlkyRGhoVExkTGNEY3Q4MElzcFYxSGxqeXJIZHJzVURlOVhoczNzNHJQYTRQOFJUN3otY0wtb1BHd2hMUHpfZEk2Znk3STk3RzlvQWd0Y0Z5Ym9wNWY0S0Jpd29ZSm0wZlJNZW1ZVDMxNnd3Ujc0WW53U0JmUTRRMUR6OU1za2pJczZqc3Z1NlhWQkJyLTEybVg5enhiOXFTLURNMVN2ekxoOVZVWU84NVpoSDRvTThjUGZFNHBIZkpUMlVRcnVKVHRZWEljUXRlZWd4bXFzWUxlT2NvcVcwQXo?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Ajou University will develop artificial intelligence (AI) data center thermal management technology - 매일경제",
+      "summary": "Ajou University will develop artificial intelligence (AI) data center thermal management technology 매일경제",
+      "source": "매일경제",
+      "published_at": "2026-07-30T11:44:56+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcnZuM3ZsZXpZN0cxZEt2TjJPM0t6eHItYVg3d0RHU3kzbHB6WUpSWWxlOEFwMWpaemhiYTBnZi0zM2Jhd0JVNW9oMW5Sdjk4RHc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data Center Supply Chains Emerge as AI Buildout’s Third Chokepoint, Survey Finds - Tech Times",
+      "summary": "Data Center Supply Chains Emerge as AI Buildout’s Third Chokepoint, Survey Finds Tech Times",
+      "source": "Tech Times",
+      "published_at": "2026-07-30T09:20:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjFkMFByODg5aGtmU2FKYWx0TEZxMlh0VTh3aUJPeFl2dlVRWFZzMEN4VVIxOVRaSW9OUTlFclNuazk3X0tRem1XbERRMjN0N2tmOEdLZmRTV3Q1VjN2ajlydHRYR2xkbE1LX2FONTFqclVySXFOMVJjRnZFZV9rVnZHOUp0Mm03ZjVzUnY0ZGJaM3pkNkNkbklhV1JvSW00a2VZeXBiSC04MkdsVTg2RVh0NW82UmhCQ3d2XzhHcENkd0VmUS1NMFJB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints - Data Center Dynamics",
+      "summary": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-07-29T23:02:12+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSThobWhDU1AwQ241dGZOcm94c29GaGlYMG1uWm14UEVBT2dadDhFMXhLM0pUU1VxbUNPS21pYVlibHkzWWZjTjdCNjM4SjAxelFxMlhlREpiR01kbTVkM3dYMG1NVGZQSGk1ZVd5ejA5a2ZsNFdIYl9qLWU2N3ZNaTdQcHlKQ25RN084UDMyR0FDbnRuQngydG5ZLU80LUhid05jNThVWlJXSDhqQlRweGxuSDEwUi1wcV81ZW9MTy1TWVpuX0pXYU55QjhuaXAxREluNTcxRkFGeThhcUNF?oc=5",
       "data_type": "live",
@@ -269,16 +299,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "Workhorse Group Announces Planned Entry into Mobile AI Data Center Category - Taiwan News",
-      "summary": "Workhorse Group Announces Planned Entry into Mobile AI Data Center Category Taiwan News",
-      "source": "Taiwan News",
-      "published_at": "2026-07-28T21:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tWjlOcXdCY2hHV0ZzRDNjb1Y2cHA0Ul9uaDllbkVUbDVuMGlLWTk3WGI0NXlKTzlydjVpVUxzcnVwc3Z5SWRSRWZMVmVZMVNKLUlMbE40UGI?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Data center power density: Planning liquid-cooled AI data centers around grid and power constraints",
       "summary": "AI is changing how data centers are planned, focusing more on where compute can realistically be deployed than on how much can be added. As data center power density grows, cooling, electrical infrastructure, and utility access have become one interconnected c",
       "source": "Schneider Electric Blog",
@@ -304,26 +324,6 @@
       "source": "매일경제",
       "published_at": "2026-07-28T10:10:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HMFRKRjdlUGRJQUtPR25KcmlleTdYM0tJTHpJc1dZRllyWU1Zc1Y2VTZ4UDNPWUtabHZ3cTB6RmVSVUtMVDdjVkZSSEZVLU1fWXNSc2N5cw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "[Click eStocks] \"Otech's AI Data Center Cooling Solution Business on Track... Expected to Benefit from Samsung's Investment in Honam Region\" - 아시아경제",
-      "summary": "[Click eStocks] \"Otech's AI Data Center Cooling Solution Business on Track... Expected to Benefit from Samsung's Investment in Honam Region\" 아시아경제",
-      "source": "아시아경제",
-      "published_at": "2026-07-28T07:15:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wNzlkVHE2bFpjVDdlamNtSV8yQTRYX0dDT0FUNnlmbTJ1UXRpeDFjWVVLNlNEVE50MUMyUjJubDdUU0dPSlVmbUxIRVNCRHU5aTZJYTdPOWVVOWlBUUp4NkpGY3o?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "LG Electronics Secures NVIDIA Certification For Its Coolant Distribution Unit (CDU) - Canadian Manufacturing",
-      "summary": "LG Electronics Secures NVIDIA Certification For Its Coolant Distribution Unit (CDU) Canadian Manufacturing",
-      "source": "Canadian Manufacturing",
-      "published_at": "2026-07-28T00:22:58+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONHR5ZnZ0eFhGcURpdmhodFVwdm85THNFQUs5eHY2NG8xWUYxY2d6TndVM2Q5S1BCZzFNMWlVUE10amI5NF9pYmdhNVNGd292elpSOU5KMHBvNmhUR2Yzc1B0RHAzaVFCbDNVb1FIWlJESncxeDZQRmFSRkxrUVVWMTRnM042RU9DXzA1Y1R3X0FIYkVGTkpHcHptUG81TjdNc2xGZ1dFUnZnUjRDWm5lODRuRjlSeXZYWGg1LURRZjdSaVRIUWl1ajczOHRyODI1WXhadXlKajA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
