@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-07-31T04:48:09+08:00",
+  "intel_updated_at": "2026-07-31T16:11:16+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -195,8 +195,8 @@
       "company": "Vertiv",
       "product": "資料中心",
       "move": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth - The Globe and Mail",
-      "implication": "公開情報更新於 2026-07-30T23:15:20+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcU1IRmthNzltbEo2aExYc19TOVItMXFoUUFkazJhYXZRcW9xS1oyTUVueUtQLXN4cVNiMzlzSWJEdDRtM2lNTk1rVXRVblJzdkpSeXM0VnJsblhSWXp4MENwdUMzdjRUdHdDQlBJbEdPNlpCQzJvbWJ6OEZSeG52SGNJcm9MdGJCMWJKbENLN3VJeXVTVE9EOG9OOVFPU251ZVBLVXM5M3pxWWVJTVhUTGtJS2ZWQWRvek5QSVNidTBTOGtBZDJwWDA4Q0tpcGVPQlpOMGpkZw?oc=5"
+      "implication": "公開情報更新於 2026-07-30T23:14:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON2pHanozQlFzaE9kM2hBT3ZPcFVwbzFnRzlyU2ZmYk4yd3FuZjZ6d1BGWVRfMm9RRUsxd0xwQ2JZN3BRRklWU2Q0RExoZi1jYjh3U3VSYlRLUjBqYlpXY3B0RXluSWJJTWtmQm0ybXYtU3hZTnk4b3A3NXRId3RzWDhhTFFGaXdub1E5d3FRQTl1bWhfNk9tUlhYc3pybkV4N0ZtS3RhUHJmblB0UEdQeWEwTjRwR25BQjVyOGxMMUVWaXBCclB6OG5PNktiSmRvbGdmekJ0ZlV4UQ?oc=5"
     },
     {
       "company": "Boyd",
@@ -206,28 +206,55 @@
       "url": "https://www.boydcorp.com/about-boyd/resources/news-and-events/boyd-unveils-a-high-capacity-cdu.html"
     },
     {
+      "company": "Delta Electronics",
+      "product": "資料中心",
+      "move": "Delta Electronics raises AI revenue outlook as data center demand strengthens - Taiwan News",
+      "implication": "公開情報更新於 2026-07-31T14:05:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UMXAxWS1VenZtWDc0TDFhWGZBVGVZcG9oaE5KRnpPd18tWUVVbE53aHBrdEl5Y2FVdnVhalEzak03ckxMbkxqU1VIWWFScEk1NllOMXBreXI?oc=5"
+    },
+    {
       "company": "Johnson Controls",
       "product": "資料中心",
       "move": "Johnson Controls Says AI Factory Cooling Design Can Slash Power Needs by 44% - finance.biggo.com",
-      "implication": "公開情報更新於 2026-07-31T03:40:53+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "implication": "公開情報更新於 2026-07-31T03:35:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTENUTnJVTERfSHp0SVRYZ3RjeUU2WWtHT29LeVZMYjJIMnRnbmJvQ0tFMTJOLXVRS1lfdTJfLURrVDFENGtqTkoxOWxSSTVHd1g5NEpEODlIVV9lT3U4UFNYUnNjWThMR1VZZG1vcFY1Z3Q5Z2c?oc=5"
     }
   ],
   "news": [
     {
       "category": "資料中心",
+      "headline": "Delta Electronics raises AI revenue outlook as data center demand strengthens - Taiwan News",
+      "summary": "Delta Electronics raises AI revenue outlook as data center demand strengthens Taiwan News",
+      "source": "Taiwan News",
+      "published_at": "2026-07-31T14:05:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UMXAxWS1VenZtWDc0TDFhWGZBVGVZcG9oaE5KRnpPd18tWUVVbE53aHBrdEl5Y2FVdnVhalEzak03ckxMbkxqU1VIWWFScEk1NllOMXBreXI?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Supermicro launches high-density AI data center racks with liquid cooling for faster deployment and lower costs - Pluang",
+      "summary": "Supermicro launches high-density AI data center racks with liquid cooling for faster deployment and lower costs Pluang",
+      "source": "Pluang",
+      "published_at": "2026-07-31T05:10:18+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1k3blk0QXBiUm5DWnV3OTAyNThSZkpVSWF2eVV6UkJ2OHRDMmdGN0psWTJSb2RQRXNiQy1pWm5JRkJUcFhJSm45QXlzQ09Cc1VST1BGMko1YUxlX3FVMFl1QkdJVzZYanRralp2al9adkdYODVVdndHbzZmc2wwclFiYl9nSjU2Tk0zOWRESlFaSnhCSXZrazVuZ0dvZmtrZGZESi1ETGZZQ1RSZ3c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Johnson Controls Says AI Factory Cooling Design Can Slash Power Needs by 44% - finance.biggo.com",
       "summary": "Johnson Controls Says AI Factory Cooling Design Can Slash Power Needs by 44% finance.biggo.com",
       "source": "finance.biggo.com",
-      "published_at": "2026-07-31T03:40:53+08:00",
+      "published_at": "2026-07-31T03:35:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTENUTnJVTERfSHp0SVRYZ3RjeUU2WWtHT29LeVZMYjJIMnRnbmJvQ0tFMTJOLXVRS1lfdTJfLURrVDFENGtqTkoxOWxSSTVHd1g5NEpEODlIVV9lT3U4UFNYUnNjWThMR1VZZG1vcFY1Z3Q5Z2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Johnson Controls touts absorption chillers for lower data center energy demand - Facilities Dive",
-      "summary": "Johnson Controls touts absorption chillers for lower data center energy demand Facilities Dive",
+      "headline": "Johnson Controls touts absorption chillers to cut data center energy demand - Facilities Dive",
+      "summary": "Johnson Controls touts absorption chillers to cut data center energy demand Facilities Dive",
       "source": "Facilities Dive",
       "published_at": "2026-07-31T00:39:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGdwajZNamRsdVV0ZzZ1NTRZY2tjc1daQ2x6ekZzSnA1QnowaU1DaHg4ZGNUYVFjYzFMbFF4VWcyUHhwU1ZvMFRIMzZoYk5XanNLMjA3bEdMdmtoVFNsYmxkSExNSmZVY29CRGNHcURfTnE4TldwY0tKMmJWN2Q5WmpYWFJrbWkwRHExMFBDdEYtLWxrcTN1NTJaVTJiVFpuYlFPa0ZXaFdLVEMtWUFIbG91Yl9XRHZuTDA0?oc=5",
@@ -239,8 +266,8 @@
       "headline": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth - The Globe and Mail",
       "summary": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth The Globe and Mail",
       "source": "The Globe and Mail",
-      "published_at": "2026-07-30T23:15:20+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcU1IRmthNzltbEo2aExYc19TOVItMXFoUUFkazJhYXZRcW9xS1oyTUVueUtQLXN4cVNiMzlzSWJEdDRtM2lNTk1rVXRVblJzdkpSeXM0VnJsblhSWXp4MENwdUMzdjRUdHdDQlBJbEdPNlpCQzJvbWJ6OEZSeG52SGNJcm9MdGJCMWJKbENLN3VJeXVTVE9EOG9OOVFPU251ZVBLVXM5M3pxWWVJTVhUTGtJS2ZWQWRvek5QSVNidTBTOGtBZDJwWDA4Q0tpcGVPQlpOMGpkZw?oc=5",
+      "published_at": "2026-07-30T23:14:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON2pHanozQlFzaE9kM2hBT3ZPcFVwbzFnRzlyU2ZmYk4yd3FuZjZ6d1BGWVRfMm9RRUsxd0xwQ2JZN3BRRklWU2Q0RExoZi1jYjh3U3VSYlRLUjBqYlpXY3B0RXluSWJJTWtmQm0ybXYtU3hZTnk4b3A3NXRId3RzWDhhTFFGaXdub1E5d3FRQTl1bWhfNk9tUlhYc3pybkV4N0ZtS3RhUHJmblB0UEdQeWEwTjRwR25BQjVyOGxMMUVWaXBCclB6OG5PNktiSmRvbGdmekJ0ZlV4UQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -276,26 +303,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers - Indiatimes",
-      "summary": "South Korea Forms Public-Private Alliance for 18.4 GW AI Data Centers Indiatimes",
-      "source": "Indiatimes",
-      "published_at": "2026-07-30T12:09:40+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWC1talZrb0wyQlhRTG5GZlkyRGhoVExkTGNEY3Q4MElzcFYxSGxqeXJIZHJzVURlOVhoczNzNHJQYTRQOFJUN3otY0wtb1BHd2hMUHpfZEk2Znk3STk3RzlvQWd0Y0Z5Ym9wNWY0S0Jpd29ZSm0wZlJNZW1ZVDMxNnd3Ujc0WW53U0JmUTRRMUR6OU1za2pJczZqc3Z1NlhWQkJyLTEybVg5enhiOXFTLURNMVN2ekxoOVZVWU84NVpoSDRvTThjUGZFNHBIZkpUMlVRcnVKVHRZWEljUXRlZWd4bXFzWUxlT2NvcVcwQXo?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Ajou University will develop artificial intelligence (AI) data center thermal management technology - 매일경제",
-      "summary": "Ajou University will develop artificial intelligence (AI) data center thermal management technology 매일경제",
-      "source": "매일경제",
-      "published_at": "2026-07-30T11:44:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tcnZuM3ZsZXpZN0cxZEt2TjJPM0t6eHItYVg3d0RHU3kzbHB6WUpSWWxlOEFwMWpaemhiYTBnZi0zM2Jhd0JVNW9oMW5Sdjk4RHc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Data Center Supply Chains Emerge as AI Buildout’s Third Chokepoint, Survey Finds - Tech Times",
       "summary": "Data Center Supply Chains Emerge as AI Buildout’s Third Chokepoint, Survey Finds Tech Times",
       "source": "Tech Times",
@@ -316,21 +323,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "AI's Trillion-Dollar Infrastructure Buildout is Fueling the Next Wave of Data Center Investment Opportunities - PR Newswire",
-      "summary": "AI's Trillion-Dollar Infrastructure Buildout is Fueling the Next Wave of Data Center Investment Opportunities PR Newswire",
-      "source": "PR Newswire",
-      "published_at": "2026-07-29T20:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUjFRdVdxRkdJZzNVSVJReEhnU01mcE40YnZSTExud2NPckJibFFpdjVvU0RzbWRLanllQVZ1YnBHVjlOb2xJVlhYcEtyRGZ1dmsyWm1najV5LWdWM0htd3hEMjNDZlRNNG5kaF9LcUt1MGI1RmVrcmlaWFBtRHJnNXZXdGs0d010S3JxY2c5TGRCZFUxZ1RRaHN3b2JTT0Fud3BXNU5OWm9yOXM3Q1RWeWgycW43Z2FsOGpQMGgwNG91MDlFcHdjZnQwLXJSd0t5elZXQ3IwRWpYT0hrM0R5cXdDUEQ1ZlUtdWZJZnlocllybWxGRHRv?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Fast-track AI growth with a modular data center approach",
       "summary": "In the race to build AI data center capacity, technology matters, but the real differentiator is how quickly you can scale. The challenge isn’t just innovation; it’s keeping pace with accelerating AI demand. Data center operators and hyperscalers need scale, q",
       "source": "Schneider Electric Blog",
       "published_at": "2026-07-29T19:00:00+08:00",
       "url": "https://blog.se.com/datacenter/2026/07/29/fast-track-ai-growth-with-a-modular-data-center-approach/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The Data Center Boom Has a Component Problem - Supply Chain Brain",
+      "summary": "The Data Center Boom Has a Component Problem Supply Chain Brain",
+      "source": "Supply Chain Brain",
+      "published_at": "2026-07-29T15:09:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSm56eVlER3hwM1pZVXBaYWVKT3FLWmJjMFFUYjNRUEJXWkVvSWhGN3laRDZ6ek9zZThFdjdHT29kbXUtTjZrV1pJNDBCMjZBT2N0aXZDTFcza2ZCLWZlWUFIWlBJV1RzMC1rOFM3b2pXOTVWLTIzYzNYUnpUaGZ3Z3ZuRnRma2tiVXgyWTJ4dnpVVy11WnViNzVSX2ttdnVLeHJBNjhMREpWcm8?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
