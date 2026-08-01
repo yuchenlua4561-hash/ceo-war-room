@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-01T04:51:16+08:00",
+  "intel_updated_at": "2026-08-01T08:15:17+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -222,17 +222,27 @@
     {
       "company": "Johnson Controls",
       "product": "資料中心",
-      "move": "Johnson Controls touts absorption chillers to cut data center energy demand - facilitiesdive.com",
+      "move": "Johnson Controls touts absorption chillers to cut data center energy demand - Facilities Dive",
       "implication": "公開情報更新於 2026-07-31T00:39:08+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGdwajZNamRsdVV0ZzZ1NTRZY2tjc1daQ2x6ekZzSnA1QnowaU1DaHg4ZGNUYVFjYzFMbFF4VWcyUHhwU1ZvMFRIMzZoYk5XanNLMjA3bEdMdmtoVFNsYmxkSExNSmZVY29CRGNHcURfTnE4TldwY0tKMmJWN2Q5WmpYWFJrbWkwRHExMFBDdEYtLWxrcTN1NTJaVTJiVFpuYlFPa0ZXaFdLVEMtWUFIbG91Yl9XRHZuTDA0?oc=5"
     }
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Castrol Diversifies into Liquid Cooling for AI Data Centres - Indiatimes",
+      "summary": "Castrol Diversifies into Liquid Cooling for AI Data Centres Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-08-01T07:36:17+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWG9TQWFIU2lJRHc1dzE5eW01aE5mSUFlVG1Yd0tCanlocExoNWxRVG1ZVUdQRkRmaGM5QUkxTUYxRzFhc0FNbDgxYnYydk1ZTFNXV2pnSjRWRUYyOGxsaDB5R1hYMlk4c1M0TG5qckp0ajBfMU9aMEZpbWFaRk11a1JaVDhWQzNQU1ZqQ2tJb29Yc2VKZWZFNVFPaC1Vb0lDeVBZb1hEdUFFZmdSRncwbFBkWTVQNThZUTNsdm5YT2hWWE9TMTZ4Rm9Ca1dJc1VpSVhMdWkyWWxUOERiVHBuRkZMcm9SN0t1?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
-      "headline": "Data Center Congestion Meets Rising GPU Rates - StartupHub.ai",
-      "summary": "Data Center Congestion Meets Rising GPU Rates StartupHub.ai",
-      "source": "StartupHub.ai",
+      "headline": "Data Center Congestion Meets Rising GPU Rates - startuphub.ai",
+      "summary": "Data Center Congestion Meets Rising GPU Rates startuphub.ai",
+      "source": "startuphub.ai",
       "published_at": "2026-08-01T02:12:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWU4cjhHME0zS1JXNy12R1hvSjQwVGVYWDZGek8xeXNmMkVKRjlob1dVT0haV0h1WHJpTEl6aVJGOUJKOG5FdE15UThiMHkyRGFCVFVuOW4wSzExTVVUS18tSDFkMzdXd19UR3NIM1U2Zkk2SDZ6RHpKV3drUlhiSEVzTmZ0NWhyMlAwNU1WVWtPYjFzS0lHbTJEWHFSR09a?oc=5",
       "data_type": "live",
@@ -270,9 +280,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions - quiverquant.com",
-      "summary": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions quiverquant.com",
-      "source": "quiverquant.com",
+      "headline": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions - Quiver Quantitative",
+      "summary": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "published_at": "2026-07-31T18:20:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGM2SG1yem5fZGJwWlJQMTVuMER0alZldmxfb1FVRXZHcTRFbUVsWElxcVRSZ3diWmxLSTRJQXBBZFpqR0I2dE9QcG1VdDRyUUFGbTFBaEstR0ZCLVBXc1BoTTY4TlJwNkt3Y2JiTnlRYU9OUGpjM2hFRkxZdEdSaGtoVFpXQTJfVHdLWUNWZFVNNGVVZl9jeWJuOGFWeEdHRzJwUkZnNWw5c2J5Qmc2UmlyYWNKRTJrTTFKZ3Rkcw?oc=5",
       "data_type": "live",
@@ -280,11 +290,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent Expands Data Center Liquid Cooling Capacity - Yahoo Finance",
-      "summary": "nVent Expands Data Center Liquid Cooling Capacity Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "nVent Expands Data Center Liquid Cooling Capacity - GlobeNewswire",
+      "summary": "nVent Expands Data Center Liquid Cooling Capacity GlobeNewswire",
+      "source": "GlobeNewswire",
       "published_at": "2026-07-31T18:15:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2wyVWVVZUxGQW1XNnktaEJ6cHNpRDZ5Z1ZRMWZwc2NQSkdCTTJPZlp4Y0hERUl5UFU5a2hZQmhKeWMxNlJRNmNINWdhZTZMWGQ4NGxWWUNiMkRzN1BEUFpWaDVpckJWc0V4eFVTLWMtMzVzdDcwc3ViblgwSUx1bk04QTVXU0RLM0FGdXc0WTNOR2pTc2xwY0JMT3M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTVaeUUyV2lZcFJ6RWNNUEt4ZlJMNE9rdlFWZlNaQl9CclZkTDJBTmp5OFJLWnZqQjdYVGhmY2JZNDVRaTNsSXM3Z1FKLWxfMTQ3SXlKR25TZS1qOS1IYlVLVEVpZ0todDFteTlSNWhYRHB3WmY1WWRiZzhhVzNvWk1xaTByU2JuLVI3T0V3UnNYOTNRZ3gwRmFMUTluSHkwWVZ5dndnbi05MWRvekY0T1hxLUx0d080NHN5Zk9n?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -310,9 +320,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Johnson Controls touts absorption chillers to cut data center energy demand - facilitiesdive.com",
-      "summary": "Johnson Controls touts absorption chillers to cut data center energy demand facilitiesdive.com",
-      "source": "facilitiesdive.com",
+      "headline": "Johnson Controls touts absorption chillers to cut data center energy demand - Facilities Dive",
+      "summary": "Johnson Controls touts absorption chillers to cut data center energy demand Facilities Dive",
+      "source": "Facilities Dive",
       "published_at": "2026-07-31T00:39:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGdwajZNamRsdVV0ZzZ1NTRZY2tjc1daQ2x6ekZzSnA1QnowaU1DaHg4ZGNUYVFjYzFMbFF4VWcyUHhwU1ZvMFRIMzZoYk5XanNLMjA3bEdMdmtoVFNsYmxkSExNSmZVY29CRGNHcURfTnE4TldwY0tKMmJWN2Q5WmpYWFJrbWkwRHExMFBDdEYtLWxrcTN1NTJaVTJiVFpuYlFPa0ZXaFdLVEMtWUFIbG91Yl9XRHZuTDA0?oc=5",
       "data_type": "live",
@@ -330,21 +340,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant - jp.ibtimes.com",
-      "summary": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant jp.ibtimes.com",
-      "source": "jp.ibtimes.com",
+      "headline": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant - International Business Times",
+      "summary": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant International Business Times",
+      "source": "International Business Times",
       "published_at": "2026-07-30T22:38:52+08:00",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1MzMGNmZFlTN2dLNWtSeDBhQXZBQzRxMnVFVDBuSWdWWk5wQnVORl82bkZiel9reDFJN1djQnpGN0dFejVwaGVFNjU2RFlZM01lSHRlMWtTVjZJNzUtMk52ZXJ0NG5UamlOVEp5bWR0Tlo1NzhORG1Jd2kxTEhKTmtxeFVMM0VIbGprckhjTQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Cooling Distribution Unit (CDU) Market Analysis Covering Liquid Cooling, CDU Technologies and Growth - openPR.com",
-      "summary": "Cooling Distribution Unit (CDU) Market Analysis Covering Liquid Cooling, CDU Technologies and Growth openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-07-30T20:35:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2JCRDFSek1lZXhmTFVTVDZKVmV0V0JoRFI4WDk4ZjByM1Qxbjgwd0d2WklBcW93b1FweUNtUWRYWUFCSWdYRTMtcGVMQ2NOWTY5eEZPLUhNR05kSFQtcGVDaHBWVWZDanl4WGdKZkJSdlllUVc2SmNKOVRwb3huX0pRZW5VUEhGOFVFVWRZaFdrNEYz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
