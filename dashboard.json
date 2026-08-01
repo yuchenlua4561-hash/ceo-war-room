@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-01T17:17:27+08:00",
+  "intel_updated_at": "2026-08-01T22:47:14+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -262,9 +260,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - Benzinga",
-      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates Benzinga",
-      "source": "Benzinga",
+      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - benzinga.com",
+      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates benzinga.com",
+      "source": "benzinga.com",
       "published_at": "2026-07-31T23:45:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmxPTGJ0RmFlOXlLbWlPbEJCNWJITlBYZFdTYzJfM2ltRFY4M0h6bXZBMXpCdE5lQ2xzNi1BYkphUHE5eVdlWVJsZVVhc19PX0dGMjJRWHVFRjVPak1KaVJEaFZrdmlqVUdZVzhkRkJPTHI0OWNPQjNKSVFXcUhRcUx5QUhNMU9Ya3k5UlREaXp4Ym5JZEpGZnQteVpWalVXRTdrNWVTc204bUxkNjBfN3BlM21RTllSbVhB?oc=5",
       "data_type": "live",
@@ -272,9 +270,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent leases 160,000 sq ft facility for liquid cooling production - investing.com",
-      "summary": "nVent leases 160,000 sq ft facility for liquid cooling production investing.com",
-      "source": "investing.com",
+      "headline": "nVent leases 160,000 sq ft facility for liquid cooling production - Investing.com",
+      "summary": "nVent leases 160,000 sq ft facility for liquid cooling production Investing.com",
+      "source": "Investing.com",
       "published_at": "2026-07-31T18:47:18+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcElIRlA3RFhaZDNsTHVZbTkwSHR5QVk3cFlpQmxVQU5KcUVKZlRYQUhCd1JsMzIxTVFjRzZjUWM1OVA0X3Bnc1BzMkF2YW92b3RVRzQ2bWV2RW5xTWc3ZFdsU3pWM1kyOXh4VjY1RFNtRDRVSFJFYU8tb2NnMDdYOGlCcEJsV0VvLXUxYkc5NlcwOVhNaWVucGFhTEtDSVo0Ui1JRFdqWmhhRkpuQTJWempJNmt0NDdGRlNuN2JR?oc=5",
       "data_type": "live",
@@ -292,9 +290,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions - Quiver Quantitative",
-      "summary": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions Quiver Quantitative",
-      "source": "Quiver Quantitative",
+      "headline": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions - quiverquant.com",
+      "summary": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions quiverquant.com",
+      "source": "quiverquant.com",
       "published_at": "2026-07-31T18:20:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGM2SG1yem5fZGJwWlJQMTVuMER0alZldmxfb1FVRXZHcTRFbUVsWElxcVRSZ3diWmxLSTRJQXBBZFpqR0I2dE9QcG1VdDRyUUFGbTFBaEstR0ZCLVBXc1BoTTY4TlJwNkt3Y2JiTnlRYU9OUGpjM2hFRkxZdEdSaGtoVFpXQTJfVHdLWUNWZFVNNGVVZl9jeWJuOGFWeEdHRzJwUkZnNWw5c2J5Qmc2UmlyYWNKRTJrTTFKZ3Rkcw?oc=5",
       "data_type": "live",
