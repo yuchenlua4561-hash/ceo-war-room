@@ -1,11 +1,13 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-01T08:15:17+08:00",
+  "intel_updated_at": "2026-08-01T17:17:27+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -210,14 +212,14 @@
       "product": "資料中心",
       "move": "Delta Electronics raises AI revenue outlook as data center demand strengthens - Taiwan News",
       "implication": "公開情報更新於 2026-07-31T14:05:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UMXAxWS1VenZtWDc0TDFhWGZBVGVZcG9oaE5KRnpPd18tWUVVbE53aHBrdEl5Y2FVdnVhalEzak03ckxMbkxqU1VIWWFScEk1NllOMXBreXI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41OWQyQUpwZDFKa3hxTUVWcERnR2ZIQjk5R2FIR1RFT2FNVXNjMmZfMWdYa2kyV3lfY0ZOUDVWM2FDZG8zTTRoQUh6eTFodzY0VEp6cg?oc=5"
     },
     {
       "company": "nVent",
-      "product": "液冷散熱",
-      "move": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - Benzinga",
-      "implication": "公開情報更新於 2026-07-31T23:45:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmxPTGJ0RmFlOXlLbWlPbEJCNWJITlBYZFdTYzJfM2ltRFY4M0h6bXZBMXpCdE5lQ2xzNi1BYkphUHE5eVdlWVJsZVVhc19PX0dGMjJRWHVFRjVPak1KaVJEaFZrdmlqVUdZVzhkRkJPTHI0OWNPQjNKSVFXcUhRcUx5QUhNMU9Ya3k5UlREaXp4Ym5JZEpGZnQteVpWalVXRTdrNWVTc204bUxkNjBfN3BlM21RTllSbVhB?oc=5"
+      "product": "資料中心",
+      "move": "nVent Continues to Add Capacity to Meet Demand From Data Centers - Morningstar",
+      "implication": "公開情報更新於 2026-08-01T01:39:46+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUpMUzJBMUVPbGpram8xeUJOVEJEYmZPaGNTQmpLbGR3d2FoMERvSGFBYVlPTEZSZ2piUFlvQWxSWEJEV25BSWo2YWY0M3R4Q2R6TE8xc3puZFp2Qlo3dlZNM29qemVfM2xOV2RoZkVhMl9sNmk2VWVuM3RPaHM5TnZGTmdQQjNGS3NjUXh1ZDNaM3psVTVUbW5uRUdCeHd5VG9PNkV4OVV3cXhXSi15QzRHbF9xaTg?oc=5"
     },
     {
       "company": "Johnson Controls",
@@ -233,18 +235,28 @@
       "headline": "Castrol Diversifies into Liquid Cooling for AI Data Centres - Indiatimes",
       "summary": "Castrol Diversifies into Liquid Cooling for AI Data Centres Indiatimes",
       "source": "Indiatimes",
-      "published_at": "2026-08-01T07:36:17+08:00",
+      "published_at": "2026-08-01T13:16:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWG9TQWFIU2lJRHc1dzE5eW01aE5mSUFlVG1Yd0tCanlocExoNWxRVG1ZVUdQRkRmaGM5QUkxTUYxRzFhc0FNbDgxYnYydk1ZTFNXV2pnSjRWRUYyOGxsaDB5R1hYMlk4c1M0TG5qckp0ajBfMU9aMEZpbWFaRk11a1JaVDhWQzNQU1ZqQ2tJb29Yc2VKZWZFNVFPaC1Vb0lDeVBZb1hEdUFFZmdSRncwbFBkWTVQNThZUTNsdm5YT2hWWE9TMTZ4Rm9Ca1dJc1VpSVhMdWkyWWxUOERiVHBuRkZMcm9SN0t1?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Data Center Congestion Meets Rising GPU Rates - startuphub.ai",
-      "summary": "Data Center Congestion Meets Rising GPU Rates startuphub.ai",
-      "source": "startuphub.ai",
+      "headline": "Data Center Congestion Meets Rising GPU Rates - StartupHub.ai",
+      "summary": "Data Center Congestion Meets Rising GPU Rates StartupHub.ai",
+      "source": "StartupHub.ai",
       "published_at": "2026-08-01T02:12:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWU4cjhHME0zS1JXNy12R1hvSjQwVGVYWDZGek8xeXNmMkVKRjlob1dVT0haV0h1WHJpTEl6aVJGOUJKOG5FdE15UThiMHkyRGFCVFVuOW4wSzExTVVUS18tSDFkMzdXd19UR3NIM1U2Zkk2SDZ6RHpKV3drUlhiSEVzTmZ0NWhyMlAwNU1WVWtPYjFzS0lHbTJEWHFSR09a?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "nVent Continues to Add Capacity to Meet Demand From Data Centers - Morningstar",
+      "summary": "nVent Continues to Add Capacity to Meet Demand From Data Centers Morningstar",
+      "source": "Morningstar",
+      "published_at": "2026-08-01T01:39:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUpMUzJBMUVPbGpram8xeUJOVEJEYmZPaGNTQmpLbGR3d2FoMERvSGFBYVlPTEZSZ2piUFlvQWxSWEJEV25BSWo2YWY0M3R4Q2R6TE8xc3puZFp2Qlo3dlZNM29qemVfM2xOV2RoZkVhMl9sNmk2VWVuM3RPaHM5TnZGTmdQQjNGS3NjUXh1ZDNaM3psVTVUbW5uRUdCeHd5VG9PNkV4OVV3cXhXSi15QzRHbF9xaTg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -260,9 +272,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent leases 160,000 sq ft facility for liquid cooling production - Investing.com",
-      "summary": "nVent leases 160,000 sq ft facility for liquid cooling production Investing.com",
-      "source": "Investing.com",
+      "headline": "nVent leases 160,000 sq ft facility for liquid cooling production - investing.com",
+      "summary": "nVent leases 160,000 sq ft facility for liquid cooling production investing.com",
+      "source": "investing.com",
       "published_at": "2026-07-31T18:47:18+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcElIRlA3RFhaZDNsTHVZbTkwSHR5QVk3cFlpQmxVQU5KcUVKZlRYQUhCd1JsMzIxTVFjRzZjUWM1OVA0X3Bnc1BzMkF2YW92b3RVRzQ2bWV2RW5xTWc3ZFdsU3pWM1kyOXh4VjY1RFNtRDRVSFJFYU8tb2NnMDdYOGlCcEJsV0VvLXUxYkc5NlcwOVhNaWVucGFhTEtDSVo0Ui1JRFdqWmhhRkpuQTJWempJNmt0NDdGRlNuN2JR?oc=5",
       "data_type": "live",
@@ -304,7 +316,7 @@
       "summary": "Delta Electronics raises AI revenue outlook as data center demand strengthens Taiwan News",
       "source": "Taiwan News",
       "published_at": "2026-07-31T14:05:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UMXAxWS1VenZtWDc0TDFhWGZBVGVZcG9oaE5KRnpPd18tWUVVbE53aHBrdEl5Y2FVdnVhalEzak03ckxMbkxqU1VIWWFScEk1NllOMXBreXI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41OWQyQUpwZDFKa3hxTUVWcERnR2ZIQjk5R2FIR1RFT2FNVXNjMmZfMWdYa2kyV3lfY0ZOUDVWM2FDZG8zTTRoQUh6eTFodzY0VEp6cg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -335,16 +347,6 @@
       "source": "The Globe and Mail",
       "published_at": "2026-07-30T23:15:20+08:00",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcU1IRmthNzltbEo2aExYc19TOVItMXFoUUFkazJhYXZRcW9xS1oyTUVueUtQLXN4cVNiMzlzSWJEdDRtM2lNTk1rVXRVblJzdkpSeXM0VnJsblhSWXp4MENwdUMzdjRUdHdDQlBJbEdPNlpCQzJvbWJ6OEZSeG52SGNJcm9MdGJCMWJKbENLN3VJeXVTVE9EOG9OOVFPU251ZVBLVXM5M3pxWWVJTVhUTGtJS2ZWQWRvek5QSVNidTBTOGtBZDJwWDA4Q0tpcGVPQlpOMGpkZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant - International Business Times",
-      "summary": "Mitsubishi Electric to Build Ohio Data Center Cooling Plant International Business Times",
-      "source": "International Business Times",
-      "published_at": "2026-07-30T22:38:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1MzMGNmZFlTN2dLNWtSeDBhQXZBQzRxMnVFVDBuSWdWWk5wQnVORl82bkZiel9reDFJN1djQnpGN0dFejVwaGVFNjU2RFlZM01lSHRlMWtTVjZJNzUtMk52ZXJ0NG5UamlOVEp5bWR0Tlo1NzhORG1Jd2kxTEhKTmtxeFVMM0VIbGprckhjTQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
