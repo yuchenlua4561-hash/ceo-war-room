@@ -1,11 +1,13 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-01T22:47:14+08:00",
+  "intel_updated_at": "2026-08-02T02:16:28+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -260,11 +262,21 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - benzinga.com",
-      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates benzinga.com",
-      "source": "benzinga.com",
+      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - Benzinga",
+      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates Benzinga",
+      "source": "Benzinga",
       "published_at": "2026-07-31T23:45:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmxPTGJ0RmFlOXlLbWlPbEJCNWJITlBYZFdTYzJfM2ltRFY4M0h6bXZBMXpCdE5lQ2xzNi1BYkphUHE5eVdlWVJsZVVhc19PX0dGMjJRWHVFRjVPak1KaVJEaFZrdmlqVUdZVzhkRkJPTHI0OWNPQjNKSVFXcUhRcUx5QUhNMU9Ya3k5UlREaXp4Ym5JZEpGZnQteVpWalVXRTdrNWVTc204bUxkNjBfN3BlM21RTllSbVhB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "nVent leases 160,000 sq ft facility for liquid cooling production By Investing.com - Investing.com South Africa",
+      "summary": "nVent leases 160,000 sq ft facility for liquid cooling production By Investing.com Investing.com South Africa",
+      "source": "Investing.com South Africa",
+      "published_at": "2026-07-31T18:55:13+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzV0VXhlTGlQdENROGF0NVNHekFJYXBrWUFwT0FKdm1oNnhKMnJMMldMVDZyaHdKaTdleVpjcVMwT3RvN0NmZXVtZk5mNjZHbldyaGJNVmpJQnVoSldhMFNRUkp2aVJnSXRod2tneTlwYTdEelpBd1lXYzJtNHZRY2h0bUk0LVNMbmxOcU1YY2wzOEhUZjVDMl9iWHhuYm1MSWdfUlQ3emtQM212azF4TGJEYzI2MG5KUmlkN2dFeER0Yzg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -275,6 +287,26 @@
       "source": "Investing.com",
       "published_at": "2026-07-31T18:47:18+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcElIRlA3RFhaZDNsTHVZbTkwSHR5QVk3cFlpQmxVQU5KcUVKZlRYQUhCd1JsMzIxTVFjRzZjUWM1OVA0X3Bnc1BzMkF2YW92b3RVRzQ2bWV2RW5xTWc3ZFdsU3pWM1kyOXh4VjY1RFNtRDRVSFJFYU8tb2NnMDdYOGlCcEJsV0VvLXUxYkc5NlcwOVhNaWVucGFhTEtDSVo0Ui1JRFdqWmhhRkpuQTJWempJNmt0NDdGRlNuN2JR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-07-31T18:43:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - Nasscom",
+      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-07-31T18:43:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1FfeXVYYzRGSmMyazhQdDdXcURzNVJHcWhfcmZoS1gwNnVTcnZNNEZ2cnBzeGJuRVN6QWJGSW5QZ1lQd1ZfTUY1NUc4QWd2MGdiTWVHc0JJRDNfMnphS09pLWZDRUpqTHVGaUlfa21EeDhMT0tFN0xEQ2dael9EZTFPMTNDdmVvWVpNQlV3Zjg3MUZOdmcyMkYwQWVBOFBrTHhhOC0tUlhQczNvNDNXTTVqdkJDMmV5am5FbHpJMmZlWGxZRG9V?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -315,36 +347,6 @@
       "source": "Taiwan News",
       "published_at": "2026-07-31T14:05:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41OWQyQUpwZDFKa3hxTUVWcERnR2ZIQjk5R2FIR1RFT2FNVXNjMmZfMWdYa2kyV3lfY0ZOUDVWM2FDZG8zTTRoQUh6eTFodzY0VEp6cg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Supermicro launches high-density AI data center racks with liquid cooling for faster deployment and lower costs - Pluang",
-      "summary": "Supermicro launches high-density AI data center racks with liquid cooling for faster deployment and lower costs Pluang",
-      "source": "Pluang",
-      "published_at": "2026-07-31T05:10:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1k3blk0QXBiUm5DWnV3OTAyNThSZkpVSWF2eVV6UkJ2OHRDMmdGN0psWTJSb2RQRXNiQy1pWm5JRkJUcFhJSm45QXlzQ09Cc1VST1BGMko1YUxlX3FVMFl1QkdJVzZYanRralp2al9adkdYODVVdndHbzZmc2wwclFiYl9nSjU2Tk0zOWRESlFaSnhCSXZrazVuZ0dvZmtrZGZESi1ETGZZQ1RSZ3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Johnson Controls touts absorption chillers to cut data center energy demand - Facilities Dive",
-      "summary": "Johnson Controls touts absorption chillers to cut data center energy demand Facilities Dive",
-      "source": "Facilities Dive",
-      "published_at": "2026-07-31T00:39:08+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGdwajZNamRsdVV0ZzZ1NTRZY2tjc1daQ2x6ekZzSnA1QnowaU1DaHg4ZGNUYVFjYzFMbFF4VWcyUHhwU1ZvMFRIMzZoYk5XanNLMjA3bEdMdmtoVFNsYmxkSExNSmZVY29CRGNHcURfTnE4TldwY0tKMmJWN2Q5WmpYWFJrbWkwRHExMFBDdEYtLWxrcTN1NTJaVTJiVFpuYlFPa0ZXaFdLVEMtWUFIbG91Yl9XRHZuTDA0?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth - The Globe and Mail",
-      "summary": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-30T23:15:20+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcU1IRmthNzltbEo2aExYc19TOVItMXFoUUFkazJhYXZRcW9xS1oyTUVueUtQLXN4cVNiMzlzSWJEdDRtM2lNTk1rVXRVblJzdkpSeXM0VnJsblhSWXp4MENwdUMzdjRUdHdDQlBJbEdPNlpCQzJvbWJ6OEZSeG52SGNJcm9MdGJCMWJKbENLN3VJeXVTVE9EOG9OOVFPU251ZVBLVXM5M3pxWWVJTVhUTGtJS2ZWQWRvek5QSVNidTBTOGtBZDJwWDA4Q0tpcGVPQlpOMGpkZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
