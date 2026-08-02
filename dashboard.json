@@ -1,11 +1,13 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-02T19:46:54+08:00",
+  "intel_updated_at": "2026-08-02T23:47:40+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -230,6 +232,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? - The Futurum Group",
+      "summary": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? The Futurum Group",
+      "source": "The Futurum Group",
+      "published_at": "2026-08-02T20:36:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjYzMHoyZVZtdW1HYUJnLWlRWE13SWJjSlAxM3FTMk5jdFlkcnl3VUQyd3RWM005MGZtRlJjZlJxY3ZSQVNMVlB2RFpSRjd3TUdmVlFCS0gzcUxJM2xtRU0wbFRuaEpoYVZuSFhVYnF6VThyMGpHX2haZy03a2NDLWRCc054TWExOF9qS21PQWNxZmJiaTI5b25tcXNYOWs?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Why Artificial Intelligence Data Centers Are Powering the Future of Digital Infrastructure Through High Performance Computing, Sustainable Innovation, and Intelligent Cloud Ecosystems - Spherical Insights",
       "summary": "Why Artificial Intelligence Data Centers Are Powering the Future of Digital Infrastructure Through High Performance Computing, Sustainable Innovation, and Intelligent Cloud Ecosystems Spherical Insights",
       "source": "Spherical Insights",
@@ -240,9 +252,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Castrol Diversifies into Liquid Cooling for AI Data Centres - datacenters.economictimes.indiatimes.com",
-      "summary": "Castrol Diversifies into Liquid Cooling for AI Data Centres datacenters.economictimes.indiatimes.com",
-      "source": "datacenters.economictimes.indiatimes.com",
+      "headline": "Castrol Diversifies into Liquid Cooling for AI Data Centres - Indiatimes",
+      "summary": "Castrol Diversifies into Liquid Cooling for AI Data Centres Indiatimes",
+      "source": "Indiatimes",
       "published_at": "2026-08-01T13:16:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWG9TQWFIU2lJRHc1dzE5eW01aE5mSUFlVG1Yd0tCanlocExoNWxRVG1ZVUdQRkRmaGM5QUkxTUYxRzFhc0FNbDgxYnYydk1ZTFNXV2pnSjRWRUYyOGxsaDB5R1hYMlk4c1M0TG5qckp0ajBfMU9aMEZpbWFaRk11a1JaVDhWQzNQU1ZqQ2tJb29Yc2VKZWZFNVFPaC1Vb0lDeVBZb1hEdUFFZmdSRncwbFBkWTVQNThZUTNsdm5YT2hWWE9TMTZ4Rm9Ca1dJc1VpSVhMdWkyWWxUOERiVHBuRkZMcm9SN0t1?oc=5",
       "data_type": "live",
@@ -335,16 +347,6 @@
       "source": "Quiver Quantitative",
       "published_at": "2026-07-31T18:20:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGM2SG1yem5fZGJwWlJQMTVuMER0alZldmxfb1FVRXZHcTRFbUVsWElxcVRSZ3diWmxLSTRJQXBBZFpqR0I2dE9QcG1VdDRyUUFGbTFBaEstR0ZCLVBXc1BoTTY4TlJwNkt3Y2JiTnlRYU9OUGpjM2hFRkxZdEdSaGtoVFpXQTJfVHdLWUNWZFVNNGVVZl9jeWJuOGFWeEdHRzJwUkZnNWw5c2J5Qmc2UmlyYWNKRTJrTTFKZ3Rkcw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent Expands Data Center Liquid Cooling Capacity - GlobeNewswire",
-      "summary": "nVent Expands Data Center Liquid Cooling Capacity GlobeNewswire",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-31T18:15:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTVaeUUyV2lZcFJ6RWNNUEt4ZlJMNE9rdlFWZlNaQl9CclZkTDJBTmp5OFJLWnZqQjdYVGhmY2JZNDVRaTNsSXM3Z1FKLWxfMTQ3SXlKR25TZS1qOS1IYlVLVEVpZ0todDFteTlSNWhYRHB3WmY1WWRiZzhhVzNvWk1xaTByU2JuLVI3T0V3UnNYOTNRZ3gwRmFMUTluSHkwWVZ5dndnbi05MWRvekY0T1hxLUx0d080NHN5Zk9n?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
