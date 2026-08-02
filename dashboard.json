@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-02T23:47:40+08:00",
+  "intel_updated_at": "2026-08-03T04:16:04+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -235,7 +233,7 @@
       "headline": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? - The Futurum Group",
       "summary": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? The Futurum Group",
       "source": "The Futurum Group",
-      "published_at": "2026-08-02T20:36:08+08:00",
+      "published_at": "2026-08-03T01:26:15+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjYzMHoyZVZtdW1HYUJnLWlRWE13SWJjSlAxM3FTMk5jdFlkcnl3VUQyd3RWM005MGZtRlJjZlJxY3ZSQVNMVlB2RFpSRjd3TUdmVlFCS0gzcUxJM2xtRU0wbFRuaEpoYVZuSFhVYnF6VThyMGpHX2haZy03a2NDLWRCc054TWExOF9qS21PQWNxZmJiaTI5b25tcXNYOWs?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -282,9 +280,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - Benzinga",
-      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates Benzinga",
-      "source": "Benzinga",
+      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - benzinga.com",
+      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates benzinga.com",
+      "source": "benzinga.com",
       "published_at": "2026-07-31T23:45:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmxPTGJ0RmFlOXlLbWlPbEJCNWJITlBYZFdTYzJfM2ltRFY4M0h6bXZBMXpCdE5lQ2xzNi1BYkphUHE5eVdlWVJsZVVhc19PX0dGMjJRWHVFRjVPak1KaVJEaFZrdmlqVUdZVzhkRkJPTHI0OWNPQjNKSVFXcUhRcUx5QUhNMU9Ya3k5UlREaXp4Ym5JZEpGZnQteVpWalVXRTdrNWVTc204bUxkNjBfN3BlM21RTllSbVhB?oc=5",
       "data_type": "live",
