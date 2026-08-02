@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-02T06:18:12+08:00",
+  "intel_updated_at": "2026-08-02T15:50:46+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -270,16 +270,6 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent leases 160,000 sq ft facility for liquid cooling production By Investing.com - Investing.com South Africa",
-      "summary": "nVent leases 160,000 sq ft facility for liquid cooling production By Investing.com Investing.com South Africa",
-      "source": "Investing.com South Africa",
-      "published_at": "2026-07-31T18:55:13+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzV0VXhlTGlQdENROGF0NVNHekFJYXBrWUFwT0FKdm1oNnhKMnJMMldMVDZyaHdKaTdleVpjcVMwT3RvN0NmZXVtZk5mNjZHbldyaGJNVmpJQnVoSldhMFNRUkp2aVJnSXRod2tneTlwYTdEelpBd1lXYzJtNHZRY2h0bUk0LVNMbmxOcU1YY2wzOEhUZjVDMl9iWHhuYm1MSWdfUlQ3emtQM212azF4TGJEYzI2MG5KUmlkN2dFeER0Yzg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
       "headline": "nVent leases 160,000 sq ft facility for liquid cooling production - Investing.com",
       "summary": "nVent leases 160,000 sq ft facility for liquid cooling production Investing.com",
       "source": "Investing.com",
@@ -300,11 +290,21 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "NVent doubles liquid cooling capacity as AI data centers ditch air for water - cryptobriefing.com",
-      "summary": "NVent doubles liquid cooling capacity as AI data centers ditch air for water cryptobriefing.com",
-      "source": "cryptobriefing.com",
-      "published_at": "2026-07-31T18:38:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsSFFZWUMzRWNVVW1UaTN2cjRtc0YwUl9CdEZualY0U0tSbTFLZ3I2TVNqRy15X2ZfaWVwbkdXc1I2Z1o4a2dDdkFaSWV2Nzl5b25oelpVdE5PaUFoZXY3M0hZck96WXdGdzQza0ZOVmJET0h4NW1EQlBR?oc=5",
+      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
+      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-07-31T18:43:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - Nasscom",
+      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-07-31T18:43:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1FfeXVYYzRGSmMyazhQdDdXcURzNVJHcWhfcmZoS1gwNnVTcnZNNEZ2cnBzeGJuRVN6QWJGSW5QZ1lQd1ZfTUY1NUc4QWd2MGdiTWVHc0JJRDNfMnphS09pLWZDRUpqTHVGaUlfa21EeDhMT0tFN0xEQ2dael9EZTFPMTNDdmVvWVpNQlV3Zjg3MUZOdmcyMkYwQWVBOFBrTHhhOC0tUlhQczNvNDNXTTVqdkJDMmV5am5FbHpJMmZlWGxZRG9V?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -320,9 +320,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent Expands Data Center Liquid Cooling Capacity - globenewswire.com",
-      "summary": "nVent Expands Data Center Liquid Cooling Capacity globenewswire.com",
-      "source": "globenewswire.com",
+      "headline": "nVent Expands Data Center Liquid Cooling Capacity - GlobeNewswire",
+      "summary": "nVent Expands Data Center Liquid Cooling Capacity GlobeNewswire",
+      "source": "GlobeNewswire",
       "published_at": "2026-07-31T18:15:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTVaeUUyV2lZcFJ6RWNNUEt4ZlJMNE9rdlFWZlNaQl9CclZkTDJBTmp5OFJLWnZqQjdYVGhmY2JZNDVRaTNsSXM3Z1FKLWxfMTQ3SXlKR25TZS1qOS1IYlVLVEVpZ0todDFteTlSNWhYRHB3WmY1WWRiZzhhVzNvWk1xaTByU2JuLVI3T0V3UnNYOTNRZ3gwRmFMUTluSHkwWVZ5dndnbi05MWRvekY0T1hxLUx0d080NHN5Zk9n?oc=5",
       "data_type": "live",
