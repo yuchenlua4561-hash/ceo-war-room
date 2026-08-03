@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-03T04:16:04+08:00",
+  "intel_updated_at": "2026-08-03T16:51:54+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -230,10 +230,30 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion - Indiatimes",
+      "summary": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-08-03T11:57:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUxFSG9oZm5mM1JCWXlYV1JwUHctdHN0VllFaXZqVTI0OUhDSTBUdXpxVnJ1Ny01ejN6M3Y5Yzk1bkd2OUlLRS10U2Z4Y3ZvRGxBeW1lZ3BOTGFfODdmQl9XNjBtazNWcURKNXRJWjVDN1VIVkZEekFlLWpNVmtWUl9Zd0lHcG1QcUJHQ1J0ME9vMnVDdDlsb2pSbU5PMEloQnB2R2hvZ3g3R3BGc1RDTUxiZTdLN200X21vaGdnRWc3M1Z1QUlyY1dETFhFeFBxRnJCS2lJOU1yam55SXFwbVQzSWdmR28?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices - Indiatimes",
+      "summary": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-08-03T11:26:14+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWE5TamRGZWIwc0VZWk1yYno2RlVnRUU1RzhreFZyLTJfR2NUSHhBeU9POU9oNHV1cG5NUFRnUlQ5ek1VaHlrUUFYb09fZ1F5SmVsNnRsMXp3QnRIMjhMbE1keWZQWXNQdjdiWGJWcnNrMGlDQWp6ZlRvcW5MRkJiQUE5azJqYW96aEZnV3R6bWx0TU80MUJEOU91eDZveWhDWE1DRVh6aDZZV25zZmNJYzl6dlM5VFN6Qjc1WU1WNmFFcmRKbTlXSEFhbzJYNWZxYlEtYkJZVzVxRHl1ZUlReVVMWXRQa2NYNXhEWDN2RmRqRzRXRDA1aTdlVQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? - The Futurum Group",
       "summary": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? The Futurum Group",
       "source": "The Futurum Group",
-      "published_at": "2026-08-03T01:26:15+08:00",
+      "published_at": "2026-08-03T01:32:06+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjYzMHoyZVZtdW1HYUJnLWlRWE13SWJjSlAxM3FTMk5jdFlkcnl3VUQyd3RWM005MGZtRlJjZlJxY3ZSQVNMVlB2RFpSRjd3TUdmVlFCS0gzcUxJM2xtRU0wbFRuaEpoYVZuSFhVYnF6VThyMGpHX2haZy03a2NDLWRCc054TWExOF9qS21PQWNxZmJiaTI5b25tcXNYOWs?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -255,6 +275,16 @@
       "source": "Indiatimes",
       "published_at": "2026-08-01T13:16:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWG9TQWFIU2lJRHc1dzE5eW01aE5mSUFlVG1Yd0tCanlocExoNWxRVG1ZVUdQRkRmaGM5QUkxTUYxRzFhc0FNbDgxYnYydk1ZTFNXV2pnSjRWRUYyOGxsaDB5R1hYMlk4c1M0TG5qckp0ajBfMU9aMEZpbWFaRk11a1JaVDhWQzNQU1ZqQ2tJb29Yc2VKZWZFNVFPaC1Vb0lDeVBZb1hEdUFFZmdSRncwbFBkWTVQNThZUTNsdm5YT2hWWE9TMTZ4Rm9Ca1dJc1VpSVhMdWkyWWxUOERiVHBuRkZMcm9SN0t1?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "From Data Centers to Copper: AI Infrastructure Race Goes Deeper - JD Supra",
+      "summary": "From Data Centers to Copper: AI Infrastructure Race Goes Deeper JD Supra",
+      "source": "JD Supra",
+      "published_at": "2026-08-01T03:59:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RcFhBbDZGUFBRd2d2QWItaEZfbzhETFNPa040R0hrdXNxMnZpaDVrUXlzeU1yWEdrZXFsVWJ4Z2ZsenFKczZqeGg4OWdBeEdxM2paY1hHb012V1dGalRONkJfVThKRHprcWVPMjFkMUpzcUJKMUlhd1Z6dkhrUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -315,36 +345,6 @@
       "source": "Nasscom",
       "published_at": "2026-07-31T18:43:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-07-31T18:43:09+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - Nasscom",
-      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-07-31T18:43:09+08:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1FfeXVYYzRGSmMyazhQdDdXcURzNVJHcWhfcmZoS1gwNnVTcnZNNEZ2cnBzeGJuRVN6QWJGSW5QZ1lQd1ZfTUY1NUc4QWd2MGdiTWVHc0JJRDNfMnphS09pLWZDRUpqTHVGaUlfa21EeDhMT0tFN0xEQ2dael9EZTFPMTNDdmVvWVpNQlV3Zjg3MUZOdmcyMkYwQWVBOFBrTHhhOC0tUlhQczNvNDNXTTVqdkJDMmV5am5FbHpJMmZlWGxZRG9V?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions - Quiver Quantitative",
-      "summary": "nVent to Expand Minnesota Manufacturing Capacity for Data Center Liquid Cooling Solutions Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "published_at": "2026-07-31T18:20:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGM2SG1yem5fZGJwWlJQMTVuMER0alZldmxfb1FVRXZHcTRFbUVsWElxcVRSZ3diWmxLSTRJQXBBZFpqR0I2dE9QcG1VdDRyUUFGbTFBaEstR0ZCLVBXc1BoTTY4TlJwNkt3Y2JiTnlRYU9OUGpjM2hFRkxZdEdSaGtoVFpXQTJfVHdLWUNWZFVNNGVVZl9jeWJuOGFWeEdHRzJwUkZnNWw5c2J5Qmc2UmlyYWNKRTJrTTFKZ3Rkcw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
