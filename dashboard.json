@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-04T01:17:51+08:00",
+  "intel_updated_at": "2026-08-04T05:53:02+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -239,12 +239,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? - The Futurum Group",
-      "summary": "Is Cooling-Defined Infrastructure the Future of AI Data Centers? The Futurum Group",
-      "source": "The Futurum Group",
-      "published_at": "2026-08-03T01:32:06+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjYzMHoyZVZtdW1HYUJnLWlRWE13SWJjSlAxM3FTMk5jdFlkcnl3VUQyd3RWM005MGZtRlJjZlJxY3ZSQVNMVlB2RFpSRjd3TUdmVlFCS0gzcUxJM2xtRU0wbFRuaEpoYVZuSFhVYnF6VThyMGpHX2haZy03a2NDLWRCc054TWExOF9qS21PQWNxZmJiaTI5b25tcXNYOWs?oc=5",
+      "category": "液冷散熱",
+      "headline": "Coloray Expands Research on Nanofluid for AI Liquid Cooling, Pursues Development of High-Efficiency Thermal Materials - 아시아경제",
+      "summary": "Coloray Expands Research on Nanofluid for AI Liquid Cooling, Pursues Development of High-Efficiency Thermal Materials 아시아경제",
+      "source": "아시아경제",
+      "published_at": "2026-08-03T12:45:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SWFk4c2FGSm1XNG90a291aW82dHZfTW9GSmw3c1Y3b1NkVlpUQ21qa093UDc2SndLR0NOdm5OLXN0cWtuMjdkTU10R21lZ0ZnSndTajFLYndtMVQtVzBmTXhJeVQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -330,9 +330,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - community.nasscom.in",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-07-31T18:43:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
@@ -340,9 +340,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
-      "source": "Nasscom",
+      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - community.nasscom.in",
+      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-07-31T18:43:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
       "data_type": "live",
