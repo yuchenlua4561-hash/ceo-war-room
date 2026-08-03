@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-03T16:51:54+08:00",
+  "intel_updated_at": "2026-08-04T01:17:51+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -233,18 +233,8 @@
       "headline": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion - Indiatimes",
       "summary": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion Indiatimes",
       "source": "Indiatimes",
-      "published_at": "2026-08-03T11:57:09+08:00",
+      "published_at": "2026-08-03T13:52:57+08:00",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUxFSG9oZm5mM1JCWXlYV1JwUHctdHN0VllFaXZqVTI0OUhDSTBUdXpxVnJ1Ny01ejN6M3Y5Yzk1bkd2OUlLRS10U2Z4Y3ZvRGxBeW1lZ3BOTGFfODdmQl9XNjBtazNWcURKNXRJWjVDN1VIVkZEekFlLWpNVmtWUl9Zd0lHcG1QcUJHQ1J0ME9vMnVDdDlsb2pSbU5PMEloQnB2R2hvZ3g3R3BGc1RDTUxiZTdLN200X21vaGdnRWc3M1Z1QUlyY1dETFhFeFBxRnJCS2lJOU1yam55SXFwbVQzSWdmR28?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices - Indiatimes",
-      "summary": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices Indiatimes",
-      "source": "Indiatimes",
-      "published_at": "2026-08-03T11:26:14+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWE5TamRGZWIwc0VZWk1yYno2RlVnRUU1RzhreFZyLTJfR2NUSHhBeU9POU9oNHV1cG5NUFRnUlQ5ek1VaHlrUUFYb09fZ1F5SmVsNnRsMXp3QnRIMjhMbE1keWZQWXNQdjdiWGJWcnNrMGlDQWp6ZlRvcW5MRkJiQUE5azJqYW96aEZnV3R6bWx0TU80MUJEOU91eDZveWhDWE1DRVh6aDZZV25zZmNJYzl6dlM5VFN6Qjc1WU1WNmFFcmRKbTlXSEFhbzJYNWZxYlEtYkJZVzVxRHl1ZUlReVVMWXRQa2NYNXhEWDN2RmRqRzRXRDA1aTdlVQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -265,6 +255,16 @@
       "source": "Spherical Insights",
       "published_at": "2026-08-02T04:08:22+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQLWIwU3R3SW1KV3IzdzZkNk0zZ0ZjVG13YW1tUzlJcXJIcl9wM2tnUFFpWUVRUlpBQ0dXWmIxZVZLeFNUcG1OdHdHQVR5aEZhWVRmVTdkQklzd1hFVGpORWNaV1A5WWNHalE0V1VfMTEyZlJpQzZSdGl2NFF0c3VYWnprZHJhTTRMNzhJYmVkVExZOFI2T0tQem9sR0UxbU9fMXFuZUU3OVh3Q2F1R08zaDdMN3M2d2NURjhSMHJNOXhhbF9pamlRMzBXSEp3MmVQdkZ4QkpCS1JqRkpVXzR5QVdKWEtUUVJUSWx6TlhWdURjOW9vOThBTEJjd2J1OWtjdE5qNHd4Y0pvSlJ3UkhxbHNER1hCUFYzSlJ5bzM1b3VySU8wLU9mMUJRaThrUENGU2VaLURlWHRWdXJOalBUTUdqRQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices - Indiatimes",
+      "summary": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-08-01T15:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWE5TamRGZWIwc0VZWk1yYno2RlVnRUU1RzhreFZyLTJfR2NUSHhBeU9POU9oNHV1cG5NUFRnUlQ5ek1VaHlrUUFYb09fZ1F5SmVsNnRsMXp3QnRIMjhMbE1keWZQWXNQdjdiWGJWcnNrMGlDQWp6ZlRvcW5MRkJiQUE5azJqYW96aEZnV3R6bWx0TU80MUJEOU91eDZveWhDWE1DRVh6aDZZV25zZmNJYzl6dlM5VFN6Qjc1WU1WNmFFcmRKbTlXSEFhbzJYNWZxYlEtYkJZVzVxRHl1ZUlReVVMWXRQa2NYNXhEWDN2RmRqRzRXRDA1aTdlVQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -310,9 +310,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - benzinga.com",
-      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates benzinga.com",
-      "source": "benzinga.com",
+      "headline": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates - Benzinga",
+      "summary": "nVent Raises 2026 Outlook as Liquid Cooling Demand Accelerates Benzinga",
+      "source": "Benzinga",
       "published_at": "2026-07-31T23:45:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmxPTGJ0RmFlOXlLbWlPbEJCNWJITlBYZFdTYzJfM2ltRFY4M0h6bXZBMXpCdE5lQ2xzNi1BYkphUHE5eVdlWVJsZVVhc19PX0dGMjJRWHVFRjVPak1KaVJEaFZrdmlqVUdZVzhkRkJPTHI0OWNPQjNKSVFXcUhRcUx5QUhNMU9Ya3k5UlREaXp4Ym5JZEpGZnQteVpWalVXRTdrNWVTc204bUxkNjBfN3BlM21RTllSbVhB?oc=5",
       "data_type": "live",
