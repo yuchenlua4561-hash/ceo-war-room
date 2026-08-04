@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-04T05:53:02+08:00",
+  "intel_updated_at": "2026-08-04T15:49:21+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -230,6 +230,46 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Maximize tokens per watt to power the AI era forward - Data Center Dynamics",
+      "summary": "Maximize tokens per watt to power the AI era forward Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-08-04T15:04:01+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDhrS1oyVElFdnVkdEJSY3dSeERhbl95YmgyZGl3UndFalpSY0NnaldRYkVMX2VfUEIwOC1rWjVxZ05GdElyYTFMb2pybUY5MWlDNWJCZFRVaUVIcjl3MnNseUg1WmJzbC1CczRaa0t0cWpsaWpUV0VhellOUG1iZFFUQ1dnWnQ5V2pvU0hSZHBSRkV5SmlseXVncHNhUUJmbVBvaE9n?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Elice builds modular AI data center in South Korea optimized for B300 GPUs - CHOSUNBIZ - biz.chosun.com",
+      "summary": "Elice builds modular AI data center in South Korea optimized for B300 GPUs - CHOSUNBIZ biz.chosun.com",
+      "source": "biz.chosun.com",
+      "published_at": "2026-08-04T09:43:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ya25pTk9VSEZGVi1aSmstaU95Y1FOd2RqWW9kWk80NHZMODYyX1UyZWlBNURIdU1KNkJWQjNNQ0JkSFcyVVBsa1dTRF9Da05YbTIwUGpNN1gyZGRJY1hQMWxlYXFpMzFnRzlmMVpvLUYwSFF1SUZ0QUpR0gGOAUFVX3lxTFBWaWszSXByWlNiLWRNRG9OaF9xclE4QkZmVlFHbFJQZEN4VjJtYnhRQzBYTTBGUTlVZ1o2S3M2amFUclBjT20wR1ltUXpzbUlydVJ5RXlPcEpXVGEzOVduTlRzSXFzTTNFWjF2aWNFX1VUbzNqVDhyNlFTTXhkLTF5U1BMaUlJYW5SQk5FT3c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Hyperscaler Capex Tops $1.2 Trillion: These Nine Stocks Are Cashing In, BofA Says - TradingView",
+      "summary": "Hyperscaler Capex Tops $1.2 Trillion: These Nine Stocks Are Cashing In, BofA Says TradingView",
+      "source": "TradingView",
+      "published_at": "2026-08-04T03:31:54+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMHZJX2cxR0hUd2hPZzFxTS1zQTVCbWpkM3VhWUhSRHJNWVpzRDN4VWE3TFN0WktGb0Ezb0ZjSlM5T282VGVNSkZoX1daWGZTS1owMGd3RDNtMmNHTUphY0Nnakx6akZuQVBPTGpFR0xXM3c3NzZNUnBTNFhwY2VPTjRkQy1iT0pMT0xINVRST3NXVDRYX2RBWHh3RmxkeUE2eHhrdlJwck5jSXFGcjlVVU4tVUNjbi04YjI1S0FHVGZyRV9qTk9XWHppZ2Rab3lqOERZ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - community.nasscom.in",
+      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? community.nasscom.in",
+      "source": "community.nasscom.in",
+      "published_at": "2026-08-03T16:22:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion - Indiatimes",
       "summary": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion Indiatimes",
       "source": "Indiatimes",
@@ -290,16 +330,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "Data Center Congestion Meets Rising GPU Rates - StartupHub.ai",
-      "summary": "Data Center Congestion Meets Rising GPU Rates StartupHub.ai",
-      "source": "StartupHub.ai",
-      "published_at": "2026-08-01T02:12:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWU4cjhHME0zS1JXNy12R1hvSjQwVGVYWDZGek8xeXNmMkVKRjlob1dVT0haV0h1WHJpTEl6aVJGOUJKOG5FdE15UThiMHkyRGFCVFVuOW4wSzExTVVUS18tSDFkMzdXd19UR3NIM1U2Zkk2SDZ6RHpKV3drUlhiSEVzTmZ0NWhyMlAwNU1WVWtPYjFzS0lHbTJEWHFSR09a?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "nVent Continues to Add Capacity to Meet Demand From Data Centers - Morningstar",
       "summary": "nVent Continues to Add Capacity to Meet Demand From Data Centers Morningstar",
       "source": "Morningstar",
@@ -315,36 +345,6 @@
       "source": "Benzinga",
       "published_at": "2026-07-31T23:45:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmxPTGJ0RmFlOXlLbWlPbEJCNWJITlBYZFdTYzJfM2ltRFY4M0h6bXZBMXpCdE5lQ2xzNi1BYkphUHE5eVdlWVJsZVVhc19PX0dGMjJRWHVFRjVPak1KaVJEaFZrdmlqVUdZVzhkRkJPTHI0OWNPQjNKSVFXcUhRcUx5QUhNMU9Ya3k5UlREaXp4Ym5JZEpGZnQteVpWalVXRTdrNWVTc204bUxkNjBfN3BlM21RTllSbVhB?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent leases 160,000 sq ft facility for liquid cooling production - Investing.com",
-      "summary": "nVent leases 160,000 sq ft facility for liquid cooling production Investing.com",
-      "source": "Investing.com",
-      "published_at": "2026-07-31T18:47:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcElIRlA3RFhaZDNsTHVZbTkwSHR5QVk3cFlpQmxVQU5KcUVKZlRYQUhCd1JsMzIxTVFjRzZjUWM1OVA0X3Bnc1BzMkF2YW92b3RVRzQ2bWV2RW5xTWc3ZFdsU3pWM1kyOXh4VjY1RFNtRDRVSFJFYU8tb2NnMDdYOGlCcEJsV0VvLXUxYkc5NlcwOVhNaWVucGFhTEtDSVo0Ui1JRFdqWmhhRkpuQTJWempJNmt0NDdGRlNuN2JR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - community.nasscom.in",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure community.nasscom.in",
-      "source": "community.nasscom.in",
-      "published_at": "2026-07-31T18:43:09+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - community.nasscom.in",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture community.nasscom.in",
-      "source": "community.nasscom.in",
-      "published_at": "2026-07-31T18:43:09+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
