@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-05T00:21:48+08:00",
+  "intel_updated_at": "2026-08-05T05:51:12+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -194,9 +194,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth - The Globe and Mail",
-      "implication": "公開情報更新於 2026-07-30T23:15:20+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcU1IRmthNzltbEo2aExYc19TOVItMXFoUUFkazJhYXZRcW9xS1oyTUVueUtQLXN4cVNiMzlzSWJEdDRtM2lNTk1rVXRVblJzdkpSeXM0VnJsblhSWXp4MENwdUMzdjRUdHdDQlBJbEdPNlpCQzJvbWJ6OEZSeG52SGNJcm9MdGJCMWJKbENLN3VJeXVTVE9EOG9OOVFPU251ZVBLVXM5M3pxWWVJTVhUTGtJS2ZWQWRvek5QSVNidTBTOGtBZDJwWDA4Q0tpcGVPQlpOMGpkZw?oc=5"
+      "move": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook - TIKR.com",
+      "implication": "公開情報更新於 2026-08-05T01:32:56+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjlRd1RhV01JQ2g2MGMzaC11TWNpS3lWLTh1MUVPcE1qZHlGVkxzcExxVlp3cWEtZ3dyTjdEV1hzWDFfYklfellaUzRzY0g5RlM4QkZnWVBZZEh3dXR0WkNVY1JDMFlmczBLUjdnY1pGOXV4VGRVVUxEd1c4anpGbjBTcDduZGh2ekRrTEJESlZaOG1n?oc=5"
     },
     {
       "company": "Boyd",
@@ -229,12 +229,42 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook - TIKR.com",
+      "summary": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook TIKR.com",
+      "source": "TIKR.com",
+      "published_at": "2026-08-05T01:32:56+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjlRd1RhV01JQ2g2MGMzaC11TWNpS3lWLTh1MUVPcE1qZHlGVkxzcExxVlp3cWEtZ3dyTjdEV1hzWDFfYklfellaUzRzY0g5RlM4QkZnWVBZZEh3dXR0WkNVY1JDMFlmczBLUjdnY1pGOXV4VGRVVUxEd1c4anpGbjBTcDduZGh2ekRrTEJESlZaOG1n?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say - Reuters",
+      "summary": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say Reuters",
+      "source": "Reuters",
+      "published_at": "2026-08-04T21:53:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "CDU／幫浦",
       "headline": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit - LionhearTV",
       "summary": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit LionhearTV",
       "source": "LionhearTV",
       "published_at": "2026-08-04T19:53:25+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3QwdVVRS1JfSVkxVFZoTWVyUFJWbTBnb0tRaVVjWG5KVWlkdFdZLVdLd0tYVEdWdWNCSGVQbTFReXp0V2RUSFBPeDQzNGJsYVdSM2NYeXF5eko1cmZvZTd3WkVmNEEyaGZyWjM2c2FwUGNIWEJ5ME5vVjJOTU9oNVVITFpVMkRMSDB5VTFtZnV6ZmNhZDZBWjdFeVRLSnRWdlNjMW5tUjVoRTJxZW9rV0ZXMVhkVDBWWGM5a3NyVmR0ajQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Onsemi Completes AI Power Stack With GaN as Data Center Revenue Set to Double - Tech Times",
+      "summary": "Onsemi Completes AI Power Stack With GaN as Data Center Revenue Set to Double Tech Times",
+      "source": "Tech Times",
+      "published_at": "2026-08-04T19:27:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFh3Q3laR2JaUUtzZl9DYTN3N2JXYXJEYVpRdm82TXlEX2JmcWZzaTRnTFRpdnV5WTNxa05oQ2ViOVF3Qmt3MXlZbXFHYVhoTl9zTGhNYlcwbjBNYlo5QThRcTljRUZpY19meHlVZzBEeG5wVURib2dESVprak1weWJ5Mk9qWGFMNDVlbkdYRnlSMlJWenpGQVFCX2xHS2E5SkM5SHM5NHZwY2I0N1VsczlBZUY1ZVBHQmZRd0Fn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -289,20 +319,10 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
-      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-03T16:22:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
-      "headline": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion - datacenters.economictimes.indiatimes.com",
-      "summary": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion datacenters.economictimes.indiatimes.com",
-      "source": "datacenters.economictimes.indiatimes.com",
+      "headline": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion - Indiatimes",
+      "summary": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion Indiatimes",
+      "source": "Indiatimes",
       "published_at": "2026-08-03T13:52:57+08:00",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUxFSG9oZm5mM1JCWXlYV1JwUHctdHN0VllFaXZqVTI0OUhDSTBUdXpxVnJ1Ny01ejN6M3Y5Yzk1bkd2OUlLRS10U2Z4Y3ZvRGxBeW1lZ3BOTGFfODdmQl9XNjBtazNWcURKNXRJWjVDN1VIVkZEekFlLWpNVmtWUl9Zd0lHcG1QcUJHQ1J0ME9vMnVDdDlsb2pSbU5PMEloQnB2R2hvZ3g3R3BGc1RDTUxiZTdLN200X21vaGdnRWc3M1Z1QUlyY1dETFhFeFBxRnJCS2lJOU1yam55SXFwbVQzSWdmR28?oc=5",
       "data_type": "live",
@@ -325,26 +345,6 @@
       "source": "Spherical Insights",
       "published_at": "2026-08-02T04:08:22+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQLWIwU3R3SW1KV3IzdzZkNk0zZ0ZjVG13YW1tUzlJcXJIcl9wM2tnUFFpWUVRUlpBQ0dXWmIxZVZLeFNUcG1OdHdHQVR5aEZhWVRmVTdkQklzd1hFVGpORWNaV1A5WWNHalE0V1VfMTEyZlJpQzZSdGl2NFF0c3VYWnprZHJhTTRMNzhJYmVkVExZOFI2T0tQem9sR0UxbU9fMXFuZUU3OVh3Q2F1R08zaDdMN3M2d2NURjhSMHJNOXhhbF9pamlRMzBXSEp3MmVQdkZ4QkpCS1JqRkpVXzR5QVdKWEtUUVJUSWx6TlhWdURjOW9vOThBTEJjd2J1OWtjdE5qNHd4Y0pvSlJ3UkhxbHNER1hCUFYzSlJ5bzM1b3VySU8wLU9mMUJRaThrUENGU2VaLURlWHRWdXJOalBUTUdqRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices - datacenters.economictimes.indiatimes.com",
-      "summary": "India's AI Data Centers: Liquid Cooling, Water Scarcity Drive Design Choices datacenters.economictimes.indiatimes.com",
-      "source": "datacenters.economictimes.indiatimes.com",
-      "published_at": "2026-08-01T15:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWE5TamRGZWIwc0VZWk1yYno2RlVnRUU1RzhreFZyLTJfR2NUSHhBeU9POU9oNHV1cG5NUFRnUlQ5ek1VaHlrUUFYb09fZ1F5SmVsNnRsMXp3QnRIMjhMbE1keWZQWXNQdjdiWGJWcnNrMGlDQWp6ZlRvcW5MRkJiQUE5azJqYW96aEZnV3R6bWx0TU80MUJEOU91eDZveWhDWE1DRVh6aDZZV25zZmNJYzl6dlM5VFN6Qjc1WU1WNmFFcmRKbTlXSEFhbzJYNWZxYlEtYkJZVzVxRHl1ZUlReVVMWXRQa2NYNXhEWDN2RmRqRzRXRDA1aTdlVQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Castrol Diversifies into Liquid Cooling for AI Data Centres - datacenters.economictimes.indiatimes.com",
-      "summary": "Castrol Diversifies into Liquid Cooling for AI Data Centres datacenters.economictimes.indiatimes.com",
-      "source": "datacenters.economictimes.indiatimes.com",
-      "published_at": "2026-08-01T13:16:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWG9TQWFIU2lJRHc1dzE5eW01aE5mSUFlVG1Yd0tCanlocExoNWxRVG1ZVUdQRkRmaGM5QUkxTUYxRzFhc0FNbDgxYnYydk1ZTFNXV2pnSjRWRUYyOGxsaDB5R1hYMlk4c1M0TG5qckp0ajBfMU9aMEZpbWFaRk11a1JaVDhWQzNQU1ZqQ2tJb29Yc2VKZWZFNVFPaC1Vb0lDeVBZb1hEdUFFZmdSRncwbFBkWTVQNThZUTNsdm5YT2hWWE9TMTZ4Rm9Ca1dJc1VpSVhMdWkyWWxUOERiVHBuRkZMcm9SN0t1?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
