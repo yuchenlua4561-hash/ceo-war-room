@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-05T23:50:59+08:00",
+  "intel_updated_at": "2026-08-06T04:44:09+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -230,11 +230,31 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Texas Data Center Boom Opens Opportunities for Mexico - Mexico Business News",
+      "summary": "Texas Data Center Boom Opens Opportunities for Mexico Mexico Business News",
+      "source": "Mexico Business News",
+      "published_at": "2026-08-06T00:35:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWlqR2VlaHY1emh0bmtTSDUxakh0a2pzLU5CcG9Cdm1TcVdpQXBfcW1yWWQtUF9sZVBGbmtFM3Vqa25PTmNackRzczhCZ09nNmY5LWlZbXRkYWxHVVlrOGkyVUViVF9YeHhyX0xaUDA2M3ZrUW9vSWtKaTNhT09mbXZ6NVVWRGhKR09VbFljRWYzYmJDN2tkWGNuM3NkM3lYQmVUa0x3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner - PR Newswire",
       "summary": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner PR Newswire",
       "source": "PR Newswire",
       "published_at": "2026-08-05T22:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFJ0R2lpc2p2T0pIMlAwOHFXSEI3Y05NRmVFdF9KMURoczRjNVVTaERuZTZYVjJNODhDNEZRRkpJbEp4eFR3N3N1T2RYMHA3NFJzMl9pbHhhTDJiYjZPc0p5dEdrSXpBb0QxTDlhYmhTRVhaV2s5NUV4Q3hxcTliRjQ4d0dEYVJoRGRpZlNEcFBMek8welliZjkzNnVzT1dzankyeTRTR1lBZHpPa050QlFXZ0ozeGVGQkpzbUxIOEFmTDYtc0dFUA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Traditional AI infrastructure models are reaching operational limits at AI factory scale",
+      "summary": "AI Infrastructure Is Reaching New Operational Limits For decades, data center infrastructure and compute platforms evolved largely independently. Organizations selected servers, storage, and networking technologies, then designed facility infrastructure around",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-05T20:00:00+08:00",
+      "url": "https://blog.se.com/datacenter/2026/08/05/traditional-ai-infrastructure-models-are-reaching-operational-limits-at-ai-factory-scale/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -263,7 +283,7 @@
       "headline": "Why is the US considering a ban on Chinese AI data center devices? - Latest news from Azerbaijan",
       "summary": "Why is the US considering a ban on Chinese AI data center devices? Latest news from Azerbaijan",
       "source": "Latest news from Azerbaijan",
-      "published_at": "2026-08-05T18:06:56+08:00",
+      "published_at": "2026-08-05T18:10:12+08:00",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSktIUWZoa0xwMTZyY2NBN0Y0Zkw0bExZSTU5YmRXeVNOZGgxc3NUcDl3Z3h2Vm8xWU4wTmxxUElrMW1fRk55ZzVWR0FWN3NSRzJTcVdNeElsM1c3NFBuaUVhLTVZbGNrN2hzVjJZb2NOdkM0OExRNUlKeDVvTDBDTHJ6QUlueHVaTzRFUTVFZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -319,32 +339,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Trump Targets A New Piece Of China's AI Supply Chain. Data Center Equipment Faces Fresh U.S. Curbs - International Business Times",
-      "summary": "Trump Targets A New Piece Of China's AI Supply Chain. Data Center Equipment Faces Fresh U.S. Curbs International Business Times",
-      "source": "International Business Times",
-      "published_at": "2026-08-04T23:19:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVBBRUtIeThJbmtxX3hqZjFZd3BMaHBoLUpubC14enh0V21wWmRELS1wTGF5ZUFDU3M1c3NncXJIRGI1N1JNbHptZ09IUkRENnFIdHVvM2VHSVIyNmMxRzRvYVFfdU1ielNRaUc5ZUdSMWhhTWxYT1pnZHozZzliTjN5d291bDdvRjQ2QlhpUXJGV1JtVEhXQngyZ1JtaFpCcXFfajJpX3M5S0RqejJiQ2pPNDEydUlqM28zRkJn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "CDU／幫浦",
       "headline": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit - LionhearTV",
       "summary": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit LionhearTV",
       "source": "LionhearTV",
       "published_at": "2026-08-04T19:53:25+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3QwdVVRS1JfSVkxVFZoTWVyUFJWbTBnb0tRaVVjWG5KVWlkdFdZLVdLd0tYVEdWdWNCSGVQbTFReXp0V2RUSFBPeDQzNGJsYVdSM2NYeXF5eko1cmZvZTd3WkVmNEEyaGZyWjM2c2FwUGNIWEJ5ME5vVjJOTU9oNVVITFpVMkRMSDB5VTFtZnV6ZmNhZDZBWjdFeVRLSnRWdlNjMW5tUjVoRTJxZW9rV0ZXMVhkVDBWWGM5a3NyVmR0ajQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Onsemi Completes AI Power Stack With GaN as Data Center Revenue Set to Double - Tech Times",
-      "summary": "Onsemi Completes AI Power Stack With GaN as Data Center Revenue Set to Double Tech Times",
-      "source": "Tech Times",
-      "published_at": "2026-08-04T19:27:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFh3Q3laR2JaUUtzZl9DYTN3N2JXYXJEYVpRdm82TXlEX2JmcWZzaTRnTFRpdnV5WTNxa05oQ2ViOVF3Qmt3MXlZbXFHYVhoTl9zTGhNYlcwbjBNYlo5QThRcTljRUZpY19meHlVZzBEeG5wVURib2dESVprak1weWJ5Mk9qWGFMNDVlbkdYRnlSMlJWenpGQVFCX2xHS2E5SkM5SHM5NHZwY2I0N1VsczlBZUY1ZVBHQmZRd0Fn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
