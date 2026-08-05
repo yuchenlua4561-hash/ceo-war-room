@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-05T05:51:12+08:00",
+  "intel_updated_at": "2026-08-05T15:59:31+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -214,10 +214,10 @@
     },
     {
       "company": "nVent",
-      "product": "資料中心",
-      "move": "nVent Continues to Add Capacity to Meet Demand From Data Centers - Morningstar",
-      "implication": "公開情報更新於 2026-08-01T01:39:46+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUpMUzJBMUVPbGpram8xeUJOVEJEYmZPaGNTQmpLbGR3d2FoMERvSGFBYVlPTEZSZ2piUFlvQWxSWEJEV25BSWo2YWY0M3R4Q2R6TE8xc3puZFp2Qlo3dlZNM29qemVfM2xOV2RoZkVhMl9sNmk2VWVuM3RPaHM5TnZGTmdQQjNGS3NjUXh1ZDNaM3psVTVUbW5uRUdCeHd5VG9PNkV4OVV3cXhXSi15QzRHbF9xaTg?oc=5"
+      "product": "液冷散熱",
+      "move": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? - Yahoo Finance",
+      "implication": "公開情報更新於 2026-08-05T06:09:31+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1BfSW9SMEpub3lnWjJubzh1QkM2UFNEOFgtUUlQX254WnBxWUVVcWNpZFBDS1FET3pvaDlIMEd4RXNENXVhN0VhelBOeGpWZ09fV0RFb1puYVBZSWpSVXk1b1pwQVAyXzJBWWw5MlBLWHRMVXZkbzNnaXZLc3J2aVIzX2FkMXA2TWRzdENqbm8?oc=5"
     },
     {
       "company": "Johnson Controls",
@@ -228,6 +228,16 @@
     }
   ],
   "news": [
+    {
+      "category": "液冷散熱",
+      "headline": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? - Yahoo Finance",
+      "summary": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-05T06:09:31+08:00",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1BfSW9SMEpub3lnWjJubzh1QkM2UFNEOFgtUUlQX254WnBxWUVVcWNpZFBDS1FET3pvaDlIMEd4RXNENXVhN0VhelBOeGpWZ09fV0RFb1puYVBZSWpSVXk1b1pwQVAyXzJBWWw5MlBLWHRMVXZkbzNnaXZLc3J2aVIzX2FkMXA2TWRzdENqbm8?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook - TIKR.com",
@@ -240,11 +250,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say - Reuters",
-      "summary": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say Reuters",
-      "source": "Reuters",
-      "published_at": "2026-08-04T21:53:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
+      "headline": "Trump Targets A New Piece Of China's AI Supply Chain. Data Center Equipment Faces Fresh U.S. Curbs - ibtimes.com",
+      "summary": "Trump Targets A New Piece Of China's AI Supply Chain. Data Center Equipment Faces Fresh U.S. Curbs ibtimes.com",
+      "source": "ibtimes.com",
+      "published_at": "2026-08-04T23:19:31+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVBBRUtIeThJbmtxX3hqZjFZd3BMaHBoLUpubC14enh0V21wWmRELS1wTGF5ZUFDU3M1c3NncXJIRGI1N1JNbHptZ09IUkRENnFIdHVvM2VHSVIyNmMxRzRvYVFfdU1ielNRaUc5ZUdSMWhhTWxYT1pnZHozZzliTjN5d291bDdvRjQ2QlhpUXJGV1JtVEhXQngyZ1JtaFpCcXFfajJpX3M5S0RqejJiQ2pPNDEydUlqM28zRkJn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Expands Global Manufacturing Capacity for AI-Ready Data Center Cooling Solutions - CXOToday.com",
+      "summary": "Vertiv Expands Global Manufacturing Capacity for AI-Ready Data Center Cooling Solutions CXOToday.com",
+      "source": "CXOToday.com",
+      "published_at": "2026-08-04T20:56:51+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckJnQloxazZzSVJZSEdxem5iUHNveDBRbllEMkRuZXBFei1LUENQWnpCOUcwVkhPX2paYUZFQmtXbWhLMUlYVVA3a2dBNEU0NEpEZUJvMElHUXJCTm81aFNoRl9PWlZhb3ItLXJ2MUw1Sk9rdjZzZllZTWlYdDRnb3l0SlNmb0xEbmxoNm1YcVZpUkxOa1hpWlh4TlJjWjdVTlExd0RkX2FzXzFmRTFHNkNzU0ZiNTMxYTdKVEs4Vk9Kdw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -270,9 +290,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Bitzero Adds Power and Cooling Expertise for AI Data Centers - Stock Titan",
-      "summary": "Bitzero Adds Power and Cooling Expertise for AI Data Centers Stock Titan",
-      "source": "Stock Titan",
+      "headline": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say - Reuters",
+      "summary": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say Reuters",
+      "source": "Reuters",
+      "published_at": "2026-08-04T18:06:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Bitzero Adds Power and Cooling Expertise for AI Data Centers - stocktitan.net",
+      "summary": "Bitzero Adds Power and Cooling Expertise for AI Data Centers stocktitan.net",
+      "source": "stocktitan.net",
       "published_at": "2026-08-04T18:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREtmNEtPWVRtcXBCeUZKM3lyV1pBSFV5Rjc1MWhGdlU0aFFTWmJ3MEZvdlVNaGRJUWxmVE5rV05ma1loWFZEREt1UXpJZUpwaXJEYTVuWnBKY3V0NERleDdxeFFrZHY3c1NqVkF0NXUtTnp2UTAzZ3NOM3BWX1ZvX1RHYmloMmg5dmV4SUZKODE1WmNpaG1BM3RlVXp4aTU5N2FldzVGSW9MT0dIVG1sQ29JVl8?oc=5",
       "data_type": "live",
@@ -315,36 +345,6 @@
       "source": "TradingView",
       "published_at": "2026-08-04T03:31:54+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMHZJX2cxR0hUd2hPZzFxTS1zQTVCbWpkM3VhWUhSRHJNWVpzRDN4VWE3TFN0WktGb0Ezb0ZjSlM5T282VGVNSkZoX1daWGZTS1owMGd3RDNtMmNHTUphY0Nnakx6akZuQVBPTGpFR0xXM3c3NzZNUnBTNFhwY2VPTjRkQy1iT0pMT0xINVRST3NXVDRYX2RBWHh3RmxkeUE2eHhrdlJwck5jSXFGcjlVVU4tVUNjbi04YjI1S0FHVGZyRV9qTk9XWHppZ2Rab3lqOERZ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion - Indiatimes",
-      "summary": "Nebius Emissions Soar 32x Amid Rapid Data Center Expansion Indiatimes",
-      "source": "Indiatimes",
-      "published_at": "2026-08-03T13:52:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUxFSG9oZm5mM1JCWXlYV1JwUHctdHN0VllFaXZqVTI0OUhDSTBUdXpxVnJ1Ny01ejN6M3Y5Yzk1bkd2OUlLRS10U2Z4Y3ZvRGxBeW1lZ3BOTGFfODdmQl9XNjBtazNWcURKNXRJWjVDN1VIVkZEekFlLWpNVmtWUl9Zd0lHcG1QcUJHQ1J0ME9vMnVDdDlsb2pSbU5PMEloQnB2R2hvZ3g3R3BGc1RDTUxiZTdLN200X21vaGdnRWc3M1Z1QUlyY1dETFhFeFBxRnJCS2lJOU1yam55SXFwbVQzSWdmR28?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Coloray Expands Research on Nanofluid for AI Liquid Cooling, Pursues Development of High-Efficiency Thermal Materials - 아시아경제",
-      "summary": "Coloray Expands Research on Nanofluid for AI Liquid Cooling, Pursues Development of High-Efficiency Thermal Materials 아시아경제",
-      "source": "아시아경제",
-      "published_at": "2026-08-03T12:45:37+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SWFk4c2FGSm1XNG90a291aW82dHZfTW9GSmw3c1Y3b1NkVlpUQ21qa093UDc2SndLR0NOdm5OLXN0cWtuMjdkTU10R21lZ0ZnSndTajFLYndtMVQtVzBmTXhJeVQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Why Artificial Intelligence Data Centers Are Powering the Future of Digital Infrastructure Through High Performance Computing, Sustainable Innovation, and Intelligent Cloud Ecosystems - Spherical Insights",
-      "summary": "Why Artificial Intelligence Data Centers Are Powering the Future of Digital Infrastructure Through High Performance Computing, Sustainable Innovation, and Intelligent Cloud Ecosystems Spherical Insights",
-      "source": "Spherical Insights",
-      "published_at": "2026-08-02T04:08:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQLWIwU3R3SW1KV3IzdzZkNk0zZ0ZjVG13YW1tUzlJcXJIcl9wM2tnUFFpWUVRUlpBQ0dXWmIxZVZLeFNUcG1OdHdHQVR5aEZhWVRmVTdkQklzd1hFVGpORWNaV1A5WWNHalE0V1VfMTEyZlJpQzZSdGl2NFF0c3VYWnprZHJhTTRMNzhJYmVkVExZOFI2T0tQem9sR0UxbU9fMXFuZUU3OVh3Q2F1R08zaDdMN3M2d2NURjhSMHJNOXhhbF9pamlRMzBXSEp3MmVQdkZ4QkpCS1JqRkpVXzR5QVdKWEtUUVJUSWx6TlhWdURjOW9vOThBTEJjd2J1OWtjdE5qNHd4Y0pvSlJ3UkhxbHNER1hCUFYzSlJ5bzM1b3VySU8wLU9mMUJRaThrUENGU2VaLURlWHRWdXJOalBUTUdqRQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
