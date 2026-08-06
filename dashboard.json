@@ -1,11 +1,13 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-06T08:13:54+08:00",
+  "intel_updated_at": "2026-08-06T18:58:30+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -230,6 +232,26 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Samsung takes a step toward its first floating AI data centers - Techzine Global",
+      "summary": "Samsung takes a step toward its first floating AI data centers Techzine Global",
+      "source": "Techzine Global",
+      "published_at": "2026-08-06T17:44:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGgyOGVfY0hNTC1vN1hPNUFHUXFjc1RLWnUtQ1M4ekg1bzFCNEpRaVM3YzVVX2RETmVWTmNNMTFLd3VVRGJOWHc1aVA3S21ubk5HX2hoNDZMTHZPQmloSVg1NVo4NkpWcE9wczdobzd6WnhrRVNyOTJWcVZLc2U3blBNOWZ4SGYxUWdneXVzU2E4NXRrOVZFTVBQLWYtZEY1WWlrM0xQR1Z0Wi1PMkNZcERMNkw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Ecolab Details Reliable Liquid Cooling for AI Data Centers - Indiatimes",
+      "summary": "Ecolab Details Reliable Liquid Cooling for AI Data Centers Indiatimes",
+      "source": "Indiatimes",
+      "published_at": "2026-08-06T11:56:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQXRNT2ZoU3RkSFg4YVZSdm5aRWR4UUJoTnRFWkdZcXFaWnBfMXlESWRmYTItUUh5bUZUUkZNMmZHek1fOVpfRk5acGpiSGlYVUozTzUwRjB4dFY0Qkw1THZackY0bDJBY2hlaDVaMU1FX2MtckVBeE0xRUlqQU84OXhfWi1vaExtWkoyczJPaVpGWWY1TlJjRUtPbVc0ZU1raDM0WVNpcEJXLUFfUDJHZGIxd0I3SVBKbFBqWmt4bkVpYnFfNEVITWc5SFZiWHJaUXZGaU82MXN6aHEyU1ZKT05weUU3VU0?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Texas Data Center Boom Opens Opportunities for Mexico - Mexico Business News",
       "summary": "Texas Data Center Boom Opens Opportunities for Mexico Mexico Business News",
       "source": "Mexico Business News",
@@ -290,6 +312,16 @@
     },
     {
       "category": "液冷散熱",
+      "headline": "Scaling AI Infrastructure with Custom Data Center Liquid Cooling CDU Solutions from EXTRCOOL - Issuewire",
+      "summary": "Scaling AI Infrastructure with Custom Data Center Liquid Cooling CDU Solutions from EXTRCOOL Issuewire",
+      "source": "Issuewire",
+      "published_at": "2026-08-05T11:27:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWlhXN2Z2VHdUY3FULU9fU0RHeU8tdzg1aGZmcmpKN0ljbGUzMlBTMmpxc0dQR2lBVVNZdVkzVVVHVk5wWVMwQkJ4UEV0WDVaTFBVcjRXQ3JMdkozMUoyZlNXVDljVkVBTmpYMUtFWXlEejM1YVVWbEVydENOOUI0VktXdVd6ODBfY09Rc2M1VW91SW4tM0Q4MTU1dFRrRkFLbmhyejFocDFmMHhoY3pyQWFvcWFsYmVHcEVOc3IzRWJ0WEVWMS04T3NfSm1xWWli?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? - Yahoo Finance",
       "summary": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? Yahoo Finance",
       "source": "Yahoo Finance",
@@ -315,36 +347,6 @@
       "source": "TIKR.com",
       "published_at": "2026-08-05T01:32:56+08:00",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjlRd1RhV01JQ2g2MGMzaC11TWNpS3lWLTh1MUVPcE1qZHlGVkxzcExxVlp3cWEtZ3dyTjdEV1hzWDFfYklfellaUzRzY0g5RlM4QkZnWVBZZEh3dXR0WkNVY1JDMFlmczBLUjdnY1pGOXV4VGRVVUxEd1c4anpGbjBTcDduZGh2ekRrTEJESlZaOG1n?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Trump Targets A New Piece Of China's AI Supply Chain. Data Center Equipment Faces Fresh U.S. Curbs - International Business Times",
-      "summary": "Trump Targets A New Piece Of China's AI Supply Chain. Data Center Equipment Faces Fresh U.S. Curbs International Business Times",
-      "source": "International Business Times",
-      "published_at": "2026-08-04T23:19:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVBBRUtIeThJbmtxX3hqZjFZd3BMaHBoLUpubC14enh0V21wWmRELS1wTGF5ZUFDU3M1c3NncXJIRGI1N1JNbHptZ09IUkRENnFIdHVvM2VHSVIyNmMxRzRvYVFfdU1ielNRaUc5ZUdSMWhhTWxYT1pnZHozZzliTjN5d291bDdvRjQ2QlhpUXJGV1JtVEhXQngyZ1JtaFpCcXFfajJpX3M5S0RqejJiQ2pPNDEydUlqM28zRkJn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit - LionhearTV",
-      "summary": "LG Electronics Earns NVIDIA AI Factory Validation for Its 600kW Coolant Distribution Unit LionhearTV",
-      "source": "LionhearTV",
-      "published_at": "2026-08-04T19:53:25+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3QwdVVRS1JfSVkxVFZoTWVyUFJWbTBnb0tRaVVjWG5KVWlkdFdZLVdLd0tYVEdWdWNCSGVQbTFReXp0V2RUSFBPeDQzNGJsYVdSM2NYeXF5eko1cmZvZTd3WkVmNEEyaGZyWjM2c2FwUGNIWEJ5ME5vVjJOTU9oNVVITFpVMkRMSDB5VTFtZnV6ZmNhZDZBWjdFeVRLSnRWdlNjMW5tUjVoRTJxZW9rV0ZXMVhkVDBWWGM5a3NyVmR0ajQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Onsemi Completes AI Power Stack With GaN as Data Center Revenue Set to Double - Tech Times",
-      "summary": "Onsemi Completes AI Power Stack With GaN as Data Center Revenue Set to Double Tech Times",
-      "source": "Tech Times",
-      "published_at": "2026-08-04T19:27:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFh3Q3laR2JaUUtzZl9DYTN3N2JXYXJEYVpRdm82TXlEX2JmcWZzaTRnTFRpdnV5WTNxa05oQ2ViOVF3Qmt3MXlZbXFHYVhoTl9zTGhNYlcwbjBNYlo5QThRcTljRUZpY19meHlVZzBEeG5wVURib2dESVprak1weWJ5Mk9qWGFMNDVlbkdYRnlSMlJWenpGQVFCX2xHS2E5SkM5SHM5NHZwY2I0N1VsczlBZUY1ZVBHQmZRd0Fn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
