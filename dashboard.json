@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-08T01:36:48+08:00",
+  "intel_updated_at": "2026-08-08T04:08:32+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -271,6 +269,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate - Yahoo Finance",
+      "summary": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T21:16:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0wxRFFjRUoxNkh0eU83MS1CUEppcEJnbk9pcDZrc0pxVDBjVm80cXEwTnRBWklMaFNNTVA3ZW1EajVNUTZpblUzTWJ0SFNXdzQtSVJXTlE3ZHpTZ0k2MlpSSldfSkhmcVAxUkxicXBHV1VMSEEwbDhuUW15V1J2LWxkTkNXRXZaRUp3S1hOMlNjbDcyNDQ2alNUQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "nVent expands data center liquid cooling capacity - Data Center Dynamics",
       "summary": "nVent expands data center liquid cooling capacity Data Center Dynamics",
@@ -337,16 +345,6 @@
       "source": "Nasscom",
       "published_at": "2026-08-06T15:44:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT CEO Park Yoon-young Visits Mok-dong Data Center, Targets \"AIDC Leap to AX Platform\" - finance.biggo.com",
-      "summary": "KT CEO Park Yoon-young Visits Mok-dong Data Center, Targets \"AIDC Leap to AX Platform\" finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-06T14:26:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6b05HWHI4R0JVRlNqcGhNSl8tY2pORmF2Z3pVUnlFTTJXQnI4ejJ5WGN4Vl9rc1ZacjF5SmJmQkUtNnZtdWw2elFFTXdDdlQwbGtHRkZjczNKN3lxbjNDQWNfdFhBdnlZWGtHZU9BSHU5a0VoWEE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
