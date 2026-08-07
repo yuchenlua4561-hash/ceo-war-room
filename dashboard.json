@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-07T14:14:29+08:00",
+  "intel_updated_at": "2026-08-07T18:16:15+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -229,6 +229,16 @@
   ],
   "news": [
     {
+      "category": "CDU／幫浦",
+      "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
+      "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
+      "source": "TechPorn",
+      "published_at": "2026-08-07T16:29:34+08:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "KühlTherm Launches Indigenous Liquid Cooling Solutions and India’s First Integrated Validation Lab - businessnewsthisweek.com",
       "summary": "KühlTherm Launches Indigenous Liquid Cooling Solutions and India’s First Integrated Validation Lab businessnewsthisweek.com",
@@ -335,16 +345,6 @@
       "source": "Mexico Business News",
       "published_at": "2026-08-06T00:35:46+08:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWlqR2VlaHY1emh0bmtTSDUxakh0a2pzLU5CcG9Cdm1TcVdpQXBfcW1yWWQtUF9sZVBGbmtFM3Vqa25PTmNackRzczhCZ09nNmY5LWlZbXRkYWxHVVlrOGkyVUViVF9YeHhyX0xaUDA2M3ZrUW9vSWtKaTNhT09mbXZ6NVVWRGhKR09VbFljRWYzYmJDN2tkWGNuM3NkM3lYQmVUa0x3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner - PR Newswire",
-      "summary": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner PR Newswire",
-      "source": "PR Newswire",
-      "published_at": "2026-08-05T22:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFJ0R2lpc2p2T0pIMlAwOHFXSEI3Y05NRmVFdF9KMURoczRjNVVTaERuZTZYVjJNODhDNEZRRkpJbEp4eFR3N3N1T2RYMHA3NFJzMl9pbHhhTDJiYjZPc0p5dEdrSXpBb0QxTDlhYmhTRVhaV2s5NUV4Q3hxcTliRjQ4d0dEYVJoRGRpZlNEcFBMek8welliZjkzNnVzT1dzankyeTRTR1lBZHpPa050QlFXZ0ozeGVGQkpzbUxIOEFmTDYtc0dFUA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
