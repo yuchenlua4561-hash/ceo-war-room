@@ -1,11 +1,13 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-07T22:36:01+08:00",
+  "intel_updated_at": "2026-08-08T01:36:48+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -215,9 +217,9 @@
     {
       "company": "nVent",
       "product": "液冷散熱",
-      "move": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? - Yahoo Finance",
-      "implication": "公開情報更新於 2026-08-05T06:09:31+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1BfSW9SMEpub3lnWjJubzh1QkM2UFNEOFgtUUlQX254WnBxWUVVcWNpZFBDS1FET3pvaDlIMEd4RXNENXVhN0VhelBOeGpWZ09fV0RFb1puYVBZSWpSVXk1b1pwQVAyXzJBWWw5MlBLWHRMVXZkbzNnaXZLc3J2aVIzX2FkMXA2TWRzdENqbm8?oc=5"
+      "move": "nVent expands data center liquid cooling capacity - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-08-07T17:15:47+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXkxZzhzSDk1TU9SaW9MMlgwNl9wdU5tbDhfd1BnWlI0aVh5Ym1HRnJGLWVoU3ZRc2htcWoyYURyUW84Q1VJOHpCYk14LW1tTm4yVmNjRGl5Unl0TnZaNGs0SFd1NXQxbkhtOVM5NTVwLUVBcTEtSkRKa05EeDNzcTlQUTQ3akZldXV2UTRLV2pFMENzbUVBWXJMMXZUdWpNQUVZ?oc=5"
     },
     {
       "company": "Johnson Controls",
@@ -228,6 +230,26 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "Efficient data center water cooling for Australia’s market - Data Center Dynamics",
+      "summary": "Efficient data center water cooling for Australia’s market Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-08-07T23:01:41+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFQ5YS04NjlMZTJzSG42TFJYWVJrMzJsOFRxNG9xUTVhYW9kZjFUT1VCVThkOFFET3V0d3NTSG9YQWVyVEphczRmdVdKZkVYa0xESmlGeGtqT2UtYV9tUlM4U2VyZlJkZjFtMzBLVHZjaTFCRHJ1aXJ3WGVtR1RwSFpQYWp5NnNmNnliVFpyajZ6RFRBQkdVWmpWRXdVdHVueHdZaVp1cjA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - Big News Network.com",
+      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad Big News Network.com",
+      "source": "Big News Network.com",
+      "published_at": "2026-08-07T22:29:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdkJvcVBwUVVkRmxtc1VwMGc1Qko0SkhTZGtCVTM4T1FaSktYcmx4M1YxN1ZXTFJGc0VNSnRSanUwT2xuYlMyRG5Tajh4SVpwTU1ERkpiTVh4U1piZlozTjNyaVZBWVNqNUV2X3FGc0dPRXJIWTNiM3lrNXhQVE1VM2xEZDFPMV82ZHVXN08wemNkX3l1Vno4NlJEQjI3eHdiRzRxUnpGWk85cHdkTHZmSWp3X1RGdkNKMWNvdTktR3FXRTFJVnpqdGwwNWs3VVZteDFIX0JiZ0VVd3lLd2VuTFRvSW15c3dIT0tXUmVjZkNrY3VGNm1PZTN1RVVBaVJZZnNLMF8zVTYySTJldkt0bEFVLTdBamRYS1M3aGRyNEZMUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "液冷散熱",
       "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - The Manila Times",
@@ -250,11 +272,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - bignewsnetwork.com",
-      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad bignewsnetwork.com",
-      "source": "bignewsnetwork.com",
-      "published_at": "2026-08-07T18:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNWTIwbm5GbGQ3RG1WWXZ0d1I1WmpDSDNkWmR3aTVkcElaWHF3LWhDVU9YSmZSTmlwNU9KOGxERy12aWwweUxsenhYVGp4Tk1Pc2JtRDF2Q2hncmtEV0hsUkptSzZWWWtxOVRJVTJOUW00X1p4S3BZYWcwaEI1SURkNUFNQWNicHd4VEF5UXpiWDYyeVFtQUZXSk1yUUFaNzNSX2JPTm9PUUh4M01LVXRTdUE5b1A3QXc0MThBYTlDWnlsRERMLXlNR3N4Zl9zcUVuVjRSUGpfUzMzQTdxZHRPbDdLWU5hY2hvbEdjNE1xR3JFMW1ENUVwNG1LY2Z0anZ4Mll2cWF4Z0NFSl9jLTNMUmtZNzFKd2tVb0p1dllfS1FUUQ?oc=5",
+      "headline": "nVent expands data center liquid cooling capacity - Data Center Dynamics",
+      "summary": "nVent expands data center liquid cooling capacity Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-08-07T17:15:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXkxZzhzSDk1TU9SaW9MMlgwNl9wdU5tbDhfd1BnWlI0aVh5Ym1HRnJGLWVoU3ZRc2htcWoyYURyUW84Q1VJOHpCYk14LW1tTm4yVmNjRGl5Unl0TnZaNGs0SFd1NXQxbkhtOVM5NTVwLUVBcTEtSkRKa05EeDNzcTlQUTQ3akZldXV2UTRLV2pFMENzbUVBWXJMMXZUdWpNQUVZ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -265,16 +287,6 @@
       "source": "TechPorn",
       "published_at": "2026-08-07T16:29:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Understanding Different AI Data Center Leasing Prices and Categories - NextBigFuture.com",
-      "summary": "Understanding Different AI Data Center Leasing Prices and Categories NextBigFuture.com",
-      "source": "NextBigFuture.com",
-      "published_at": "2026-08-06T23:02:20+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -309,6 +321,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-06T15:44:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
       "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
@@ -325,26 +347,6 @@
       "source": "finance.biggo.com",
       "published_at": "2026-08-06T14:26:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6b05HWHI4R0JVRlNqcGhNSl8tY2pORmF2Z3pVUnlFTTJXQnI4ejJ5WGN4Vl9rc1ZacjF5SmJmQkUtNnZtdWw2elFFTXdDdlQwbGtHRkZjczNKN3lxbjNDQWNfdFhBdnlZWGtHZU9BSHU5a0VoWEE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Park Yoon-young rallies KT Group to fortify AI data center leadership in Korea - CHOSUNBIZ - Chosunbiz",
-      "summary": "Park Yoon-young rallies KT Group to fortify AI data center leadership in Korea - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-08-06T13:47:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DUGxaRWs4ZEJrNXdvMHRGeDBlcVNYQkFfeVQ3Z1NONGF6OGFJNFdrZklyUGpBbHZSWnhRM2tZaTB4MnhVbzNFODR3SnR4aGw2ODdDS1h2bUJTOE9MRzFJelRXT2F5cjRwU2c4ZjFoWjFmV0FsS01MQjZn0gGOAUFVX3lxTFBsem5VSTVuMUNDSWZHbzRUWG5oblFkenhoeWY0MnJCTkdmWEVKMzBvbmduZ01pWkVKWEJtY1B1Z1FQY2N1bjNZdHgtVDhYYW11bHRKdWxTUW9pb0dYYkVZYVdIMERQbFk1alJaQkhfUFNBaFFWRXZzLXN4eUp5Yll4c3FyOTF0dGhqNGtuVFE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Ecolab Details Reliable Liquid Cooling for AI Data Centers - Indiatimes",
-      "summary": "Ecolab Details Reliable Liquid Cooling for AI Data Centers Indiatimes",
-      "source": "Indiatimes",
-      "published_at": "2026-08-06T11:56:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQXRNT2ZoU3RkSFg4YVZSdm5aRWR4UUJoTnRFWkdZcXFaWnBfMXlESWRmYTItUUh5bUZUUkZNMmZHek1fOVpfRk5acGpiSGlYVUozTzUwRjB4dFY0Qkw1THZackY0bDJBY2hlaDVaMU1FX2MtckVBeE0xRUlqQU84OXhfWi1vaExtWkoyczJPaVpGWWY1TlJjRUtPbVc0ZU1raDM0WVNpcEJXLUFfUDJHZGIxd0I3SVBKbFBqWmt4bkVpYnFfNEVITWc5SFZiWHJaUXZGaU82MXN6aHEyU1ZKT05weUU3VU0?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
