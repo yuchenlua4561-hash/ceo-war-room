@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-07T18:16:15+08:00",
+  "intel_updated_at": "2026-08-07T22:36:01+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -229,22 +229,42 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - The Manila Times",
+      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence The Manila Times",
+      "source": "The Manila Times",
+      "published_at": "2026-08-07T21:56:14+08:00",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQa0Z6aVVsUG9RWmx1NTZXRnhuUnJUMnVNd28xYXJ4WmNoYm9vRkowR25tSHpMUXBrWk8xU2JwTG9pVC1DaUtwQk9tVGhIYUdLdV9fYWNhSUdHMXZORmExUTlRUVYxZkpYZTBERV9QTWZVcHpvdmVGM3hGdzRzQU9DVnlseXgxaVQ2d0VXZ05jWl93bmJaNnllX21uWVFwSmJrUFV2UkdWeFBlNGluWFBDZk1RbE9fX3U0X3ZzLTBoY2lxelBxM042TTdodUx0MWF4cElKY0tZX2Z2blFhSkJoNXFxQ01YYzhQY2xONjg1YUJYTzd4RC1aLU5NZnVua3paMkhSYjVFTlRvSTZudHRxZWNoV3g3MC1ROUYxRjF6b041OENWejg0TzBxOXlXQU5tVXIybEhXaVppYUFrVDJ6OG80NGlDdmF4VGdRatIB0gJBVV95cUxQcVVKOVVVQ3BWSUJtaV9RNkVneVpLMll1aWxhUFU1TVpvMnpsOXl6MVhDWm9EemM0STBLZloxRnZ6cDhraDFwbmxsN0N3VzV3dGVPeDNaMm1ZZGh3WlhuODB1WS05dzhORDhEZTdTM01qNWpUdTVGTzdXaWNnNldXU3phYTF5aWpxSm14RlBHbGQ3b2RTVnBTdmdQX29YeDBHUXpPNi1WMW1GSElyOHJzb0pkWUVndERYU0ZlQzdCMm1Da0stRTh4c1hmSjdlZkRxQ2hIUklkSFdhaU1VR243MHZCZVpjbzBYUXdkR1pJeGh3RWZZYmJNbXA5cHJHWHFLbEZ3bXk4Q25nVnJDc2VXeGZxSXFsRUpRTUl5OTNDSGJaZXNuUUR5SGZKcGVmUHFmTHByTWVoR3g2TzZrdy1GbHN4eEhzX2JXT1d3c3FoWGNhZw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data Center Solutions Market to Reach US$1.33 Trillion by - GlobeNewswire",
+      "summary": "Data Center Solutions Market to Reach US$1.33 Trillion by GlobeNewswire",
+      "source": "GlobeNewswire",
+      "published_at": "2026-08-07T21:16:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPNkFJWVh0SUt5NzE5Y2MzNU11SkZGZkZabEE3cmNiaFZwSG5zTDBlSTN1Qm1ucUM4UUt6Y0dTZkpSZXFIQlBvc19Bekx2NEw4TVNpUl9iUjZLOU9URW9TMGhWTFQyNmZxYU5vREkxMy1xUmFweHZuVWVKWG1xUEpPd0R6NlhPVGo4eDZYSEtwbm1QbjFod2dScV92MDkwSFBQRy13Vk0ydDY3NlYwOE8wYVdiZWp2OEdzUFFLTDkwMjR3ZnFjelhkZU9BdWQ2UExqSHFOUnFkcDk1WVEzdVkwWEJub2FLdzUwQmdQY01fa3BVMF9QNFpsNFRjY1ZTbGlDeW5OVnYzWmZrRElTbjVibm8tOUlENHdRZzFrcUM2cWk3anV3cEZoa2tUc093aWtqamZVVElWWnIxUEpNRnBwbTVpMXctcUtOdVJrekhQZmxXUGZnR1NKQlFZQndaWnVUeUhtZkJLS1dvUG1tREw0?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - bignewsnetwork.com",
+      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad bignewsnetwork.com",
+      "source": "bignewsnetwork.com",
+      "published_at": "2026-08-07T18:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNWTIwbm5GbGQ3RG1WWXZ0d1I1WmpDSDNkWmR3aTVkcElaWHF3LWhDVU9YSmZSTmlwNU9KOGxERy12aWwweUxsenhYVGp4Tk1Pc2JtRDF2Q2hncmtEV0hsUkptSzZWWWtxOVRJVTJOUW00X1p4S3BZYWcwaEI1SURkNUFNQWNicHd4VEF5UXpiWDYyeVFtQUZXSk1yUUFaNzNSX2JPTm9PUUh4M01LVXRTdUE5b1A3QXc0MThBYTlDWnlsRERMLXlNR3N4Zl9zcUVuVjRSUGpfUzMzQTdxZHRPbDdLWU5hY2hvbEdjNE1xR3JFMW1ENUVwNG1LY2Z0anZ4Mll2cWF4Z0NFSl9jLTNMUmtZNzFKd2tVb0p1dllfS1FUUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "CDU／幫浦",
       "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
       "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
       "source": "TechPorn",
       "published_at": "2026-08-07T16:29:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "KühlTherm Launches Indigenous Liquid Cooling Solutions and India’s First Integrated Validation Lab - businessnewsthisweek.com",
-      "summary": "KühlTherm Launches Indigenous Liquid Cooling Solutions and India’s First Integrated Validation Lab businessnewsthisweek.com",
-      "source": "businessnewsthisweek.com",
-      "published_at": "2026-08-07T12:34:27+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVlA1NnZjZHZTdm1nUHR2S0VUTHhxbGVYY213Uno0Wm9iYWdFYThINF9PcFg1aTNxYVpWVFRuQWctNEs3MHlQU0gwZjdrTzRqTFIyb2MxQnJWc01PVV9DN2ZzUW5tWmt4ZVNqQTNlRVBhZno2QVhHU0hFMDdZY2VwWTUzUm5jalJocUFGcWFxSXllYWx2c2JEUGNneTZfM1piQnZWaXFpTkxvZkpWY2RJd0t0LXpnYzdNLUVERzR6VGloUEd5ZVBtYVBhYy1qaUlsNzlWejVEWQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -270,11 +290,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Data Center Thermal Management Market Worth $32.38 Billion by 2032 - Exclusive Report by MarketsandMarkets - Moomoo",
-      "summary": "Data Center Thermal Management Market Worth $32.38 Billion by 2032 - Exclusive Report by MarketsandMarkets Moomoo",
-      "source": "Moomoo",
+      "headline": "Data Center Thermal Management Market worth $32.38 billion by 2032 - Exclusive Report by MarketsandMarkets™ - PR Newswire UK",
+      "summary": "Data Center Thermal Management Market worth $32.38 billion by 2032 - Exclusive Report by MarketsandMarkets™ PR Newswire UK",
+      "source": "PR Newswire UK",
       "published_at": "2026-08-06T22:15:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk5kMFpFUkZ0UjR5SWZKNUtVak5nMUZEdUJnT0FfbXVPRlU3VWQ2bmQ4TE1OQkxseVg0VDJRQUFfczlwbkMxLW55SndocFpaOERLTV9tZXIwMy1qSU5YQlE5Uk43WllCWUx0S3BDRm04bllobGcxRzQ1NGJCSUdVWVVvTV9vRkV1N28tNVZCOTdQM0JUcnBCbEhxMExxY2JxY0E2QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON21KM2VjMEFQUkh3R0xCbFExZmtrWHRvczROa2xMdFR3X1FvRmVOaWtBRmpUU2VPNkMyX1VtUWhxWTZFeVdZV19HQmRYZTk2V0EwRjY3RWN2VnNRWjNlYWZTQVJNRkQ4ZnBjNnBGUjlDNkV3QTVlOXM5WldiYlpZcmRucUpud1dtaTlaN0ZqeTBHWWMzSTBGTmJSQjJMUlNHb2RyNmV5NWV6bWRaYlF5blMzM3YxM1J1cTJQaGFTbm8yY3ppUG13akhrNXluMHBiT2VTZlBzSTQ5UmVnMjdDZTNWSUY2NmNvWjgydkU5MTFYaWFTRHc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -285,16 +305,6 @@
       "source": "더글로벌기빙뉴스",
       "published_at": "2026-08-06T21:51:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZWmlscVZPdDNnSlZEd2gxTzFpUVFCeWFqM1lkTnBmdE84aGdNWVdxa1pEVV91aG9XOVF3MFlZc2V0MDVBN2ZHc0JqSkFneVdLbWJ5aw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-06T15:44:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -335,16 +345,6 @@
       "source": "Indiatimes",
       "published_at": "2026-08-06T11:56:44+08:00",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQXRNT2ZoU3RkSFg4YVZSdm5aRWR4UUJoTnRFWkdZcXFaWnBfMXlESWRmYTItUUh5bUZUUkZNMmZHek1fOVpfRk5acGpiSGlYVUozTzUwRjB4dFY0Qkw1THZackY0bDJBY2hlaDVaMU1FX2MtckVBeE0xRUlqQU84OXhfWi1vaExtWkoyczJPaVpGWWY1TlJjRUtPbVc0ZU1raDM0WVNpcEJXLUFfUDJHZGIxd0I3SVBKbFBqWmt4bkVpYnFfNEVITWc5SFZiWHJaUXZGaU82MXN6aHEyU1ZKT05weUU3VU0?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Texas Data Center Boom Opens Opportunities for Mexico - Mexico Business News",
-      "summary": "Texas Data Center Boom Opens Opportunities for Mexico Mexico Business News",
-      "source": "Mexico Business News",
-      "published_at": "2026-08-06T00:35:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWlqR2VlaHY1emh0bmtTSDUxakh0a2pzLU5CcG9Cdm1TcVdpQXBfcW1yWWQtUF9sZVBGbmtFM3Vqa25PTmNackRzczhCZ09nNmY5LWlZbXRkYWxHVVlrOGkyVUViVF9YeHhyX0xaUDA2M3ZrUW9vSWtKaTNhT09mbXZ6NVVWRGhKR09VbFljRWYzYmJDN2tkWGNuM3NkM3lYQmVUa0x3?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
