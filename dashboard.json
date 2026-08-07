@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-07T09:53:41+08:00",
+  "intel_updated_at": "2026-08-07T14:14:29+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -229,6 +229,26 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "KühlTherm Launches Indigenous Liquid Cooling Solutions and India’s First Integrated Validation Lab - businessnewsthisweek.com",
+      "summary": "KühlTherm Launches Indigenous Liquid Cooling Solutions and India’s First Integrated Validation Lab businessnewsthisweek.com",
+      "source": "businessnewsthisweek.com",
+      "published_at": "2026-08-07T12:34:27+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVlA1NnZjZHZTdm1nUHR2S0VUTHhxbGVYY213Uno0Wm9iYWdFYThINF9PcFg1aTNxYVpWVFRuQWctNEs3MHlQU0gwZjdrTzRqTFIyb2MxQnJWc01PVV9DN2ZzUW5tWmt4ZVNqQTNlRVBhZno2QVhHU0hFMDdZY2VwWTUzUm5jalJocUFGcWFxSXllYWx2c2JEUGNneTZfM1piQnZWaXFpTkxvZkpWY2RJd0t0LXpnYzdNLUVERzR6VGloUEd5ZVBtYVBhYy1qaUlsNzlWejVEWQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Understanding Different AI Data Center Leasing Prices and Categories - NextBigFuture.com",
+      "summary": "Understanding Different AI Data Center Leasing Prices and Categories NextBigFuture.com",
+      "source": "NextBigFuture.com",
+      "published_at": "2026-08-06T23:02:20+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - Mexico Business News",
       "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom Mexico Business News",
@@ -255,6 +275,16 @@
       "source": "더글로벌기빙뉴스",
       "published_at": "2026-08-06T21:51:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZWmlscVZPdDNnSlZEd2gxTzFpUVFCeWFqM1lkTnBmdE84aGdNWVdxa1pEVV91aG9XOVF3MFlZc2V0MDVBN2ZHc0JqSkFneVdLbWJ5aw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-06T15:44:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -315,36 +345,6 @@
       "source": "PR Newswire",
       "published_at": "2026-08-05T22:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFJ0R2lpc2p2T0pIMlAwOHFXSEI3Y05NRmVFdF9KMURoczRjNVVTaERuZTZYVjJNODhDNEZRRkpJbEp4eFR3N3N1T2RYMHA3NFJzMl9pbHhhTDJiYjZPc0p5dEdrSXpBb0QxTDlhYmhTRVhaV2s5NUV4Q3hxcTliRjQ4d0dEYVJoRGRpZlNEcFBMek8welliZjkzNnVzT1dzankyeTRTR1lBZHpPa050QlFXZ0ozeGVGQkpzbUxIOEFmTDYtc0dFUA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Traditional AI infrastructure models are reaching operational limits at AI factory scale",
-      "summary": "AI Infrastructure Is Reaching New Operational Limits For decades, data center infrastructure and compute platforms evolved largely independently. Organizations selected servers, storage, and networking technologies, then designed facility infrastructure around",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-08-05T20:00:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/08/05/traditional-ai-infrastructure-models-are-reaching-operational-limits-at-ai-factory-scale/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "What Changes When an Existing Data Center Is Upgraded for AI Workloads? - NewsWatchTV",
-      "summary": "What Changes When an Existing Data Center Is Upgraded for AI Workloads? NewsWatchTV",
-      "source": "NewsWatchTV",
-      "published_at": "2026-08-05T19:34:55+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDRITzRIVm5lRXdLTWZBb3dLRFBlQl9BLXNFS19hbnZibWtKU1FiY29XSjNyUjJRZjRlQ1I3UFlMTnZreFl1dW1yTTgyNmFJMm9aTDBicHB0MDR0b3Eyc3FHZmM0cVk2SDQ2QWRsSDNRUXQtTmZ4YmVaQ0JfSUo3MjU5X2lqSmg4b1JaNTFZMURTclp4UzRwdGNEa0Item9McGd4REdSRXY3dw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "SpaceX IPO and AI Data Center Strategy: What Investors Need to Know - Intellectia AI",
-      "summary": "SpaceX IPO and AI Data Center Strategy: What Investors Need to Know Intellectia AI",
-      "source": "Intellectia AI",
-      "published_at": "2026-08-05T16:12:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SUFFZbHd5NXV6Y1h1MUxPM09UVkZaUXVtZHJyajEzellOYWpBd0JjemFxRk5LYjJnTHVsTmhZSExsRVU0Sjc1djA0MG5RY2tGVUs2U24tUjBxSHdtN1RrSnZ5cWREenhseHAyX2JWUnI1UXJo?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
