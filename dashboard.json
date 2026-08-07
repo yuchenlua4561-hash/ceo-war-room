@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-08T04:08:32+08:00",
+  "intel_updated_at": "2026-08-08T07:07:55+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -215,7 +215,7 @@
     {
       "company": "nVent",
       "product": "液冷散熱",
-      "move": "nVent expands data center liquid cooling capacity - Data Center Dynamics",
+      "move": "nVent expands data center liquid cooling capacity - datacenterdynamics.com",
       "implication": "公開情報更新於 2026-08-07T17:15:47+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXkxZzhzSDk1TU9SaW9MMlgwNl9wdU5tbDhfd1BnWlI0aVh5Ym1HRnJGLWVoU3ZRc2htcWoyYURyUW84Q1VJOHpCYk14LW1tTm4yVmNjRGl5Unl0TnZaNGs0SFd1NXQxbkhtOVM5NTVwLUVBcTEtSkRKa05EeDNzcTlQUTQ3akZldXV2UTRLV2pFMENzbUVBWXJMMXZUdWpNQUVZ?oc=5"
     },
@@ -230,9 +230,9 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Efficient data center water cooling for Australia’s market - Data Center Dynamics",
-      "summary": "Efficient data center water cooling for Australia’s market Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "headline": "Efficient data center water cooling for Australia’s market - datacenterdynamics.com",
+      "summary": "Efficient data center water cooling for Australia’s market datacenterdynamics.com",
+      "source": "datacenterdynamics.com",
       "published_at": "2026-08-07T23:01:41+08:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFQ5YS04NjlMZTJzSG42TFJYWVJrMzJsOFRxNG9xUTVhYW9kZjFUT1VCVThkOFFET3V0d3NTSG9YQWVyVEphczRmdVdKZkVYa0xESmlGeGtqT2UtYV9tUlM4U2VyZlJkZjFtMzBLVHZjaTFCRHJ1aXJ3WGVtR1RwSFpQYWp5NnNmNnliVFpyajZ6RFRBQkdVWmpWRXdVdHVueHdZaVp1cjA?oc=5",
       "data_type": "live",
@@ -280,9 +280,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent expands data center liquid cooling capacity - Data Center Dynamics",
-      "summary": "nVent expands data center liquid cooling capacity Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "headline": "nVent expands data center liquid cooling capacity - datacenterdynamics.com",
+      "summary": "nVent expands data center liquid cooling capacity datacenterdynamics.com",
+      "source": "datacenterdynamics.com",
       "published_at": "2026-08-07T17:15:47+08:00",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXkxZzhzSDk1TU9SaW9MMlgwNl9wdU5tbDhfd1BnWlI0aVh5Ym1HRnJGLWVoU3ZRc2htcWoyYURyUW84Q1VJOHpCYk14LW1tTm4yVmNjRGl5Unl0TnZaNGs0SFd1NXQxbkhtOVM5NTVwLUVBcTEtSkRKa05EeDNzcTlQUTQ3akZldXV2UTRLV2pFMENzbUVBWXJMMXZUdWpNQUVZ?oc=5",
       "data_type": "live",
