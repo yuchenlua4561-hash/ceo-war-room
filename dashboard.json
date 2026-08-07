@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-06T18:58:30+08:00",
+  "intel_updated_at": "2026-08-07T09:53:41+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -232,11 +230,61 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Samsung takes a step toward its first floating AI data centers - Techzine Global",
-      "summary": "Samsung takes a step toward its first floating AI data centers Techzine Global",
-      "source": "Techzine Global",
-      "published_at": "2026-08-06T17:44:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGgyOGVfY0hNTC1vN1hPNUFHUXFjc1RLWnUtQ1M4ekg1bzFCNEpRaVM3YzVVX2RETmVWTmNNMTFLd3VVRGJOWHc1aVA3S21ubk5HX2hoNDZMTHZPQmloSVg1NVo4NkpWcE9wczdobzd6WnhrRVNyOTJWcVZLc2U3blBNOWZ4SGYxUWdneXVzU2E4NXRrOVZFTVBQLWYtZEY1WWlrM0xQR1Z0Wi1PMkNZcERMNkw?oc=5",
+      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - Mexico Business News",
+      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom Mexico Business News",
+      "source": "Mexico Business News",
+      "published_at": "2026-08-06T22:53:29+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnRvWnNiNFBqVW5DTlphZG03NFZpV19oU1VTNk1OZGxRdmItenFmV1l0UkNRc2Q0MTYwdTh2M2Zfc3VrSXIzVUgySGd4NWNGbG1DVVd6akx3dkVqd0l3ZWpoaENCM0RETUtRZnEzc1lURTdaRXNHVjFIUmNCVzg1TDluMkFydHdHNmxMZlRraXZTOHJGRGpSOW96b09fV2RLaC1JMUFn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Data Center Thermal Management Market Worth $32.38 Billion by 2032 - Exclusive Report by MarketsandMarkets - Moomoo",
+      "summary": "Data Center Thermal Management Market Worth $32.38 Billion by 2032 - Exclusive Report by MarketsandMarkets Moomoo",
+      "source": "Moomoo",
+      "published_at": "2026-08-06T22:15:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk5kMFpFUkZ0UjR5SWZKNUtVak5nMUZEdUJnT0FfbXVPRlU3VWQ2bmQ4TE1OQkxseVg0VDJRQUFfczlwbkMxLW55SndocFpaOERLTV9tZXIwMy1qSU5YQlE5Uk43WllCWUx0S3BDRm04bllobGcxRzQ1NGJCSUdVWVVvTV9vRkV1N28tNVZCOTdQM0JUcnBCbEhxMExxY2JxY0E2QQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations - 더글로벌기빙뉴스",
+      "summary": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations 더글로벌기빙뉴스",
+      "source": "더글로벌기빙뉴스",
+      "published_at": "2026-08-06T21:51:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZWmlscVZPdDNnSlZEd2gxTzFpUVFCeWFqM1lkTnBmdE84aGdNWVdxa1pEVV91aG9XOVF3MFlZc2V0MDVBN2ZHc0JqSkFneVdLbWJ5aw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
+      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-06T15:44:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KT CEO Park Yoon-young Visits Mok-dong Data Center, Targets \"AIDC Leap to AX Platform\" - finance.biggo.com",
+      "summary": "KT CEO Park Yoon-young Visits Mok-dong Data Center, Targets \"AIDC Leap to AX Platform\" finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-06T14:26:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6b05HWHI4R0JVRlNqcGhNSl8tY2pORmF2Z3pVUnlFTTJXQnI4ejJ5WGN4Vl9rc1ZacjF5SmJmQkUtNnZtdWw2elFFTXdDdlQwbGtHRkZjczNKN3lxbjNDQWNfdFhBdnlZWGtHZU9BSHU5a0VoWEE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Park Yoon-young rallies KT Group to fortify AI data center leadership in Korea - CHOSUNBIZ - Chosunbiz",
+      "summary": "Park Yoon-young rallies KT Group to fortify AI data center leadership in Korea - CHOSUNBIZ Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-08-06T13:47:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DUGxaRWs4ZEJrNXdvMHRGeDBlcVNYQkFfeVQ3Z1NONGF6OGFJNFdrZklyUGpBbHZSWnhRM2tZaTB4MnhVbzNFODR3SnR4aGw2ODdDS1h2bUJTOE9MRzFJelRXT2F5cjRwU2c4ZjFoWjFmV0FsS01MQjZn0gGOAUFVX3lxTFBsem5VSTVuMUNDSWZHbzRUWG5oblFkenhoeWY0MnJCTkdmWEVKMzBvbmduZ01pWkVKWEJtY1B1Z1FQY2N1bjNZdHgtVDhYYW11bHRKdWxTUW9pb0dYYkVZYVdIMERQbFk1alJaQkhfUFNBaFFWRXZzLXN4eUp5Yll4c3FyOTF0dGhqNGtuVFE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -291,62 +339,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "What Standards Define EXTRCOOL as a Professional Rack Liquid Cooling CDU Factory with CE Certification? - EIN News",
-      "summary": "What Standards Define EXTRCOOL as a Professional Rack Liquid Cooling CDU Factory with CE Certification? EIN News",
-      "source": "EIN News",
-      "published_at": "2026-08-05T18:29:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONTVkeFBMX0dCM2IxclNQdGZxUm15ZlRteGF3Y3JpLVlJY1ZVc2RIaGo0bkdhYWRYME56T2hCcTR4d0NTdWM3SXNzV2NiT1NJbG0tcXo3dFQ3RVVWWEFTS1g1MzZiRGFKVGNydFBLNzdXWV9tS2Rhd0Nrekk2VWhnbWx5NS1LSkdEd1JiYkdLVVVaRmdZTzVWcEJDQVRJUDVOdl9CdFJfclFoUFExbFg5YTdfWEZXWUYzZUozQkhxUkFIZnZSZm04QTZFb1c3ejZxTE1mQnZZSmo0QWdt?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
       "headline": "SpaceX IPO and AI Data Center Strategy: What Investors Need to Know - Intellectia AI",
       "summary": "SpaceX IPO and AI Data Center Strategy: What Investors Need to Know Intellectia AI",
       "source": "Intellectia AI",
       "published_at": "2026-08-05T16:12:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1cHdfd1J0TE1iYkNkeWVkUm00dWVaaUYwM3pmZFhpZ0lraVpIRUtyTzd0aFhsVlZOZE9zdHhFaW44YmFVQ183a1o1cUZLX0pUcUljQUVZdy1fLWZ3MXFHd0RZWUNuNDJmX0ZjVzRCMUc5UUNZNDJJcUhrMXp1UQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Scaling AI Infrastructure with Custom Data Center Liquid Cooling CDU Solutions from EXTRCOOL - Issuewire",
-      "summary": "Scaling AI Infrastructure with Custom Data Center Liquid Cooling CDU Solutions from EXTRCOOL Issuewire",
-      "source": "Issuewire",
-      "published_at": "2026-08-05T11:27:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWlhXN2Z2VHdUY3FULU9fU0RHeU8tdzg1aGZmcmpKN0ljbGUzMlBTMmpxc0dQR2lBVVNZdVkzVVVHVk5wWVMwQkJ4UEV0WDVaTFBVcjRXQ3JMdkozMUoyZlNXVDljVkVBTmpYMUtFWXlEejM1YVVWbEVydENOOUI0VktXdVd6ODBfY09Rc2M1VW91SW4tM0Q4MTU1dFRrRkFLbmhyejFocDFmMHhoY3pyQWFvcWFsYmVHcEVOc3IzRWJ0WEVWMS04T3NfSm1xWWli?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? - Yahoo Finance",
-      "summary": "nVent Electric (NVT) Is Up 14.5% After Expanding AI Liquid Cooling Capacity And Reporting Q2 Results - Has The Bull Case Changed? Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-05T06:09:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1BfSW9SMEpub3lnWjJubzh1QkM2UFNEOFgtUUlQX254WnBxWUVVcWNpZFBDS1FET3pvaDlIMEd4RXNENXVhN0VhelBOeGpWZ09fV0RFb1puYVBZSWpSVXk1b1pwQVAyXzJBWWw5MlBLWHRMVXZkbzNnaXZLc3J2aVIzX2FkMXA2TWRzdENqbm8?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "LG Secures NVIDIA Validation for 600kW AI Data Center CDU System - Refindustry",
-      "summary": "LG Secures NVIDIA Validation for 600kW AI Data Center CDU System Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-08-05T05:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZG92RVFrb0xhX2JQckRWYk5RNlNoRUU1SjNrUUR0TkRUbm81QXNJQW5xSFJTZTVoSVg5TGt0U0pHZjFpS2kyQVY1elJIMjAwNlV2NkV5WWxtZWoxSTg0S0tHRm9QSFVMUG1ZNFRVcXRWVTVTQ0Jwb3BYWXM2ejYyTGw4THVrUXJpbWpxcnduTWIyNWN6enZ0cVdR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook - TIKR.com",
-      "summary": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook TIKR.com",
-      "source": "TIKR.com",
-      "published_at": "2026-08-05T01:32:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjlRd1RhV01JQ2g2MGMzaC11TWNpS3lWLTh1MUVPcE1qZHlGVkxzcExxVlp3cWEtZ3dyTjdEV1hzWDFfYklfellaUzRzY0g5RlM4QkZnWVBZZEh3dXR0WkNVY1JDMFlmczBLUjdnY1pGOXV4VGRVVUxEd1c4anpGbjBTcDduZGh2ekRrTEJESlZaOG1n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SUFFZbHd5NXV6Y1h1MUxPM09UVkZaUXVtZHJyajEzellOYWpBd0JjemFxRk5LYjJnTHVsTmhZSExsRVU0Sjc1djA0MG5RY2tGVUs2U24tUjBxSHdtN1RrSnZ5cWREenhseHAyX2JWUnI1UXJo?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
