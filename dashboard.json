@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-08T15:56:11+08:00",
+  "intel_updated_at": "2026-08-08T18:02:12+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -229,6 +229,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - Macau Business",
+      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence Macau Business",
+      "source": "Macau Business",
+      "published_at": "2026-08-08T17:01:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVmJMUmdYS2pRZ3Z1RU1CT19TY0txT3V0bEYzSUpJTHJHYUduNG5kUVNQTTFsTTBtNWU3Zzk2S25NQW9aUVZ0Z1g2Qk5nQk5sWlJWSUxONDJTNVh4SDFMZmJ6enlnRklXSkZJeFNSR3pwYkc1TnAyamRpVTBDY1U0U3dtUXBISjJ3VWFoYTEwSktBd1E4TzgyMk52VjhXR1JDVXo3SWNBcmdSSXhUTkIwcnNtMFdKVkdmNDJfazEyVVJ5dC1DOFFtNFRGc0NmX1dEU0U4ak9pVVlrVFUxaVpCVHEyX3BFckdkc2pZei1rVVZUcExvN2NjeWJUdFhiUm1iTFlRWGxDNEx4SFI0M2hwUmVBWQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway - finance.biggo.com",
       "summary": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway finance.biggo.com",
@@ -240,9 +250,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Efficient data center water cooling for Australia’s market - datacenterdynamics.com",
-      "summary": "Efficient data center water cooling for Australia’s market datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Efficient data center water cooling for Australia’s market - Data Center Dynamics",
+      "summary": "Efficient data center water cooling for Australia’s market Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-08-07T23:01:41+08:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFQ5YS04NjlMZTJzSG42TFJYWVJrMzJsOFRxNG9xUTVhYW9kZjFUT1VCVThkOFFET3V0d3NTSG9YQWVyVEphczRmdVdKZkVYa0xESmlGeGtqT2UtYV9tUlM4U2VyZlJkZjFtMzBLVHZjaTFCRHJ1aXJ3WGVtR1RwSFpQYWp5NnNmNnliVFpyajZ6RFRBQkdVWmpWRXdVdHVueHdZaVp1cjA?oc=5",
       "data_type": "live",
@@ -250,21 +260,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - bignewsnetwork.com",
-      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad bignewsnetwork.com",
-      "source": "bignewsnetwork.com",
+      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - Big News Network.com",
+      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad Big News Network.com",
+      "source": "Big News Network.com",
       "published_at": "2026-08-07T22:29:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdkJvcVBwUVVkRmxtc1VwMGc1Qko0SkhTZGtCVTM4T1FaSktYcmx4M1YxN1ZXTFJGc0VNSnRSanUwT2xuYlMyRG5Tajh4SVpwTU1ERkpiTVh4U1piZlozTjNyaVZBWVNqNUV2X3FGc0dPRXJIWTNiM3lrNXhQVE1VM2xEZDFPMV82ZHVXN08wemNkX3l1Vno4NlJEQjI3eHdiRzRxUnpGWk85cHdkTHZmSWp3X1RGdkNKMWNvdTktR3FXRTFJVnpqdGwwNWs3VVZteDFIX0JiZ0VVd3lLd2VuTFRvSW15c3dIT0tXUmVjZkNrY3VGNm1PZTN1RVVBaVJZZnNLMF8zVTYySTJldkt0bEFVLTdBamRYS1M3aGRyNEZMUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - The Manila Times",
-      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence The Manila Times",
-      "source": "The Manila Times",
-      "published_at": "2026-08-07T21:56:14+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQa0Z6aVVsUG9RWmx1NTZXRnhuUnJUMnVNd28xYXJ4WmNoYm9vRkowR25tSHpMUXBrWk8xU2JwTG9pVC1DaUtwQk9tVGhIYUdLdV9fYWNhSUdHMXZORmExUTlRUVYxZkpYZTBERV9QTWZVcHpvdmVGM3hGdzRzQU9DVnlseXgxaVQ2d0VXZ05jWl93bmJaNnllX21uWVFwSmJrUFV2UkdWeFBlNGluWFBDZk1RbE9fX3U0X3ZzLTBoY2lxelBxM042TTdodUx0MWF4cElKY0tZX2Z2blFhSkJoNXFxQ01YYzhQY2xONjg1YUJYTzd4RC1aLU5NZnVua3paMkhSYjVFTlRvSTZudHRxZWNoV3g3MC1ROUYxRjF6b041OENWejg0TzBxOXlXQU5tVXIybEhXaVppYUFrVDJ6OG80NGlDdmF4VGdRatIB0gJBVV95cUxQcVVKOVVVQ3BWSUJtaV9RNkVneVpLMll1aWxhUFU1TVpvMnpsOXl6MVhDWm9EemM0STBLZloxRnZ6cDhraDFwbmxsN0N3VzV3dGVPeDNaMm1ZZGh3WlhuODB1WS05dzhORDhEZTdTM01qNWpUdTVGTzdXaWNnNldXU3phYTF5aWpxSm14RlBHbGQ3b2RTVnBTdmdQX29YeDBHUXpPNi1WMW1GSElyOHJzb0pkWUVndERYU0ZlQzdCMm1Da0stRTh4c1hmSjdlZkRxQ2hIUklkSFdhaU1VR243MHZCZVpjbzBYUXdkR1pJeGh3RWZZYmJNbXA5cHJHWHFLbEZ3bXk4Q25nVnJDc2VXeGZxSXFsRUpRTUl5OTNDSGJaZXNuUUR5SGZKcGVmUHFmTHByTWVoR3g2TzZrdy1GbHN4eEhzX2JXT1d3c3FoWGNhZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -289,6 +289,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-07T19:00:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "CDU／幫浦",
       "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
       "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
@@ -300,19 +310,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Understanding Different AI Data Center Leasing Prices and Categories - NextBigFuture.com",
-      "summary": "Understanding Different AI Data Center Leasing Prices and Categories NextBigFuture.com",
-      "source": "NextBigFuture.com",
-      "published_at": "2026-08-06T23:02:20+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - Mexico Business News",
-      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom Mexico Business News",
-      "source": "Mexico Business News",
+      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - mexicobusiness.news",
+      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom mexicobusiness.news",
+      "source": "mexicobusiness.news",
       "published_at": "2026-08-06T22:53:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnRvWnNiNFBqVW5DTlphZG03NFZpV19oU1VTNk1OZGxRdmItenFmV1l0UkNRc2Q0MTYwdTh2M2Zfc3VrSXIzVUgySGd4NWNGbG1DVVd6akx3dkVqd0l3ZWpoaENCM0RETUtRZnEzc1lURTdaRXNHVjFIUmNCVzg1TDluMkFydHdHNmxMZlRraXZTOHJGRGpSOW96b09fV2RLaC1JMUFn?oc=5",
       "data_type": "live",
