@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-09T01:49:33+08:00",
+  "intel_updated_at": "2026-08-09T03:45:13+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -320,9 +320,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - Mexico Business News",
-      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom Mexico Business News",
-      "source": "Mexico Business News",
+      "headline": "Understanding Different AI Data Center Leasing Prices and Categories - nextbigfuture.com",
+      "summary": "Understanding Different AI Data Center Leasing Prices and Categories nextbigfuture.com",
+      "source": "nextbigfuture.com",
+      "published_at": "2026-08-06T23:02:20+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - mexicobusiness.news",
+      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom mexicobusiness.news",
+      "source": "mexicobusiness.news",
       "published_at": "2026-08-06T22:53:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnRvWnNiNFBqVW5DTlphZG03NFZpV19oU1VTNk1OZGxRdmItenFmV1l0UkNRc2Q0MTYwdTh2M2Zfc3VrSXIzVUgySGd4NWNGbG1DVVd6akx3dkVqd0l3ZWpoaENCM0RETUtRZnEzc1lURTdaRXNHVjFIUmNCVzg1TDluMkFydHdHNmxMZlRraXZTOHJGRGpSOW96b09fV2RLaC1JMUFn?oc=5",
       "data_type": "live",
@@ -335,16 +345,6 @@
       "source": "PR Newswire UK",
       "published_at": "2026-08-06T22:15:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON21KM2VjMEFQUkh3R0xCbFExZmtrWHRvczROa2xMdFR3X1FvRmVOaWtBRmpUU2VPNkMyX1VtUWhxWTZFeVdZV19HQmRYZTk2V0EwRjY3RWN2VnNRWjNlYWZTQVJNRkQ4ZnBjNnBGUjlDNkV3QTVlOXM5WldiYlpZcmRucUpud1dtaTlaN0ZqeTBHWWMzSTBGTmJSQjJMUlNHb2RyNmV5NWV6bWRaYlF5blMzM3YxM1J1cTJQaGFTbm8yY3ppUG13akhrNXluMHBiT2VTZlBzSTQ5UmVnMjdDZTNWSUY2NmNvWjgydkU5MTFYaWFTRHc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations - 더글로벌기빙뉴스",
-      "summary": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations 더글로벌기빙뉴스",
-      "source": "더글로벌기빙뉴스",
-      "published_at": "2026-08-06T21:51:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZWmlscVZPdDNnSlZEd2gxTzFpUVFCeWFqM1lkTnBmdE84aGdNWVdxa1pEVV91aG9XOVF3MFlZc2V0MDVBN2ZHc0JqSkFneVdLbWJ5aw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
