@@ -1,13 +1,11 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-08T12:19:03+08:00",
+  "intel_updated_at": "2026-08-08T15:56:11+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "審慎偏多",
@@ -232,9 +230,19 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Efficient data center water cooling for Australia’s market - Data Center Dynamics",
-      "summary": "Efficient data center water cooling for Australia’s market Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "headline": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway - finance.biggo.com",
+      "summary": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-08T07:05:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iZmRwZTZJZmlkQS1uTXYwLUlweDVrbnM4ZHdFMF9OR2hNWGN3eFpGb3dJbDhwRS0yTTFfNTJCZkVsWi1vQW9HRUJjcWwwLVV4OHdrc1FOdk1kQlRwUTZweVV5QlIzRWdLcy1YR2lRWGdrQURqWmc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Efficient data center water cooling for Australia’s market - datacenterdynamics.com",
+      "summary": "Efficient data center water cooling for Australia’s market datacenterdynamics.com",
+      "source": "datacenterdynamics.com",
       "published_at": "2026-08-07T23:01:41+08:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFQ5YS04NjlMZTJzSG42TFJYWVJrMzJsOFRxNG9xUTVhYW9kZjFUT1VCVThkOFFET3V0d3NTSG9YQWVyVEphczRmdVdKZkVYa0xESmlGeGtqT2UtYV9tUlM4U2VyZlJkZjFtMzBLVHZjaTFCRHJ1aXJ3WGVtR1RwSFpQYWp5NnNmNnliVFpyajZ6RFRBQkdVWmpWRXdVdHVueHdZaVp1cjA?oc=5",
       "data_type": "live",
@@ -242,9 +250,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - Big News Network.com",
-      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad Big News Network.com",
-      "source": "Big News Network.com",
+      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - bignewsnetwork.com",
+      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad bignewsnetwork.com",
+      "source": "bignewsnetwork.com",
       "published_at": "2026-08-07T22:29:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdkJvcVBwUVVkRmxtc1VwMGc1Qko0SkhTZGtCVTM4T1FaSktYcmx4M1YxN1ZXTFJGc0VNSnRSanUwT2xuYlMyRG5Tajh4SVpwTU1ERkpiTVh4U1piZlozTjNyaVZBWVNqNUV2X3FGc0dPRXJIWTNiM3lrNXhQVE1VM2xEZDFPMV82ZHVXN08wemNkX3l1Vno4NlJEQjI3eHdiRzRxUnpGWk85cHdkTHZmSWp3X1RGdkNKMWNvdTktR3FXRTFJVnpqdGwwNWs3VVZteDFIX0JiZ0VVd3lLd2VuTFRvSW15c3dIT0tXUmVjZkNrY3VGNm1PZTN1RVVBaVJZZnNLMF8zVTYySTJldkt0bEFVLTdBamRYS1M3aGRyNEZMUQ?oc=5",
       "data_type": "live",
@@ -281,22 +289,22 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "nVent expands data center liquid cooling capacity - Data Center Dynamics",
-      "summary": "nVent expands data center liquid cooling capacity Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-08-07T17:15:47+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXkxZzhzSDk1TU9SaW9MMlgwNl9wdU5tbDhfd1BnWlI0aVh5Ym1HRnJGLWVoU3ZRc2htcWoyYURyUW84Q1VJOHpCYk14LW1tTm4yVmNjRGl5Unl0TnZaNGs0SFd1NXQxbkhtOVM5NTVwLUVBcTEtSkRKa05EeDNzcTlQUTQ3akZldXV2UTRLV2pFMENzbUVBWXJMMXZUdWpNQUVZ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "CDU／幫浦",
       "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
       "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
       "source": "TechPorn",
       "published_at": "2026-08-07T16:29:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Understanding Different AI Data Center Leasing Prices and Categories - NextBigFuture.com",
+      "summary": "Understanding Different AI Data Center Leasing Prices and Categories NextBigFuture.com",
+      "source": "NextBigFuture.com",
+      "published_at": "2026-08-06T23:02:20+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -337,16 +345,6 @@
       "source": "Nasscom",
       "published_at": "2026-08-06T15:44:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-06T15:44:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
