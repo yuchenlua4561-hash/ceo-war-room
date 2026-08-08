@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-09T03:45:13+08:00",
+  "intel_updated_at": "2026-08-09T05:15:36+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -320,19 +320,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Understanding Different AI Data Center Leasing Prices and Categories - nextbigfuture.com",
-      "summary": "Understanding Different AI Data Center Leasing Prices and Categories nextbigfuture.com",
-      "source": "nextbigfuture.com",
-      "published_at": "2026-08-06T23:02:20+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
+      "headline": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner - Data Center Frontier",
+      "summary": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-08-07T15:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXgzTXZCN3pKZVJYaE1oZGYxdTNueV9lRHN4OWNzUlpiX0hLYmRPd3N5RUZObDNGc3pnSDg2eklWUC0zNXZFbHhBUk5iM3JVemFXbmlFdlNMNDlPTFVWOGMta2g5VEc5UXpjVUdjc3YtazVfUXdzQXRxb0o5dGtia3ZoVkwzOEZKaEhFeUc1UWpNN2t2Nm1rbWlCN0JnalRqdkhFLVFQSXphRjVfclNqSk1PaEdXT3lWczlTaFdxcVJVVFpaOU00ZUViTlJUS0Nhc3VCa1RSTQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - mexicobusiness.news",
-      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom mexicobusiness.news",
-      "source": "mexicobusiness.news",
+      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - Mexico Business News",
+      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom Mexico Business News",
+      "source": "Mexico Business News",
       "published_at": "2026-08-06T22:53:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnRvWnNiNFBqVW5DTlphZG03NFZpV19oU1VTNk1OZGxRdmItenFmV1l0UkNRc2Q0MTYwdTh2M2Zfc3VrSXIzVUgySGd4NWNGbG1DVVd6akx3dkVqd0l3ZWpoaENCM0RETUtRZnEzc1lURTdaRXNHVjFIUmNCVzg1TDluMkFydHdHNmxMZlRraXZTOHJGRGpSOW96b09fV2RLaC1JMUFn?oc=5",
       "data_type": "live",
