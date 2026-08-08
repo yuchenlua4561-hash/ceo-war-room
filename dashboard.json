@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-08T22:08:22+08:00",
+  "intel_updated_at": "2026-08-09T00:02:30+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -240,9 +240,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - macaubusiness.com",
-      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence macaubusiness.com",
-      "source": "macaubusiness.com",
+      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - Macau Business",
+      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence Macau Business",
+      "source": "Macau Business",
       "published_at": "2026-08-08T17:01:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVmJMUmdYS2pRZ3Z1RU1CT19TY0txT3V0bEYzSUpJTHJHYUduNG5kUVNQTTFsTTBtNWU3Zzk2S25NQW9aUVZ0Z1g2Qk5nQk5sWlJWSUxONDJTNVh4SDFMZmJ6enlnRklXSkZJeFNSR3pwYkc1TnAyamRpVTBDY1U0U3dtUXBISjJ3VWFoYTEwSktBd1E4TzgyMk52VjhXR1JDVXo3SWNBcmdSSXhUTkIwcnNtMFdKVkdmNDJfazEyVVJ5dC1DOFFtNFRGc0NmX1dEU0U4ak9pVVlrVFUxaVpCVHEyX3BFckdkc2pZei1rVVZUcExvN2NjeWJUdFhiUm1iTFlRWGxDNEx4SFI0M2hwUmVBWQ?oc=5",
       "data_type": "live",
@@ -260,9 +260,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Oppressive heat forces AI data centers to get smart about temperature control - koreajoongangdaily.com",
-      "summary": "Oppressive heat forces AI data centers to get smart about temperature control koreajoongangdaily.com",
-      "source": "koreajoongangdaily.com",
+      "headline": "Oppressive heat forces AI data centers to get smart about temperature control - Korea JoongAng Daily",
+      "summary": "Oppressive heat forces AI data centers to get smart about temperature control Korea JoongAng Daily",
+      "source": "Korea JoongAng Daily",
       "published_at": "2026-08-08T06:05:05+08:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHgxQnJyM0ZwUW9XMDRheXFjVjkzT0lXbVJTM1RzRVVtMzRjSVlJR2FHN0w4VGZTbUZQa3VTNmZ6dnBGU1kwdXFkYjJsbHQ2Nl9LZkV2dC1lZkhBdmNPWGZWd1l2VDJBbDdBZU9RTHR5WmdEc2IwX0xPUGJMUHp5MHNKNWpUV0o2M2JNUXdfWGx1ekN1NjE5OWwzSjVQVW1XVl9pZnlDM1lGLXZIbGswcEx1OG1CdG82WXp4bTNCM3FWSTNta1NUZUhB?oc=5",
       "data_type": "live",
@@ -309,6 +309,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-07T19:00:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "CDU／幫浦",
       "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
       "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
@@ -335,16 +345,6 @@
       "source": "PR Newswire UK",
       "published_at": "2026-08-06T22:15:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON21KM2VjMEFQUkh3R0xCbFExZmtrWHRvczROa2xMdFR3X1FvRmVOaWtBRmpUU2VPNkMyX1VtUWhxWTZFeVdZV19HQmRYZTk2V0EwRjY3RWN2VnNRWjNlYWZTQVJNRkQ4ZnBjNnBGUjlDNkV3QTVlOXM5WldiYlpZcmRucUpud1dtaTlaN0ZqeTBHWWMzSTBGTmJSQjJMUlNHb2RyNmV5NWV6bWRaYlF5blMzM3YxM1J1cTJQaGFTbm8yY3ppUG13akhrNXluMHBiT2VTZlBzSTQ5UmVnMjdDZTNWSUY2NmNvWjgydkU5MTFYaWFTRHc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations - 더글로벌기빙뉴스",
-      "summary": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations 더글로벌기빙뉴스",
-      "source": "더글로벌기빙뉴스",
-      "published_at": "2026-08-06T21:51:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZWmlscVZPdDNnSlZEd2gxTzFpUVFCeWFqM1lkTnBmdE84aGdNWVdxa1pEVV91aG9XOVF3MFlZc2V0MDVBN2ZHc0JqSkFneVdLbWJ5aw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
