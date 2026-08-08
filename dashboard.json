@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-08T18:02:12+08:00",
+  "intel_updated_at": "2026-08-08T19:16:38+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -229,6 +229,16 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies ",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-08-08T18:24:54+08:00",
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - Macau Business",
       "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence Macau Business",
@@ -289,16 +299,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-07T19:00:09+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "CDU／幫浦",
       "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
       "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
@@ -310,9 +310,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - mexicobusiness.news",
-      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom mexicobusiness.news",
-      "source": "mexicobusiness.news",
+      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - Mexico Business News",
+      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom Mexico Business News",
+      "source": "Mexico Business News",
       "published_at": "2026-08-06T22:53:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnRvWnNiNFBqVW5DTlphZG03NFZpV19oU1VTNk1OZGxRdmItenFmV1l0UkNRc2Q0MTYwdTh2M2Zfc3VrSXIzVUgySGd4NWNGbG1DVVd6akx3dkVqd0l3ZWpoaENCM0RETUtRZnEzc1lURTdaRXNHVjFIUmNCVzg1TDluMkFydHdHNmxMZlRraXZTOHJGRGpSOW96b09fV2RLaC1JMUFn?oc=5",
       "data_type": "live",
@@ -330,9 +330,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations - 더글로벌기빙뉴스",
-      "summary": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations 더글로벌기빙뉴스",
-      "source": "더글로벌기빙뉴스",
+      "headline": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations - theggnews.com",
+      "summary": "KT CEO Park Yoon-young Visits Mokdong 2 Data Center to Check AIDC Operations theggnews.com",
+      "source": "theggnews.com",
       "published_at": "2026-08-06T21:51:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZWmlscVZPdDNnSlZEd2gxTzFpUVFCeWFqM1lkTnBmdE84aGdNWVdxa1pEVV91aG9XOVF3MFlZc2V0MDVBN2ZHc0JqSkFneVdLbWJ5aw?oc=5",
       "data_type": "live",
