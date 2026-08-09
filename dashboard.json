@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-10T05:52:47+08:00",
+  "intel_updated_at": "2026-08-10T07:16:00+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -260,9 +260,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Oppressive heat forces AI data centers to get smart about temperature control - koreajoongangdaily.com",
-      "summary": "Oppressive heat forces AI data centers to get smart about temperature control koreajoongangdaily.com",
-      "source": "koreajoongangdaily.com",
+      "headline": "Oppressive heat forces AI data centers to get smart about temperature control - Korea JoongAng Daily",
+      "summary": "Oppressive heat forces AI data centers to get smart about temperature control Korea JoongAng Daily",
+      "source": "Korea JoongAng Daily",
       "published_at": "2026-08-08T06:05:05+08:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHgxQnJyM0ZwUW9XMDRheXFjVjkzT0lXbVJTM1RzRVVtMzRjSVlJR2FHN0w4VGZTbUZQa3VTNmZ6dnBGU1kwdXFkYjJsbHQ2Nl9LZkV2dC1lZkhBdmNPWGZWd1l2VDJBbDdBZU9RTHR5WmdEc2IwX0xPUGJMUHp5MHNKNWpUV0o2M2JNUXdfWGx1ekN1NjE5OWwzSjVQVW1XVl9pZnlDM1lGLXZIbGswcEx1OG1CdG82WXp4bTNCM3FWSTNta1NUZUhB?oc=5",
       "data_type": "live",
@@ -340,11 +340,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Enablers Will Decide If Mexico Keeps Its Data Center Boom - Mexico Business News",
-      "summary": "Enablers Will Decide If Mexico Keeps Its Data Center Boom Mexico Business News",
-      "source": "Mexico Business News",
-      "published_at": "2026-08-06T22:53:29+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnRvWnNiNFBqVW5DTlphZG03NFZpV19oU1VTNk1OZGxRdmItenFmV1l0UkNRc2Q0MTYwdTh2M2Zfc3VrSXIzVUgySGd4NWNGbG1DVVd6akx3dkVqd0l3ZWpoaENCM0RETUtRZnEzc1lURTdaRXNHVjFIUmNCVzg1TDluMkFydHdHNmxMZlRraXZTOHJGRGpSOW96b09fV2RLaC1JMUFn?oc=5",
+      "headline": "The Beat: Data center equipment maker nVent expands again; Polaris powers up - The Business Journals",
+      "summary": "The Beat: Data center equipment maker nVent expands again; Polaris powers up The Business Journals",
+      "source": "The Business Journals",
+      "published_at": "2026-08-07T04:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEVNQzczbWVpaGFRdHZkdUItdEJJdGEtVzJaOGpweUwwLUd0bnh3cW9SekRVTHZrNnFtYXMxY2Q1RElza3NEQzRzdjNpa1I4TEVBNjQtbzBtT2dZXzI1dWxUdlVEZ2VRcFYtVVJDTmN1WGlJRDhCcU5pLWtVZFljRHAycjhOUXRXM3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
