@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-09T22:10:07+08:00",
+  "intel_updated_at": "2026-08-10T00:04:33+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -194,9 +194,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook - TIKR.com",
-      "implication": "公開情報更新於 2026-08-05T01:32:56+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjlRd1RhV01JQ2g2MGMzaC11TWNpS3lWLTh1MUVPcE1qZHlGVkxzcExxVlp3cWEtZ3dyTjdEV1hzWDFfYklfellaUzRzY0g5RlM4QkZnWVBZZEh3dXR0WkNVY1JDMFlmczBLUjdnY1pGOXV4VGRVVUxEd1c4anpGbjBTcDduZGh2ekRrTEJESlZaOG1n?oc=5"
+      "move": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom - The Globe and Mail",
+      "implication": "公開情報更新於 2026-08-09T22:23:18+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEtLRndBOEM5MU9mcEt2LS1kM3pDYzJDV1FrdlQzLVl0a1d5WDVyYTE2SHdKcEhWT0dhOHZndzF6OWNIQjd2TEstZm04eGwxUHR3N2szUDNFdjRhUk93MlBYN1hvbk9KdEJYTnZBaHNvT29lWjI4VUROdktkWGl4Z3RVUGpTYzNKZkotQWVNaExrQU1DMjQ4ZHd5SDY5cmJlVzZKVmxQX3JUYXlOdGxJRWhDdVpBQW9raVdqbjI0UWtKVThGdVZfOFJjWEVTclNhb0x1SFM4MVNrLVpOTjZGd1h5d2hyRFUx?oc=5"
     },
     {
       "company": "Boyd",
@@ -228,6 +228,16 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom - The Globe and Mail",
+      "summary": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom The Globe and Mail",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-09T22:23:18+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEtLRndBOEM5MU9mcEt2LS1kM3pDYzJDV1FrdlQzLVl0a1d5WDVyYTE2SHdKcEhWT0dhOHZndzF6OWNIQjd2TEstZm04eGwxUHR3N2szUDNFdjRhUk93MlBYN1hvbk9KdEJYTnZBaHNvT29lWjI4VUROdktkWGl4Z3RVUGpTYzNKZkotQWVNaExrQU1DMjQ4ZHd5SDY5cmJlVzZKVmxQX3JUYXlOdGxJRWhDdVpBQW9raVdqbjI0UWtKVThGdVZfOFJjWEVTclNhb0x1SFM4MVNrLVpOTjZGd1h5d2hyRFUx?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
@@ -300,9 +310,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - community.nasscom.in",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-08-07T19:00:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
       "data_type": "live",
@@ -325,16 +335,6 @@
       "source": "Data Center Frontier",
       "published_at": "2026-08-07T15:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXgzTXZCN3pKZVJYaE1oZGYxdTNueV9lRHN4OWNzUlpiX0hLYmRPd3N5RUZObDNGc3pnSDg2eklWUC0zNXZFbHhBUk5iM3JVemFXbmlFdlNMNDlPTFVWOGMta2g5VEc5UXpjVUdjc3YtazVfUXdzQXRxb0o5dGtia3ZoVkwzOEZKaEhFeUc1UWpNN2t2Nm1rbWlCN0JnalRqdkhFLVFQSXphRjVfclNqSk1PaEdXT3lWczlTaFdxcVJVVFpaOU00ZUViTlJUS0Nhc3VCa1RSTQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Beat: Data center equipment maker nVent expands again; Polaris powers up - The Business Journals",
-      "summary": "The Beat: Data center equipment maker nVent expands again; Polaris powers up The Business Journals",
-      "source": "The Business Journals",
-      "published_at": "2026-08-07T04:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEVNQzczbWVpaGFRdHZkdUItdEJJdGEtVzJaOGpweUwwLUd0bnh3cW9SekRVTHZrNnFtYXMxY2Q1RElza3NEQzRzdjNpa1I4TEVBNjQtbzBtT2dZXzI1dWxUdlVEZ2VRcFYtVVJDTmN1WGlJRDhCcU5pLWtVZFljRHAycjhOUXRXM3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
