@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-09T07:04:51+08:00",
+  "intel_updated_at": "2026-08-09T08:03:29+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -239,16 +239,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - Macau Business",
-      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence Macau Business",
-      "source": "Macau Business",
-      "published_at": "2026-08-08T17:01:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVmJMUmdYS2pRZ3Z1RU1CT19TY0txT3V0bEYzSUpJTHJHYUduNG5kUVNQTTFsTTBtNWU3Zzk2S25NQW9aUVZ0Z1g2Qk5nQk5sWlJWSUxONDJTNVh4SDFMZmJ6enlnRklXSkZJeFNSR3pwYkc1TnAyamRpVTBDY1U0U3dtUXBISjJ3VWFoYTEwSktBd1E4TzgyMk52VjhXR1JDVXo3SWNBcmdSSXhUTkIwcnNtMFdKVkdmNDJfazEyVVJ5dC1DOFFtNFRGc0NmX1dEU0U4ak9pVVlrVFUxaVpCVHEyX3BFckdkc2pZei1rVVZUcExvN2NjeWJUdFhiUm1iTFlRWGxDNEx4SFI0M2hwUmVBWQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
       "headline": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway - finance.biggo.com",
       "summary": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway finance.biggo.com",
@@ -289,12 +279,22 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - FinancialContent",
+      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence FinancialContent",
+      "source": "FinancialContent",
+      "published_at": "2026-08-07T21:27:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOSzZLTktkQi1tR05JU0E0UzNpLURxR19SVUZOODNJeVpqV1JSQThtRVJqUi1ZQWEycWF4ZFdDclpKemlzWm51TGxSR2pleGVOWUF2aVlSRlI5Z0dYSW1Bc0s2VHRfaUJvU1ctdWx0TWtHZ2dYb0dZS012VnZYS3k1TFFITkNVX25uT0lScEtKNlNqVzFBaWFZYkQ2UFFESnJqM3ZnTXlQY1YzdEtzbUNmNTRDajBiRGw1VGRzUG1KcWxJaHJPVERCNmpVVi1ua0RMMlRxdERrXy1jQTVtQjRMeUNVc2dNWkZsWVAzYzR6NmpIOWZrV3pERWhxTno5VnVoaVV0QUxieUdTRkRRZmpPVGRHUl9temtid3NJeWRpVHVUMEstckxtZXB3cWJzbGRLenBLMks4clhkbkJzQlBLMG4xd2E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Data Center Solutions Market to Reach US$1.33 Trillion by - GlobeNewswire",
       "summary": "Data Center Solutions Market to Reach US$1.33 Trillion by GlobeNewswire",
       "source": "GlobeNewswire",
       "published_at": "2026-08-07T21:16:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNOFJScFlEZmRDVm5wOC1WWXNJSTVGWF82bnRLZVdybHZoazNKN1QtVmUtX0hNNll4NWpGc2xncEtieTdPUTdfWTN3QzZCeGVhX1pCd3FTSDRrT2lXSFN2Z0EwX2pZR3hDbGRPQm5wUUk1cmZwNVIxTzJDYU9lbVFWcWdUdjB3OEhYV3NFcDJTbmp1SjN4OVB4cGlXVzB6eEFGcGRpdERteXlwZjEybVNINWlUalJNeC1PZ1Bxc1pYR1dzTDJNQXlKY25fOW9kNGpNUmZVMExOdVpsQzV6MEZTcktBQU5qZ05XUHVCM1daQ2FoVHFoZVBRZDdWeGRsRjU2X2JRTE1ncUZFZUw3clJLVXdZeHNRUnd2d3ZYSDhPWFVaN1VqbXZGUmlkeThBWWRVRThnSG5UelpHSWdNWGYxc0twZEJ4a2hIWW8yMXdITUxhWkNKOE8wTTA4LXc2U2NEcFFGZE9IVnhXZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPNkFJWVh0SUt5NzE5Y2MzNU11SkZGZkZabEE3cmNiaFZwSG5zTDBlSTN1Qm1ucUM4UUt6Y0dTZkpSZXFIQlBvc19Bekx2NEw4TVNpUl9iUjZLOU9URW9TMGhWTFQyNmZxYU5vREkxMy1xUmFweHZuVWVKWG1xUEpPd0R6NlhPVGo4eDZYSEtwbm1QbjFod2dScV92MDkwSFBQRy13Vk0ydDY3NlYwOE8wYVdiZWp2OEdzUFFLTDkwMjR3ZnFjelhkZU9BdWQ2UExqSHFOUnFkcDk1WVEzdVkwWEJub2FLdzUwQmdQY01fa3BVMF9QNFpsNFRjY1ZTbGlDeW5OVnYzWmZrRElTbjVibm8tOUlENHdRZzFrcUM2cWk3anV3cEZoa2tUc093aWtqamZVVElWWnIxUEpNRnBwbTVpMXctcUtOdVJrekhQZmxXUGZnR1NKQlFZQndaWnVUeUhtZkJLS1dvUG1tREw0?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
