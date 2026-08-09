@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-10T01:52:44+08:00",
+  "intel_updated_at": "2026-08-10T03:50:58+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -230,16 +230,6 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom - theglobeandmail.com",
-      "summary": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom theglobeandmail.com",
-      "source": "theglobeandmail.com",
-      "published_at": "2026-08-09T22:23:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEtLRndBOEM5MU9mcEt2LS1kM3pDYzJDV1FrdlQzLVl0a1d5WDVyYTE2SHdKcEhWT0dhOHZndzF6OWNIQjd2TEstZm04eGwxUHR3N2szUDNFdjRhUk93MlBYN1hvbk9KdEJYTnZBaHNvT29lWjI4VUROdktkWGl4Z3RVUGpTYzNKZkotQWVNaExrQU1DMjQ4ZHd5SDY5cmJlVzZKVmxQX3JUYXlOdGxJRWhDdVpBQW9raVdqbjI0UWtKVThGdVZfOFJjWEVTclNhb0x1SFM4MVNrLVpOTjZGd1h5d2hyRFUx?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies ",
       "source": "NVIDIA Blog",
@@ -320,9 +310,9 @@
     },
     {
       "category": "CDU／幫浦",
-      "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
-      "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
-      "source": "TechPorn",
+      "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - techporn.ph",
+      "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU techporn.ph",
+      "source": "techporn.ph",
       "published_at": "2026-08-07T16:29:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
       "data_type": "live",
@@ -345,6 +335,16 @@
       "source": "Mexico Business News",
       "published_at": "2026-08-06T22:53:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnRvWnNiNFBqVW5DTlphZG03NFZpV19oU1VTNk1OZGxRdmItenFmV1l0UkNRc2Q0MTYwdTh2M2Zfc3VrSXIzVUgySGd4NWNGbG1DVVd6akx3dkVqd0l3ZWpoaENCM0RETUtRZnEzc1lURTdaRXNHVjFIUmNCVzg1TDluMkFydHdHNmxMZlRraXZTOHJGRGpSOW96b09fV2RLaC1JMUFn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Data Center Thermal Management Market worth $32.38 billion by 2032 - Exclusive Report by MarketsandMarkets™ - PR Newswire UK",
+      "summary": "Data Center Thermal Management Market worth $32.38 billion by 2032 - Exclusive Report by MarketsandMarkets™ PR Newswire UK",
+      "source": "PR Newswire UK",
+      "published_at": "2026-08-06T22:15:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON21KM2VjMEFQUkh3R0xCbFExZmtrWHRvczROa2xMdFR3X1FvRmVOaWtBRmpUU2VPNkMyX1VtUWhxWTZFeVdZV19HQmRYZTk2V0EwRjY3RWN2VnNRWjNlYWZTQVJNRkQ4ZnBjNnBGUjlDNkV3QTVlOXM5WldiYlpZcmRucUpud1dtaTlaN0ZqeTBHWWMzSTBGTmJSQjJMUlNHb2RyNmV5NWV6bWRaYlF5blMzM3YxM1J1cTJQaGFTbm8yY3ppUG13akhrNXluMHBiT2VTZlBzSTQ5UmVnMjdDZTNWSUY2NmNvWjgydkU5MTFYaWFTRHc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
