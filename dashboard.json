@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "updated_at": "2026-07-29T16:31:00+08:00",
-  "intel_updated_at": "2026-08-09T20:02:40+08:00",
+  "intel_updated_at": "2026-08-09T22:10:07+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -260,9 +260,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Efficient data center water cooling for Australia’s market - datacenterdynamics.com",
-      "summary": "Efficient data center water cooling for Australia’s market datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Efficient data center water cooling for Australia’s market - Data Center Dynamics",
+      "summary": "Efficient data center water cooling for Australia’s market Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-08-07T23:01:41+08:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFQ5YS04NjlMZTJzSG42TFJYWVJrMzJsOFRxNG9xUTVhYW9kZjFUT1VCVThkOFFET3V0d3NTSG9YQWVyVEphczRmdVdKZkVYa0xESmlGeGtqT2UtYV9tUlM4U2VyZlJkZjFtMzBLVHZjaTFCRHJ1aXJ3WGVtR1RwSFpQYWp5NnNmNnliVFpyajZ6RFRBQkdVWmpWRXdVdHVueHdZaVp1cjA?oc=5",
       "data_type": "live",
@@ -310,9 +310,9 @@
     },
     {
       "category": "CDU／幫浦",
-      "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - techporn.ph",
-      "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU techporn.ph",
-      "source": "techporn.ph",
+      "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
+      "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
+      "source": "TechPorn",
       "published_at": "2026-08-07T16:29:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
       "data_type": "live",
