@@ -2,16 +2,21 @@
   "schema_version": "1.0",
   "updated_at": "2026-08-10T09:14:00+08:00",
   "market_status": {
-    "state": "manual_verified",
-    "updated_sources": 2,
-    "source_failures": [],
-    "message": "台銀資料已核實；排程將嘗試自動抓取，前一交易日比較待歷史資料介接。"
+    "state": "fallback",
+    "updated_sources": 0,
+    "source_failures": [
+      "????: error: nothing to repeat at position 0",
+      "????: error: nothing to repeat at position 0"
+    ],
+    "message": "?????????????????"
   },
-  "intel_updated_at": "2026-08-10T07:16:00+08:00",
+  "intel_updated_at": "2026-08-10T09:44:29+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "資料修復中",
@@ -235,6 +240,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics - IndexBox",
+      "summary": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-08-10T08:01:11+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWjFKT05ERFdFVzV5LXR0ZTVxT1dPME9xdWtLZlNXczdmU0hxV21VX0dtSWYxT3FqTXNEVS02RUVXZmxBZlZxSzJqR3F0Tllia1dYYVVPZkctMFFxcVl4ejBnWExkWUxWSnQ0eWhKV1pyYTRVdG1wclBNcDlweG9aWVZ0T0xPemJnY1lzcWt6ZkdTbHlqNU1Wa2lkMHA5M3JEcjJRakw3OFdJZTYyMWpUWnFSQ0lsU2x4eVh2NUJYVzg0MlRacU01MF9tNVdJem9GSnRNNm8tM05sUGNr?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom - The Globe and Mail",
       "summary": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom The Globe and Mail",
@@ -286,9 +301,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - Big News Network.com",
-      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad Big News Network.com",
-      "source": "Big News Network.com",
+      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - bignewsnetwork.com",
+      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad bignewsnetwork.com",
+      "source": "bignewsnetwork.com",
       "published_at": "2026-08-07T22:29:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdkJvcVBwUVVkRmxtc1VwMGc1Qko0SkhTZGtCVTM4T1FaSktYcmx4M1YxN1ZXTFJGc0VNSnRSanUwT2xuYlMyRG5Tajh4SVpwTU1ERkpiTVh4U1piZlozTjNyaVZBWVNqNUV2X3FGc0dPRXJIWTNiM3lrNXhQVE1VM2xEZDFPMV82ZHVXN08wemNkX3l1Vno4NlJEQjI3eHdiRzRxUnpGWk85cHdkTHZmSWp3X1RGdkNKMWNvdTktR3FXRTFJVnpqdGwwNWs3VVZteDFIX0JiZ0VVd3lLd2VuTFRvSW15c3dIT0tXUmVjZkNrY3VGNm1PZTN1RVVBaVJZZnNLMF8zVTYySTJldkt0bEFVLTdBamRYS1M3aGRyNEZMUQ?oc=5",
       "data_type": "live",
@@ -336,21 +351,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner - Data Center Frontier",
-      "summary": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner Data Center Frontier",
-      "source": "Data Center Frontier",
+      "headline": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner - datacenterfrontier.com",
+      "summary": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner datacenterfrontier.com",
+      "source": "datacenterfrontier.com",
       "published_at": "2026-08-07T15:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXgzTXZCN3pKZVJYaE1oZGYxdTNueV9lRHN4OWNzUlpiX0hLYmRPd3N5RUZObDNGc3pnSDg2eklWUC0zNXZFbHhBUk5iM3JVemFXbmlFdlNMNDlPTFVWOGMta2g5VEc5UXpjVUdjc3YtazVfUXdzQXRxb0o5dGtia3ZoVkwzOEZKaEhFeUc1UWpNN2t2Nm1rbWlCN0JnalRqdkhFLVFQSXphRjVfclNqSk1PaEdXT3lWczlTaFdxcVJVVFpaOU00ZUViTlJUS0Nhc3VCa1RSTQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Beat: Data center equipment maker nVent expands again; Polaris powers up - The Business Journals",
-      "summary": "The Beat: Data center equipment maker nVent expands again; Polaris powers up The Business Journals",
-      "source": "The Business Journals",
-      "published_at": "2026-08-07T04:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEVNQzczbWVpaGFRdHZkdUItdEJJdGEtVzJaOGpweUwwLUd0bnh3cW9SekRVTHZrNnFtYXMxY2Q1RElza3NEQzRzdjNpa1I4TEVBNjQtbzBtT2dZXzI1dWxUdlVEZ2VRcFYtVVJDTmN1WGlJRDhCcU5pLWtVZFljRHAycjhOUXRXM3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
