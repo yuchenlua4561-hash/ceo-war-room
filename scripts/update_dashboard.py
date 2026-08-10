@@ -123,7 +123,7 @@ def collect_bot_market(data: dict) -> tuple[bool, list[str]]:
         fx_html = fetch_html(BOT_FX_URL)
         rows = TableRows()
         rows.feed(fx_html)
-        match = re.search(r"????????[?:]\s*(\d{4}/\d{2}/\d{2}\s+\d{2}:\d{2})", strip_markup(fx_html))
+        match = re.search(r"(\d{4}/\d{2}/\d{2}\s+\d{2}:\d{2})", strip_markup(fx_html))
         if not match:
             raise ValueError("FX quote time not found")
         quote_time = datetime.strptime(match.group(1), "%Y/%m/%d %H:%M").replace(tzinfo=TAIPEI)
@@ -141,36 +141,45 @@ def collect_bot_market(data: dict) -> tuple[bool, list[str]]:
                 "change_pct": None,
                 "as_of": quote_time.strftime("%Y-%m-%d %H:%M GMT+8"),
                 "price_type": "live",
-                "price_label": "????",
-                "source": "????",
+                "price_label": "\u53f0\u9280\u724c\u544a",
+                "source": "\u81fa\u7063\u9280\u884c",
                 "source_url": BOT_FX_URL,
             })
     except Exception as error:
-        failures.append(f"????: {type(error).__name__}: {error}")
+        failures.append(f"BOT FX: {type(error).__name__}: {error}")
 
     try:
         gold_html = fetch_html(BOT_GOLD_URL)
         plain = strip_markup(gold_html)
-        match = re.search(r"????[?:]\s*(\d{4}/\d{2}/\d{2}\s+\d{2}:\d{2})", plain)
-        gold = re.search(r"????\s+????\s+([\d,]+)", plain)
-        if not match or not gold:
+        match = re.search(r"(\d{4}/\d{2}/\d{2}\s+\d{2}:\d{2})", plain)
+        rows = TableRows()
+        rows.feed(gold_html)
+        gold_row = next(
+            (
+                row for row in rows.rows
+                if "\u9ec3\u91d1\u5b58\u647a" in row and "\u672c\u884c\u8ce3\u51fa" in row
+            ),
+            "",
+        )
+        gold_values = numeric_values(gold_row)
+        if not match or not gold_values:
             raise ValueError("Gold quote not found")
         quote_time = datetime.strptime(match.group(1), "%Y/%m/%d %H:%M").replace(tzinfo=TAIPEI)
         latest_times.append(quote_time)
         item = data["markets"]["gold_twd"]
         item.update({
-            "value": float(gold.group(1).replace(",", "")),
+            "value": gold_values[-1],
             "previous": None,
             "change": None,
             "change_pct": None,
             "as_of": quote_time.strftime("%Y-%m-%d %H:%M GMT+8"),
             "price_type": "live",
-            "price_label": "????",
-            "source": "????",
+            "price_label": "\u53f0\u9280\u724c\u544a",
+            "source": "\u81fa\u7063\u9280\u884c",
             "source_url": BOT_GOLD_URL,
         })
     except Exception as error:
-        failures.append(f"????: {type(error).__name__}: {error}")
+        failures.append(f"BOT gold: {type(error).__name__}: {error}")
 
     if latest_times:
         data["updated_at"] = max(latest_times).isoformat(timespec="seconds")
@@ -178,7 +187,7 @@ def collect_bot_market(data: dict) -> tuple[bool, list[str]]:
         "state": "ok" if not failures else "partial" if latest_times else "fallback",
         "updated_sources": len(latest_times),
         "source_failures": failures,
-        "message": "?????????????????",
+        "message": "\u524d\u4e00\u4ea4\u6613\u65e5\u6bd4\u8f03\u5f85\u6b63\u5f0f\u6b77\u53f2\u8cc7\u6599\u4ecb\u63a5\u3002",
     }
     return bool(latest_times), failures
 
