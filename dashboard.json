@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-10T13:04:00+08:00",
+  "updated_at": "2026-08-10T18:41:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-10T13:11:29+08:00",
+  "intel_updated_at": "2026-08-10T18:42:22+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.27,
+      "value": 32.295,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 12:48 GMT+8",
+      "as_of": "2026-08-10 18:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2056,
+      "value": 0.2055,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 12:48 GMT+8",
+      "as_of": "2026-08-10 18:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.42,
+      "value": 37.545,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 12:48 GMT+8",
+      "as_of": "2026-08-10 18:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4517.0,
+      "value": 4523.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-10 13:04 GMT+8",
+      "as_of": "2026-08-10 18:28 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -236,6 +236,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "How Data Center AI Can Keep Growing, Despite Supply Chain Bottlenecks - Semiconductor Engineering",
+      "summary": "How Data Center AI Can Keep Growing, Despite Supply Chain Bottlenecks Semiconductor Engineering",
+      "source": "Semiconductor Engineering",
+      "published_at": "2026-08-10T15:31:20+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnR6QXRIWGtRdDJVS2tGaUQwU0U2WmVwZ3FOZ3ZRa3lNSTJ4T3RNZDU4X0VCbzQ4Yld1VkZSQTRidTVpVzJGbzVsd3pmMnhjUDkxUnliRkNWYUh3Sk9uSU13a1FWMGYyU3VldC1QUF9uVVlTaWU4YXNMM21TSVZmel9ORDFUQWhYNlNCT3BDeHZ0QllwVWM2aGRpdlItUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Top AI Data Center Trends to Watch Through 2030 - Analytics Insight",
       "summary": "Top AI Data Center Trends to Watch Through 2030 Analytics Insight",
       "source": "Analytics Insight",
@@ -246,9 +256,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics - indexbox.io",
-      "summary": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics indexbox.io",
-      "source": "indexbox.io",
+      "headline": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics - IndexBox",
+      "summary": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics IndexBox",
+      "source": "IndexBox",
       "published_at": "2026-08-10T08:01:11+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWjFKT05ERFdFVzV5LXR0ZTVxT1dPME9xdWtLZlNXczdmU0hxV21VX0dtSWYxT3FqTXNEVS02RUVXZmxBZlZxSzJqR3F0Tllia1dYYVVPZkctMFFxcVl4ejBnWExkWUxWSnQ0eWhKV1pyYTRVdG1wclBNcDlweG9aWVZ0T0xPemJnY1lzcWt6ZkdTbHlqNU1Wa2lkMHA5M3JEcjJRakw3OFdJZTYyMWpUWnFSQ0lsU2x4eVh2NUJYVzg0MlRacU01MF9tNVdJem9GSnRNNm8tM05sUGNr?oc=5",
       "data_type": "live",
@@ -286,9 +296,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Oppressive heat forces AI data centers to get smart about temperature control - Korea JoongAng Daily",
-      "summary": "Oppressive heat forces AI data centers to get smart about temperature control Korea JoongAng Daily",
-      "source": "Korea JoongAng Daily",
+      "headline": "Oppressive heat forces AI data centers to get smart about temperature control - koreajoongangdaily.com",
+      "summary": "Oppressive heat forces AI data centers to get smart about temperature control koreajoongangdaily.com",
+      "source": "koreajoongangdaily.com",
       "published_at": "2026-08-08T06:05:05+08:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHgxQnJyM0ZwUW9XMDRheXFjVjkzT0lXbVJTM1RzRVVtMzRjSVlJR2FHN0w4VGZTbUZQa3VTNmZ6dnBGU1kwdXFkYjJsbHQ2Nl9LZkV2dC1lZkhBdmNPWGZWd1l2VDJBbDdBZU9RTHR5WmdEc2IwX0xPUGJMUHp5MHNKNWpUV0o2M2JNUXdfWGx1ekN1NjE5OWwzSjVQVW1XVl9pZnlDM1lGLXZIbGswcEx1OG1CdG82WXp4bTNCM3FWSTNta1NUZUhB?oc=5",
       "data_type": "live",
@@ -341,16 +351,6 @@
       "source": "Nasscom",
       "published_at": "2026-08-07T19:00:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU - TechPorn",
-      "summary": "LG Earns NVIDIA AI Factory Validation for Its 600 kW CDU TechPorn",
-      "source": "TechPorn",
-      "published_at": "2026-08-07T16:29:34+08:00",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
