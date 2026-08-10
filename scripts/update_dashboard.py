@@ -24,6 +24,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "dashboard.json"
 TAIPEI = ZoneInfo("Asia/Taipei")
 MAX_NEWS = 12
+COLLECTOR_VERSION = "2026-08-10.2"
 
 KEYWORDS = {
     "液冷散熱": (
