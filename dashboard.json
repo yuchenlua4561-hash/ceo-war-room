@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-10T09:46:00+08:00",
+  "updated_at": "2026-08-10T09:50:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-10T09:46:55+08:00",
+  "intel_updated_at": "2026-08-10T09:52:08+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.28,
+      "value": 32.275,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:46 GMT+8",
+      "as_of": "2026-08-10 09:50 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:46 GMT+8",
+      "as_of": "2026-08-10 09:50 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:46 GMT+8",
+      "as_of": "2026-08-10 09:50 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
