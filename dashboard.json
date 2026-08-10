@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-10T09:50:00+08:00",
+  "updated_at": "2026-08-10T13:04:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-10T09:52:08+08:00",
+  "intel_updated_at": "2026-08-10T13:11:29+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.275,
+      "value": 32.27,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:50 GMT+8",
+      "as_of": "2026-08-10 12:48 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2058,
+      "value": 0.2056,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:50 GMT+8",
+      "as_of": "2026-08-10 12:48 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.44,
+      "value": 37.42,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:50 GMT+8",
+      "as_of": "2026-08-10 12:48 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4502.0,
+      "value": 4517.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-10 09:39 GMT+8",
+      "as_of": "2026-08-10 13:04 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -235,10 +235,20 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Top AI Data Center Trends to Watch Through 2030 - Analytics Insight",
+      "summary": "Top AI Data Center Trends to Watch Through 2030 Analytics Insight",
+      "source": "Analytics Insight",
+      "published_at": "2026-08-10T11:11:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjdzaFpwdjNNTG1yMzdORjg0S09UN2R1dnpCeWxHd18xMkVEU3hBcW9QMGlsQ01hZUU2SWJtcTZERDEwUXcwVXVxX0dNU1RTcXFsMzktS3h3QXUzd2VZOE1DdXdVbW0tZXYtYjB2N0ZxUkVjVzlaV2N2Z2R2YTMzVWhBelNNLVJ4YkdmT1g5akozNWJQQXlMNzlwZFc0d0tpMmpXY2l30gGmAUFVX3lxTE1iN3NoWnB2M01MbXIzN05GODRLT1Q3ZHV2ekJ5bEd3XzEyRURTeEFxb1AwaWxDTWFlRTZJYm1xNkREMTBRdzBVdXFfR01TVFNxcWwzOS1LeHdBdTN3ZVk4TUN1d1VtbS1ldi1iMHY3RnFSRWNXOVpXY3ZnZHZhMzNVaEF6U00tUnhiR2ZPWDlqSjM1YlBBeUw3OXBkVzR3S2kyaldjaXc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
-      "headline": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics - IndexBox",
-      "summary": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics IndexBox",
-      "source": "IndexBox",
+      "headline": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics - indexbox.io",
+      "summary": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics indexbox.io",
+      "source": "indexbox.io",
       "published_at": "2026-08-10T08:01:11+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWjFKT05ERFdFVzV5LXR0ZTVxT1dPME9xdWtLZlNXczdmU0hxV21VX0dtSWYxT3FqTXNEVS02RUVXZmxBZlZxSzJqR3F0Tllia1dYYVVPZkctMFFxcVl4ejBnWExkWUxWSnQ0eWhKV1pyYTRVdG1wclBNcDlweG9aWVZ0T0xPemJnY1lzcWt6ZkdTbHlqNU1Wa2lkMHA5M3JEcjJRakw3OFdJZTYyMWpUWnFSQ0lsU2x4eVh2NUJYVzg0MlRacU01MF9tNVdJem9GSnRNNm8tM05sUGNr?oc=5",
       "data_type": "live",
@@ -296,9 +306,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - bignewsnetwork.com",
-      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad bignewsnetwork.com",
-      "source": "bignewsnetwork.com",
+      "headline": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad - Big News Network.com",
+      "summary": "KuhlTherm launches Indigenous Liquid Cooling Solutions for Data Centres; Unveils India's first state-of-the-art Testing and Verification Lab in Ahmedabad Big News Network.com",
+      "source": "Big News Network.com",
       "published_at": "2026-08-07T22:29:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdkJvcVBwUVVkRmxtc1VwMGc1Qko0SkhTZGtCVTM4T1FaSktYcmx4M1YxN1ZXTFJGc0VNSnRSanUwT2xuYlMyRG5Tajh4SVpwTU1ERkpiTVh4U1piZlozTjNyaVZBWVNqNUV2X3FGc0dPRXJIWTNiM3lrNXhQVE1VM2xEZDFPMV82ZHVXN08wemNkX3l1Vno4NlJEQjI3eHdiRzRxUnpGWk85cHdkTHZmSWp3X1RGdkNKMWNvdTktR3FXRTFJVnpqdGwwNWs3VVZteDFIX0JiZ0VVd3lLd2VuTFRvSW15c3dIT0tXUmVjZkNrY3VGNm1PZTN1RVVBaVJZZnNLMF8zVTYySTJldkt0bEFVLTdBamRYS1M3aGRyNEZMUQ?oc=5",
       "data_type": "live",
@@ -341,16 +351,6 @@
       "source": "TechPorn",
       "published_at": "2026-08-07T16:29:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbHVOa004M1dJODZOYXZ1dmM4VVk2Q1NkOGpuNUJ3OTFsRE5pV1FIUjEtbEFpSHNDN0pwcm5hUGJuSHJLR0lyaFZWZ3p2NGQxYmVVN2xsZENhc21ST0hFbVM5UjQ5X0Rob2xvbnI0RXJmbjR2ekstUnNZWVY1QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner - datacenterfrontier.com",
-      "summary": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner datacenterfrontier.com",
-      "source": "datacenterfrontier.com",
-      "published_at": "2026-08-07T15:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQXgzTXZCN3pKZVJYaE1oZGYxdTNueV9lRHN4OWNzUlpiX0hLYmRPd3N5RUZObDNGc3pnSDg2eklWUC0zNXZFbHhBUk5iM3JVemFXbmlFdlNMNDlPTFVWOGMta2g5VEc5UXpjVUdjc3YtazVfUXdzQXRxb0o5dGtia3ZoVkwzOEZKaEhFeUc1UWpNN2t2Nm1rbWlCN0JnalRqdkhFLVFQSXphRjVfclNqSk1PaEdXT3lWczlTaFdxcVJVVFpaOU00ZUViTlJUS0Nhc3VCa1RSTQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
