@@ -14,6 +14,7 @@ import xml.etree.ElementTree as ET
 from copy import deepcopy
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote_plus, urlparse
 from urllib.request import Request, urlopen
@@ -68,6 +69,118 @@ GOOGLE_QUERIES = (
     '(Motivair OR CoolIT OR Vertiv OR Boyd OR STULZ OR nVent) cooling when:14d',
     'AI server (thermal OR cooling OR coolant) supply chain when:7d',
 )
+
+BOT_FX_URL = "https://rate.bot.com.tw/xrt?Lang=zh-TW"
+BOT_GOLD_URL = "https://rate.bot.com.tw/gold?Lang=zh-TW"
+
+
+class TableRows(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.in_row = False
+        self.row: list[str] = []
+        self.rows: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag == "tr":
+            self.in_row = True
+            self.row = []
+
+    def handle_data(self, data: str) -> None:
+        if self.in_row and data.strip():
+            self.row.append(data.strip())
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag == "tr" and self.in_row:
+            self.rows.append(" ".join(self.row))
+            self.in_row = False
+
+
+def fetch_html(url: str) -> str:
+    request = Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 CEO-War-Room/1.0",
+            "Accept": "text/html,application/xhtml+xml",
+            "Accept-Language": "zh-TW,zh;q=0.9,en;q=0.7",
+        },
+    )
+    with urlopen(request, timeout=30) as response:
+        text = response.read().decode("utf-8", errors="replace")
+    if "Challenge Validation" in text or "challenge=" in text:
+        raise RuntimeError("Bank of Taiwan anti-bot challenge")
+    return text
+
+
+def numeric_values(text: str) -> list[float]:
+    return [float(value.replace(",", "")) for value in re.findall(r"(?<![\w/])\d[\d,]*(?:\.\d+)?", text)]
+
+
+def collect_bot_market(data: dict) -> tuple[bool, list[str]]:
+    failures: list[str] = []
+    latest_times: list[datetime] = []
+    try:
+        fx_html = fetch_html(BOT_FX_URL)
+        rows = TableRows()
+        rows.feed(fx_html)
+        match = re.search(r"????????[?:]\s*(\d{4}/\d{2}/\d{2}\s+\d{2}:\d{2})", strip_markup(fx_html))
+        if not match:
+            raise ValueError("FX quote time not found")
+        quote_time = datetime.strptime(match.group(1), "%Y/%m/%d %H:%M").replace(tzinfo=TAIPEI)
+        latest_times.append(quote_time)
+        for code, key in (("USD", "usd_twd"), ("JPY", "jpy_twd"), ("EUR", "eur_twd")):
+            row = next((row for row in rows.rows if f"({code})" in row), "")
+            values = numeric_values(row)
+            if len(values) < 4:
+                raise ValueError(f"{code} spot quote not found")
+            item = data["markets"][key]
+            item.update({
+                "value": values[3],
+                "previous": None,
+                "change": None,
+                "change_pct": None,
+                "as_of": quote_time.strftime("%Y-%m-%d %H:%M GMT+8"),
+                "price_type": "live",
+                "price_label": "????",
+                "source": "????",
+                "source_url": BOT_FX_URL,
+            })
+    except Exception as error:
+        failures.append(f"????: {type(error).__name__}: {error}")
+
+    try:
+        gold_html = fetch_html(BOT_GOLD_URL)
+        plain = strip_markup(gold_html)
+        match = re.search(r"????[?:]\s*(\d{4}/\d{2}/\d{2}\s+\d{2}:\d{2})", plain)
+        gold = re.search(r"????\s+????\s+([\d,]+)", plain)
+        if not match or not gold:
+            raise ValueError("Gold quote not found")
+        quote_time = datetime.strptime(match.group(1), "%Y/%m/%d %H:%M").replace(tzinfo=TAIPEI)
+        latest_times.append(quote_time)
+        item = data["markets"]["gold_twd"]
+        item.update({
+            "value": float(gold.group(1).replace(",", "")),
+            "previous": None,
+            "change": None,
+            "change_pct": None,
+            "as_of": quote_time.strftime("%Y-%m-%d %H:%M GMT+8"),
+            "price_type": "live",
+            "price_label": "????",
+            "source": "????",
+            "source_url": BOT_GOLD_URL,
+        })
+    except Exception as error:
+        failures.append(f"????: {type(error).__name__}: {error}")
+
+    if latest_times:
+        data["updated_at"] = max(latest_times).isoformat(timespec="seconds")
+    data["market_status"] = {
+        "state": "ok" if not failures else "partial" if latest_times else "fallback",
+        "updated_sources": len(latest_times),
+        "source_failures": failures,
+        "message": "?????????????????",
+    }
+    return bool(latest_times), failures
 
 
 def google_news_url(query: str) -> str:
@@ -238,6 +351,7 @@ def validate(data: dict) -> None:
 
 def collect(previous: dict) -> dict:
     data = deepcopy(previous)
+    collect_bot_market(data)
     news, failures = collect_news()
     if news:
         data["news"] = news
