@@ -1,19 +1,17 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-11T03:41:00+08:00",
+  "updated_at": "2026-08-11T06:51:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-11T04:22:17+08:00",
+  "intel_updated_at": "2026-08-11T07:08:21+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "資料修復中",
@@ -55,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 03:41 GMT+8",
+      "as_of": "2026-08-11 06:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 03:41 GMT+8",
+      "as_of": "2026-08-11 06:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.495,
+      "value": 37.505,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 03:41 GMT+8",
+      "as_of": "2026-08-11 06:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -247,6 +245,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Top AI Data Center Trends to Watch Through 2030 - Analytics Insight",
+      "summary": "Top AI Data Center Trends to Watch Through 2030 Analytics Insight",
+      "source": "Analytics Insight",
+      "published_at": "2026-08-10T11:11:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjdzaFpwdjNNTG1yMzdORjg0S09UN2R1dnpCeWxHd18xMkVEU3hBcW9QMGlsQ01hZUU2SWJtcTZERDEwUXcwVXVxX0dNU1RTcXFsMzktS3h3QXUzd2VZOE1DdXdVbW0tZXYtYjB2N0ZxUkVjVzlaV2N2Z2R2YTMzVWhBelNNLVJ4YkdmT1g5akozNWJQQXlMNzlwZFc0d0tpMmpXY2l30gGmAUFVX3lxTE1iN3NoWnB2M01MbXIzN05GODRLT1Q3ZHV2ekJ5bEd3XzEyRURTeEFxb1AwaWxDTWFlRTZJYm1xNkREMTBRdzBVdXFfR01TVFNxcWwzOS1LeHdBdTN3ZVk4TUN1d1VtbS1ldi1iMHY3RnFSRWNXOVpXY3ZnZHZhMzNVaEF6U00tUnhiR2ZPWDlqSjM1YlBBeUw3OXBkVzR3S2kyaldjaXc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics - IndexBox",
       "summary": "Immersion Cooling Dielectrics Market AI Chip Heat Demands Fuel 18-25% CAGR to 2035 - News and Statistics IndexBox",
@@ -343,16 +351,6 @@
       "source": "FinancialContent",
       "published_at": "2026-08-07T21:27:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOSzZLTktkQi1tR05JU0E0UzNpLURxR19SVUZOODNJeVpqV1JSQThtRVJqUi1ZQWEycWF4ZFdDclpKemlzWm51TGxSR2pleGVOWUF2aVlSRlI5Z0dYSW1Bc0s2VHRfaUJvU1ctdWx0TWtHZ2dYb0dZS012VnZYS3k1TFFITkNVX25uT0lScEtKNlNqVzFBaWFZYkQ2UFFESnJqM3ZnTXlQY1YzdEtzbUNmNTRDajBiRGw1VGRzUG1KcWxJaHJPVERCNmpVVi1ua0RMMlRxdERrXy1jQTVtQjRMeUNVc2dNWkZsWVAzYzR6NmpIOWZrV3pERWhxTno5VnVoaVV0QUxieUdTRkRRZmpPVGRHUl9temtid3NJeWRpVHVUMEstckxtZXB3cWJzbGRLenBLMks4clhkbkJzQlBLMG4xd2E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Solutions Market to Reach US$1.33 Trillion by - GlobeNewswire",
-      "summary": "Data Center Solutions Market to Reach US$1.33 Trillion by GlobeNewswire",
-      "source": "GlobeNewswire",
-      "published_at": "2026-08-07T21:16:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNOFJScFlEZmRDVm5wOC1WWXNJSTVGWF82bnRLZVdybHZoazNKN1QtVmUtX0hNNll4NWpGc2xncEtieTdPUTdfWTN3QzZCeGVhX1pCd3FTSDRrT2lXSFN2Z0EwX2pZR3hDbGRPQm5wUUk1cmZwNVIxTzJDYU9lbVFWcWdUdjB3OEhYV3NFcDJTbmp1SjN4OVB4cGlXVzB6eEFGcGRpdERteXlwZjEybVNINWlUalJNeC1PZ1Bxc1pYR1dzTDJNQXlKY25fOW9kNGpNUmZVMExOdVpsQzV6MEZTcktBQU5qZ05XUHVCM1daQ2FoVHFoZVBRZDdWeGRsRjU2X2JRTE1ncUZFZUw3clJLVXdZeHNRUnd2d3ZYSDhPWFVaN1VqbXZGUmlkeThBWWRVRThnSG5UelpHSWdNWGYxc0twZEJ4a2hIWW8yMXdITUxhWkNKOE8wTTA4LXc2U2NEcFFGZE9IVnhXZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
