@@ -1,22 +1,17 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-10T09:14:00+08:00",
+  "updated_at": "2026-08-10T09:46:00+08:00",
   "market_status": {
-    "state": "fallback",
-    "updated_sources": 0,
-    "source_failures": [
-      "????: error: nothing to repeat at position 0",
-      "????: error: nothing to repeat at position 0"
-    ],
-    "message": "?????????????????"
+    "state": "ok",
+    "updated_sources": 2,
+    "source_failures": [],
+    "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-10T09:44:29+08:00",
+  "intel_updated_at": "2026-08-10T09:46:55+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "資料修復中",
@@ -49,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.3,
+      "value": 32.28,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -58,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:00 GMT+8",
+      "as_of": "2026-08-10 09:46 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2062,
+      "value": 0.2058,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -73,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:00 GMT+8",
+      "as_of": "2026-08-10 09:46 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.48,
+      "value": 37.44,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -88,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-10 09:00 GMT+8",
+      "as_of": "2026-08-10 09:46 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4512,
+      "value": 4502.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -103,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-10 09:14 GMT+8",
+      "as_of": "2026-08-10 09:39 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
