@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-11T23:20:00+08:00",
+  "updated_at": "2026-08-12T03:40:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-11T23:32:03+08:00",
+  "intel_updated_at": "2026-08-12T03:49:16+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 23:20 GMT+8",
+      "as_of": "2026-08-12 03:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 23:20 GMT+8",
+      "as_of": "2026-08-12 03:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 23:20 GMT+8",
+      "as_of": "2026-08-12 03:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom - The Globe and Mail",
-      "implication": "公開情報更新於 2026-08-09T22:20:39+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPREF0MHpmelFlejJ5THpmNWZMRmZTaU5pVC1IQ0NWajFndDZfSHdSa0MyeWpRanJXellFZ1F2dGRYZEgxVmZHVXd2YWxCWG45QXl6NzRacTZLZ29QdUlMLTN2cG9MSUpjRUhUNzJOc0RlU1ZjeFlUS0I5Ym5Ra0J2MEVveDBvQUlSRW11N1kxQl9wNTM3VXVyUkZKN1lzeUhoUm9SWWp0dTBhanNudnVpb25TajZ6U0hvMlF6NE5PNkI2ZWJMSExCVUlOT1Q2TF9CUDVhSW50aGdQYTE0TlZ0bDN6c1ZWdDBp?oc=5"
+      "move": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? - TradingView",
+      "implication": "公開情報更新於 2026-08-11T23:24:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldUY1hKWGJOMXdxZklEX0pIT25kOFdKSXg1QTRJNEc2YVFiZHBWM2RBblRQaHRiQUs4cjBaWE1JUVZ3M3hGbXRZRS1UZVI1aE4yMm9WQ0pmZmQwMmJoZzBlRExlbkl1eGNGWkdHZnd3WnV1UEw2S1RfTFZqRFQ2SU4yR29QRXJqN3hEZ2s1TFdrd2ozeTIweU5wWmhlZlkzOTNhUU1qMjRlT05LLTB6VHNvVlFiamFQYVlRV3pCYWFrUQ?oc=5"
     },
     {
       "company": "Boyd",
@@ -236,6 +236,36 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics - IndexBox",
+      "summary": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-08-12T03:01:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkFxcnU1YWNBOEJBTGh6QnRKS1hMclhkbVEwTHNwbHRWUVZ4elQ0M3AxRlBESk1WZExIZS1LRFlfdy1ZeFRNNmZXYWQzUHFqQklPZldza3ZXSXdUSWVGNXdqV2N2aHVwaE9lYVZURC12UHlnVEpfNmdoTVlSbVp3bzdkZHlJSi1saEVuMlI2d19qYlhmc1ZnZC1PUjI5cWFxaFhGSmU1ZGlxVG91bktCbEhld05vUHgzcmZqMmZ3RXlTQlU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Ferguson Says AI Data Center Boom Is Driving Distributor Growth - Distribution Strategy Group",
+      "summary": "Ferguson Says AI Data Center Boom Is Driving Distributor Growth Distribution Strategy Group",
+      "source": "Distribution Strategy Group",
+      "published_at": "2026-08-11T23:25:58+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTYxLVdEQ2VNSDhONkRlc3p6QU1RenhxNkRTYVBMNVZjLVBuN3JVaUdBNWgwZHE5M2NGVW9BVGE0WXA0cHlsMlZnbFJoR21iejF0NlhSZGE1S2pqd2dwc2k3ZHdCYko1SDRrNHh2Mk1ndWhMaW9ZeVAxU3dOZnFFVm14eVgzMVFsRUIwMFBwbmNyVDRHU09Hb0NZMmtta1JEekt1T2tFZjY?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? - TradingView",
+      "summary": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? TradingView",
+      "source": "TradingView",
+      "published_at": "2026-08-11T23:24:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldUY1hKWGJOMXdxZklEX0pIT25kOFdKSXg1QTRJNEc2YVFiZHBWM2RBblRQaHRiQUs4cjBaWE1JUVZ3M3hGbXRZRS1UZVI1aE4yMm9WQ0pmZmQwMmJoZzBlRExlbkl1eGNGWkdHZnd3WnV1UEw2S1RfTFZqRFQ2SU4yR29QRXJqN3hEZ2s1TFdrd2ozeTIweU5wWmhlZlkzOTNhUU1qMjRlT05LLTB6VHNvVlFiamFQYVlRV3pCYWFrUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "nVent Expands Data Center Liquid Cooling Capacity - Data Center Frontier",
       "summary": "nVent Expands Data Center Liquid Cooling Capacity Data Center Frontier",
       "source": "Data Center Frontier",
@@ -261,6 +291,16 @@
       "source": "Yahoo Finance",
       "published_at": "2026-08-11T09:09:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTY2MGhfZDQyOGtYQjJMb3oxRnIzVy1UTjhiclA5TEpZai0yV2R1Q1o5YndXVVF1UnhxYWtsSTFHNXY3eHd2QkhOUVpQMUdGOEQ3blc4aURBTXpLTElKejR5Y0Q1aFF6UnZ1NlB1RDJQcXlRbXpMemxCZmktSk14QnVJS2xTaHU4NGhSVHI1YUZvSUpHTzVhMHpB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "7 key insights from Australia for the New Energy Landscape",
+      "summary": "Introduction Australia is offering one of the clearest real-world examples of how the future electricity system is emerging, with valuable lessons for countries that will face similar energy transition challenges. High rooftop solar penetration, rapid battery ",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-10T22:10:10+08:00",
+      "url": "https://blog.se.com/energy-management-energy-efficiency/2026/08/10/7-key-insights-from-australia-for-the-new-energy-landscape/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -311,46 +351,6 @@
       "source": "NVIDIA Blog",
       "published_at": "2026-08-08T18:24:54+08:00",
       "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-08T15:17:55+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "KühlTherm Unveils Liquid Cooling Solutions for AI Data Centres - SMEStreet",
-      "summary": "KühlTherm Unveils Liquid Cooling Solutions for AI Data Centres SMEStreet",
-      "source": "SMEStreet",
-      "published_at": "2026-08-08T12:43:37+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamYxZngwWEpoMnVHRVNTd3EybzJRRXZ2bUxQZ3NuUDNNMUUyd0YxMkxPd29DOU02dHR5dFNQSWVsRC1HNW9mMXNEaU91REcwb1ZPMWcweDFzTk4wcElvY3N5WmpNcDZ6YjFVaWIxQUlhanJzOTJVdFBicE9QTVZJMUdWelN2SG1aTkctVlZUMldPRFVrdG83alYwZk5NZS15eXA2YzFSaGg5dVk40gGsAUFVX3lxTE9qZjFmeDBYSmgydUdFU1N3cTJvMlFFdnZtTFBnc25QM00xRTJ3RjEyTE93b0M5TTZ0dHl0U1BJZWxELUc1b2Yxc0RpT3VERzBvVk8xZzB4MXNOTjBwSW9jc3laak1wNnpiMVVpYjFBSWFqcnM5MlV0UGJwT1BNVkkxR1Z6U3ZIbVpORy1WVlQyV09EVWt0bzdqVjBmTk1lLXl5cDZjMVJoaDl1WTg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway - finance.biggo.com",
-      "summary": "AI Data Centers Are Overheating—Semiconductor, Cooling, and Power Industries Battle Thermal Runaway finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-08T07:05:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iZmRwZTZJZmlkQS1uTXYwLUlweDVrbnM4ZHdFMF9OR2hNWGN3eFpGb3dJbDhwRS0yTTFfNTJCZkVsWi1vQW9HRUJjcWwwLVV4OHdrc1FOdk1kQlRwUTZweVV5QlIzRWdLcy1YR2lRWGdrQURqWmc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Oppressive heat forces AI data centers to get smart about temperature control - koreajoongangdaily.com",
-      "summary": "Oppressive heat forces AI data centers to get smart about temperature control koreajoongangdaily.com",
-      "source": "koreajoongangdaily.com",
-      "published_at": "2026-08-08T06:05:05+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHgxQnJyM0ZwUW9XMDRheXFjVjkzT0lXbVJTM1RzRVVtMzRjSVlJR2FHN0w4VGZTbUZQa3VTNmZ6dnBGU1kwdXFkYjJsbHQ2Nl9LZkV2dC1lZkhBdmNPWGZWd1l2VDJBbDdBZU9RTHR5WmdEc2IwX0xPUGJMUHp5MHNKNWpUV0o2M2JNUXdfWGx1ekN1NjE5OWwzSjVQVW1XVl9pZnlDM1lGLXZIbGswcEx1OG1CdG82WXp4bTNCM3FWSTNta1NUZUhB?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
