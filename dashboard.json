@@ -1,17 +1,19 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-11T16:32:00+08:00",
+  "updated_at": "2026-08-11T19:20:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-11T16:33:30+08:00",
+  "intel_updated_at": "2026-08-11T19:33:52+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "資料修復中",
@@ -53,13 +55,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 16:20 GMT+8",
+      "as_of": "2026-08-11 19:20 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2052,
+      "value": 0.2054,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,7 +70,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 16:20 GMT+8",
+      "as_of": "2026-08-11 19:20 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,13 +85,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-11 16:20 GMT+8",
+      "as_of": "2026-08-11 19:20 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4559.0,
+      "value": 4582.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +100,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-11 16:32 GMT+8",
+      "as_of": "2026-08-11 19:03 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -246,11 +248,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? - Yahoo Finance Singapore",
-      "summary": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
+      "headline": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? - Yahoo Finance",
+      "summary": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? Yahoo Finance",
+      "source": "Yahoo Finance",
       "published_at": "2026-08-11T09:09:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHkxRXNEZ2FTOVZ5YUNKWE5KVGR3cHNzdGVUWUFUbmpBbk03NlhUS1JxSUotYTRlQXFPYUlqNHl6dzhOSnRuQjU5cW9WaUdvb0JFYmg3Q1VEUlFUQ0JXN0hyVXBNTjlMaEVQZlZMNmhOeXlMRWFSN1haYkoyWF9MNGdxcVZNQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTY2MGhfZDQyOGtYQjJMb3oxRnIzVy1UTjhiclA5TEpZai0yV2R1Q1o5YndXVVF1UnhxYWtsSTFHNXY3eHd2QkhOUVpQMUdGOEQ3blc4aURBTXpLTElKejR5Y0Q1aFF6UnZ1NlB1RDJQcXlRbXpMemxCZmktSk14QnVJS2xTaHU4NGhSVHI1YUZvSUpHTzVhMHpB?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -261,6 +263,16 @@
       "source": "findarticles.com",
       "published_at": "2026-08-10T18:33:23+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEdVRWZPa0FpUHVXSHFmcjZBRlk2Wl9LLTdiU0YtcXZsUldnXy1QdFVRbHRpNERoZUNBWjlUOGFaakRTM1hKX0dIZDYzaUZpWEhKZDZpQ2VkTkdnMjAzdGxHVnozaUpIN0lzaTBwR3R2cVdHRGFUV0xZdVZDdlBGZFF2NkVzUVVqYi1uTFJBcUFNOFMtX0gzcUItc1h1NlFOLXdQOHozY9IBpwFBVV95cUxNUEdVRWZPa0FpUHVXSHFmcjZBRlk2Wl9LLTdiU0YtcXZsUldnXy1QdFVRbHRpNERoZUNBWjlUOGFaakRTM1hKX0dIZDYzaUZpWEhKZDZpQ2VkTkdnMjAzdGxHVnozaUpIN0lzaTBwR3R2cVdHRGFUV0xZdVZDdlBGZFF2NkVzUVVqYi1uTFJBcUFNOFMtX0gzcUItc1h1NlFOLXdQOHozYw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Top AI Data Center Trends to Watch Through 2030 - Analytics Insight",
+      "summary": "Top AI Data Center Trends to Watch Through 2030 Analytics Insight",
+      "source": "Analytics Insight",
+      "published_at": "2026-08-10T11:11:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjdzaFpwdjNNTG1yMzdORjg0S09UN2R1dnpCeWxHd18xMkVEU3hBcW9QMGlsQ01hZUU2SWJtcTZERDEwUXcwVXVxX0dNU1RTcXFsMzktS3h3QXUzd2VZOE1DdXdVbW0tZXYtYjB2N0ZxUkVjVzlaV2N2Z2R2YTMzVWhBelNNLVJ4YkdmT1g5akozNWJQQXlMNzlwZFc0d0tpMmpXY2l30gGmAUFVX3lxTE1iN3NoWnB2M01MbXIzN05GODRLT1Q3ZHV2ekJ5bEd3XzEyRURTeEFxb1AwaWxDTWFlRTZJYm1xNkREMTBRdzBVdXFfR01TVFNxcWwzOS1LeHdBdTN3ZVk4TUN1d1VtbS1ldi1iMHY3RnFSRWNXOVpXY3ZnZHZhMzNVaEF6U00tUnhiR2ZPWDlqSjM1YlBBeUw3OXBkVzR3S2kyaldjaXc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -341,16 +353,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-08-07T23:01:41+08:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFQ5YS04NjlMZTJzSG42TFJYWVJrMzJsOFRxNG9xUTVhYW9kZjFUT1VCVThkOFFET3V0d3NTSG9YQWVyVEphczRmdVdKZkVYa0xESmlGeGtqT2UtYV9tUlM4U2VyZlJkZjFtMzBLVHZjaTFCRHJ1aXJ3WGVtR1RwSFpQYWp5NnNmNnliVFpyajZ6RFRBQkdVWmpWRXdVdHVueHdZaVp1cjA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence - FinancialContent",
-      "summary": "Data Center Liquid Cooling Market to Reach USD 23.24 Billion by 2035 | Technologies Compete to Support Gigawatt Scale AI Data Center Campuses | DataM Intelligence FinancialContent",
-      "source": "FinancialContent",
-      "published_at": "2026-08-07T21:27:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOSzZLTktkQi1tR05JU0E0UzNpLURxR19SVUZOODNJeVpqV1JSQThtRVJqUi1ZQWEycWF4ZFdDclpKemlzWm51TGxSR2pleGVOWUF2aVlSRlI5Z0dYSW1Bc0s2VHRfaUJvU1ctdWx0TWtHZ2dYb0dZS012VnZYS3k1TFFITkNVX25uT0lScEtKNlNqVzFBaWFZYkQ2UFFESnJqM3ZnTXlQY1YzdEtzbUNmNTRDajBiRGw1VGRzUG1KcWxJaHJPVERCNmpVVi1ua0RMMlRxdERrXy1jQTVtQjRMeUNVc2dNWkZsWVAzYzR6NmpIOWZrV3pERWhxTno5VnVoaVV0QUxieUdTRkRRZmpPVGRHUl9temtid3NJeWRpVHVUMEstckxtZXB3cWJzbGRLenBLMks4clhkbkJzQlBLMG4xd2E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
