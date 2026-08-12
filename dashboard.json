@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-12T17:42:00+08:00",
+  "updated_at": "2026-08-12T20:22:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-12T17:48:18+08:00",
+  "intel_updated_at": "2026-08-12T20:35:16+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-12 17:42 GMT+8",
+      "as_of": "2026-08-12 20:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-12 17:42 GMT+8",
+      "as_of": "2026-08-12 20:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-12 17:42 GMT+8",
+      "as_of": "2026-08-12 20:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-12 17:40 GMT+8",
+      "as_of": "2026-08-12 19:50 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -336,9 +336,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Why Is the Cooling Distribution Unit Market Becoming - openPR.com",
-      "summary": "Why Is the Cooling Distribution Unit Market Becoming openPR.com",
-      "source": "openPR.com",
+      "headline": "Why Is the Cooling Distribution Unit Market Becoming - openpr.com",
+      "summary": "Why Is the Cooling Distribution Unit Market Becoming openpr.com",
+      "source": "openpr.com",
       "published_at": "2026-08-11T14:39:41+08:00",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVZUWFY1QW9SVldSZUt5aUt2eE5iclFhY3hCSmtqeWdxcUFnU19OQTR5ZVhNQXpkYWNwTGdNdlhTekxWSXYybU1VRGdwQVVLakhVcFViWTZCSnVEdEdTVEJSX2NrZzFvbkx6dWJNLWVBbjVtNlhYbVNscGk1NFUweXFJcUkzYmpRc3VycERncFZPdw?oc=5",
       "data_type": "live",
@@ -346,9 +346,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? - Yahoo Finance",
-      "summary": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? - finance.yahoo.com",
+      "summary": "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean? finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "published_at": "2026-08-11T09:09:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTY2MGhfZDQyOGtYQjJMb3oxRnIzVy1UTjhiclA5TEpZai0yV2R1Q1o5YndXVVF1UnhxYWtsSTFHNXY3eHd2QkhOUVpQMUdGOEQ3blc4aURBTXpLTElKejR5Y0Q1aFF6UnZ1NlB1RDJQcXlRbXpMemxCZmktSk14QnVJS2xTaHU4NGhSVHI1YUZvSUpHTzVhMHpB?oc=5",
       "data_type": "live",
