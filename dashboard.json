@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-13T04:02:00+08:00",
+  "updated_at": "2026-08-13T06:11:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-13T04:05:09+08:00",
+  "intel_updated_at": "2026-08-13T06:24:29+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-13 04:02 GMT+8",
+      "as_of": "2026-08-13 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-13 04:02 GMT+8",
+      "as_of": "2026-08-13 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.505,
+      "value": 37.475,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-13 04:02 GMT+8",
+      "as_of": "2026-08-13 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,7 +200,7 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? - tradingview.com",
+      "move": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? - TradingView",
       "implication": "公開情報更新於 2026-08-11T23:24:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldUY1hKWGJOMXdxZklEX0pIT25kOFdKSXg1QTRJNEc2YVFiZHBWM2RBblRQaHRiQUs4cjBaWE1JUVZ3M3hGbXRZRS1UZVI1aE4yMm9WQ0pmZmQwMmJoZzBlRExlbkl1eGNGWkdHZnd3WnV1UEw2S1RfTFZqRFQ2SU4yR29QRXJqN3hEZ2s1TFdrd2ozeTIweU5wWmhlZlkzOTNhUU1qMjRlT05LLTB6VHNvVlFiamFQYVlRV3pCYWFrUQ?oc=5"
     },
@@ -236,6 +236,16 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight - 富途牛牛",
+      "summary": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight 富途牛牛",
+      "source": "富途牛牛",
+      "published_at": "2026-08-12T23:34:19+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3laZlZJeUFnd1Y3bTFkYXVXX2d0X004b1VtTkFlcGoycGRHMWZqcDJmalg5bDZWNE5BNmFLMERtSU5GcHVlcWtMSEFuSGgtZTZnYktFcTMyWWo4ZGN4ZGpPeUZFZXRyTHF3eWlrZFdTTTJRcGJ3SF9QeXU1Ry1kOFpaNTdxYjFWb3dTZ192TjVlanE1cDZsM2tldVN6TlcxZGxOMFAtcU82QQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight - Moomoo",
       "summary": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight Moomoo",
       "source": "Moomoo",
@@ -256,9 +266,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Phase Change Thermal Compounds Market Growth to 2035 Driven by AI Data Center Demand - News and Statistics - indexbox.io",
-      "summary": "Phase Change Thermal Compounds Market Growth to 2035 Driven by AI Data Center Demand - News and Statistics indexbox.io",
-      "source": "indexbox.io",
+      "headline": "Phase Change Thermal Compounds Market Growth to 2035 Driven by AI Data Center Demand - News and Statistics - IndexBox",
+      "summary": "Phase Change Thermal Compounds Market Growth to 2035 Driven by AI Data Center Demand - News and Statistics IndexBox",
+      "source": "IndexBox",
       "published_at": "2026-08-12T11:36:21+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjFzUUZQdWFJQ3NtMXluR2hZT0hDUEJpLUVCcHByUGg0MjBGYWdKREhLRzludWRyZDFLVkFiQjB2NWl2M0lGNEcwOUFuSjVSb1E4OWFlZzY2QlFMWXFWSGZiR0pNMkhKZEdBWjdsYVR3S2VhcUpzQ2t1VnhKS0x6SG1KWnJSb08yMnRfS1ZNNHltQllWMmFOM2t4QUYtcTBUQ2VZUHFybmFRbFNVOExXMi1VNnhWMk1teE5JRi1ybw?oc=5",
       "data_type": "live",
@@ -286,9 +296,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics - indexbox.io",
-      "summary": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics indexbox.io",
-      "source": "indexbox.io",
+      "headline": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics - IndexBox",
+      "summary": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics IndexBox",
+      "source": "IndexBox",
       "published_at": "2026-08-12T03:01:10+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkFxcnU1YWNBOEJBTGh6QnRKS1hMclhkbVEwTHNwbHRWUVZ4elQ0M3AxRlBESk1WZExIZS1LRFlfdy1ZeFRNNmZXYWQzUHFqQklPZldza3ZXSXdUSWVGNXdqV2N2aHVwaE9lYVZURC12UHlnVEpfNmdoTVlSbVp3bzdkZHlJSi1saEVuMlI2d19qYlhmc1ZnZC1PUjI5cWFxaFhGSmU1ZGlxVG91bktCbEhld05vUHgzcmZqMmZ3RXlTQlU?oc=5",
       "data_type": "live",
@@ -306,9 +316,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? - tradingview.com",
-      "summary": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? tradingview.com",
-      "source": "tradingview.com",
+      "headline": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? - TradingView",
+      "summary": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead? TradingView",
+      "source": "TradingView",
       "published_at": "2026-08-11T23:24:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldUY1hKWGJOMXdxZklEX0pIT25kOFdKSXg1QTRJNEc2YVFiZHBWM2RBblRQaHRiQUs4cjBaWE1JUVZ3M3hGbXRZRS1UZVI1aE4yMm9WQ0pmZmQwMmJoZzBlRExlbkl1eGNGWkdHZnd3WnV1UEw2S1RfTFZqRFQ2SU4yR29QRXJqN3hEZ2s1TFdrd2ozeTIweU5wWmhlZlkzOTNhUU1qMjRlT05LLTB6VHNvVlFiamFQYVlRV3pCYWFrUQ?oc=5",
       "data_type": "live",
@@ -341,16 +351,6 @@
       "source": "Yahoo Finance",
       "published_at": "2026-08-11T09:09:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTY2MGhfZDQyOGtYQjJMb3oxRnIzVy1UTjhiclA5TEpZai0yV2R1Q1o5YndXVVF1UnhxYWtsSTFHNXY3eHd2QkhOUVpQMUdGOEQ3blc4aURBTXpLTElKejR5Y0Q1aFF6UnZ1NlB1RDJQcXlRbXpMemxCZmktSk14QnVJS2xTaHU4NGhSVHI1YUZvSUpHTzVhMHpB?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "5C Secures $605M Brookfield-Led Financing for North American AI Data Center Expansion - citybiz",
-      "summary": "5C Secures $605M Brookfield-Led Financing for North American AI Data Center Expansion citybiz",
-      "source": "citybiz",
-      "published_at": "2026-08-11T01:41:51+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDBHSzdfaDdYUTUtaXpSaF9iVjl0aWFSUklpOUFMOXMxVVdOa3VkRk1DS3VUMHpXSWJBMmFQZTNKZE44Zk5XMjF1WU1OYlBVZmhJVnFUV1VWZTRYTFRJcFN6MnEzbHJSRTJCcXlkVG9yN0REYXJHTmRwRXNHbV92Uk11TVNzUXNTcmJlWkYxcmtRRzUwUTR6S0xTNkhDT2dOcW1DTFFZWndyZWNqdUdXYmlsX0dLMWU3UUZvWmNZTTU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
