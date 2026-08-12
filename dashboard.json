@@ -1,19 +1,17 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-12T13:15:00+08:00",
+  "updated_at": "2026-08-12T17:42:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-12T13:17:30+08:00",
+  "intel_updated_at": "2026-08-12T17:48:18+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "資料修復中",
@@ -46,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.255,
+      "value": 32.325,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -55,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-12 13:15 GMT+8",
+      "as_of": "2026-08-12 17:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2041,
+      "value": 0.2054,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-12 13:15 GMT+8",
+      "as_of": "2026-08-12 17:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.35,
+      "value": 37.525,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-12 13:15 GMT+8",
+      "as_of": "2026-08-12 17:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4581.0,
+      "value": 4602.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -100,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-12 13:09 GMT+8",
+      "as_of": "2026-08-12 17:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -223,7 +221,7 @@
     {
       "company": "nVent",
       "product": "液冷散熱",
-      "move": "nVent Expands Data Center Liquid Cooling Capacity - datacenterfrontier.com",
+      "move": "nVent Expands Data Center Liquid Cooling Capacity - Data Center Frontier",
       "implication": "公開情報更新於 2026-08-11T21:57:22+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlROcTJxSVdEN3BtWkxwZTZVZDB3RXV2OGI3Mmd0Q01ueV9DT25vM3lkTnQ2TDd5U08zb1B2WkhuMy1uN1ZUdlFFa0dzcU02cWVleUh4b2NIV29STnRWV3AwOGpHZWd6azF4MHVFRWNTN0M0cEx1TmtMM01LNDdqUTVuSzJSZGZlT2E4bXZqMHVSazAySmh1c0twRWRfTWNFMERBSXRFYk1pd1pVU0p2N2ljT244S1U?oc=5"
     },
@@ -236,6 +234,16 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "Hanwha's construction arm takes on government-backed AI data center energy projects - 헤럴드경제",
+      "summary": "Hanwha's construction arm takes on government-backed AI data center energy projects 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-08-12T13:07:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TOUM1c1R6N09OZ0xxT2c3UTZCa3NRSXIzOTJNVWI1U0RkVXBmeGlqNWkxSTdmb2VKTjNPQ0ZfWm9pSUQ3M2l6d2dPX1Y0czhXZ2FPMWk1Zw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "Phase Change Thermal Compounds Market Growth to 2035 Driven by AI Data Center Demand - News and Statistics - IndexBox",
@@ -267,12 +275,32 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "New York Shouldn’t Run from the Data Center Future - Goldwater Institute",
+      "summary": "New York Shouldn’t Run from the Data Center Future Goldwater Institute",
+      "source": "Goldwater Institute",
+      "published_at": "2026-08-12T04:02:54+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHFPLWZwaS1KczVodzNyLUNwWWpqWDFkSWdQaUpNNUJYcnk1UHd2eDZKQVpLREhOUk9WeTQ0ZDdWdGJQWkIyUnVVeVRzXzdPNjdhUDM1UnprZHJaVjVsWDg3WFhQYUp3SU9mS0ZQMW5zeUNHNm9Lekh1OGhneVFCWm9rUlNuSEw1b0NlSi1R?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics - IndexBox",
       "summary": "Low-Temperature Thermal Fluids Market Growth to 2035 Driven by AI Immersion Cooling Demand - News and Statistics IndexBox",
       "source": "IndexBox",
       "published_at": "2026-08-12T03:01:10+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkFxcnU1YWNBOEJBTGh6QnRKS1hMclhkbVEwTHNwbHRWUVZ4elQ0M3AxRlBESk1WZExIZS1LRFlfdy1ZeFRNNmZXYWQzUHFqQklPZldza3ZXSXdUSWVGNXdqV2N2aHVwaE9lYVZURC12UHlnVEpfNmdoTVlSbVp3bzdkZHlJSi1saEVuMlI2d19qYlhmc1ZnZC1PUjI5cWFxaFhGSmU1ZGlxVG91bktCbEhld05vUHgzcmZqMmZ3RXlTQlU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "OCP APAC Summit Highlights AI Data Center Management as Power Constraints Grow - TechRepublic",
+      "summary": "OCP APAC Summit Highlights AI Data Center Management as Power Constraints Grow TechRepublic",
+      "source": "TechRepublic",
+      "published_at": "2026-08-12T02:47:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTA5d1pfZWwzUXZnNmtBSVZsZTA5RVVVM3haT3U3SjhHV2xDRHMwTTVvLWQtV2xDRVlGdHV0NHZMZFQ0VEJTWlliVFJteGJYM0lTTkI2a2RzLWFjV0tLQnNZSEtYWWRQWGo5OGJFUWxMUkpXV1NyWmJvNFQwV3o1ZlV4VQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -298,9 +326,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "nVent Expands Data Center Liquid Cooling Capacity - datacenterfrontier.com",
-      "summary": "nVent Expands Data Center Liquid Cooling Capacity datacenterfrontier.com",
-      "source": "datacenterfrontier.com",
+      "headline": "nVent Expands Data Center Liquid Cooling Capacity - Data Center Frontier",
+      "summary": "nVent Expands Data Center Liquid Cooling Capacity Data Center Frontier",
+      "source": "Data Center Frontier",
       "published_at": "2026-08-11T21:57:22+08:00",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlROcTJxSVdEN3BtWkxwZTZVZDB3RXV2OGI3Mmd0Q01ueV9DT25vM3lkTnQ2TDd5U08zb1B2WkhuMy1uN1ZUdlFFa0dzcU02cWVleUh4b2NIV29STnRWV3AwOGpHZWd6azF4MHVFRWNTN0M0cEx1TmtMM01LNDdqUTVuSzJSZGZlT2E4bXZqMHVSazAySmh1c0twRWRfTWNFMERBSXRFYk1pd1pVU0p2N2ljT244S1U?oc=5",
       "data_type": "live",
@@ -323,36 +351,6 @@
       "source": "Yahoo Finance",
       "published_at": "2026-08-11T09:09:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTY2MGhfZDQyOGtYQjJMb3oxRnIzVy1UTjhiclA5TEpZai0yV2R1Q1o5YndXVVF1UnhxYWtsSTFHNXY3eHd2QkhOUVpQMUdGOEQ3blc4aURBTXpLTElKejR5Y0Q1aFF6UnZ1NlB1RDJQcXlRbXpMemxCZmktSk14QnVJS2xTaHU4NGhSVHI1YUZvSUpHTzVhMHpB?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "5C Secures $605M Brookfield-Led Financing for North American AI Data Center Expansion - citybiz",
-      "summary": "5C Secures $605M Brookfield-Led Financing for North American AI Data Center Expansion citybiz",
-      "source": "citybiz",
-      "published_at": "2026-08-11T01:41:51+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDBHSzdfaDdYUTUtaXpSaF9iVjl0aWFSUklpOUFMOXMxVVdOa3VkRk1DS3VUMHpXSWJBMmFQZTNKZE44Zk5XMjF1WU1OYlBVZmhJVnFUV1VWZTRYTFRJcFN6MnEzbHJSRTJCcXlkVG9yN0REYXJHTmRwRXNHbV92Uk11TVNzUXNTcmJlWkYxcmtRRzUwUTR6S0xTNkhDT2dOcW1DTFFZWndyZWNqdUdXYmlsX0dLMWU3UUZvWmNZTTU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "7 key insights from Australia for the New Energy Landscape",
-      "summary": "Introduction Australia is offering one of the clearest real-world examples of how the future electricity system is emerging, with valuable lessons for countries that will face similar energy transition challenges. High rooftop solar penetration, rapid battery ",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-08-10T22:10:10+08:00",
-      "url": "https://blog.se.com/energy-management-energy-efficiency/2026/08/10/7-key-insights-from-australia-for-the-new-energy-landscape/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "How AI Data Center Energy Demands Are Reshaping Power Infrastructure - findarticles.com",
-      "summary": "How AI Data Center Energy Demands Are Reshaping Power Infrastructure findarticles.com",
-      "source": "findarticles.com",
-      "published_at": "2026-08-10T18:33:23+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEdVRWZPa0FpUHVXSHFmcjZBRlk2Wl9LLTdiU0YtcXZsUldnXy1QdFVRbHRpNERoZUNBWjlUOGFaakRTM1hKX0dIZDYzaUZpWEhKZDZpQ2VkTkdnMjAzdGxHVnozaUpIN0lzaTBwR3R2cVdHRGFUV0xZdVZDdlBGZFF2NkVzUVVqYi1uTFJBcUFNOFMtX0gzcUItc1h1NlFOLXdQOHozY9IBpwFBVV95cUxNUEdVRWZPa0FpUHVXSHFmcjZBRlk2Wl9LLTdiU0YtcXZsUldnXy1QdFVRbHRpNERoZUNBWjlUOGFaakRTM1hKX0dIZDYzaUZpWEhKZDZpQ2VkTkdnMjAzdGxHVnozaUpIN0lzaTBwR3R2cVdHRGFUV0xZdVZDdlBGZFF2NkVzUVVqYi1uTFJBcUFNOFMtX0gzcUItc1h1NlFOLXdQOHozYw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
