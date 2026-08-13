@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-13T14:07:00+08:00",
+  "updated_at": "2026-08-13T17:41:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-13T14:07:49+08:00",
+  "intel_updated_at": "2026-08-13T17:50:45+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/13 14:07；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/13 17:41；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.215,
+      "value": 32.23,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-13 14:07 GMT+8",
+      "as_of": "2026-08-13 17:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2039,
+      "value": 0.2044,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-13 14:07 GMT+8",
+      "as_of": "2026-08-13 17:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.27,
+      "value": 37.385,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-13 14:07 GMT+8",
+      "as_of": "2026-08-13 17:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4560.0,
+      "value": 4553.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-13 14:04 GMT+8",
+      "as_of": "2026-08-13 17:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -235,12 +235,22 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Cooling the core: Managing the high thermal design power of next-gen AI chips - Data Center Dynamics",
+      "summary": "Cooling the core: Managing the high thermal design power of next-gen AI chips Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-08-13T13:17:05+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1VzVmpsMVNRWHMwbUctWVFYUjg4eGc3R01uRm1xcXplZjRFUmZNaDdYSEZJR2VGa3dobzFYLXZMSnpqNzJwUXhNS1ZrcVN4SWVETVp1MHR3bHZtV2VUa2RqcFZWRVhyZTl0YVdSTDlkWmNmX1VZRTBpbWZocVZCLUtLenZVaGNLXzVYcnoyR29hWm1ZTGtTWHd3S05ZbGNRVUN2Z1JUaWI5SzdUOVFGc0stdTJJY1BibjZ4T01BZUFzdEQ2b0QwZ25XdG1CRWU5bkJuRjdtcVhVSFU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
-      "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - TradingView",
-      "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics TradingView",
-      "source": "TradingView",
-      "published_at": "2026-08-13T10:09:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOM0lqblFwUjJxcDY3dkVjcDV6aGZ6Uk50WnhVUmV5SnA5X0JkcjhBT2FWczNzWDVtY0c5UFJHek9uVkhhVkVmVU5oc01sWFU1RTV2RTB0bWZyVk16Vjd0V2h1cFRRRnVUUFVDV2U3am15R1lONEhCSmZ0eDI1alo3U0FvS0dxckVielRETFQ2S1NGWW55TWJhRmQzTXppMkpJYV9xelp4RjEzaUcxVEpVY3dSMVNaTDl5TVNqTU5aWTVJWm1hakh5OVZWQ283THV5bktnNmZWQU5DQmVmZmtZdjdBejZtMlNOcjdIUUN2b1RZLVp4azJreXdrbmZaVjF4WnhxbDJaWTl2TExmazV5T1NrR25fbTRqTU1pWXBsVFNCbWpDeWg3S0RPWS1PSXd1Wmc?oc=5",
+      "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - themalaysianreserve.com",
+      "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics themalaysianreserve.com",
+      "source": "themalaysianreserve.com",
+      "published_at": "2026-08-13T11:00:12+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPamFHaWtVRzgzZlFVUEhmV1FfSHJKeFZWTVpLUDFmUFh1N0h5U0Rka0lSR1RRT1NSU1JheGZuWGJxZTJ6YmpXZ3NiTFdQMkxuNzctczhoXzVMOGdFS0szS2JIbjhVZkgwVXB4VGJlNEpRZ3JXcWM1RWlNVGlBMmJfNS1QeUhHTTMzX1Q2WU1HTzhRQzBDNE5KQ19meUR0WkVBUC1OTVZLVUxuTVFsdWowQnhtYVBpNTlwVndSYkd5MG90WWk1NVdXcG9HbF9IMVZ0WHFCdVh5cW1DMGZzWV94OVdSY05iekpfYnVraUdhWTIxTXE3NWhQelI0TEh0RFlJNVF0elhKV1pPTFM4c1BoQ3BDVHBMdVVURHc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -341,16 +351,6 @@
       "source": "TradingView",
       "published_at": "2026-08-11T23:24:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldUY1hKWGJOMXdxZklEX0pIT25kOFdKSXg1QTRJNEc2YVFiZHBWM2RBblRQaHRiQUs4cjBaWE1JUVZ3M3hGbXRZRS1UZVI1aE4yMm9WQ0pmZmQwMmJoZzBlRExlbkl1eGNGWkdHZnd3WnV1UEw2S1RfTFZqRFQ2SU4yR29QRXJqN3hEZ2s1TFdrd2ozeTIweU5wWmhlZlkzOTNhUU1qMjRlT05LLTB6VHNvVlFiamFQYVlRV3pCYWFrUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent Expands Data Center Liquid Cooling Capacity - Data Center Frontier",
-      "summary": "nVent Expands Data Center Liquid Cooling Capacity Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-08-11T21:57:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlROcTJxSVdEN3BtWkxwZTZVZDB3RXV2OGI3Mmd0Q01ueV9DT25vM3lkTnQ2TDd5U08zb1B2WkhuMy1uN1ZUdlFFa0dzcU02cWVleUh4b2NIV29STnRWV3AwOGpHZWd6azF4MHVFRWNTN0M0cEx1TmtMM01LNDdqUTVuSzJSZGZlT2E4bXZqMHVSazAySmh1c0twRWRfTWNFMERBSXRFYk1pd1pVU0p2N2ljT244S1U?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
