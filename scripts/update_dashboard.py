@@ -362,6 +362,18 @@ def validate(data: dict) -> None:
 def collect(previous: dict) -> dict:
     data = deepcopy(previous)
     collect_bot_market(data)
+    market_date = datetime.fromisoformat(data["updated_at"]).astimezone(TAIPEI)
+    data["ceo_summary"] = {
+        "stance": "公開資料監控",
+        "headline": (
+            f"台銀匯率與黃金已更新至 {market_date:%Y/%m/%d %H:%M}；"
+            "Brent 與 LME 3M 在正式授權來源完成前暫停顯示。"
+        ),
+        "action": (
+            "AI Cooling 情報與台銀牌告採分流更新；"
+            "市場決策請以各卡片標示的來源時間為準。"
+        ),
+    }
     news, failures = collect_news()
     if news:
         data["news"] = news

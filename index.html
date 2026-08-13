@@ -49,7 +49,7 @@
       <span id="freshnessText">資料新鮮度：—</span>
       <span id="intelFreshness">AI Cooling 情報：—</span>
       <span class="spacer"></span>
-      <span>每 60 分鐘重新載入 GitHub 最新資料</span>
+      <span>每 15 分鐘重新載入 GitHub 最新資料</span>
       <span id="nextRefresh">下次更新：—</span>
     </div>
 
@@ -87,7 +87,8 @@
   </main>
   <div class="toast" id="toast"></div>
   <script>
-    const REFRESH_MS=60*60*1000;
+    const REFRESH_MS=15*60*1000;
+    const DATA_STALE_MS=90*60*1000;
     const fallbackKey="ceo-dashboard-session-cache-v1";
     const marketOrder=["usd_twd","jpy_twd","eur_twd","gold_twd","brent","copper_3m","aluminium_3m"];
     let nextAt=Date.now()+REFRESH_MS, timer, lastLoadedAt="";
@@ -99,7 +100,7 @@
     function ageText(date){const m=Math.max(0,Math.floor((Date.now()-date.getTime())/60000));if(m<1)return"剛剛";if(m<60)return`${m} 分鐘前`;return`${Math.floor(m/60)} 小時 ${m%60} 分前`}
     function format(v,d=2){return Number(v).toLocaleString("zh-TW",{minimumFractionDigits:d,maximumFractionDigits:d})}
     function render(data,fromCache=false){
-      const updated=new Date(data.updated_at), age=Date.now()-updated.getTime(), stale=age>REFRESH_MS*2;
+      const updated=new Date(data.updated_at), age=Date.now()-updated.getTime(), stale=age>DATA_STALE_MS;
       $("updatedText").textContent=`最後更新：${updated.toLocaleString("zh-TW",{hour12:false})}`;
       $("freshnessText").textContent=`資料新鮮度：${ageText(updated)}`;
       const intelUpdated=new Date(data.intel_updated_at||data.updated_at), intelState=data.intel_status?.state||"unknown";

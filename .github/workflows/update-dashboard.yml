@@ -6,9 +6,11 @@ on:
     branches: [main]
     paths:
       - "scripts/update_dashboard.py"
+      - ".github/workflows/update-dashboard.yml"
   schedule:
-    # GitHub Actions cron uses UTC. Every hour at minute 5.
-    - cron: "5 * * * *"
+    # GitHub scheduled jobs can be delayed or dropped during busy periods.
+    # Four off-peak attempts per hour make the public dashboard resilient.
+    - cron: "7,22,37,52 * * * *"
 
 permissions:
   contents: write
