@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-15T01:43:00+08:00",
+  "updated_at": "2026-08-15T03:03:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-15T02:11:02+08:00",
+  "intel_updated_at": "2026-08-15T04:05:34+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/15 01:43；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/15 03:03；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 01:43 GMT+8",
+      "as_of": "2026-08-15 03:03 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -70,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 01:43 GMT+8",
+      "as_of": "2026-08-15 03:03 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -85,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 01:43 GMT+8",
+      "as_of": "2026-08-15 03:03 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -248,16 +246,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-14T17:15:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - Nasscom",
       "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads Nasscom",
       "source": "Nasscom",
@@ -298,9 +286,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - techtimes.com",
-      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete techtimes.com",
-      "source": "techtimes.com",
+      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - Tech Times",
+      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete Tech Times",
+      "source": "Tech Times",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
       "data_type": "live",
@@ -318,9 +306,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - The Malaysian Reserve",
-      "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics The Malaysian Reserve",
-      "source": "The Malaysian Reserve",
+      "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - themalaysianreserve.com",
+      "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics themalaysianreserve.com",
+      "source": "themalaysianreserve.com",
       "published_at": "2026-08-13T11:00:12+08:00",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPamFHaWtVRzgzZlFVUEhmV1FfSHJKeFZWTVpLUDFmUFh1N0h5U0Rka0lSR1RRT1NSU1JheGZuWGJxZTJ6YmpXZ3NiTFdQMkxuNzctczhoXzVMOGdFS0szS2JIbjhVZkgwVXB4VGJlNEpRZ3JXcWM1RWlNVGlBMmJfNS1QeUhHTTMzX1Q2WU1HTzhRQzBDNE5KQ19meUR0WkVBUC1OTVZLVUxuTVFsdWowQnhtYVBpNTlwVndSYkd5MG90WWk1NVdXcG9HbF9IMVZ0WHFCdVh5cW1DMGZzWV94OVdSY05iekpfYnVraUdhWTIxTXE3NWhQelI0TEh0RFlJNVF0elhKV1pPTFM4c1BoQ3BDVHBMdVVURHc?oc=5",
       "data_type": "live",
@@ -353,6 +341,16 @@
       "source": "Nasscom",
       "published_at": "2026-08-12T12:27:44+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
+      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-12T12:27:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
