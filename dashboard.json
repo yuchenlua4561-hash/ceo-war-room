@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-15T05:54:33+08:00",
+  "intel_updated_at": "2026-08-15T06:55:34+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -256,9 +256,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - The Globe and Mail",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - theglobeandmail.com",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? theglobeandmail.com",
+      "source": "theglobeandmail.com",
       "published_at": "2026-08-13T23:46:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmZuZnRBX3ZpZHZScklLZHVid1N1aVc4UTRVdmhKZ09STEswUnAtd2Z5MTZ5TnItX1A0ZHJEYnBUZmMycUVBMUxyLVNuSm1BLXVia1ZxS3pQSkNKcUd6MzVTRHVSeHQ1SVlLdzFrdllIbGU4aHZCMFkwRUNkX0NjWjZNb0IxT0ZGYi1tcV9yQkZBZXhsSDhQamdSSHhtcktxV2x6R0NKSDZRZE54bWRPN1gyRHVkYlN1emVPWjk5V2EzRXROaW9od3ZNVHF6V09rMzVteUNNS3gtWUN0SkE?oc=5",
       "data_type": "live",
@@ -286,9 +286,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - techtimes.com",
-      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete techtimes.com",
-      "source": "techtimes.com",
+      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - Tech Times",
+      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete Tech Times",
+      "source": "Tech Times",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
       "data_type": "live",
