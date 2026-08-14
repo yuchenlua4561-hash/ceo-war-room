@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-14T13:19:00+08:00",
+  "updated_at": "2026-08-14T17:23:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-14T13:21:01+08:00",
+  "intel_updated_at": "2026-08-14T17:30:58+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/14 13:19；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/14 17:23；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.055,
+      "value": 32.09,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-14 13:07 GMT+8",
+      "as_of": "2026-08-14 17:23 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2029,
+      "value": 0.2038,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-14 13:07 GMT+8",
+      "as_of": "2026-08-14 17:23 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.14,
+      "value": 37.285,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-14 13:07 GMT+8",
+      "as_of": "2026-08-14 17:23 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4469.0,
+      "value": 4507.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-14 13:19 GMT+8",
+      "as_of": "2026-08-14 17:23 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,7 +200,7 @@
     {
       "company": "Vertiv",
       "product": "液冷散熱",
-      "move": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. - pluang.com",
+      "move": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. - Pluang",
       "implication": "公開情報更新於 2026-08-13T21:37:30+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEtPWlNWZ0lBLXdvazBnbjBmUWtQY0hFT0J2ZjFFbUlKb19rM1VIeDdZVndHVjFveUFzZmVyczBpbTl5aHVzbmI2eUgyMHN1R19WUXN0SEpUTjF0dUZxN3VUX1Jxd1J2UlpZcko5a3JhZUYzNnZOU19DcFY3WjJLdE1R?oc=5"
     },
@@ -246,9 +246,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - TradingView",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? TradingView",
-      "source": "TradingView",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - tradingview.com",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? tradingview.com",
+      "source": "tradingview.com",
       "published_at": "2026-08-13T22:34:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUw2aGpSU2x0WDNvWHk5N3d6eTc1WW10RzF2Rk5PdUNsTzRzUGxtUnZydl8tcFhYaTV4c0NSbGRUWFB3YWp5VzFucWlOaWk1a2pwWXQxanY2ekpad2ZKZmJJZXdxMEpZUVNyU2U5ZTBiMjNPR0RrNDhDR3p5MkJ5bDBwN0g0N3ZDbDh5bjBVNlFlM0FVdGZ0eG5raEJOVlZoNS1aWlgzOHlyOW1qaDdJaVVnWEdpa0E?oc=5",
       "data_type": "live",
@@ -266,9 +266,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. - pluang.com",
-      "summary": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. pluang.com",
-      "source": "pluang.com",
+      "headline": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. - Pluang",
+      "summary": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. Pluang",
+      "source": "Pluang",
       "published_at": "2026-08-13T21:37:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEtPWlNWZ0lBLXdvazBnbjBmUWtQY0hFT0J2ZjFFbUlKb19rM1VIeDdZVndHVjFveUFzZmVyczBpbTl5aHVzbmI2eUgyMHN1R19WUXN0SEpUTjF0dUZxN3VUX1Jxd1J2UlpZcko5a3JhZUYzNnZOU19DcFY3WjJLdE1R?oc=5",
       "data_type": "live",
@@ -295,6 +295,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Cooling the core: Managing the high thermal design power of next-gen AI chips - Data Center Dynamics",
+      "summary": "Cooling the core: Managing the high thermal design power of next-gen AI chips Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-08-13T13:17:05+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1VzVmpsMVNRWHMwbUctWVFYUjg4eGc3R01uRm1xcXplZjRFUmZNaDdYSEZJR2VGa3dobzFYLXZMSnpqNzJwUXhNS1ZrcVN4SWVETVp1MHR3bHZtV2VUa2RqcFZWRVhyZTl0YVdSTDlkWmNmX1VZRTBpbWZocVZCLUtLenZVaGNLXzVYcnoyR29hWm1ZTGtTWHd3S05ZbGNRVUN2Z1JUaWI5SzdUOVFGc0stdTJJY1BibjZ4T01BZUFzdEQ2b0QwZ25XdG1CRWU5bkJuRjdtcVhVSFU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - The Malaysian Reserve",
       "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics The Malaysian Reserve",
@@ -315,6 +325,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "AI Data Center Boom Fuels Surge in Global Copper Demand - Thomasnet",
+      "summary": "AI Data Center Boom Fuels Surge in Global Copper Demand Thomasnet",
+      "source": "Thomasnet",
+      "published_at": "2026-08-13T00:44:31+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnM1TUxlRi1mR1lOMHByZWZlOGhkZFo1RzhZeXJJanRZdmppWEFPOERJUzRWQTBMT1lmVk1La1ctTG5WVHh0WGJVZXB3VFh5V194cWo5djVuY0Z3V1NXT0hWY0s2bWVJb0RKRFg0eS10NFBEYmVWcWdRT2xsQk9fN3FaWnp4ekJBV21fY0FaeERRUEVrZXc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight - Moomoo",
       "summary": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight Moomoo",
@@ -331,26 +351,6 @@
       "source": "헤럴드경제",
       "published_at": "2026-08-12T13:07:06+08:00",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TOUM1c1R6N09OZ0xxT2c3UTZCa3NRSXIzOTJNVWI1U0RkVXBmeGlqNWkxSTdmb2VKTjNPQ0ZfWm9pSUQ3M2l6d2dPX1Y0czhXZ2FPMWk1Zw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
-      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-12T12:27:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-12T12:27:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
