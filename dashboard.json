@@ -7,13 +7,11 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-15T18:53:49+08:00",
+  "intel_updated_at": "2026-08-15T19:47:06+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -241,8 +239,8 @@
       "headline": "3 AI Infrastructure Stocks Riding Real Data Center Spending - simplywall.st",
       "summary": "3 AI Infrastructure Stocks Riding Real Data Center Spending simplywall.st",
       "source": "simplywall.st",
-      "published_at": "2026-08-15T18:33:49+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU183Y2FuZS1USmczYno3YnczbDJQWDhGRXB1Z21mTXVFWEgtb0ZIWW1FRnYzaHFja2RkaFdCdnJxYzlPQWg1TXIxU3E1MDlEajJqcE1jNDVRQlM1U05RNmp0dEpQbzVreVpuaERhTWMxX3cxMVpPZ0poR1BmOXJCVTFibnVqampKR3B6NW1yZ1h0bElONWRTem9pU1JIdE95bmp4S3JlRXhSOXZ3RWk2bEg2T3JTNGlYN1JNX1Q2OWdxcGxJeUlWU3ZWLVBVQXB3RFRXN2dLdU5BalXSAeABQVVfeXFMT1ZYckd1V1ViRGh3R0lRUUhWOTlVZk5nS3ozYlBDQXN4VC1VSkplV0FUWWwtNFlwSTNOdlFzOWp2U2s4cE9pN3dCdFdzT2RJWm9RZXkwUjh6SjB5czdES09kaHBfd1J1RmE0OEsyLWVEemRwcHlDbkF4ajJKUnhqOFpuTjVKT3JEN1pRSlg4ZzJiMDdqa0EteUdLMFctQ2IybWl3b3FBdHV0OUdPeWdycXFEYTR4UTlPY1JXR21kYXJNdTVtclpwclZuYUV6V3NSbmdWUllKdlVra0FWUlI0ZTk?oc=5",
+      "published_at": "2026-08-15T18:33:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVlhyR3VXVWJEaHdHSVFRSFY5OVVmTmdLejNiUENBc3hULVVKSmVXQVRZbC00WXBJM052UXM5anZTazhwT2k3d0J0V3NPZElab1FleTBSOHpKMHlzN0RLT2RocF93UnVGYTQ4SzItZUR6ZHBweUNuQXhqMkpSeGo4Wm5ONUpPckQ3WlFKWDhnMmIwN2prQS15R0swVy1DYjJtaXdvcUF0dXQ5R095Z3JxcURhNHhROU9jUldHbWRhck11NW1yWnByVm5hRXpXc1JuZ1ZSWUp2VWtrQVZSUjRlOdIB4AFBVV95cUxPVlhyR3VXVWJEaHdHSVFRSFY5OVVmTmdLejNiUENBc3hULVVKSmVXQVRZbC00WXBJM052UXM5anZTazhwT2k3d0J0V3NPZElab1FleTBSOHpKMHlzN0RLT2RocF93UnVGYTQ4SzItZUR6ZHBweUNuQXhqMkpSeGo4Wm5ONUpPckQ3WlFKWDhnMmIwN2prQS15R0swVy1DYjJtaXdvcUF0dXQ5R095Z3JxcURhNHhROU9jUldHbWRhck11NW1yWnByVm5hRXpXc1JuZ1ZSWUp2VWtrQVZSUjRlOQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -298,9 +296,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - theglobeandmail.com",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? theglobeandmail.com",
-      "source": "theglobeandmail.com",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - The Globe and Mail",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
+      "source": "The Globe and Mail",
       "published_at": "2026-08-13T23:46:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmZuZnRBX3ZpZHZScklLZHVid1N1aVc4UTRVdmhKZ09STEswUnAtd2Z5MTZ5TnItX1A0ZHJEYnBUZmMycUVBMUxyLVNuSm1BLXVia1ZxS3pQSkNKcUd6MzVTRHVSeHQ1SVlLdzFrdllIbGU4aHZCMFkwRUNkX0NjWjZNb0IxT0ZGYi1tcV9yQkZBZXhsSDhQamdSSHhtcktxV2x6R0NKSDZRZE54bWRPN1gyRHVkYlN1emVPWjk5V2EzRXROaW9od3ZNVHF6V09rMzVteUNNS3gtWUN0SkE?oc=5",
       "data_type": "live",
@@ -337,22 +335,22 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "Liquid Cooling Market Outlook 2026 Highlights AI Factories, - openPR.com",
+      "summary": "Liquid Cooling Market Outlook 2026 Highlights AI Factories, openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-08-13T19:36:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRHbHVWdDhzbDZtWElnZlJXMm9UVHNsc0hmcDhUeWtmZ1JzWjVQODl1b3ROVV9SZVBIQWlOTmwyREY0MFVrWlduY1NfQmw5R08xdFFKclFLQXhicjJySEl4eHAxR1hnbmZIcE1qRzRUdTR6emNPeF94YUFfcm1ZS25adHBOSlpKZVpfSXhXdy0xVDd6OEhyXy1B?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain - Data Center Knowledge",
       "summary": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain Data Center Knowledge",
       "source": "Data Center Knowledge",
       "published_at": "2026-08-13T17:00:48+08:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0RvcXNOd1BHOFJVMEhZYnowd3JmN2VOd0tRX21odHcxVXc1LVhmRkJFcng3aFppXzdoU1hpMmNCMENRV1l5NHJLbjUxQlY4SXoybGFCdkREdjlVb2tiQkdkZXZzX09rQm9xemllbUZXb2JOT1ZFQmxwTjFPTjR3NDhlMWFOTEo1MVFvME5XbVFzcHlmVmkzMV9oaTZmdnlNaW9HZURzZV85cUgyQV9DbmdaNnJ3WU9ma2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - themalaysianreserve.com",
-      "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics themalaysianreserve.com",
-      "source": "themalaysianreserve.com",
-      "published_at": "2026-08-13T11:00:12+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPamFHaWtVRzgzZlFVUEhmV1FfSHJKeFZWTVpLUDFmUFh1N0h5U0Rka0lSR1RRT1NSU1JheGZuWGJxZTJ6YmpXZ3NiTFdQMkxuNzctczhoXzVMOGdFS0szS2JIbjhVZkgwVXB4VGJlNEpRZ3JXcWM1RWlNVGlBMmJfNS1QeUhHTTMzX1Q2WU1HTzhRQzBDNE5KQ19meUR0WkVBUC1OTVZLVUxuTVFsdWowQnhtYVBpNTlwVndSYkd5MG90WWk1NVdXcG9HbF9IMVZ0WHFCdVh5cW1DMGZzWV94OVdSY05iekpfYnVraUdhWTIxTXE3NWhQelI0TEh0RFlJNVF0elhKV1pPTFM4c1BoQ3BDVHBMdVVURHc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
