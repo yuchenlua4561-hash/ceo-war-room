@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-15T05:31:00+08:00",
+  "updated_at": "2026-08-15T09:25:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-15T07:57:06+08:00",
+  "intel_updated_at": "2026-08-15T11:05:16+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/15 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/15 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 05:31 GMT+8",
+      "as_of": "2026-08-15 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 05:31 GMT+8",
+      "as_of": "2026-08-15 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.355,
+      "value": 37.345,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 05:31 GMT+8",
+      "as_of": "2026-08-15 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -235,12 +235,32 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Data center energy efficiency a must to meet ESG goals - TechTarget",
+      "summary": "Data center energy efficiency a must to meet ESG goals TechTarget",
+      "source": "TechTarget",
+      "published_at": "2026-08-15T03:33:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjV6RUN1alg4T0lrT3N1THQwQlVfdWNyenphMzQ3aHRXYWUxVGl2aFFKZkJLZWhyREpsUS1HdTkxY3Q2YnI1TjVSU2tOTFlqNUNaMVdDQmdlSXUwU0V2VWt2OEgxb2pnYkxMSl9oVy1pVjY4ako5WV83bTJla0ZvaUhYaEZ3NDN5THI1X01TXzNFYU9XcGhGeUl2WUFQOFpLNlgtUnZXWQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Malaysia to launch palm oil-based immersion cooling fluid for data centers - Data Center Dynamics",
       "summary": "Malaysia to launch palm oil-based immersion cooling fluid for data centers Data Center Dynamics",
       "source": "Data Center Dynamics",
       "published_at": "2026-08-14T23:46:11+08:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VzekJIMTB5X3F6cnVZcGp2VkVaRXlRMlV6Zm9tRmRZSmxRVUhIcWQ3UGxhcDNPZk1keC02V0NJQnU2V21zQkVZTmU3ZzluZUVINzBveXZKSDhpY0RDZC1zSmRmMnZRVndCTE1ZSEFEMzU2QmFQWWd1bXEydkxUR01RLVBwRkRCRGlLSEsxb3ZTZC1WZUx3TDkyV09vc0JYLXJ4RFZUMkZEaXJNMl9UcGZKRzhtdTFxaGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-14T17:15:30+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -316,41 +336,21 @@
     },
     {
       "category": "資料中心",
+      "headline": "Samsung's FläktGroup Opens First Plant in India for AI Data Center Cooling - Seoul Economic Daily",
+      "summary": "Samsung's FläktGroup Opens First Plant in India for AI Data Center Cooling Seoul Economic Daily",
+      "source": "Seoul Economic Daily",
+      "published_at": "2026-08-13T09:51:29+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHRwX0tDUXRGODRlQXZyNGRlSjRBdC1IZjMwZ2UyNlo5M2VwcmYxRTdkR0NOaTBqa25mMURaak9PMmxZM3VzRXpUdjcxZEV6NHdWejZYU05YaEhlS1ktbGotZHYwaDc1NjlESXFNT2VXN3JfeEZJaHNYaldlZHRncW5aYUFOZEhSTkVtbWJ2S25jSWRmcENsdlhOWmtSYThGZGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "AI Data Center Boom Fuels Surge in Global Copper Demand - Thomasnet",
       "summary": "AI Data Center Boom Fuels Surge in Global Copper Demand Thomasnet",
       "source": "Thomasnet",
       "published_at": "2026-08-13T00:44:31+08:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnM1TUxlRi1mR1lOMHByZWZlOGhkZFo1RzhZeXJJanRZdmppWEFPOERJUzRWQTBMT1lmVk1La1ctTG5WVHh0WGJVZXB3VFh5V194cWo5djVuY0Z3V1NXT0hWY0s2bWVJb0RKRFg0eS10NFBEYmVWcWdRT2xsQk9fN3FaWnp4ekJBV21fY0FaeERRUEVrZXc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight - Moomoo",
-      "summary": "AI Infrastructure Boom Creates New Winners! Capital Flows Shift to European Industrial Stocks, with Vacuum Equipment, Liquid Cooling, and Specialty Gases in the Spotlight Moomoo",
-      "source": "Moomoo",
-      "published_at": "2026-08-12T23:13:40+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjFhM2g0MlhRQlBzR1BSRWM5M1h4eVRkZWRURlVRZDE0Y0ViaFJfMkNoTWpmYm9RVGhrdVpXYlB6MWFreUxTbDRoemd0UEozdHQzLUV4a0Y5UHg0UXM4Q3hmME5NUjNRQ3Rob0FkMkRtU0FzMmNNbUFjdkJETnhTRk8zd1lwM3M3SUtUdHRQb21TQUI0cnN0TFVCNUl5dS15REFadm8ydjJpWHM?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
-      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-12T12:27:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-12T12:27:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
