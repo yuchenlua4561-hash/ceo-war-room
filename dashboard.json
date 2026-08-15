@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-15T12:16:22+08:00",
+  "intel_updated_at": "2026-08-15T13:44:41+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -256,9 +256,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - community.nasscom.in",
-      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute community.nasscom.in",
-      "source": "community.nasscom.in",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-14T17:15:30+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - Nasscom",
+      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute Nasscom",
+      "source": "Nasscom",
       "published_at": "2026-08-14T17:15:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1FfeXVYYzRGSmMyazhQdDdXcURzNVJHcWhfcmZoS1gwNnVTcnZNNEZ2cnBzeGJuRVN6QWJGSW5QZ1lQd1ZfTUY1NUc4QWd2MGdiTWVHc0JJRDNfMnphS09pLWZDRUpqTHVGaUlfa21EeDhMT0tFN0xEQ2dael9EZTFPMTNDdmVvWVpNQlV3Zjg3MUZOdmcyMkYwQWVBOFBrTHhhOC0tUlhQczNvNDNXTTVqdkJDMmV5am5FbHpJMmZlWGxZRG9V?oc=5",
       "data_type": "live",
@@ -266,9 +276,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - community.nasscom.in",
-      "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads community.nasscom.in",
-      "source": "community.nasscom.in",
+      "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - Nasscom",
+      "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads Nasscom",
+      "source": "Nasscom",
       "published_at": "2026-08-14T12:42:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN01iblo1X2V1eXlhNWhrODF2Yzh5dERqYk1XNlRSWXNFbVNaeF9HU3h2eERGeFpDV3BmWW5jMlphVXpLX1dRMk0xNzJtMzdmb05XUkw4MTNPRVNvaDdUOE5jbm84SDVMWlAzZ3JGRE9wcXRQSmtLSUFBeEo2dEVvbUFYeHJRdnhNNG9nMVgzWm9xZENxSW14ZWdmM0ZzemJRRG9ibUd5LTVoWHFLbVhrREwtTDF1QkZCWmlLa1dGRV9pUQ?oc=5",
       "data_type": "live",
@@ -306,9 +316,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - techtimes.com",
-      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete techtimes.com",
-      "source": "techtimes.com",
+      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - Tech Times",
+      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete Tech Times",
+      "source": "Tech Times",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
       "data_type": "live",
@@ -341,16 +351,6 @@
       "source": "Seoul Economic Daily",
       "published_at": "2026-08-13T09:51:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHRwX0tDUXRGODRlQXZyNGRlSjRBdC1IZjMwZ2UyNlo5M2VwcmYxRTdkR0NOaTBqa25mMURaak9PMmxZM3VzRXpUdjcxZEV6NHdWejZYU05YaEhlS1ktbGotZHYwaDc1NjlESXFNT2VXN3JfeEZJaHNYaldlZHRncW5aYUFOZEhSTkVtbWJ2S25jSWRmcENsdlhOWmtSYThGZGc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Center Boom Fuels Surge in Global Copper Demand - Thomasnet",
-      "summary": "AI Data Center Boom Fuels Surge in Global Copper Demand Thomasnet",
-      "source": "Thomasnet",
-      "published_at": "2026-08-13T00:44:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnM1TUxlRi1mR1lOMHByZWZlOGhkZFo1RzhZeXJJanRZdmppWEFPOERJUzRWQTBMT1lmVk1La1ctTG5WVHh0WGJVZXB3VFh5V194cWo5djVuY0Z3V1NXT0hWY0s2bWVJb0RKRFg0eS10NFBEYmVWcWdRT2xsQk9fN3FaWnp4ekJBV21fY0FaeERRUEVrZXc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
