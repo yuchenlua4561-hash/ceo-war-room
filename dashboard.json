@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-15T09:25:00+08:00",
+  "updated_at": "2026-08-16T05:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T04:53:50+08:00",
+  "intel_updated_at": "2026-08-16T05:47:47+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/15 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/16 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 09:25 GMT+8",
+      "as_of": "2026-08-16 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -70,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 09:25 GMT+8",
+      "as_of": "2026-08-16 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -85,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-15 09:25 GMT+8",
+      "as_of": "2026-08-16 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -258,9 +256,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Malaysia to launch palm oil-based immersion cooling fluid for data centers - datacenterdynamics.com",
-      "summary": "Malaysia to launch palm oil-based immersion cooling fluid for data centers datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Malaysia to launch palm oil-based immersion cooling fluid for data centers - Data Center Dynamics",
+      "summary": "Malaysia to launch palm oil-based immersion cooling fluid for data centers Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-08-14T23:46:11+08:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VzekJIMTB5X3F6cnVZcGp2VkVaRXlRMlV6Zm9tRmRZSmxRVUhIcWQ3UGxhcDNPZk1keC02V0NJQnU2V21zQkVZTmU3ZzluZUVINzBveXZKSDhpY0RDZC1zSmRmMnZRVndCTE1ZSEFEMzU2QmFQWWd1bXEydkxUR01RLVBwRkRCRGlLSEsxb3ZTZC1WZUx3TDkyV09vc0JYLXJ4RFZUMkZEaXJNMl9UcGZKRzhtdTFxaGc?oc=5",
       "data_type": "live",
@@ -298,9 +296,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - theglobeandmail.com",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? theglobeandmail.com",
-      "source": "theglobeandmail.com",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - The Globe and Mail",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
+      "source": "The Globe and Mail",
       "published_at": "2026-08-13T23:46:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmZuZnRBX3ZpZHZScklLZHVid1N1aVc4UTRVdmhKZ09STEswUnAtd2Z5MTZ5TnItX1A0ZHJEYnBUZmMycUVBMUxyLVNuSm1BLXVia1ZxS3pQSkNKcUd6MzVTRHVSeHQ1SVlLdzFrdllIbGU4aHZCMFkwRUNkX0NjWjZNb0IxT0ZGYi1tcV9yQkZBZXhsSDhQamdSSHhtcktxV2x6R0NKSDZRZE54bWRPN1gyRHVkYlN1emVPWjk5V2EzRXROaW9od3ZNVHF6V09rMzVteUNNS3gtWUN0SkE?oc=5",
       "data_type": "live",
@@ -308,9 +306,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Planning liquid cooling for new AI data center builds in India - datacenterdynamics.com",
-      "summary": "Planning liquid cooling for new AI data center builds in India datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Planning liquid cooling for new AI data center builds in India - Data Center Dynamics",
+      "summary": "Planning liquid cooling for new AI data center builds in India Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-08-13T23:02:38+08:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUNFQVpBQkN2anBhZ0RNbURvbDF0RmFDT3o4d1BSLVJmMHdKQW5WM0VnYUtza3BWaWlvU1MwMF9EaWdNZnN1dHp2OThqb1Z1Tjc5Zzd0aXNJZ1NkbDl6VUhQMTNGdTNvZUZWVDluMFVleklYZlNUcHh3NjllQ3BBR0ZkcHJxcWlwYnFhNk94czlzdTAtRUF3MlM0dmJvRnBGVGFTb0JpM1Z1YVVGb3BR?oc=5",
       "data_type": "live",
