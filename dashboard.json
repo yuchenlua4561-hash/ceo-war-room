@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T00:52:05+08:00",
+  "intel_updated_at": "2026-08-16T01:41:46+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -336,9 +336,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - techtimes.com",
-      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete techtimes.com",
-      "source": "techtimes.com",
+      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - Tech Times",
+      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete Tech Times",
+      "source": "Tech Times",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
       "data_type": "live",
