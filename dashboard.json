@@ -7,11 +7,13 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-15T17:54:19+08:00",
+  "intel_updated_at": "2026-08-15T18:53:49+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -236,6 +238,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "3 AI Infrastructure Stocks Riding Real Data Center Spending - simplywall.st",
+      "summary": "3 AI Infrastructure Stocks Riding Real Data Center Spending simplywall.st",
+      "source": "simplywall.st",
+      "published_at": "2026-08-15T18:33:49+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU183Y2FuZS1USmczYno3YnczbDJQWDhGRXB1Z21mTXVFWEgtb0ZIWW1FRnYzaHFja2RkaFdCdnJxYzlPQWg1TXIxU3E1MDlEajJqcE1jNDVRQlM1U05RNmp0dEpQbzVreVpuaERhTWMxX3cxMVpPZ0poR1BmOXJCVTFibnVqampKR3B6NW1yZ1h0bElONWRTem9pU1JIdE95bmp4S3JlRXhSOXZ3RWk2bEg2T3JTNGlYN1JNX1Q2OWdxcGxJeUlWU3ZWLVBVQXB3RFRXN2dLdU5BalXSAeABQVVfeXFMT1ZYckd1V1ViRGh3R0lRUUhWOTlVZk5nS3ozYlBDQXN4VC1VSkplV0FUWWwtNFlwSTNOdlFzOWp2U2s4cE9pN3dCdFdzT2RJWm9RZXkwUjh6SjB5czdES09kaHBfd1J1RmE0OEsyLWVEemRwcHlDbkF4ajJKUnhqOFpuTjVKT3JEN1pRSlg4ZzJiMDdqa0EteUdLMFctQ2IybWl3b3FBdHV0OUdPeWdycXFEYTR4UTlPY1JXR21kYXJNdTVtclpwclZuYUV6V3NSbmdWUllKdlVra0FWUlI0ZTk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Data center energy efficiency a must to meet ESG goals - TechTarget",
       "summary": "Data center energy efficiency a must to meet ESG goals TechTarget",
       "source": "TechTarget",
@@ -336,21 +348,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - The Malaysian Reserve",
-      "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics The Malaysian Reserve",
-      "source": "The Malaysian Reserve",
+      "headline": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics - themalaysianreserve.com",
+      "summary": "Wieson Technologies Announces First-Half 2026 Operating Results: Revenue of NT$1.567 Billion, Second-Half Focus on AI Thermal Management and Robotics themalaysianreserve.com",
+      "source": "themalaysianreserve.com",
       "published_at": "2026-08-13T11:00:12+08:00",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPamFHaWtVRzgzZlFVUEhmV1FfSHJKeFZWTVpLUDFmUFh1N0h5U0Rka0lSR1RRT1NSU1JheGZuWGJxZTJ6YmpXZ3NiTFdQMkxuNzctczhoXzVMOGdFS0szS2JIbjhVZkgwVXB4VGJlNEpRZ3JXcWM1RWlNVGlBMmJfNS1QeUhHTTMzX1Q2WU1HTzhRQzBDNE5KQ19meUR0WkVBUC1OTVZLVUxuTVFsdWowQnhtYVBpNTlwVndSYkd5MG90WWk1NVdXcG9HbF9IMVZ0WHFCdVh5cW1DMGZzWV94OVdSY05iekpfYnVraUdhWTIxTXE3NWhQelI0TEh0RFlJNVF0elhKV1pPTFM4c1BoQ3BDVHBMdVVURHc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Samsung's FläktGroup Opens First Plant in India for AI Data Center Cooling - Seoul Economic Daily",
-      "summary": "Samsung's FläktGroup Opens First Plant in India for AI Data Center Cooling Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "published_at": "2026-08-13T09:51:29+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHRwX0tDUXRGODRlQXZyNGRlSjRBdC1IZjMwZ2UyNlo5M2VwcmYxRTdkR0NOaTBqa25mMURaak9PMmxZM3VzRXpUdjcxZEV6NHdWejZYU05YaEhlS1ktbGotZHYwaDc1NjlESXFNT2VXN3JfeEZJaHNYaldlZHRncW5aYUFOZEhSTkVtbWJ2S25jSWRmcENsdlhOWmtSYThGZGc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
