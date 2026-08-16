@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-17T05:51:00+08:00",
+  "updated_at": "2026-08-17T06:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-17T06:00:52+08:00",
+  "intel_updated_at": "2026-08-17T06:51:39+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/17 05:51；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/17 06:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 05:51 GMT+8",
+      "as_of": "2026-08-17 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 05:51 GMT+8",
+      "as_of": "2026-08-17 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 05:51 GMT+8",
+      "as_of": "2026-08-17 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -276,9 +276,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - community.nasscom.in",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-08-14T17:15:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
       "data_type": "live",
@@ -286,9 +286,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - Nasscom",
-      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute Nasscom",
-      "source": "Nasscom",
+      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - community.nasscom.in",
+      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-08-14T17:15:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1FfeXVYYzRGSmMyazhQdDdXcURzNVJHcWhfcmZoS1gwNnVTcnZNNEZ2cnBzeGJuRVN6QWJGSW5QZ1lQd1ZfTUY1NUc4QWd2MGdiTWVHc0JJRDNfMnphS09pLWZDRUpqTHVGaUlfa21EeDhMT0tFN0xEQ2dael9EZTFPMTNDdmVvWVpNQlV3Zjg3MUZOdmcyMkYwQWVBOFBrTHhhOC0tUlhQczNvNDNXTTVqdkJDMmV5am5FbHpJMmZlWGxZRG9V?oc=5",
       "data_type": "live",
@@ -296,9 +296,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - Nasscom",
-      "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads Nasscom",
-      "source": "Nasscom",
+      "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - community.nasscom.in",
+      "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-08-14T12:42:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN01iblo1X2V1eXlhNWhrODF2Yzh5dERqYk1XNlRSWXNFbVNaeF9HU3h2eERGeFpDV3BmWW5jMlphVXpLX1dRMk0xNzJtMzdmb05XUkw4MTNPRVNvaDdUOE5jbm84SDVMWlAzZ3JGRE9wcXRQSmtLSUFBeEo2dEVvbUFYeHJRdnhNNG9nMVgzWm9xZENxSW14ZWdmM0ZzemJRRG9ibUd5LTVoWHFLbVhrREwtTDF1QkZCWmlLa1dGRV9pUQ?oc=5",
       "data_type": "live",
@@ -311,6 +311,16 @@
       "source": "The Globe and Mail",
       "published_at": "2026-08-13T23:46:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEdfN0RqOVh6RG1NTTdQTEhWMERHMXd4c2xVMHE3dUxXMjlnbERUWkZtLVNHUTd6OWNrNFM4Tkc3UW9EMjkwSjVZLTRlMWVIX3lmXzk3VUN4UEJFZUlnOU82Vi1qWlU5TWk5X3V1RW40R1hqdnpWczJFa1h2SV92TFlPYlpJZm4waW9kU1ZIUVZZWXFfUGdpV2EyMmpQOGhPZmVjR1FtbTlTMWVvOVFhci1MWXFsalIwMkoyanVOa2IwUTFkeHVSTnFsYXRwc0UzVGJIMWhJakk1TTBxWkZZ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "IREN Shares Surge as Microsoft Accepts First AI Data Center Under $9.7 Billion Pact - finance.biggo.com",
+      "summary": "IREN Shares Surge as Microsoft Accepts First AI Data Center Under $9.7 Billion Pact finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-13T23:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdUpUU1Z1dXdYYllLcmZzYzU3VHcwcnNmWjRtRU10Q1FFZVIzcE10UHdCVi1pVDd6OUtlbVF3djZkYk1MSDhidzFqVkJ3MFF3dkV4MGxRdW16cV9IU0ZnUVk4NFZqU0x4TzI4RVlYNGN1OFhMREE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -341,16 +351,6 @@
       "source": "Tech Times",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain - Data Center Knowledge",
-      "summary": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-08-13T17:00:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0RvcXNOd1BHOFJVMEhZYnowd3JmN2VOd0tRX21odHcxVXc1LVhmRkJFcng3aFppXzdoU1hpMmNCMENRV1l5NHJLbjUxQlY4SXoybGFCdkREdjlVb2tiQkdkZXZzX09rQm9xemllbUZXb2JOT1ZFQmxwTjFPTjR3NDhlMWFOTEo1MVFvME5XbVFzcHlmVmkzMV9oaTZmdnlNaW9HZURzZV85cUgyQV9DbmdaNnJ3WU9ma2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
