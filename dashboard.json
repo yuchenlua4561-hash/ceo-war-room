@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T23:50:39+08:00",
+  "intel_updated_at": "2026-08-17T00:54:06+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,9 +246,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Data center energy efficiency a must to meet ESG goals - TechTarget",
-      "summary": "Data center energy efficiency a must to meet ESG goals TechTarget",
-      "source": "TechTarget",
+      "headline": "Data center energy efficiency a must to meet ESG goals - techtarget.com",
+      "summary": "Data center energy efficiency a must to meet ESG goals techtarget.com",
+      "source": "techtarget.com",
       "published_at": "2026-08-15T03:33:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjV6RUN1alg4T0lrT3N1THQwQlVfdWNyenphMzQ3aHRXYWUxVGl2aFFKZkJLZWhyREpsUS1HdTkxY3Q2YnI1TjVSU2tOTFlqNUNaMVdDQmdlSXUwU0V2VWt2OEgxb2pnYkxMSl9oVy1pVjY4ako5WV83bTJla0ZvaUhYaEZ3NDN5THI1X01TXzNFYU9XcGhGeUl2WUFQOFpLNlgtUnZXWQ?oc=5",
       "data_type": "live",
@@ -316,9 +316,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - Yahoo Finance",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - finance.yahoo.com",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "published_at": "2026-08-13T22:34:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGZXWHFZYmZTTThwWGFCTWxVcmNXN0lJdUpXMndtTVJXZ2JnNlRyR3FLWGNCR1JfazNmYzNoRmNXVzJodllXSDV2Y2R2T3FHYmhHZXRSOTBFTUQzWVZHSnNpWEhlSGU5eUgtb25ORkg3dHIzY3Q2X0Vaa3BUbGdqNW00cTRpcEtUeDlwbDFJT1FuSnYzVjJn?oc=5",
       "data_type": "live",
@@ -336,21 +336,21 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - Tech Times",
-      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete Tech Times",
-      "source": "Tech Times",
+      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - techtimes.com",
+      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete techtimes.com",
+      "source": "techtimes.com",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain - Data Center Knowledge",
-      "summary": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-08-13T17:00:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0RvcXNOd1BHOFJVMEhZYnowd3JmN2VOd0tRX21odHcxVXc1LVhmRkJFcng3aFppXzdoU1hpMmNCMENRV1l5NHJLbjUxQlY4SXoybGFCdkREdjlVb2tiQkdkZXZzX09rQm9xemllbUZXb2JOT1ZFQmxwTjFPTjR3NDhlMWFOTEo1MVFvME5XbVFzcHlmVmkzMV9oaTZmdnlNaW9HZURzZV85cUgyQV9DbmdaNnJ3WU9ma2c?oc=5",
+      "category": "液冷散熱",
+      "headline": "Liquid Cooling Market Outlook 2026 Highlights AI Factories, - openPR.com",
+      "summary": "Liquid Cooling Market Outlook 2026 Highlights AI Factories, openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-08-13T19:36:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRHbHVWdDhzbDZtWElnZlJXMm9UVHNsc0hmcDhUeWtmZ1JzWjVQODl1b3ROVV9SZVBIQWlOTmwyREY0MFVrWlduY1NfQmw5R08xdFFKclFLQXhicjJySEl4eHAxR1hnbmZIcE1qRzRUdTR6emNPeF94YUFfcm1ZS25adHBOSlpKZVpfSXhXdy0xVDd6OEhyXy1B?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
