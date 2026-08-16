@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T22:54:54+08:00",
+  "intel_updated_at": "2026-08-16T23:50:39+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -199,10 +199,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "資料中心",
-      "move": "Bitzero partners with Vertiv on AI and HPC data center infrastructure - Refindustry",
-      "implication": "公開情報更新於 2026-08-14T05:15:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMFhrU3h0RzRsMnZCVmRfY0Y1OXJRNU1zTW54SjFVWWZkSjJsTzhoYm1IN05maV83cGRrcmhCcEhXbWUyVWpMOEF2YkNObzJ4NnhWU0VjcTlMVTc0VE50aWU0eUtud1ZSOE5xWC1pcEtCTlJHM2R3OUVQdUxfSEJVSkdBSFhPc2hzblZfWUxWR3NDLXFHYkI3c1JaOXlUQzg0?oc=5"
+      "product": "液冷散熱",
+      "move": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. - Pluang",
+      "implication": "公開情報更新於 2026-08-13T21:37:30+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEtPWlNWZ0lBLXdvazBnbjBmUWtQY0hFT0J2ZjFFbUlKb19rM1VIeDdZVndHVjFveUFzZmVyczBpbTl5aHVzbmI2eUgyMHN1R19WUXN0SEpUTjF0dUZxN3VUX1Jxd1J2UlpZcko5a3JhZUYzNnZOU19DcFY3WjJLdE1R?oc=5"
     },
     {
       "company": "Boyd",
@@ -296,16 +296,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "Bitzero partners with Vertiv on AI and HPC data center infrastructure - Refindustry",
-      "summary": "Bitzero partners with Vertiv on AI and HPC data center infrastructure Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-08-14T05:15:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMFhrU3h0RzRsMnZCVmRfY0Y1OXJRNU1zTW54SjFVWWZkSjJsTzhoYm1IN05maV83cGRrcmhCcEhXbWUyVWpMOEF2YkNObzJ4NnhWU0VjcTlMVTc0VE50aWU0eUtud1ZSOE5xWC1pcEtCTlJHM2R3OUVQdUxfSEJVSkdBSFhPc2hzblZfWUxWR3NDLXFHYkI3c1JaOXlUQzg0?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - The Globe and Mail",
       "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
       "source": "The Globe and Mail",
@@ -351,6 +341,16 @@
       "source": "Tech Times",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain - Data Center Knowledge",
+      "summary": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "published_at": "2026-08-13T17:00:48+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0RvcXNOd1BHOFJVMEhZYnowd3JmN2VOd0tRX21odHcxVXc1LVhmRkJFcng3aFppXzdoU1hpMmNCMENRV1l5NHJLbjUxQlY4SXoybGFCdkREdjlVb2tiQkdkZXZzX09rQm9xemllbUZXb2JOT1ZFQmxwTjFPTjR3NDhlMWFOTEo1MVFvME5XbVFzcHlmVmkzMV9oaTZmdnlNaW9HZURzZV85cUgyQV9DbmdaNnJ3WU9ma2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
