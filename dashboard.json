@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T11:14:55+08:00",
+  "intel_updated_at": "2026-08-16T13:01:20+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -345,12 +345,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain - Data Center Knowledge",
-      "summary": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-08-13T17:00:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0RvcXNOd1BHOFJVMEhZYnowd3JmN2VOd0tRX21odHcxVXc1LVhmRkJFcng3aFppXzdoU1hpMmNCMENRV1l5NHJLbjUxQlY4SXoybGFCdkREdjlVb2tiQkdkZXZzX09rQm9xemllbUZXb2JOT1ZFQmxwTjFPTjR3NDhlMWFOTEo1MVFvME5XbVFzcHlmVmkzMV9oaTZmdnlNaW9HZURzZV85cUgyQV9DbmdaNnJ3WU9ma2c?oc=5",
+      "category": "液冷散熱",
+      "headline": "Liquid Cooling Market Outlook 2026 Highlights AI Factories, - openPR.com",
+      "summary": "Liquid Cooling Market Outlook 2026 Highlights AI Factories, openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-08-13T19:36:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRHbHVWdDhzbDZtWElnZlJXMm9UVHNsc0hmcDhUeWtmZ1JzWjVQODl1b3ROVV9SZVBIQWlOTmwyREY0MFVrWlduY1NfQmw5R08xdFFKclFLQXhicjJySEl4eHAxR1hnbmZIcE1qRzRUdTR6emNPeF94YUFfcm1ZS25adHBOSlpKZVpfSXhXdy0xVDd6OEhyXy1B?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
