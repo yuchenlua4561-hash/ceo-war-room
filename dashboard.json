@@ -7,11 +7,16 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T16:59:36+08:00",
+  "intel_updated_at": "2026-08-16T17:55:50+08:00",
   "intel_status": {
-    "state": "ok",
-    "collected": 12,
-    "source_failures": []
+    "state": "partial",
+    "collected": 5,
+    "source_failures": [
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -236,121 +241,51 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "3 AI Infrastructure Stocks Riding Real Data Center Spending - simplywall.st",
-      "summary": "3 AI Infrastructure Stocks Riding Real Data Center Spending simplywall.st",
-      "source": "simplywall.st",
-      "published_at": "2026-08-15T18:33:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVlhyR3VXVWJEaHdHSVFRSFY5OVVmTmdLejNiUENBc3hULVVKSmVXQVRZbC00WXBJM052UXM5anZTazhwT2k3d0J0V3NPZElab1FleTBSOHpKMHlzN0RLT2RocF93UnVGYTQ4SzItZUR6ZHBweUNuQXhqMkpSeGo4Wm5ONUpPckQ3WlFKWDhnMmIwN2prQS15R0swVy1DYjJtaXdvcUF0dXQ5R095Z3JxcURhNHhROU9jUldHbWRhck11NW1yWnByVm5hRXpXc1JuZ1ZSWUp2VWtrQVZSUjRlOdIB4AFBVV95cUxPVlhyR3VXVWJEaHdHSVFRSFY5OVVmTmdLejNiUENBc3hULVVKSmVXQVRZbC00WXBJM052UXM5anZTazhwT2k3d0J0V3NPZElab1FleTBSOHpKMHlzN0RLT2RocF93UnVGYTQ4SzItZUR6ZHBweUNuQXhqMkpSeGo4Wm5ONUpPckQ3WlFKWDhnMmIwN2prQS15R0swVy1DYjJtaXdvcUF0dXQ5R095Z3JxcURhNHhROU9jUldHbWRhck11NW1yWnByVm5hRXpXc1JuZ1ZSWUp2VWtrQVZSUjRlOQ?oc=5",
+      "headline": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. T",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-08-12T08:38:21+08:00",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Data center energy efficiency a must to meet ESG goals - TechTarget",
-      "summary": "Data center energy efficiency a must to meet ESG goals TechTarget",
-      "source": "TechTarget",
-      "published_at": "2026-08-15T03:33:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjV6RUN1alg4T0lrT3N1THQwQlVfdWNyenphMzQ3aHRXYWUxVGl2aFFKZkJLZWhyREpsUS1HdTkxY3Q2YnI1TjVSU2tOTFlqNUNaMVdDQmdlSXUwU0V2VWt2OEgxb2pnYkxMSl9oVy1pVjY4ako5WV83bTJla0ZvaUhYaEZ3NDN5THI1X01TXzNFYU9XcGhGeUl2WUFQOFpLNlgtUnZXWQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Malaysia to launch palm oil-based immersion cooling fluid for data centers - Data Center Dynamics",
-      "summary": "Malaysia to launch palm oil-based immersion cooling fluid for data centers Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-08-14T23:46:11+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3VzekJIMTB5X3F6cnVZcGp2VkVaRXlRMlV6Zm9tRmRZSmxRVUhIcWQ3UGxhcDNPZk1keC02V0NJQnU2V21zQkVZTmU3ZzluZUVINzBveXZKSDhpY0RDZC1zSmRmMnZRVndCTE1ZSEFEMzU2QmFQWWd1bXEydkxUR01RLVBwRkRCRGlLSEsxb3ZTZC1WZUx3TDkyV09vc0JYLXJ4RFZUMkZEaXJNMl9UcGZKRzhtdTFxaGc?oc=5",
+      "headline": "7 key insights from Australia for the New Energy Landscape",
+      "summary": "Introduction Australia is offering one of the clearest real-world examples of how the future electricity system is emerging, with valuable lessons for countries that will face similar energy transition challenges. High rooftop solar penetration, rapid battery ",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-10T22:10:10+08:00",
+      "url": "https://blog.se.com/energy-management-energy-efficiency/2026/08/10/7-key-insights-from-australia-for-the-new-energy-landscape/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-14T17:15:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
+      "headline": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies ",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-08-08T18:24:54+08:00",
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - Nasscom",
-      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-14T17:15:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1FfeXVYYzRGSmMyazhQdDdXcURzNVJHcWhfcmZoS1gwNnVTcnZNNEZ2cnBzeGJuRVN6QWJGSW5QZ1lQd1ZfTUY1NUc4QWd2MGdiTWVHc0JJRDNfMnphS09pLWZDRUpqTHVGaUlfa21EeDhMT0tFN0xEQ2dael9EZTFPMTNDdmVvWVpNQlV3Zjg3MUZOdmcyMkYwQWVBOFBrTHhhOC0tUlhQczNvNDNXTTVqdkJDMmV5am5FbHpJMmZlWGxZRG9V?oc=5",
+      "headline": "Traditional AI infrastructure models are reaching operational limits at AI factory scale",
+      "summary": "AI infrastructure is reaching new operational limits For decades, data center infrastructure and compute platforms evolved largely independently. Organizations selected servers, storage, and networking technologies, then designed facility infrastructure around",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-05T20:00:00+08:00",
+      "url": "https://blog.se.com/datacenter/2026/08/05/traditional-ai-infrastructure-models-are-reaching-operational-limits-at-ai-factory-scale/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - Nasscom",
-      "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-14T12:42:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN01iblo1X2V1eXlhNWhrODF2Yzh5dERqYk1XNlRSWXNFbVNaeF9HU3h2eERGeFpDV3BmWW5jMlphVXpLX1dRMk0xNzJtMzdmb05XUkw4MTNPRVNvaDdUOE5jbm84SDVMWlAzZ3JGRE9wcXRQSmtLSUFBeEo2dEVvbUFYeHJRdnhNNG9nMVgzWm9xZENxSW14ZWdmM0ZzemJRRG9ibUd5LTVoWHFLbVhrREwtTDF1QkZCWmlLa1dGRV9pUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - The Globe and Mail",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-13T23:46:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEdfN0RqOVh6RG1NTTdQTEhWMERHMXd4c2xVMHE3dUxXMjlnbERUWkZtLVNHUTd6OWNrNFM4Tkc3UW9EMjkwSjVZLTRlMWVIX3lmXzk3VUN4UEJFZUlnOU82Vi1qWlU5TWk5X3V1RW40R1hqdnpWczJFa1h2SV92TFlPYlpJZm4waW9kU1ZIUVZZWXFfUGdpV2EyMmpQOGhPZmVjR1FtbTlTMWVvOVFhci1MWXFsalIwMkoyanVOa2IwUTFkeHVSTnFsYXRwc0UzVGJIMWhJakk1TTBxWkZZ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Planning liquid cooling for new AI data center builds in India - Data Center Dynamics",
-      "summary": "Planning liquid cooling for new AI data center builds in India Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-08-13T23:02:38+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUNFQVpBQkN2anBhZ0RNbURvbDF0RmFDT3o4d1BSLVJmMHdKQW5WM0VnYUtza3BWaWlvU1MwMF9EaWdNZnN1dHp2OThqb1Z1Tjc5Zzd0aXNJZ1NkbDl6VUhQMTNGdTNvZUZWVDluMFVleklYZlNUcHh3NjllQ3BBR0ZkcHJxcWlwYnFhNk94czlzdTAtRUF3MlM0dmJvRnBGVGFTb0JpM1Z1YVVGb3BR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - Yahoo Finance",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-13T22:34:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGZXWHFZYmZTTThwWGFCTWxVcmNXN0lJdUpXMndtTVJXZ2JnNlRyR3FLWGNCR1JfazNmYzNoRmNXVzJodllXSDV2Y2R2T3FHYmhHZXRSOTBFTUQzWVZHSnNpWEhlSGU5eUgtb25ORkg3dHIzY3Q2X0Vaa3BUbGdqNW00cTRpcEtUeDlwbDFJT1FuSnYzVjJn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. - Pluang",
-      "summary": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. Pluang",
-      "source": "Pluang",
-      "published_at": "2026-08-13T21:37:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEtPWlNWZ0lBLXdvazBnbjBmUWtQY0hFT0J2ZjFFbUlKb19rM1VIeDdZVndHVjFveUFzZmVyczBpbTl5aHVzbmI2eUgyMHN1R19WUXN0SEpUTjF0dUZxN3VUX1Jxd1J2UlpZcko5a3JhZUYzNnZOU19DcFY3WjJLdE1R?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete - Tech Times",
-      "summary": "Samsung Opens India Liquid Cooling Hub as Blackwell Heat Renders Air Cooling Obsolete Tech Times",
-      "source": "Tech Times",
-      "published_at": "2026-08-13T20:22:08+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain - Data Center Knowledge",
-      "summary": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-08-13T17:00:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0RvcXNOd1BHOFJVMEhZYnowd3JmN2VOd0tRX21odHcxVXc1LVhmRkJFcng3aFppXzdoU1hpMmNCMENRV1l5NHJLbjUxQlY4SXoybGFCdkREdjlVb2tiQkdkZXZzX09rQm9xemllbUZXb2JOT1ZFQmxwTjFPTjR3NDhlMWFOTEo1MVFvME5XbVFzcHlmVmkzMV9oaTZmdnlNaW9HZURzZV85cUgyQV9DbmdaNnJ3WU9ma2c?oc=5",
+      "headline": "How reference designs help HVAC OEMs reduce cost and risk in data center cooling systems",
+      "summary": "High-density AI clusters bring new challenges to data center cooling designs. Cooling needs to be highly targeted, energy-efficient, and integrated with the rest of the data center infrastructure. Developing a compatible design could take an HVAC OEM many hour",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-01T01:11:28+08:00",
+      "url": "https://blog.se.com/industry/2026/07/31/how-reference-designs-hvac-oems-reduce-cost-risk-data-center-cooling-systems/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     }
