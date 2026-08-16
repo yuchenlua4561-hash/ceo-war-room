@@ -7,13 +7,11 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-17T01:48:48+08:00",
+  "intel_updated_at": "2026-08-17T02:59:28+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -248,9 +246,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Data center energy efficiency a must to meet ESG goals - techtarget.com",
-      "summary": "Data center energy efficiency a must to meet ESG goals techtarget.com",
-      "source": "techtarget.com",
+      "headline": "Data center energy efficiency a must to meet ESG goals - TechTarget",
+      "summary": "Data center energy efficiency a must to meet ESG goals TechTarget",
+      "source": "TechTarget",
       "published_at": "2026-08-15T03:33:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjV6RUN1alg4T0lrT3N1THQwQlVfdWNyenphMzQ3aHRXYWUxVGl2aFFKZkJLZWhyREpsUS1HdTkxY3Q2YnI1TjVSU2tOTFlqNUNaMVdDQmdlSXUwU0V2VWt2OEgxb2pnYkxMSl9oVy1pVjY4ako5WV83bTJla0ZvaUhYaEZ3NDN5THI1X01TXzNFYU9XcGhGeUl2WUFQOFpLNlgtUnZXWQ?oc=5",
       "data_type": "live",
@@ -307,6 +305,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "IREN Shares Surge as Microsoft Accepts First AI Data Center Under $9.7 Billion Pact - finance.biggo.com",
+      "summary": "IREN Shares Surge as Microsoft Accepts First AI Data Center Under $9.7 Billion Pact finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-13T23:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdUpUU1Z1dXdYYllLcmZzYzU3VHcwcnNmWjRtRU10Q1FFZVIzcE10UHdCVi1pVDd6OUtlbVF3djZkYk1MSDhidzFqVkJ3MFF3dkV4MGxRdW16cV9IU0ZnUVk4NFZqU0x4TzI4RVlYNGN1OFhMREE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Planning liquid cooling for new AI data center builds in India - Data Center Dynamics",
       "summary": "Planning liquid cooling for new AI data center builds in India Data Center Dynamics",
@@ -318,9 +326,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - finance.yahoo.com",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - Yahoo Finance",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? Yahoo Finance",
+      "source": "Yahoo Finance",
       "published_at": "2026-08-13T22:34:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGZXWHFZYmZTTThwWGFCTWxVcmNXN0lJdUpXMndtTVJXZ2JnNlRyR3FLWGNCR1JfazNmYzNoRmNXVzJodllXSDV2Y2R2T3FHYmhHZXRSOTBFTUQzWVZHSnNpWEhlSGU5eUgtb25ORkg3dHIzY3Q2X0Vaa3BUbGdqNW00cTRpcEtUeDlwbDFJT1FuSnYzVjJn?oc=5",
       "data_type": "live",
@@ -343,16 +351,6 @@
       "source": "Tech Times",
       "published_at": "2026-08-13T20:22:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem8tWVN5dTQ3N0txUUc1cmJreEM1VWQ0NnVKVzA5cTQtU0VMb2VieGNOLU1LejliLXZ6X3duOGo1MVMxNmFoOGZFUkRkaXRuMjU2d0xHVzFSZld1NU5MZ2VlNkRYVFVaNU9hdjVfODFOY1dpWUpvcXdUMi0taldtbFpVOGZOREFKTVEwSlJVVkZMdS1Tb1l4Ym80VzM4T1ZTUWdOX1hrTHYtOERuZmcza1ZCMjVxU1h5ZXNMWmFMaXR6Y3VnMjZGUFp6R1BKSHBSMmFJ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain - Data Center Knowledge",
-      "summary": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-08-13T17:00:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0RvcXNOd1BHOFJVMEhZYnowd3JmN2VOd0tRX21odHcxVXc1LVhmRkJFcng3aFppXzdoU1hpMmNCMENRV1l5NHJLbjUxQlY4SXoybGFCdkREdjlVb2tiQkdkZXZzX09rQm9xemllbUZXb2JOT1ZFQmxwTjFPTjR3NDhlMWFOTEo1MVFvME5XbVFzcHlmVmkzMV9oaTZmdnlNaW9HZURzZV85cUgyQV9DbmdaNnJ3WU9ma2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
