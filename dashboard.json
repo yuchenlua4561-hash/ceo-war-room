@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T18:54:10+08:00",
+  "intel_updated_at": "2026-08-16T19:48:24+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -306,9 +306,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - The Globe and Mail",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - theglobeandmail.com",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? theglobeandmail.com",
+      "source": "theglobeandmail.com",
       "published_at": "2026-08-13T23:46:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEdfN0RqOVh6RG1NTTdQTEhWMERHMXd4c2xVMHE3dUxXMjlnbERUWkZtLVNHUTd6OWNrNFM4Tkc3UW9EMjkwSjVZLTRlMWVIX3lmXzk3VUN4UEJFZUlnOU82Vi1qWlU5TWk5X3V1RW40R1hqdnpWczJFa1h2SV92TFlPYlpJZm4waW9kU1ZIUVZZWXFfUGdpV2EyMmpQOGhPZmVjR1FtbTlTMWVvOVFhci1MWXFsalIwMkoyanVOa2IwUTFkeHVSTnFsYXRwc0UzVGJIMWhJakk1TTBxWkZZ?oc=5",
       "data_type": "live",
