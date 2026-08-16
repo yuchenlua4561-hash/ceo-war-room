@@ -7,13 +7,11 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-16T15:46:03+08:00",
+  "intel_updated_at": "2026-08-16T16:59:36+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -248,9 +246,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Data center energy efficiency a must to meet ESG goals - techtarget.com",
-      "summary": "Data center energy efficiency a must to meet ESG goals techtarget.com",
-      "source": "techtarget.com",
+      "headline": "Data center energy efficiency a must to meet ESG goals - TechTarget",
+      "summary": "Data center energy efficiency a must to meet ESG goals TechTarget",
+      "source": "TechTarget",
       "published_at": "2026-08-15T03:33:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjV6RUN1alg4T0lrT3N1THQwQlVfdWNyenphMzQ3aHRXYWUxVGl2aFFKZkJLZWhyREpsUS1HdTkxY3Q2YnI1TjVSU2tOTFlqNUNaMVdDQmdlSXUwU0V2VWt2OEgxb2pnYkxMSl9oVy1pVjY4ako5WV83bTJla0ZvaUhYaEZ3NDN5THI1X01TXzNFYU9XcGhGeUl2WUFQOFpLNlgtUnZXWQ?oc=5",
       "data_type": "live",
@@ -302,7 +300,7 @@
       "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
       "source": "The Globe and Mail",
       "published_at": "2026-08-13T23:46:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmZuZnRBX3ZpZHZScklLZHVid1N1aVc4UTRVdmhKZ09STEswUnAtd2Z5MTZ5TnItX1A0ZHJEYnBUZmMycUVBMUxyLVNuSm1BLXVia1ZxS3pQSkNKcUd6MzVTRHVSeHQ1SVlLdzFrdllIbGU4aHZCMFkwRUNkX0NjWjZNb0IxT0ZGYi1tcV9yQkZBZXhsSDhQamdSSHhtcktxV2x6R0NKSDZRZE54bWRPN1gyRHVkYlN1emVPWjk5V2EzRXROaW9od3ZNVHF6V09rMzVteUNNS3gtWUN0SkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEdfN0RqOVh6RG1NTTdQTEhWMERHMXd4c2xVMHE3dUxXMjlnbERUWkZtLVNHUTd6OWNrNFM4Tkc3UW9EMjkwSjVZLTRlMWVIX3lmXzk3VUN4UEJFZUlnOU82Vi1qWlU5TWk5X3V1RW40R1hqdnpWczJFa1h2SV92TFlPYlpJZm4waW9kU1ZIUVZZWXFfUGdpV2EyMmpQOGhPZmVjR1FtbTlTMWVvOVFhci1MWXFsalIwMkoyanVOa2IwUTFkeHVSTnFsYXRwc0UzVGJIMWhJakk1TTBxWkZZ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -318,11 +316,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - Zacks Investment Research",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "published_at": "2026-08-13T22:01:24+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlhqSjh3eUgzc0dvcjFKYjVxOFJzbHJaanRONWdpZnMtd0NyOTRMcUlmMWtkY05ZV3hubzlCSHZOQXRqVDk2ODk0aFpYendNSDZuV0RnMXlpR2NQMjZmQndoM082U081WHFYUjFYX21Ja3F3OS01SGZVYVNVbXJPMWpKc3lXdllpWXdSS1JicW0zc1lKSXJ0UjdpMHF0V1RvZmJr?oc=5",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - Yahoo Finance",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-13T22:34:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGZXWHFZYmZTTThwWGFCTWxVcmNXN0lJdUpXMndtTVJXZ2JnNlRyR3FLWGNCR1JfazNmYzNoRmNXVzJodllXSDV2Y2R2T3FHYmhHZXRSOTBFTUQzWVZHSnNpWEhlSGU5eUgtb25ORkg3dHIzY3Q2X0Vaa3BUbGdqNW00cTRpcEtUeDlwbDFJT1FuSnYzVjJn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
