@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-17T21:42:00+08:00",
+  "updated_at": "2026-08-17T22:42:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-17T21:57:33+08:00",
+  "intel_updated_at": "2026-08-17T22:58:29+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/17 21:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/17 22:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 21:42 GMT+8",
+      "as_of": "2026-08-17 22:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 21:42 GMT+8",
+      "as_of": "2026-08-17 22:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.225,
+      "value": 37.195,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 21:42 GMT+8",
+      "as_of": "2026-08-17 22:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -236,6 +236,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Riding the heatwaves: The modernization imperative for data center resiliency - Data Center Dynamics",
+      "summary": "Riding the heatwaves: The modernization imperative for data center resiliency Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-08-17T22:43:27+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEZOa0pYN1ZKMmVyYjU2OHVkMHFOUnRkSkdRTHREOHFUeExSQ0FpY2dRT0tIRFd2RE5kY1JXREttX1h2ajkyZHIwQ1dENUlYM01FN0NTVm01SGQ1eThwZzRGQU50WEVZM0Q4cmpjTlhJWGF0Q1RRMkFIa044d3g4YkRtX2pvdjduWE9aRXlhMFoyeU8tV09ZZ2w1bXlVT0tVYkZwc01ObXR2ajBDV2xZd0lUMmJfVkt3Z2NwU2t6dk4tUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Trinovium partners with Echelon on AI data center cooling By Investing.com - Investing.com India",
       "summary": "Trinovium partners with Echelon on AI data center cooling By Investing.com Investing.com India",
       "source": "Investing.com India",
@@ -341,16 +351,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-08-17T04:08:58+08:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUNFQVpBQkN2anBhZ0RNbURvbDF0RmFDT3o4d1BSLVJmMHdKQW5WM0VnYUtza3BWaWlvU1MwMF9EaWdNZnN1dHp2OThqb1Z1Tjc5Zzd0aXNJZ1NkbDl6VUhQMTNGdTNvZUZWVDluMFVleklYZlNUcHh3NjllQ3BBR0ZkcHJxcWlwYnFhNk94czlzdTAtRUF3MlM0dmJvRnBGVGFTb0JpM1Z1YVVGb3BR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "3 AI Infrastructure Stocks Riding Real Data Center Spending - simplywall.st",
-      "summary": "3 AI Infrastructure Stocks Riding Real Data Center Spending simplywall.st",
-      "source": "simplywall.st",
-      "published_at": "2026-08-15T18:33:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVlhyR3VXVWJEaHdHSVFRSFY5OVVmTmdLejNiUENBc3hULVVKSmVXQVRZbC00WXBJM052UXM5anZTazhwT2k3d0J0V3NPZElab1FleTBSOHpKMHlzN0RLT2RocF93UnVGYTQ4SzItZUR6ZHBweUNuQXhqMkpSeGo4Wm5ONUpPckQ3WlFKWDhnMmIwN2prQS15R0swVy1DYjJtaXdvcUF0dXQ5R095Z3JxcURhNHhROU9jUldHbWRhck11NW1yWnByVm5hRXpXc1JuZ1ZSWUp2VWtrQVZSUjRlOdIB4AFBVV95cUxPVlhyR3VXVWJEaHdHSVFRSFY5OVVmTmdLejNiUENBc3hULVVKSmVXQVRZbC00WXBJM052UXM5anZTazhwT2k3d0J0V3NPZElab1FleTBSOHpKMHlzN0RLT2RocF93UnVGYTQ4SzItZUR6ZHBweUNuQXhqMkpSeGo4Wm5ONUpPckQ3WlFKWDhnMmIwN2prQS15R0swVy1DYjJtaXdvcUF0dXQ5R095Z3JxcURhNHhROU9jUldHbWRhck11NW1yWnByVm5hRXpXc1JuZ1ZSWUp2VWtrQVZSUjRlOQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
