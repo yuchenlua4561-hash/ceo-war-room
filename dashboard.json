@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-17T07:11:00+08:00",
+  "updated_at": "2026-08-17T11:06:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-17T07:38:44+08:00",
+  "intel_updated_at": "2026-08-17T11:14:52+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/17 07:11；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/17 11:06；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.09,
+      "value": 31.93,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 07:11 GMT+8",
+      "as_of": "2026-08-17 11:06 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2038,
+      "value": 0.2025,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 07:11 GMT+8",
+      "as_of": "2026-08-17 11:06 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.365,
+      "value": 37.12,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-17 07:11 GMT+8",
+      "as_of": "2026-08-17 11:06 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4523.0,
+      "value": 4527.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-14 19:55 GMT+8",
+      "as_of": "2026-08-17 10:54 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -235,6 +235,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Weekly news roundup: AI expansion fuels supernodes, post-HBM memory, liquid cooling and supply-chain shifts - digitimes",
+      "summary": "Weekly news roundup: AI expansion fuels supernodes, post-HBM memory, liquid cooling and supply-chain shifts digitimes",
+      "source": "digitimes",
+      "published_at": "2026-08-17T10:04:55+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmg3QUF2dGxld3ItYkl2cmZKaWt5NFBsUVJIR2hoRmpGdkNpZE9UUG43OER4VG1nZkNDcVEyUFRhT3o5Z3l5Z1BjY1dYdzNneC1ldGtCWEIzdkFxZ2I3UFZ5T0pmQXE1NmZHNG9fQ0VQUGNMTXhhQUtzX09IaWdrS0pMQmV6bGY2cl9uaTVTVFVZa3lpNzFzdTBwYlJ0UDl4aUJBckV2bGd1cjFiTEExcmctSTd3UzJ3UVVZ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "A proposed artificial intelligence data center carrying an investment of up to EUR 500 million, requiring as much as 50 megawatts of continuous power and thousands of cubic meters of water for cooling, is now being pitched for Oton, Iloilo — but questions rem - facebook.com",
       "summary": "A proposed artificial intelligence data center carrying an investment of up to EUR 500 million, requiring as much as 50 megawatts of continuous power and thousands of cubic meters of water for cooling, is now being pitched for Oton, Iloilo — but questions rem ",
@@ -286,9 +296,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - community.nasscom.in",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-08-14T17:15:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
       "data_type": "live",
@@ -296,9 +306,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - Nasscom",
-      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute Nasscom",
-      "source": "Nasscom",
+      "headline": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute - community.nasscom.in",
+      "summary": "Vera Rubin Ready AI Data Center: Preparing Infrastructure for the Next Generation of AI Compute community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-08-14T17:15:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1FfeXVYYzRGSmMyazhQdDdXcURzNVJHcWhfcmZoS1gwNnVTcnZNNEZ2cnBzeGJuRVN6QWJGSW5QZ1lQd1ZfTUY1NUc4QWd2MGdiTWVHc0JJRDNfMnphS09pLWZDRUpqTHVGaUlfa21EeDhMT0tFN0xEQ2dael9EZTFPMTNDdmVvWVpNQlV3Zjg3MUZOdmcyMkYwQWVBOFBrTHhhOC0tUlhQczNvNDNXTTVqdkJDMmV5am5FbHpJMmZlWGxZRG9V?oc=5",
       "data_type": "live",
@@ -306,21 +316,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - Nasscom",
-      "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads Nasscom",
-      "source": "Nasscom",
+      "headline": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads - community.nasscom.in",
+      "summary": "How a Liquid-Cooled Data Center Manages Thermal Load Across Thousands of Concurrent GPU Threads community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-08-14T12:42:30+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN01iblo1X2V1eXlhNWhrODF2Yzh5dERqYk1XNlRSWXNFbVNaeF9HU3h2eERGeFpDV3BmWW5jMlphVXpLX1dRMk0xNzJtMzdmb05XUkw4MTNPRVNvaDdUOE5jbm84SDVMWlAzZ3JGRE9wcXRQSmtLSUFBeEo2dEVvbUFYeHJRdnhNNG9nMVgzWm9xZENxSW14ZWdmM0ZzemJRRG9ibUd5LTVoWHFLbVhrREwtTDF1QkZCWmlLa1dGRV9pUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - The Globe and Mail",
-      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-13T23:46:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSEdfN0RqOVh6RG1NTTdQTEhWMERHMXd4c2xVMHE3dUxXMjlnbERUWkZtLVNHUTd6OWNrNFM4Tkc3UW9EMjkwSjVZLTRlMWVIX3lmXzk3VUN4UEJFZUlnOU82Vi1qWlU5TWk5X3V1RW40R1hqdnpWczJFa1h2SV92TFlPYlpJZm4waW9kU1ZIUVZZWXFfUGdpV2EyMmpQOGhPZmVjR1FtbTlTMWVvOVFhci1MWXFsalIwMkoyanVOa2IwUTFkeHVSTnFsYXRwc0UzVGJIMWhJakk1TTBxWkZZ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -345,12 +345,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. - Pluang",
-      "summary": "Vertiv shares rebound sharply as AI data center demand boosts liquid cooling growth prospects. Pluang",
-      "source": "Pluang",
-      "published_at": "2026-08-13T21:37:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEtPWlNWZ0lBLXdvazBnbjBmUWtQY0hFT0J2ZjFFbUlKb19rM1VIeDdZVndHVjFveUFzZmVyczBpbTl5aHVzbmI2eUgyMHN1R19WUXN0SEpUTjF0dUZxN3VUX1Jxd1J2UlpZcko5a3JhZUYzNnZOU19DcFY3WjJLdE1R?oc=5",
+      "category": "資料中心",
+      "headline": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? - TradingView",
+      "summary": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI? TradingView",
+      "source": "TradingView",
+      "published_at": "2026-08-13T22:34:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUw2aGpSU2x0WDNvWHk5N3d6eTc1WW10RzF2Rk5PdUNsTzRzUGxtUnZydl8tcFhYaTV4c0NSbGRUWFB3YWp5VzFucWlOaWk1a2pwWXQxanY2ekpad2ZKZmJJZXdxMEpZUVNyU2U5ZTBiMjNPR0RrNDhDR3p5MkJ5bDBwN0g0N3ZDbDh5bjBVNlFlM0FVdGZ0eG5raEJOVlZoNS1aWlgzOHlyOW1qaDdJaVVnWEdpa0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
