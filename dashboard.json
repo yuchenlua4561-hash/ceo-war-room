@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-18T15:54:00+08:00",
+  "updated_at": "2026-08-18T17:42:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-18T16:00:51+08:00",
+  "intel_updated_at": "2026-08-18T17:52:37+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/18 15:54；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/18 17:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.01,
+      "value": 32.02,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-18 15:53 GMT+8",
+      "as_of": "2026-08-18 17:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2022,
+      "value": 0.2027,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-18 15:53 GMT+8",
+      "as_of": "2026-08-18 17:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.2,
+      "value": 37.275,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-18 15:53 GMT+8",
+      "as_of": "2026-08-18 17:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4546.0,
+      "value": 4533.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-18 15:54 GMT+8",
+      "as_of": "2026-08-18 17:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -235,12 +235,42 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "The retrofitting roadmap: An evolution of liquid cooling - Data Center Dynamics",
+      "summary": "The retrofitting roadmap: An evolution of liquid cooling Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-08-18T17:38:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGMtV0hpUUd0aXhEektmcUV0OERaYzNnWXp1ZUdEMVhRbDRGRTBaQndjX3VZMDFidkUtTFZLblRyLXdpRHRlUjZtSXVLdU5EOGRYRk9ldjV2SkZFTE5xdnJWby1yS2dEM1hBN1MwbGxHUGRJN0VXRlhTa2Q5eElGYjhrdlJHMVNSQ2FLdTRyRlQ0bm53bGYwb0R0N3Rkb0ZNb2dsa01CcThTdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
-      "headline": "Castrol ON PG25 cooling fluids validated for NVIDIA AI factory and data centre infrastructure - sg.finance.yahoo.com",
-      "summary": "Castrol ON PG25 cooling fluids validated for NVIDIA AI factory and data centre infrastructure sg.finance.yahoo.com",
-      "source": "sg.finance.yahoo.com",
+      "headline": "Trane and Eaton combine cooling and power for AI data centers - Techzine Global",
+      "summary": "Trane and Eaton combine cooling and power for AI data centers Techzine Global",
+      "source": "Techzine Global",
+      "published_at": "2026-08-18T17:10:13+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3ZBNl9TQ1pFTWNoOVp4dWh3bmJzWnZ5WXA0ZGI3UVoxWWF0N1c1WkZSQ1VkZXY2SlAwOTU1WnpCdlFWWFJpZTB3cElQdF81X1lEbjBDWkJrUlpmVzd5N2syQUpJWmxJeENRSzNtWmJBS3p0SWRGWlQ1NFNENU5sSFdOaWtEZDQtY2ZZNmVRNkxNeDFwaXBrZjJuQzR4ZFBYdkhrX2lEQWVXYkVmV2lhVFJkbw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Castrol ON PG25 cooling fluids validated for NVIDIA AI factory and data centre infrastructure - Yahoo Finance Singapore",
+      "summary": "Castrol ON PG25 cooling fluids validated for NVIDIA AI factory and data centre infrastructure Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
       "published_at": "2026-08-18T08:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUNMWFZsWlNlOWgteUtkUG1Sa01fZFdJdzhYTGVJNmJLTVBGX3J5SUlnTVlYNmQzaVJ2N2FyaU0xOE51cFNOUkpQQUZhZGtvRzZaaXo5QnRQeFdqWmhuajM5TnQ4RGVuak1ua3NmSTJ5Z09IZ0Q5RzZuTEhZemVxajNRd3Z4ZVBRVVl4T2hKUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Eaton and Trane partner on design to speed AI data center deployment - The Business Journals",
+      "summary": "Eaton and Trane partner on design to speed AI data center deployment The Business Journals",
+      "source": "The Business Journals",
+      "published_at": "2026-08-18T03:34:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjh3SU5aNmhFVVM0WGxpMnZaRnM4Yl9iX3pwNl9WWE1NU0NZU0NEU3BxNkR1dGJUcHVHMTMwZ19DbnFTSFM2Q18tTU8yc2xoY0xrTGZyNkJDMnlEd09XVGltY0pjUER5aS1zUGFQalpvU3Z0TC1yVjdmVG5qNHR2c3oyMHkwLVM1YmdIcW83U1VQZzJu?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -260,7 +290,7 @@
       "summary": "AI Data Center Liquid Cooling Adoption to Hit 53% in 2026 as NVIDIA, AMD, Google Drive Demand InfotechLead",
       "source": "InfotechLead",
       "published_at": "2026-08-17T23:53:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWEltY1dCbUw0YXdBa0QxNTYxaUI3OEJJTWhXTVByVXRGdExiLVVDMDZUMEhxMVFwd3JsRFlKTnMtV0pCZ3BZSkM5VEEwOG5EZGRKQmpyZ0JKWl9VZnllaHVwMVB6dDNtRExSNUE4RnBpcThvSE9XUTZIZG9ZYWNRbGM3bWpINDB6elZ3bG9QSGo3encwbkUyaHJxcl9BVW1MNHhnUzk2YXoxZXN6cWMxRmNkZlpDZk9BRnFzREJBSlRSRUwwUjFFOURIYWhNZ9IB1gFBVV95cUxNTUlFbEJJZzkwYkRlajNWNVNRWkxXQTJwZVZqLV9YaVE0ZjFzZ25EOU5SMWF2eHloQnpBOEl3WERsYmdiNUdCaF9JX3poTjJOd2xoNHdBT3YzdHhGQ2psWWZnb3I5R2lFTXFoSXA2STFzMUZranFLbEVzaHB2TTdmbEJkV0VrR2JPRVJjaHlxTkdNNDF2anBlVEsyMldvN2Jzcl9xMUVTTVFIUS0ydHllTTJoRDg0bkFQQWlyU1VKd2wyVExFU0pDMGZIVVNpRmJOYnBmZHR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUlFbEJJZzkwYkRlajNWNVNRWkxXQTJwZVZqLV9YaVE0ZjFzZ25EOU5SMWF2eHloQnpBOEl3WERsYmdiNUdCaF9JX3poTjJOd2xoNHdBT3YzdHhGQ2psWWZnb3I5R2lFTXFoSXA2STFzMUZranFLbEVzaHB2TTdmbEJkV0VrR2JPRVJjaHlxTkdNNDF2anBlVEsyMldvN2Jzcl9xMUVTTVFIUS0ydHllTTJoRDg0bkFQQWlyU1VKd2wyVExFU0pDMGZIVVNpRmJOYnBmZHR30gHWAUFVX3lxTE1NSUVsQklnOTBiRGVqM1Y1U1FaTFdBMnBlVmotX1hpUTRmMXNnbkQ5TlIxYXZ4eWhCekE4SXdYRGxiZ2I1R0JoX0lfemhOMk53bGg0d0FPdjN0eEZDamxZZmdvcjlHaUVNcWhJcDZJMXMxRmtqcUtsRXNocHZNN2ZsQmRXRWtHYk9FUmNoeXFOR000MXZqcGVUSzIyV283YnNyX3ExRVNNUUhRLTJ0eWVNMmhEODRuQVBBaXJTVUp3bDJUTEVTSkMwZkhVU2lGYk5icGZkdHc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -316,41 +346,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Is N+1 Still the Right Question? Rethinking Cooling Redundancy for the Liquid Cooling Era - datacenterfrontier.com",
-      "summary": "Is N+1 Still the Right Question? Rethinking Cooling Redundancy for the Liquid Cooling Era datacenterfrontier.com",
-      "source": "datacenterfrontier.com",
+      "headline": "Is N+1 Still the Right Question? Rethinking Cooling Redundancy for the Liquid Cooling Era - Data Center Frontier",
+      "summary": "Is N+1 Still the Right Question? Rethinking Cooling Redundancy for the Liquid Cooling Era Data Center Frontier",
+      "source": "Data Center Frontier",
       "published_at": "2026-08-17T18:02:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeU5TMThlMFRKa2hlZnhTaHRmeTN2OXJFZHhSdEFmX2ppaUNSUUplcFRGRUN1cEd1NEhSdDFwY2cwSnVkU1hJMTJmS0FVbURtdXhCdnlaaGVzOGFraXh1S0lsRTI5cFQ1XzdRWkxDOThpSG1GSW5XWDhjdURMUUJWMUJOQjdxMjhyMHlVZElzdjdOUlJ3Y1o4S2tLajlDOTVNejhjVzk3U0pKX18wa011WVUybkt1QTN2dWNWSEZUNFFpWHVXdDkzWkpKS2NyaXFfWFVEZzZDQjBjUHNvNk10N0plclVySVJJQUhLWVo3c00tMU95eXc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling Penetration in AI Chips to Approach 60% Next Year; Auras Technology Target Price Raised to NT$4,005 - finance.biggo.com",
-      "summary": "Liquid Cooling Penetration in AI Chips to Approach 60% Next Year; Auras Technology Target Price Raised to NT$4,005 finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-17T15:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WeXlRcnoxSWMzeEprV2N0TEhRQW9lY2pqdEREVERJZHRCRFo5Q3FiOXpoOTVMajY2NHBMM3E5OHVzeHVZN2xseFlNaGVMQTVZaXB6RV9iSDFGWkNlMFlNS1pTejhGRjM1TEYwSXV5eldpSUt5Zmc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "TrendForce: The penetration rate of liquid cooling in AI chips is projected to rise to 53% in 2026 and approach 60% in 2027. - Moomoo",
-      "summary": "TrendForce: The penetration rate of liquid cooling in AI chips is projected to rise to 53% in 2026 and approach 60% in 2027. Moomoo",
-      "source": "Moomoo",
-      "published_at": "2026-08-17T14:40:41+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1JteUdTRG1naXo3RXFRMnJUS01LUmJWSDNhQnFSZkFyWUp5Z2ZqaWVtdlQ3d2htWFBsTlpYMUU3OHhjd0cxN3U0cUVQZG5KTDRxUWd3TzBKZS1tbm9haEM0bWRnRUZTWXVjRExqZjBQNUR1dzdTT0FNMHNvLUdDYjJVM3JzTzl0cWZXbjhoRlJVem83QmxtZjVkUFJSalpHdjJ6b21B?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Weekly news roundup: AI expansion fuels supernodes, post-HBM memory, liquid cooling and supply-chain shifts - digitimes",
-      "summary": "Weekly news roundup: AI expansion fuels supernodes, post-HBM memory, liquid cooling and supply-chain shifts digitimes",
-      "source": "digitimes",
-      "published_at": "2026-08-17T10:04:55+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmg3QUF2dGxld3ItYkl2cmZKaWt5NFBsUVJIR2hoRmpGdkNpZE9UUG43OER4VG1nZkNDcVEyUFRhT3o5Z3l5Z1BjY1dYdzNneC1ldGtCWEIzdkFxZ2I3UFZ5T0pmQXE1NmZHNG9fQ0VQUGNMTXhhQUtzX09IaWdrS0pMQmV6bGY2cl9uaTVTVFVZa3lpNzFzdTBwYlJ0UDl4aUJBckV2bGd1cjFiTEExcmctSTd3UzJ3UVVZ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
