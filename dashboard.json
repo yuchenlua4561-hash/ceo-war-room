@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-20T03:12:58+08:00",
+  "intel_updated_at": "2026-08-20T03:59:42+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -336,21 +336,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "NVT vs. SMCI: Which Data Center Infrastructure Stock is a Better Buy? - The Globe and Mail",
-      "summary": "NVT vs. SMCI: Which Data Center Infrastructure Stock is a Better Buy? The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-18T23:14:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMEE0RUU0Q1FFT09FZ0JJWVlpaWpGTzRsUzl2V0JHUUI0aWF6aTRrNHBBWkFKYlkxajY1MEZvZ0xrRVlKaWp3S1R0TlJVdDlfbmY1VVdHWTRaUF9HYlNSdmJMaE1fbVg2Mko2aGQ0UXpCWTlEYlEtWjZDdkhYOXdZOE9qVThVd2FTYmExMlI1RWZ5UEcyT2hLOC1SeVNZaTdnY2FnTGUzVTE0amIzVENOQnBvaVFYRjM5TFJpRXUxLVdKSlJ3OXFlQVgxZ1Z6dVRrMWNpeG0xaGtqTEJYNjFZVlJESFdDUQ?oc=5",
+      "headline": "AI factory build in Korea leaves server, cooling supply chain tied to Taiwan - 디지털투데이",
+      "summary": "AI factory build in Korea leaves server, cooling supply chain tied to Taiwan 디지털투데이",
+      "source": "디지털투데이",
+      "published_at": "2026-08-19T06:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjRkLU4yQlJMYV9paUloZzlMVjVZd2hxTXRJVTR1VERrWXVBdTBIeURsZDZtZkxaOFpfTm11Sk51ZjhneVJ5RzRXd0h1c3lLNGVQMENkVHF1ck9fd0lzbjBVNGtlcEJiMlZNWVhYeG5GMjBkVEdSdl9mSlpMOUFHR0pwNUlwTnA1MHlyaml2b28ySGJ2OGJaWlZzTGM0emczNmV2SlpiTlhPdGl2VjRPVWZ0ZFFKQzk3R3lOSXRUdXA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "NVT vs. SMCI: Which Data Center Infrastructure Stock is a Better Buy? - TradingView",
-      "summary": "NVT vs. SMCI: Which Data Center Infrastructure Stock is a Better Buy? TradingView",
-      "source": "TradingView",
-      "published_at": "2026-08-18T22:08:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPODF0WDhPUTZWR2VzdWdSb1hBM0hSTW1aU0JxUHhpcnVNRzlraFV0VnFhSFl4SWoyeWt1ZkFxWmFwZGpVTVZZaEJ1UzBraEpmTkhUSnRtNkxMUEp4NThPLTZpdy1RZ3FKbWpJQm1mOW9DYzVwYUNFOW9odUdQQ1NqWWstOG5zc0Rod29tSzRDRGpMYWhJR0xNY200ZHYxMmdvYVlVdW0zUlpucTE2S2h5UmJ3bGwtNEFsQ3NHQWhQOA?oc=5",
+      "headline": "NVT vs. SMCI: Which Data Center Infrastructure Stock is a Better Buy? - The Globe and Mail",
+      "summary": "NVT vs. SMCI: Which Data Center Infrastructure Stock is a Better Buy? The Globe and Mail",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-18T23:14:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMEE0RUU0Q1FFT09FZ0JJWVlpaWpGTzRsUzl2V0JHUUI0aWF6aTRrNHBBWkFKYlkxajY1MEZvZ0xrRVlKaWp3S1R0TlJVdDlfbmY1VVdHWTRaUF9HYlNSdmJMaE1fbVg2Mko2aGQ0UXpCWTlEYlEtWjZDdkhYOXdZOE9qVThVd2FTYmExMlI1RWZ5UEcyT2hLOC1SeVNZaTdnY2FnTGUzVTE0amIzVENOQnBvaVFYRjM5TFJpRXUxLVdKSlJ3OXFlQVgxZ1Z6dVRrMWNpeG0xaGtqTEJYNjFZVlJESFdDUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
