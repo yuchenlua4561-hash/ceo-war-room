@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-21T04:41:00+08:00",
+  "updated_at": "2026-08-21T05:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-21T04:51:50+08:00",
+  "intel_updated_at": "2026-08-21T05:57:20+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/21 04:41；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/21 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +55,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-21 04:41 GMT+8",
+      "as_of": "2026-08-21 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,13 +70,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-21 04:41 GMT+8",
+      "as_of": "2026-08-21 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.585,
+      "value": 37.595,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +85,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-21 04:41 GMT+8",
+      "as_of": "2026-08-21 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -276,16 +278,6 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-20T13:39:01+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
       "headline": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce - ET Datacenters",
       "summary": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce ET Datacenters",
       "source": "ET Datacenters",
@@ -351,6 +343,16 @@
       "source": "IndexBox",
       "published_at": "2026-08-19T22:21:19+08:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3hEUEZNZUZHR1lvWFJsVU96Z281TU9FcXVld2JJTUhjM1ZFZlN1T2hEdHNoWEtqVEdhOGNHRThRX0FuaGVpdkR3eHcxN1ZNX1J0RjFMMzR0dW15UVRfTm5OU2kxek1mT09iMnIxaE5KcnotcnVXdnl5YWZCNDE2MHMtdGJnelR6bmVwNWwzZlhLMjl0V0x1OWVlQ1VBbDZUQ0lKN1NUWDJfSFFyb0RZUXNMWlNTZ1I5X28xM2s4N2taRXR5VWo4TVBR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Cooling Emerges as AI's New Bottleneck: Data Center Cooling Market to Reach $54.4 Billion - finance.biggo.com",
+      "summary": "Cooling Emerges as AI's New Bottleneck: Data Center Cooling Market to Reach $54.4 Billion finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-19T15:43:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WVTJhaURlZkNhbWNiMFQxZlE5NmJ3VjBvSGx4VGhwbjQyNUJnYzR6QmthWVdxUXBCZm1HZ0tPNmFnZkpsUmxMTTFSYlN4WEVDaGhaM2JmRF95d2d3Vk5MNnFQUDNzeGFTLUo5c1R6dktvUlhEa0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
