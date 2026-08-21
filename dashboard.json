@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-22T05:56:28+08:00",
+  "intel_updated_at": "2026-08-22T06:56:58+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -235,6 +235,16 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 - InfotechLead",
+      "summary": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 InfotechLead",
+      "source": "InfotechLead",
+      "published_at": "2026-08-21T23:05:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEgwUHp0M2h5bjdjRGdiMjlHanRCQ1BOMV9jQlJ2SWZ2eG9tdzBfbGJoLXptSWlSYVVaSmh2QWhoMWZFMWotWndRQWpSZkFYejBSYmdTNmlsTGxHUjBMaGpLRDF1VVZJZlhjOVA2cFNYNVpmbDJUT1NuT1RNMnA4SjBqVjBfTi13X0ttVzFERUpFSnRjcWxhb3RGQUYwWWRzTUhpUEZJZUo2d1dSdzBlblMyYWtfUDI4dWtyM0JpRdIBxwFBVV95cUxOWG5XdHZoWjFOWGFhNUo3dnZDM1EtWWFVbjV1clFuYUtEYTJDeXdEVi1wWVFnUGg4QUZvTTJqbFZtUENETUMzLUdMZ3c4N1VaNlVOeHN3VTVoNGN5eFptRlQ2TTNZQzVlcXczNDRhTXFtVF95OXVBdE9qYk0xd3dFYTF1MXBsOGluUjlnOUdvam11bWtPbmtCcHVWSDJhaGN2Qi1aR0l2bXdwRWk1UUs3LWZUbzFOeHZUTWhjdG94OXRWMXdhQXVz?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Liquid cooling is here. Time to scale it - Data Center Dynamics",
       "summary": "Liquid cooling is here. Time to scale it Data Center Dynamics",
@@ -271,16 +281,6 @@
       "source": "finance.biggo.com",
       "published_at": "2026-08-21T07:55:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90Y1hXSzJQWUJhbXAwRlpYTmpkNjR5dTZSLU1Sa0QycmpWbUNob05kTE56Q0k4TWVhTFR0LTNIOFMzYUFxMmtqeUdmdGp1UU1YczEtekNxYy13TUx5MWRxc0hveThnV3lQeGJ4QnNjQ0RsQWlqd1E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nvidia And 3 AI Infrastructure Stocks For Data Center Buildout - simplywall.st",
-      "summary": "Nvidia And 3 AI Infrastructure Stocks For Data Center Buildout simplywall.st",
-      "source": "simplywall.st",
-      "published_at": "2026-08-21T03:36:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUS15c21FN3VUUjA1ZjVMZDBkVmFNLU9sdElITjdOenkwelFqaHFjUzBQd2Z0aU5tX3IyeXhfR040eHY4WU01ZVg2SW40OGVZTm1WYmFhUElKNG40ZHA0bVRrTUxqYkZ4aXNWa1RQbkNydmJnck40YlNuSnNPdHBCSGExX1FLVkVSVjVjc1V5a0ZwYmtCaDNaTlhjUzlMa0tPeXZoMkMta0g4VDRsSzVSSVhuQ293SDkzcXMwRXFMamVrbHlyZDJlb9IBzgFBVV95cUxOelBFeFZDTThqaEtSWk1ld1NNa0VMREZvM28xT0VMdmpfNG5iWllVMXBJRVozTEJWTmZMMVpxU0tOS1lCTmVIVzViUDZmUTBPMmx1NGRWcERPT2FJNVNDa2JOZ01teklrVnQ0WTVXSXdqWnFEcUJscUx2d1NOQVNQYkxNeW00cDBhNFJEQnRERGpBdVB1a3NueXRNOGJZVldaSzZ6dnNZUWdoUW1aelI3WTRENFBCX3hTbm54dkxLdGdZVnBRX1JObU9EUkN6dw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
