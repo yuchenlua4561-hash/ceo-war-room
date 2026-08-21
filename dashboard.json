@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-22T03:01:00+08:00",
+  "updated_at": "2026-08-22T03:41:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-22T03:08:26+08:00",
+  "intel_updated_at": "2026-08-22T03:55:53+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/22 03:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/22 03:41；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-22 03:01 GMT+8",
+      "as_of": "2026-08-22 03:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-22 03:01 GMT+8",
+      "as_of": "2026-08-22 03:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-22 03:01 GMT+8",
+      "as_of": "2026-08-22 03:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -280,7 +280,7 @@
       "summary": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It. The Globe and Mail",
       "source": "The Globe and Mail",
       "published_at": "2026-08-20T20:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZDV4SkhBRF9JenJQUFhaemM1WlpkbXVqQkdPeUtJQ3B3b0thanVpMXJHNWZzYTVubjJVX2ZSdVQyVkEzVXdXLU10aHNseEpzcF82MDAtUjlTTlQ5MVIybmE2dDdJSzRTVWlWb19GUkZHVGY2N2VBNUJnQVFVcFpRdFM4b0lycTc1bWtWQzR3aVN2T2pwZWZzUTl6U3VaQU9kZ0RzaUFPaFZDaUgzcDZ2Q2pSbG9iVzdZLWxob24zcEFYUUtiSVRUcDQ3T3FwalA3SUp3aHFFWDZFdUcxX3UxMmdENHJpRm5IUFFiRjdxYXZScVZtZFFFWEJCT0hiMHZvVUR5LVN4WGdBdWtKR2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYlBia1BDRXFVNkJzS1VsOGw2cDJmeWhvdmw5UWlyNnM3dVhrTEgwNUl5SkFnWjk5X0IyMjNhREl5eTRxUkdoVFo1OXdZald4UUxJbFp6QWtsTE8wZTBHN21xRG8zbm1JRXBaUk92V1ZaLXVRZ3o0SVY0T2VIeDJkWlk0b1h2LURvcFFNaElZRG5wLW94OU4zNTBfT0wzbTM1bTdDdHlqaXNfc24wakg0VVJhcTQydzFOcHhoTWVocXVDRGZMUy1weGRZQmpDNWRqXzZDMVFGVENHRWREQ2gtenJiMzc2Szc1Q0tfMnl6djRROUJKc0ZsUkd2c29yNkEzRVBpaDlKelhnT2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -301,16 +301,6 @@
       "source": "Data Center Knowledge",
       "published_at": "2026-08-20T17:00:15+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJPRjhoQklDekhVNXZLMzlNMkphQlZQNERrWWZkN3JxMDNNRm1mWU9HNS1SSlZ2VDZIRFE4cFlJR01pckhBUklZcXBjbGhwVXpfQm10bkpIcjlmeGZuZzh5X0lvd3pwU1JWclFCVGY2eGVReUJuT2FPdktVRy1Hcm9KWGFuQ3pjcnA1Z2JqbDY3RTFveWljUElXX1BUOUlOREQtNXVZZmlmZHJXa25DWlZXRWNsbDMxcXpZ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-20T13:39:01+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -351,6 +341,16 @@
       "source": "Thomasnet",
       "published_at": "2026-08-20T05:28:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWpjOW04M21iZmJNTDdjSlM5TFRKVkQ4TmZaMnc3a3NHOWVnQmphX3N3UzZRRzcyZ19yRDFNOTlKdnN5WmgyaGhPbkdVdnFpb3dITGMzbEIwMjc2UTJobE9LVFAzeUdHa1owTHNUaFUwXzNZaU9OUHI5S2JYN0RJN2dOTTJmVUU4SkVBWDhxUUd2eEotbmhSYXpzZkx1TGdfX1ZBa3RhanZUTFp5Zm12dUFGSUZqRERIckZoOQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Samsung Commits $170M to Gwangju CDU Factory as AI Cooling Demand Exceeds Supply - Tech Times",
+      "summary": "Samsung Commits $170M to Gwangju CDU Factory as AI Cooling Demand Exceeds Supply Tech Times",
+      "source": "Tech Times",
+      "published_at": "2026-08-20T02:32:16+08:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdl9pZnBBUnBtU2RSVGFiNU9NbWpWM0RwdDk5OTNfZzFwZFlYcjYweVA0My1sX1lDR3Jya0RMWGRmRXhTSXF6ZURCMnAtREdkSzFjMHpEMU9NQWhtbngxalRIT2JmaElQNk00c3VwZEZjQUtZNzFkc25jSU81M28xaDg1eE1YRHNKM3pWVkkzcU5CVWRMdjBxUVZtaVdoLUp1alJ4RzlkZDE4RkJUWW1lZEg1N3g1aE5sX3FVTG9rWFdXel9YTEgw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
