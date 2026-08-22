@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-22T22:44:40+08:00",
+  "intel_updated_at": "2026-08-22T23:41:08+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -235,12 +235,12 @@
   ],
   "news": [
     {
-      "category": "資料中心",
-      "headline": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 - InfotechLead",
-      "summary": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 InfotechLead",
-      "source": "InfotechLead",
-      "published_at": "2026-08-21T23:05:47+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEgwUHp0M2h5bjdjRGdiMjlHanRCQ1BOMV9jQlJ2SWZ2eG9tdzBfbGJoLXptSWlSYVVaSmh2QWhoMWZFMWotWndRQWpSZkFYejBSYmdTNmlsTGxHUjBMaGpLRDF1VVZJZlhjOVA2cFNYNVpmbDJUT1NuT1RNMnA4SjBqVjBfTi13X0ttVzFERUpFSnRjcWxhb3RGQUYwWWRzTUhpUEZJZUo2d1dSdzBlblMyYWtfUDI4dWtyM0JpRdIBxwFBVV95cUxOWG5XdHZoWjFOWGFhNUo3dnZDM1EtWWFVbjV1clFuYUtEYTJDeXdEVi1wWVFnUGg4QUZvTTJqbFZtUENETUMzLUdMZ3c4N1VaNlVOeHN3VTVoNGN5eFptRlQ2TTNZQzVlcXczNDRhTXFtVF95OXVBdE9qYk0xd3dFYTF1MXBsOGluUjlnOUdvam11bWtPbmtCcHVWSDJhaGN2Qi1aR0l2bXdwRWk1UUs3LWZUbzFOeHZUTWhjdG94OXRWMXdhQXVz?oc=5",
+      "category": "液冷散熱",
+      "headline": "Sapience AI Highlights Strategic Role of Liquid Cooling in AI Data Centers - TipRanks",
+      "summary": "Sapience AI Highlights Strategic Role of Liquid Cooling in AI Data Centers TipRanks",
+      "source": "TipRanks",
+      "published_at": "2026-08-21T20:35:31+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaHFoUlRwSHFKWXRuNlpEMnk5cUhKWEswTm5nLUtybkJTT2h4R09QdExfX3c4Ym9NSjNLRnpDTW13WktLbFNCSGVlc1dwQUNTNkROdjlpSnNTdUE1WDUtcDZ1dGdQVzdFbjVjSEY1SzZMNVpGdkVKcUFzU0RyR0pubHg4LTR3bzNTYWRMeG5zck1yb0dVc21QQmFaa0J6Y1F6S2dPOU9wWkR2MDJVc09ZNTVrUDNQTHkydU9JeGh0VQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -295,6 +295,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & - openPR.com",
+      "summary": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-08-20T20:59:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPend4Q1lIQnFCVDJwSUsyQnd2OGptcmY0ajBTM2FYem1kMzZaUkRWVVJzelhmXzhMZHJxaHpzWlVuMEktczFxYVRta05OQVhrSXQtbmg3dS11STBuZnRIa0FpZlJtQ2VYcTBod19DRnZteHdmUUVpRHlJa0RRc2tFOEliRUxiTllFMUhaVWxHbEcyMS04VVhv?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It. - The Globe and Mail",
       "summary": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It. The Globe and Mail",
@@ -341,16 +351,6 @@
       "source": "Nasscom",
       "published_at": "2026-08-20T13:39:01+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce - ET Datacenters",
-      "summary": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-08-20T12:04:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbFRLUGZXOUNPemxuQjZoRXBIVk40MHpSQnc3YS1WQzR1aWhNQ3VFbXhOeVROcWszdDBlNkE5THpONkU5em9lTUlsQXdUUTBHZG9KazZCWGdkaV9Fa2ViQmpBY0NYcmo2enVBVF80dFE1MVhtYVNndzdFcE45Y3p4NW1QQ1ZzRUkzUEpHYmlSRFJyMWNzN2ZNZGVEVHBqUlNtMkw3QWdUUGM5Q0FCT0dheG0xQm41cnRMY0FJN3c1UU1ENUNqZGNTdDljRWNxcHpqZlpYOVZCREJLXzQ5X2tIMjZ6R0RoX2E5b3JRRW1R0gHyAUFVX3lxTE8yZjI4UnZYUGtRNThlRFZwUUdvNUhlN1lKUFFFb0Y3cXZkdXFNVDJyam9oYUsyVEpNS0l0eER4ajJvVkxIdE16VE1ibXJ3dk1pTlFUcXd6eXlJV05tVUdzM2xlelpiOWZJdFNaN1VTWDVFdjFGNVJXMVJESDVENlowMGNVeTNEOHNva25CN2VDZEE5UnlVUTM1VGtPMXBhQWFCZDB4cWJkRWNBOXNmaVFSVDFrSzJsenpOWXlkR2l5anFGc3ZoWTVjeGs5ZlU3V3gwcWdvcG5xTXp3d3NyM2N0a05QekRSZ2FDd1E5eHJxclpR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
