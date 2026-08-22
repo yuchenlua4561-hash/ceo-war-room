@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-22T12:05:00+08:00",
+  "updated_at": "2026-08-23T05:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-23T04:49:09+08:00",
+  "intel_updated_at": "2026-08-23T05:41:59+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/22 12:05；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/23 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-22 12:05 GMT+8",
+      "as_of": "2026-08-23 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-22 12:05 GMT+8",
+      "as_of": "2026-08-23 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-22 12:05 GMT+8",
+      "as_of": "2026-08-23 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -236,6 +236,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "South Korea drives 8.4GW AI data centers, but power and cooling hurdles loom - CHOSUNBIZ - Chosunbiz",
+      "summary": "South Korea drives 8.4GW AI data centers, but power and cooling hurdles loom - CHOSUNBIZ Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-08-23T05:01:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeTVsTkhkS3Y2ZnpIZVQxYkgxUUJfT2g0c2dFNGRScTAyZXVPb1ppS1NOTHZfaDlrY1U0czNhQ2xFbzRBMXA2THExb05DdWExMnZKbmhrTVZoallxOUdwYXJkbXNnVWNmSFFYVlY1TW5OVWg5WGR4c1Y1OENuY25lVdIBlAFBVV95cUxPOXRqdHlIN0RrdklmWWRhc196dEU2YTZiZkdoQ1lvS0huRmtPU3p6MVRiRDRZUFpsc3lEYnVnUTk4MzFabHRxOUc0VElmWHhJZjg2R3hlRW5zY2dlUG1fSXRJU2NWWUtSUTlXdEJQWUxYd0RDM2hITlJJSnVPUmM2OEV0RDM2THVuYkNFRFdyLUJvZlRl?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 - InfotechLead",
       "summary": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 InfotechLead",
       "source": "InfotechLead",
@@ -341,16 +351,6 @@
       "source": "Nasscom",
       "published_at": "2026-08-20T13:39:01+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce - ET Datacenters",
-      "summary": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-08-20T12:04:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbFRLUGZXOUNPemxuQjZoRXBIVk40MHpSQnc3YS1WQzR1aWhNQ3VFbXhOeVROcWszdDBlNkE5THpONkU5em9lTUlsQXdUUTBHZG9KazZCWGdkaV9Fa2ViQmpBY0NYcmo2enVBVF80dFE1MVhtYVNndzdFcE45Y3p4NW1QQ1ZzRUkzUEpHYmlSRFJyMWNzN2ZNZGVEVHBqUlNtMkw3QWdUUGM5Q0FCT0dheG0xQm41cnRMY0FJN3c1UU1ENUNqZGNTdDljRWNxcHpqZlpYOVZCREJLXzQ5X2tIMjZ6R0RoX2E5b3JRRW1R0gHyAUFVX3lxTE8yZjI4UnZYUGtRNThlRFZwUUdvNUhlN1lKUFFFb0Y3cXZkdXFNVDJyam9oYUsyVEpNS0l0eER4ajJvVkxIdE16VE1ibXJ3dk1pTlFUcXd6eXlJV05tVUdzM2xlelpiOWZJdFNaN1VTWDVFdjFGNVJXMVJESDVENlowMGNVeTNEOHNva25CN2VDZEE5UnlVUTM1VGtPMXBhQWFCZDB4cWJkRWNBOXNmaVFSVDFrSzJsenpOWXlkR2l5anFGc3ZoWTVjeGs5ZlU3V3gwcWdvcG5xTXp3d3NyM2N0a05QekRSZ2FDd1E5eHJxclpR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
