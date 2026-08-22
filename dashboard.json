@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-23T00:51:59+08:00",
+  "intel_updated_at": "2026-08-23T01:42:20+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -265,6 +265,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-21T13:10:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
       "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
@@ -315,6 +325,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "【EIKEI-KY (6924) FY2026 Q2 Earnings Call】Liquid Cooling Module Surge Drives Net Profit Up 409% YoY; First-Half EPS of NT$4.31 Nears Full-Year 2025 Level - finance.biggo.com",
+      "summary": "【EIKEI-KY (6924) FY2026 Q2 Earnings Call】Liquid Cooling Module Surge Drives Net Profit Up 409% YoY; First-Half EPS of NT$4.31 Nears Full-Year 2025 Level finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-20T18:17:28+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ReE8wY1B5b1hWQk53bjJ1c29OTUR4TG51blpWcTRrdlZFbFFKdFNiTW8tcEZIbXhWcHIzbXBmaElhQVpJYWJaTDd5VmNmSmJsNklYaXM4VUhEZEFJLTBob3Zn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "AI Data Center Networking: Scale Up, Out, and Across - Data Center Knowledge",
       "summary": "AI Data Center Networking: Scale Up, Out, and Across Data Center Knowledge",
@@ -326,31 +346,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-20T13:39:01+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
       "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
       "source": "Nasscom",
       "published_at": "2026-08-20T13:39:01+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce - ET Datacenters",
-      "summary": "Liquid Cooling to Dominate AI Infrastructure by 2026: TrendForce ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-08-20T12:04:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbFRLUGZXOUNPemxuQjZoRXBIVk40MHpSQnc3YS1WQzR1aWhNQ3VFbXhOeVROcWszdDBlNkE5THpONkU5em9lTUlsQXdUUTBHZG9KazZCWGdkaV9Fa2ViQmpBY0NYcmo2enVBVF80dFE1MVhtYVNndzdFcE45Y3p4NW1QQ1ZzRUkzUEpHYmlSRFJyMWNzN2ZNZGVEVHBqUlNtMkw3QWdUUGM5Q0FCT0dheG0xQm41cnRMY0FJN3c1UU1ENUNqZGNTdDljRWNxcHpqZlpYOVZCREJLXzQ5X2tIMjZ6R0RoX2E5b3JRRW1R0gHyAUFVX3lxTE8yZjI4UnZYUGtRNThlRFZwUUdvNUhlN1lKUFFFb0Y3cXZkdXFNVDJyam9oYUsyVEpNS0l0eER4ajJvVkxIdE16VE1ibXJ3dk1pTlFUcXd6eXlJV05tVUdzM2xlelpiOWZJdFNaN1VTWDVFdjFGNVJXMVJESDVENlowMGNVeTNEOHNva25CN2VDZEE5UnlVUTM1VGtPMXBhQWFCZDB4cWJkRWNBOXNmaVFSVDFrSzJsenpOWXlkR2l5anFGc3ZoWTVjeGs5ZlU3V3gwcWdvcG5xTXp3d3NyM2N0a05QekRSZ2FDd1E5eHJxclpR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
