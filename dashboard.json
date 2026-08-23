@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-23T21:44:04+08:00",
+  "intel_updated_at": "2026-08-23T22:50:43+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -335,22 +335,22 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & - openPR.com",
-      "summary": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-08-20T20:59:08+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPend4Q1lIQnFCVDJwSUsyQnd2OGptcmY0ajBTM2FYem1kMzZaUkRWVVJzelhmXzhMZHJxaHpzWlVuMEktczFxYVRta05OQVhrSXQtbmg3dS11STBuZnRIa0FpZlJtQ2VYcTBod19DRnZteHdmUUVpRHlJa0RRc2tFOEliRUxiTllFMUhaVWxHbEcyMS04VVhv?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
       "headline": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It. - The Globe and Mail",
       "summary": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It. The Globe and Mail",
       "source": "The Globe and Mail",
       "published_at": "2026-08-20T20:25:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNU2tYRFdzMmJhdks0T2pOd0FfQXpwUlZrSmtvOXBYcTljWFNlZnE1cEdBUURxV1dDUjNqX0htdk43WHdkWWRQSlJNZGFzc2xyUnREc3ZGSXZwQTZrOXBFd21NNTNJempYa0MwMGpxaENYRnQ5ZGtQZFZtdzVCTmMzWjJLdFRCbER0bFhZQ1JHOFRwamwyNW5yRERmbFRLWUxoX25nNXpVQlhtdTl6QmZDM1p0aXJqNjJpek1zQ0VQcUpLRVJ0RjlEdG5fZGlUN2FVRjZFREpNTFBBdUJsNkNFeHV1SVUxWmxtamRiMkJ2WEhraU14ZktvRGFEQ2ZyaTJ1Q2NsOUpDY3BnZTE0?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Ecolab: Interview With Global High-Tech Division Senior Vice President And General Manager Mukul Girotra About AI Data Center Cooling - Pulse 2.0",
+      "summary": "Ecolab: Interview With Global High-Tech Division Senior Vice President And General Manager Mukul Girotra About AI Data Center Cooling Pulse 2.0",
+      "source": "Pulse 2.0",
+      "published_at": "2026-08-20T20:00:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Q3JqYmlDSVk3cmk4MWVGNS1pQlpraFQ2MXcwQlVybGExNU5fbFVqZDhuOHZtX05nX0R3eWtfUGJMY2k3OEUxNGhoek13Z3BIUk9vcHRXYm5nVGZlY1dqNThVS0JHM1Zkd2NhOTRpQdIBb0FVX3lxTFB1Q3JqYmlDSVk3cmk4MWVGNS1pQlpraFQ2MXcwQlVybGExNU5fbFVqZDhuOHZtX05nX0R3eWtfUGJMY2k3OEUxNGhoek13Z3BIUk9vcHRXYm5nVGZlY1dqNThVS0JHM1Zkd2NhOTRpQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
