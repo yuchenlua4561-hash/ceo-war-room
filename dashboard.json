@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-23T17:01:18+08:00",
+  "intel_updated_at": "2026-08-23T17:56:05+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -325,16 +325,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Nvidia And 3 AI Infrastructure Stocks For Data Center Buildout - simplywall.st",
-      "summary": "Nvidia And 3 AI Infrastructure Stocks For Data Center Buildout simplywall.st",
-      "source": "simplywall.st",
-      "published_at": "2026-08-21T03:36:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUS15c21FN3VUUjA1ZjVMZDBkVmFNLU9sdElITjdOenkwelFqaHFjUzBQd2Z0aU5tX3IyeXhfR040eHY4WU01ZVg2SW40OGVZTm1WYmFhUElKNG40ZHA0bVRrTUxqYkZ4aXNWa1RQbkNydmJnck40YlNuSnNPdHBCSGExX1FLVkVSVjVjc1V5a0ZwYmtCaDNaTlhjUzlMa0tPeXZoMkMta0g4VDRsSzVSSVhuQ293SDkzcXMwRXFMamVrbHlyZDJlb9IBzgFBVV95cUxOelBFeFZDTThqaEtSWk1ld1NNa0VMREZvM28xT0VMdmpfNG5iWllVMXBJRVozTEJWTmZMMVpxU0tOS1lCTmVIVzViUDZmUTBPMmx1NGRWcERPT2FJNVNDa2JOZ01teklrVnQ0WTVXSXdqWnFEcUJscUx2d1NOQVNQYkxNeW00cDBhNFJEQnRERGpBdVB1a3NueXRNOGJZVldaSzZ6dnNZUWdoUW1aelI3WTRENFBCX3hTbm54dkxLdGdZVnBRX1JObU9EUkN6dw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & - openPR.com",
       "summary": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & openPR.com",
@@ -351,6 +341,16 @@
       "source": "The Globe and Mail",
       "published_at": "2026-08-20T20:25:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNU2tYRFdzMmJhdks0T2pOd0FfQXpwUlZrSmtvOXBYcTljWFNlZnE1cEdBUURxV1dDUjNqX0htdk43WHdkWWRQSlJNZGFzc2xyUnREc3ZGSXZwQTZrOXBFd21NNTNJempYa0MwMGpxaENYRnQ5ZGtQZFZtdzVCTmMzWjJLdFRCbER0bFhZQ1JHOFRwamwyNW5yRERmbFRLWUxoX25nNXpVQlhtdTl6QmZDM1p0aXJqNjJpek1zQ0VQcUpLRVJ0RjlEdG5fZGlUN2FVRjZFREpNTFBBdUJsNkNFeHV1SVUxWmxtamRiMkJ2WEhraU14ZktvRGFEQ2ZyaTJ1Q2NsOUpDY3BnZTE0?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Ecolab: Interview With Global High-Tech Division Senior Vice President And General Manager Mukul Girotra About AI Data Center Cooling - Pulse 2.0",
+      "summary": "Ecolab: Interview With Global High-Tech Division Senior Vice President And General Manager Mukul Girotra About AI Data Center Cooling Pulse 2.0",
+      "source": "Pulse 2.0",
+      "published_at": "2026-08-20T20:00:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Q3JqYmlDSVk3cmk4MWVGNS1pQlpraFQ2MXcwQlVybGExNU5fbFVqZDhuOHZtX05nX0R3eWtfUGJMY2k3OEUxNGhoek13Z3BIUk9vcHRXYm5nVGZlY1dqNThVS0JHM1Zkd2NhOTRpQdIBb0FVX3lxTFB1Q3JqYmlDSVk3cmk4MWVGNS1pQlpraFQ2MXcwQlVybGExNU5fbFVqZDhuOHZtX05nX0R3eWtfUGJMY2k3OEUxNGhoek13Z3BIUk9vcHRXYm5nVGZlY1dqNThVS0JHM1Zkd2NhOTRpQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
