@@ -7,13 +7,11 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-23T11:29:14+08:00",
+  "intel_updated_at": "2026-08-23T13:04:53+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -248,6 +246,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Taiwan's Meta Green revenue triples in first half as AI data center business expands - Taiwan News",
+      "summary": "Taiwan's Meta Green revenue triples in first half as AI data center business expands Taiwan News",
+      "source": "Taiwan News",
+      "published_at": "2026-08-22T19:14:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3dUlZWGJGV3BxQlZpSGhrQ2NhZmljdWtSZS1acHpzNjQ0MUY3alEtdzFoMlkwMC1lWGdlR0dBN0RIZ3M5WGhRU3lwMGFiODRxbE1UZg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 - InfotechLead",
       "summary": "AI Data Center Capacity to Hit 94.8 GW by 2035 as Global Facilities Reach 12,000 InfotechLead",
       "source": "InfotechLead",
@@ -317,6 +325,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & - openPR.com",
+      "summary": "AI Data Center Liquid Cooling Market: NVIDIA, Ecolab, Molex & openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-08-20T20:59:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPend4Q1lIQnFCVDJwSUsyQnd2OGptcmY0ajBTM2FYem1kMzZaUkRWVVJzelhmXzhMZHJxaHpzWlVuMEktczFxYVRta05OQVhrSXQtbmg3dS11STBuZnRIa0FpZlJtQ2VYcTBod19DRnZteHdmUUVpRHlJa0RRc2tFOEliRUxiTllFMUhaVWxHbEcyMS04VVhv?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It. - The Globe and Mail",
       "summary": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It. The Globe and Mail",
@@ -333,26 +351,6 @@
       "source": "Pulse 2.0",
       "published_at": "2026-08-20T20:00:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Q3JqYmlDSVk3cmk4MWVGNS1pQlpraFQ2MXcwQlVybGExNU5fbFVqZDhuOHZtX05nX0R3eWtfUGJMY2k3OEUxNGhoek13Z3BIUk9vcHRXYm5nVGZlY1dqNThVS0JHM1Zkd2NhOTRpQdIBb0FVX3lxTFB1Q3JqYmlDSVk3cmk4MWVGNS1pQlpraFQ2MXcwQlVybGExNU5fbFVqZDhuOHZtX05nX0R3eWtfUGJMY2k3OEUxNGhoek13Z3BIUk9vcHRXYm5nVGZlY1dqNThVS0JHM1Zkd2NhOTRpQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Center Networking: Scale Up, Out, and Across - Data Center Knowledge",
-      "summary": "AI Data Center Networking: Scale Up, Out, and Across Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-08-20T17:00:15+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJPRjhoQklDekhVNXZLMzlNMkphQlZQNERrWWZkN3JxMDNNRm1mWU9HNS1SSlZ2VDZIRFE4cFlJR01pckhBUklZcXBjbGhwVXpfQm10bkpIcjlmeGZuZzh5X0lvd3pwU1JWclFCVGY2eGVReUJuT2FPdktVRy1Hcm9KWGFuQ3pjcnA1Z2JqbDY3RTFveWljUElXX1BUOUlOREQtNXVZZmlmZHJXa25DWlZXRWNsbDMxcXpZ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
-      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-08-20T13:39:01+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
