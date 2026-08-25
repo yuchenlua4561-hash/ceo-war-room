@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-25T20:00:00+08:00",
+  "updated_at": "2026-08-25T22:20:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-25T20:03:06+08:00",
+  "intel_updated_at": "2026-08-25T22:29:14+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/25 20:00；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/25 22:20；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-25 20:00 GMT+8",
+      "as_of": "2026-08-25 22:20 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2027,
+      "value": 0.2028,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-25 20:00 GMT+8",
+      "as_of": "2026-08-25 22:20 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.475,
+      "value": 37.515,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-25 20:00 GMT+8",
+      "as_of": "2026-08-25 22:20 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -236,6 +236,36 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain - finance.biggo.com",
+      "summary": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-25T20:36:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxaE4xWFQ4YXJmSWp6OVJJZWFvbmNDeTZqbEVoY3l5SFhaWjFpMGRtWVRCZWVhaE5RS3N4Q2UwdXlmYVJQODBFaFB0Ym5pUG85MjVjMHl6NFIxNWFRZHFMMXk2ZnhXZm9adm5vYkN0SVlMejNRQVE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Propylene Glycol Cooling Concentrates Market to Reach 170 Index by 2035 on AI Data Center Heat Loads - IndexBox",
+      "summary": "Propylene Glycol Cooling Concentrates Market to Reach 170 Index by 2035 on AI Data Center Heat Loads IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-08-25T20:31:16+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2JMV1FUWjRqVkJLdm9YVTFUazlBRlVTLWFUQ0Z5Y1VpR0RTLThJUjRaUGRJeVdXQmxfXzI5T3NTdU9MeUF6cnotenJrUjU3NjctdThUNjJ1MFRjV3U4ckQ5bUNDdGRoWVkxMldCbVpzSzQxYWZJNDk3VWJ4Ri1zTjRoQjB3TFVYajZTNFJUdHhuWm9WNGxhaXBZUi02NldMQnBIQ3h3cF92MkE4WkZQNGZZeGd1MG5wUTl6WmM3X19zdXBWZ3ViLWx3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Two-Phase Direct-to-Chip Non-Condensable Gas Removal Systems Market - Future Market Insights",
+      "summary": "Two-Phase Direct-to-Chip Non-Condensable Gas Removal Systems Market Future Market Insights",
+      "source": "Future Market Insights",
+      "published_at": "2026-08-25T20:20:49+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzh4Rm0xUWtka2VfRkdGQVJ4NmdWc1Nwa3ljRk9aX0tqSm0yZ085eGwtOWVMd2xGNFZEUGNrUjlxckJnYUpKdUxCdXZyVjRUQ3JvMDRsQnpKeU1COHlGQzU2Uk9yR1F3WjNlem5tTG13VnBNSVNTOXdOeWtFdU00N01hUERYVVlUc2JxZ3JFUEZhbmVvbE1STWNPQUNMQkoxMzhRMm9fSG5ZOHNmeUFvNmtB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "AI Compute Demand Runs Hot: Liquid Cooling and 800V Power Delivery Break Through on Two Fronts - finance.biggo.com",
       "summary": "AI Compute Demand Runs Hot: Liquid Cooling and 800V Power Delivery Break Through on Two Fronts finance.biggo.com",
       "source": "finance.biggo.com",
@@ -321,36 +351,6 @@
       "source": "hrtoday.in",
       "published_at": "2026-08-24T21:47:22+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDhxT0Y0ZE1KalZFeTcyQmdMNGNSTExLaEc1WlZqRV9mUDh1N3R1SklmbXNfMmNibjVJUnE0aFhPakhna1g3NDEyVnNrTm9tSFRyVm5KQnk0VW1qVG81ZjFTeTN4OFA2aDlwVG1PYVZrZ25adUszNHJHb0dZUkFPa1J2OEJjYjdYOFUtc0x0RFhzMXBKWXNxaGg1TlFodHRjeHMyNUF0RlBHVTdMWTcxUm00SlVnS2JqSV9V?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Cooling Market to Reach USD 37.62 Billion by 2033, at a CAGR of 16.1% — MarketsandMarkets™ - Yahoo Finance Singapore",
-      "summary": "Data Center Cooling Market to Reach USD 37.62 Billion by 2033, at a CAGR of 16.1% — MarketsandMarkets™ Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-08-24T20:45:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnJuUF9saXRHYllZSHNDVHFkWWx1VThfOEpzTDdrRFYzQzRJQ212aXQ4UGtzeDhuaE5BbGRTQVZuRGxRdUVQWlNtbXctN0xLbDRTaHBYRmlyekNQSzlFMmZ2RmFEWlE5R04tZXI4Qkt0NUF5OWpmWkRpby1oaGZfZVhMR3lIWVZT?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "AI Data Center Liquid Cooling System Market Surges at 26.5% CAGR - openPR.com",
-      "summary": "AI Data Center Liquid Cooling System Market Surges at 26.5% CAGR openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-08-24T18:26:06+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZkNIdEh4bWRIV3c0NUxWdXc1eEdDTkhEd0hsemhUV0Fsd3l0TkRua2F1UEg2WVJFZjlOalQ2YXpCUGdBUGJIa2U0Y2VfdWkxNkFKdHZXTkNRYlQ5ZENZZVcyV3c1TGpnbTBBdlY0bXVzXzNGZWRsazJiSjNHWkdYTVdzRF9jb1NUTnNWclJtNTZVYkxUM2ZkMDFNMlZJMlJE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nvidia Invests in Cloverleaf to Address AI Data Center Power, Land Needs - ET Datacenters",
-      "summary": "Nvidia Invests in Cloverleaf to Address AI Data Center Power, Land Needs ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-08-24T13:56:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWHlyUThzUDhMdXltd21GQklfcDl1OWtLNEQ5TE1EX29wUHVPOElmSVBjVnNFVHNreHI1bV9pMGhwTEkwT0xtMm83c1FrLXExcC13Ti1SdW9ZeG1PU2lWYUtEdHBka053Ymhua2pxSFBtWG52eTlFbkdlRE1jQ1dSbUNSTnh0R0xHVnI1OVlHQk9xMUtWaHJnVWIxYldscHZWYlhqMzBhWFlYcjJVdlgtNXNVT25YcG9WWTNJZ0VnMW9fTnEyS1ZCTnFiNW0wQVBGblVIR2s5bmp4MUtWcFM0SlFDM3NWX3dzREQ1Vlo0VlFyNWvSAfcBQVVfeXFMUEk2M05NM3AyR3F4X0NHeEFjN1JURUR4RktpdE1wbzFmMGhfWkowbE0yUk9FcmloX1dfSDFNOTBpOENqQTlUMk1xamxjTlUtZ1VIMmMzbDVhNjB0RFVHTVp1LV9nLWREdFQwendqSFdoNlBhTHBVdG1ZaVp3bGpxZDFlY09pWGQweVR0M0prUTZiOVg1TmlLSm9wM2F1NVdaLXIzcWZrSms2aVZHU290R1BrRnpOczF4Vm4xa3FiSm8zaHdLMWhuQWszdzRuY0xNaHJ4SE1ZYVRiTG1xZmRmRlVBcW80SjZON2tmeEZ3OWRhZE9rZU9KNA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
