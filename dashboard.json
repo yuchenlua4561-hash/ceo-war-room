@@ -1,23 +1,26 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-26T04:40:00+08:00",
+  "updated_at": "2026-08-26T05:51:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-26T04:51:26+08:00",
+  "intel_updated_at": "2026-08-26T05:56:28+08:00",
   "intel_status": {
     "state": "partial",
-    "collected": 12,
+    "collected": 11,
     "source_failures": [
-      "CoolIT Systems: HTTPError"
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError"
     ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/26 04:40；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/26 05:51；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,7 +58,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-26 04:40 GMT+8",
+      "as_of": "2026-08-26 05:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -70,7 +73,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-26 04:40 GMT+8",
+      "as_of": "2026-08-26 05:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -85,7 +88,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-26 04:40 GMT+8",
+      "as_of": "2026-08-26 05:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -238,96 +241,6 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Graphene Manufacturing (TSXV: GMG) (OTCQX: GMGMF) New G FLUID™ Technology Targets AI Data Center - FinancialContent",
-      "summary": "Graphene Manufacturing (TSXV: GMG) (OTCQX: GMGMF) New G FLUID™ Technology Targets AI Data Center FinancialContent",
-      "source": "FinancialContent",
-      "published_at": "2026-08-26T00:41:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMktGS3REQ0tGY3pYR2VvWFYySUowd0s4X3pyajZUUE1YS1hoUUVpY0JBQnJtenVBdzdINnZLWWQyazVBN2VQRHd6OUVNX1Q3QjhvZHd5cmh1c1VzcHBsYm44QUlURTRCTUlYMElPODlBLWdIN2dhVGNFeUZrbFZYSm9MTkdJSThNeTJRb1FLME8tOXBCaVc1UnZIUk91dm9yb2NybUlLY3AwSG5TQkFWaUt6WkJGemJ3dmJ5TGpNSVU1ZlpJV1Brd3piTVRILTZpRlI2R25QeDd5STlOVlNKcV9ZaW5fdUZaek83amRubXZ2SEQt?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Two-Phase Direct-to-Chip Non-Condensable Gas Removal Systems Market - Future Market Insights",
-      "summary": "Two-Phase Direct-to-Chip Non-Condensable Gas Removal Systems Market Future Market Insights",
-      "source": "Future Market Insights",
-      "published_at": "2026-08-26T00:07:06+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzh4Rm0xUWtka2VfRkdGQVJ4NmdWc1Nwa3ljRk9aX0tqSm0yZ085eGwtOWVMd2xGNFZEUGNrUjlxckJnYUpKdUxCdXZyVjRUQ3JvMDRsQnpKeU1COHlGQzU2Uk9yR1F3WjNlem5tTG13VnBNSVNTOXdOeWtFdU00N01hUERYVVlUc2JxZ3JFUEZhbmVvbE1STWNPQUNMQkoxMzhRMm9fSG5ZOHNmeUFvNmtB?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain - finance.biggo.com",
-      "summary": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-25T20:36:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxaE4xWFQ4YXJmSWp6OVJJZWFvbmNDeTZqbEVoY3l5SFhaWjFpMGRtWVRCZWVhaE5RS3N4Q2UwdXlmYVJQODBFaFB0Ym5pUG85MjVjMHl6NFIxNWFRZHFMMXk2ZnhXZm9adm5vYkN0SVlMejNRQVE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Propylene Glycol Cooling Concentrates Market to Reach 170 Index by 2035 on AI Data Center Heat Loads - IndexBox",
-      "summary": "Propylene Glycol Cooling Concentrates Market to Reach 170 Index by 2035 on AI Data Center Heat Loads IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-08-25T20:31:16+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2JMV1FUWjRqVkJLdm9YVTFUazlBRlVTLWFUQ0Z5Y1VpR0RTLThJUjRaUGRJeVdXQmxfXzI5T3NTdU9MeUF6cnotenJrUjU3NjctdThUNjJ1MFRjV3U4ckQ5bUNDdGRoWVkxMldCbVpzSzQxYWZJNDk3VWJ4Ri1zTjRoQjB3TFVYajZTNFJUdHhuWm9WNGxhaXBZUi02NldMQnBIQ3h3cF92MkE4WkZQNGZZeGd1MG5wUTl6WmM3X19zdXBWZ3ViLWx3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "AI Compute Demand Runs Hot: Liquid Cooling and 800V Power Delivery Break Through on Two Fronts - finance.biggo.com",
-      "summary": "AI Compute Demand Runs Hot: Liquid Cooling and 800V Power Delivery Break Through on Two Fronts finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-25T14:05:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MRFA5NTdGWjh5UEVITnV4VW0yb29kbW1ZY1pmdktkRXY5QVYzczROQ09kZGVjcllVWDhPUlNCYXo4NmVnczN3TWxvMW44cFI2RGxXUjc1Ny1uY3I1X1BoU1VDdWd1T21vOEUteFpSenpJVnlJRWc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Europe Data Centres Face Double Heat, AI Workload Test - ET Datacenters",
-      "summary": "Europe Data Centres Face Double Heat, AI Workload Test ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-08-25T11:36:59+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUpTcmNPUkR3YXd1YVFCQTJZc1h6QXFyQ0tZYS1lOEhjUFpDS09nRm9rYnNkQzQydkMzRk1Lc2NZNmxiQ0xhaV9XUEV6cXZ3TTlzUExOWjRvRFA3MlZzSzBDWl9LNE14dndSeFlEWjJwNnlXa3I1UmtLc3RPRnFyWUVEU3dWbGhuM1RpWERjeVU2R21qaURtZldPY29URHJvSXhzRmlfM0x2SVlKcUZTcFR6ajNvTUlWcWY1elBGa2gyYXhUejNzUlhDRDRsNF8wVmVNb2MySElFRGFCeVVwb9IB5AFBVV95cUxNWWg4b3FIbm5VRl9zTi1VYmZ3cUNBdXZIaGtlZTZCSUFpZTI1UkY2WVVTY0cxZzZFVUtCcHpRZHlqdEdZYnpucUxPYjZIOW9hU1NwdE5EV21mdmF6aHo3YW12Q1hyd0JjVWZVMFA1ZXZ4TXlnT2JoTHFqYWREenE5REtNY1E3SnFkc3hoMUE5M2RDRWJhQnN1T3Y5UUhuZWpZNExSRThrbWllOU1CVUxISUlYVnZKSll6WjFjTkZLb0xtS1hQQTBvaUFBQ3kwR0tscHo5WGt2QmVFUkhiZDNDQVV3SFg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling Becoming Standard for High-end AI Infrastructure - EE Times Asia",
-      "summary": "Liquid Cooling Becoming Standard for High-end AI Infrastructure EE Times Asia",
-      "source": "EE Times Asia",
-      "published_at": "2026-08-25T10:29:15+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXJKTnYteW44VUJoZW9pdzU1eFppZjBGdU1IWHZaaFVhVGRXbGVSV0FCQjNPY09PYzIxY0hTb2xDQS10YWpUMWViazZ6V05OTHk0bVN3ZGttQVFaNy1LbEd0Zy1ET3VPQ0JOQ2c0cFhsOVp3NWRMT3BIOGtiNUE1T0YwWi00bVp2QldlOS02TGFKZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "United Alloy-Tech Secures Cooler Master Vendor Code, Enters AI Server Liquid Cooling Supply Chain - finance.biggo.com",
-      "summary": "United Alloy-Tech Secures Cooler Master Vendor Code, Enters AI Server Liquid Cooling Supply Chain finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-25T09:56:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52YnpsY2lHUWtuUE5QNG5wc28yOWpaSGV4ZDJQODZENlJISERsRkMtNllSaXJTNmtyVmVSdlJnRExoV2ZsSzdUODRzSTJRUVViRkE2WmhoTkRfYi0wdEo1c2EwN19ycC01R05CWUtyUFJaOFkwMlE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom - The Globe and Mail",
-      "summary": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-24T23:14:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM1hwRDBNYU1paVBMVTk4bm00amtndGM1OGxwVHNDb0NjWHNLVWpoak5NZEluRDNaV2IzYlh4MXgzQkw1djBodUZzQlNtSmJKWHFORXR1eDhEbjAtTTNRSmMwUTA1Um84dWZFZlhjSl9Zam5hVU1jN2ExUjZQMUMzZW9RbXlzSU1fWmlxSzZGaGF2eXc3ZWxNbC1EQVRpSkFhOEFIUHVFQWtRUnc5S0Y0cE9UaXNjS0pVU0ViZWZEN0ZUQ3JDVDNnYmJVQjY3Uktqdm1vUlBQNUZHN1N0Q2lwcXdFREhyV1pEOU8yeA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "How XPUs Meet a World-Class AI Factory",
       "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full fact",
       "source": "NVIDIA Blog",
@@ -353,6 +266,86 @@
       "source": "NVIDIA Newsroom",
       "published_at": "2026-08-24T23:00:00+08:00",
       "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+      "summary": "News Summary: In Artificial Analysis benchmarking, Groq 3 LPX showcased world-class speed for agentic coding and other latency-sensitive workloads. NVIDIA Groq 3 LPX extends the inference performance of NVIDIA Vera Rubin NVL72 systems by dramatically increasin",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-08-24T23:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Closed-loop liquid cooling for drought-exposed Australian data centre sites",
+      "summary": "Author: Mark Deguara, Technology Innovation Leader Australia’s data centre sector is scaling as two infrastructure pressures converge. Industry estimates suggest its water demand could more than triple from roughly 5.5 GL to 17 GL over the next five years, whi",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-18T12:05:00+08:00",
+      "url": "https://blog.se.com/datacenter/2026/08/18/closed-loop-liquid-cooling-for-drought-exposed-australian-data-centre-sites/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
+      "summary": "News Summary: NVIDIA will be the exclusive AI compute infrastructure provider at PORTS-Pike. NVIDIA to provide credit support on land, power and shell buildout to secure initial 4.25 IT-GW, with an option to take the remaining 3.75 IT-GW. OpenAI will be the cu",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-08-17T20:33:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "What coolant should you use for data center liquid cooling? PG25, dielectric fluids, and ASHRAE recommendations",
+      "summary": "Author: By Gregory Alexander, Senior Engineer II, Thermal at Motivair by Schneider Electric Executive Summary There’s little question that AI data centers require liquid cooling, as AI workloads drive ever-increasing rack densities. So, coolant selection, flui",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-14T23:08:10+08:00",
+      "url": "https://blog.se.com/datacenter/2026/08/14/what-coolant-for-data-center-liquid-cooling-pg25-dielectric-fluids-ashrae-recommendations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. T",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-08-12T08:38:21+08:00",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Closed-loop cooling data center strategies for the new wave of U.S. state water rules",
+      "summary": "Author: Corey Olson, Senior Principal, Systems Engineering, Motivair by Schneider Electric Water has become one of the newest variables in data center planning—and one of the most regulated. Across the United States, states are introducing legislation that gov",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-12T05:30:50+08:00",
+      "url": "https://blog.se.com/datacenter/2026/08/11/closed-loop-cooling-data-center-strategies-for-the-new-wave-of-u-s-state-water-rules/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "7 key insights from Australia for the New Energy Landscape",
+      "summary": "Introduction Australia is offering one of the clearest real-world examples of how the future electricity system is emerging, with valuable lessons for countries that will face similar energy transition challenges. High rooftop solar penetration, rapid battery ",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-08-10T22:10:10+08:00",
+      "url": "https://blog.se.com/energy-management-energy-efficiency/2026/08/10/7-key-insights-from-australia-for-the-new-energy-landscape/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies ",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-08-08T18:24:54+08:00",
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
       "data_type": "live",
       "data_label": "公開情報"
     }
