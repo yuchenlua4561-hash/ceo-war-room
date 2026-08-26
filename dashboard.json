@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-26T07:51:00+08:00",
+  "updated_at": "2026-08-26T11:34:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-26T07:55:35+08:00",
+  "intel_updated_at": "2026-08-26T11:36:49+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/26 07:51；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/26 11:34；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.945,
+      "value": 31.925,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-26 07:51 GMT+8",
+      "as_of": "2026-08-26 11:32 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2028,
+      "value": 0.2026,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-26 07:51 GMT+8",
+      "as_of": "2026-08-26 11:32 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.515,
+      "value": 37.39,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-26 07:51 GMT+8",
+      "as_of": "2026-08-26 11:32 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4785.0,
+      "value": 4792.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-25 19:58 GMT+8",
+      "as_of": "2026-08-26 11:34 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -235,6 +235,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "LG CNS and Naver Cloud build liquid cooling to power Korea AI data center - CHOSUNBIZ - Chosunbiz",
+      "summary": "LG CNS and Naver Cloud build liquid cooling to power Korea AI data center - CHOSUNBIZ Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-08-26T09:51:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXMzeTVzV0NtdG81WW16Uy1DdU5KZHUyLTctNUVxT2xoOUo4MW9rSVVnMFFPSndFOGNqSVlFRHg5Q1IxWm9YdVdsWWlldWw0MWtjQUNCVFgxZVRVbzc5QWxGRkVNR3dzUndUTDUyMEF4U3otbnhRT3RXeGtIbkFObjVROXVoQzVaYnBNSVBn0gGOAUFVX3lxTFA1czN5NXNXQ210bzVZbXpTLUN1TkpkdTItNy01RXFPbGg5Sjgxb2tJVWcwUU9Kd0U4Y2pJWUVEeDlDUjFab1h1V2xZaWV1bDQxa2NBQ0JUWDFlVFVvNzlBbEZGRU1Hd3NSd1RMNTIwQXhTei1ueFFPdFd4a0huQU5uNVE5dWhDNVpicE1JUGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Graphene Manufacturing (TSXV: GMG) (OTCQX: GMGMF) New G FLUID™ Technology Targets AI Data Center - FinancialContent",
       "summary": "Graphene Manufacturing (TSXV: GMG) (OTCQX: GMGMF) New G FLUID™ Technology Targets AI Data Center FinancialContent",
@@ -251,6 +261,16 @@
       "source": "Future Market Insights",
       "published_at": "2026-08-26T00:07:06+08:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzh4Rm0xUWtka2VfRkdGQVJ4NmdWc1Nwa3ljRk9aX0tqSm0yZ085eGwtOWVMd2xGNFZEUGNrUjlxckJnYUpKdUxCdXZyVjRUQ3JvMDRsQnpKeU1COHlGQzU2Uk9yR1F3WjNlem5tTG13VnBNSVNTOXdOeWtFdU00N01hUERYVVlUc2JxZ3JFUEZhbmVvbE1STWNPQUNMQkoxMzhRMm9fSG5ZOHNmeUFvNmtB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Is liquid cooling here? AI power supplies are not far behind. - 富途牛牛",
+      "summary": "Is liquid cooling here? AI power supplies are not far behind. 富途牛牛",
+      "source": "富途牛牛",
+      "published_at": "2026-08-25T21:04:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdk9IcDJfSW0tTDE1c3J0NDQwR0FvTk1GUWZpSVhGU09ZOGVlYUtGdGhobnk4cm1STEs0N290UlM1SU5BOFBWcFVTNmNTVHNxYmlDNVZQejhjbFYxTWxITDZpZXpFQzRUZnNGSTVqc3F6X0QxT3RlcDZaVTVEdWtFMXpxcG5hbEZWODN5RU4xdkZOQWw5cUxqcQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -331,26 +351,6 @@
       "source": "NVIDIA Blog",
       "published_at": "2026-08-24T23:00:54+08:00",
       "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-24T23:00:41+08:00",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
-      "summary": "News Summary: SpaceXAI will deploy NVIDIA Vera CPUs to accelerate the work behind its next generation of agentic AI workloads. SpaceXAI is expanding its AI infrastructure for Grok with the NVIDIA Vera Rubin platform as it scales toward gigawatts of computing c",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-24T23:00:00+08:00",
-      "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
       "data_type": "live",
       "data_label": "公開情報"
     }
