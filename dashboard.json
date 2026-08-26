@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-27T00:42:00+08:00",
+  "updated_at": "2026-08-27T02:42:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-27T00:54:15+08:00",
+  "intel_updated_at": "2026-08-27T03:14:34+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/27 00:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/27 02:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-27 00:42 GMT+8",
+      "as_of": "2026-08-27 02:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-27 00:42 GMT+8",
+      "as_of": "2026-08-27 02:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-27 00:42 GMT+8",
+      "as_of": "2026-08-27 02:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -236,6 +236,26 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "Why liquid cooling penetration is already over 50% in AI infrastructure - Electronics360",
+      "summary": "Why liquid cooling penetration is already over 50% in AI infrastructure Electronics360",
+      "source": "Electronics360",
+      "published_at": "2026-08-26T20:27:41+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnc0eEJ0a3AzUU8zcEZxUk1kLXdlcmlrX2tmV29tZlN0enR0c3libEVwZUM2bjlFZlJJNW1uY1ZJeFJ1U3VLUlVIeW15OHBHOWZySVNlMDRKUXNMNlFOMHBST0h2aDFzZGlsSjJNWWZzT3pwOHY4c25ZalVsQ1BpZ2JWMUVsSXcydGp6VDNMbnlLdG03dnMyMWt4TjN5R1gwLVBWUzdkV2ZJWUZWbnpkclU1OEhfMmlVWXFJdUJKTQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Trane adds data center thermal management kits to Autodesk platforms - Refindustry",
+      "summary": "Trane adds data center thermal management kits to Autodesk platforms Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-08-26T19:10:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVM3QlV0RTdBRUNSU1Q2TXl3Y0U5OGZldkhEMGFWckFVdGVkdjJtT2xWMTZtMUsyQldjZTNpb0xjSGZvc1VaMkUtWDJyWlJTNHdURmxPM0NiSEN2RkZ0LUcySXhzX1FqOExlem1ITXU0NzRheGdOd2lrekRSaG9NUWZaYTAwZXdrbTJ6UkhCb0s2c21Vd0ZyQzRfRWVmcXc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "LG CNS is going to build a liquid cooling infrastructure at Samsong Data Center ahead of the introdu.. - 매일경제",
       "summary": "LG CNS is going to build a liquid cooling infrastructure at Samsong Data Center ahead of the introdu.. 매일경제",
       "source": "매일경제",
@@ -286,21 +306,21 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Is liquid cooling here? AI power supplies are not far behind. - 富途牛牛",
-      "summary": "Is liquid cooling here? AI power supplies are not far behind. 富途牛牛",
-      "source": "富途牛牛",
-      "published_at": "2026-08-25T21:04:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdk9IcDJfSW0tTDE1c3J0NDQwR0FvTk1GUWZpSVhGU09ZOGVlYUtGdGhobnk4cm1STEs0N290UlM1SU5BOFBWcFVTNmNTVHNxYmlDNVZQejhjbFYxTWxITDZpZXpFQzRUZnNGSTVqc3F6X0QxT3RlcDZaVTVEdWtFMXpxcG5hbEZWODN5RU4xdkZOQWw5cUxqcQ?oc=5",
+      "headline": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain - finance.biggo.com",
+      "summary": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-26T00:00:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxaE4xWFQ4YXJmSWp6OVJJZWFvbmNDeTZqbEVoY3l5SFhaWjFpMGRtWVRCZWVhaE5RS3N4Q2UwdXlmYVJQODBFaFB0Ym5pUG85MjVjMHl6NFIxNWFRZHFMMXk2ZnhXZm9adm5vYkN0SVlMejNRQVE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "液冷散熱",
-      "headline": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain - finance.biggo.com",
-      "summary": "AI infrastructure boom spreads to liquid cooling and power, creating new focal points across the supply chain finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-25T20:36:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxaE4xWFQ4YXJmSWp6OVJJZWFvbmNDeTZqbEVoY3l5SFhaWjFpMGRtWVRCZWVhaE5RS3N4Q2UwdXlmYVJQODBFaFB0Ym5pUG85MjVjMHl6NFIxNWFRZHFMMXk2ZnhXZm9adm5vYkN0SVlMejNRQVE?oc=5",
+      "headline": "Is liquid cooling here? AI power supplies are not far behind. - 富途牛牛",
+      "summary": "Is liquid cooling here? AI power supplies are not far behind. 富途牛牛",
+      "source": "富途牛牛",
+      "published_at": "2026-08-25T21:04:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdk9IcDJfSW0tTDE1c3J0NDQwR0FvTk1GUWZpSVhGU09ZOGVlYUtGdGhobnk4cm1STEs0N290UlM1SU5BOFBWcFVTNmNTVHNxYmlDNVZQejhjbFYxTWxITDZpZXpFQzRUZnNGSTVqc3F6X0QxT3RlcDZaVTVEdWtFMXpxcG5hbEZWODN5RU4xdkZOQWw5cUxqcQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -311,16 +331,6 @@
       "source": "IndexBox",
       "published_at": "2026-08-25T20:31:16+08:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2JMV1FUWjRqVkJLdm9YVTFUazlBRlVTLWFUQ0Z5Y1VpR0RTLThJUjRaUGRJeVdXQmxfXzI5T3NTdU9MeUF6cnotenJrUjU3NjctdThUNjJ1MFRjV3U4ckQ5bUNDdGRoWVkxMldCbVpzSzQxYWZJNDk3VWJ4Ri1zTjRoQjB3TFVYajZTNFJUdHhuWm9WNGxhaXBZUi02NldMQnBIQ3h3cF92MkE4WkZQNGZZeGd1MG5wUTl6WmM3X19zdXBWZ3ViLWx3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "CX Daily Aug. 25: China Tech Firms Drive AI Data Center Boom in Southeast Asia - Smartkarma",
-      "summary": "CX Daily Aug. 25: China Tech Firms Drive AI Data Center Boom in Southeast Asia Smartkarma",
-      "source": "Smartkarma",
-      "published_at": "2026-08-25T20:06:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVmVsMUU5LXlpWmFFclZ1UURJVzdvbnlFdmFXaklyYmpUbjd0QVVZVmxDcmRpM09iZndtNlNsTEhhaDJTamRkUjVhZG0xb3VyZzQzeVNHNkhOalFpSFR2UHRKSzdjNTJfZmJTTTRxRTgta3M5Q0IzLVExOWJ6d3hjQ2JJV1FoZzJPTm1aX082eHM2SzEta0xldGhfTnNWU3FhcFlvMHZhaUZmc0JGbVI1WHpJT3ZFc0NlYjJlTWVxX05rd1NZMnkyVE5YblAxWVdOWXpkOVBvNU1FUjA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -341,16 +351,6 @@
       "source": "Schneider Electric Blog",
       "published_at": "2026-08-25T12:30:00+08:00",
       "url": "https://blog.se.com/datacenter/2026/08/25/sources-spares-and-commissioning-liquid-cooling-in-india-the-supply-side/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Europe Data Centres Face Double Heat, AI Workload Test - ET Datacenters",
-      "summary": "Europe Data Centres Face Double Heat, AI Workload Test ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-08-25T11:36:59+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUpTcmNPUkR3YXd1YVFCQTJZc1h6QXFyQ0tZYS1lOEhjUFpDS09nRm9rYnNkQzQydkMzRk1Lc2NZNmxiQ0xhaV9XUEV6cXZ3TTlzUExOWjRvRFA3MlZzSzBDWl9LNE14dndSeFlEWjJwNnlXa3I1UmtLc3RPRnFyWUVEU3dWbGhuM1RpWERjeVU2R21qaURtZldPY29URHJvSXhzRmlfM0x2SVlKcUZTcFR6ajNvTUlWcWY1elBGa2gyYXhUejNzUlhDRDRsNF8wVmVNb2MySElFRGFCeVVwb9IB5AFBVV95cUxNWWg4b3FIbm5VRl9zTi1VYmZ3cUNBdXZIaGtlZTZCSUFpZTI1UkY2WVVTY0cxZzZFVUtCcHpRZHlqdEdZYnpucUxPYjZIOW9hU1NwdE5EV21mdmF6aHo3YW12Q1hyd0JjVWZVMFA1ZXZ4TXlnT2JoTHFqYWREenE5REtNY1E3SnFkc3hoMUE5M2RDRWJhQnN1T3Y5UUhuZWpZNExSRThrbWllOU1CVUxISUlYVnZKSll6WjFjTkZLb0xtS1hQQTBvaUFBQ3kwR0tscHo5WGt2QmVFUkhiZDNDQVV3SFg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
