@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-29T23:06:44+08:00",
+  "intel_updated_at": "2026-08-30T02:24:43+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -235,16 +235,6 @@
   ],
   "news": [
     {
-      "category": "液冷散熱",
-      "headline": "Singapore sets benchmark with first liquid cooling standard for tropical data centres - ET CIO",
-      "summary": "Singapore sets benchmark with first liquid cooling standard for tropical data centres ET CIO",
-      "source": "ET CIO",
-      "published_at": "2026-08-29T13:00:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1l3OTZIQnZLblZpVHk0cG5tZG95bmcyb0J4TC1uMVVnSjdhOThhSEJqN2Z5d0FUX0pibnVTUXY4T3czdzNGVEVwd21Fd0pBQ2tHa0tFT1BiMUtVQVVPaHdieEg5eHU5bDZEVlAxV3Z5cW1NLW1QSEJXanNMY2VmSVUxYjF2NGtkandhX2hGY1I2cjZ3a1B0LXptcVd1TFFQUnh5RDJaMXcwYVptVXd0YXd1MFRldVAzS2RyOWtacHQzWXc4NDV6VXFUTWNMLXZfRjc2bVBCSDljaERoQlhKbll0a3prVldkMkNoTG530gHuAUFVX3lxTE5XWXc5NkhCdktuVmlUeTRwbm1kb3luZzJvQnhMLW4xVWdKN2E5OGFIQmo3Znl3QVRfSmJudVNRdjhPdzN3M0ZURXB3bUV3SkFDa0drS0VPUGIxS1VBVU9od2J4SDl4dTlsNkRWUDFXdnlxbU0tbVBIQldqc0xjZWZJVTFiMXY0a2Rqd2FfaEZjUjZyNndrUHQtem1xV3VMUVBSeHlEMloxdzBhWm1Vd3Rhd3UwVGV1UDNLZHI5a1pwdDNZdzg0NXpVcVRNY0wtdl9GNzZtUEJIOWNoRGhCWEpuWXRremtWV2QyQ2hMbnc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
       "headline": "AI Rack Density Limits: Power, Cooling, Failure Risk - ET Datacenters",
       "summary": "AI Rack Density Limits: Power, Cooling, Failure Risk ET Datacenters",
@@ -351,6 +341,16 @@
       "source": "Facilities Dive",
       "published_at": "2026-08-27T23:26:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0lhY1NJbWFsLWxJdnYtaWY3TlRRc1pOT0IwYndNWnBydUJQQUcxVmpfcTlHcVY5bEk0RHdjOXBoSzk4eTNvWTFLaHhKQWlpZVRjcmVybnZZaW51QklyS2taNWFyRG1JNGNBZ3pvdk14WVh4UWx0c3M0RmJSVzhtWkxaOVh6V1pyZ0Q3SkJoN2paNkRZM3pfVjJ1dGFJTG9DQmtZVl80ZTUyZWZvX3BFcUk3T3UtOE4xTzkw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Can Maverick Power Acquisition Boost NVT's Data Center Growth? - TradingView",
+      "summary": "Can Maverick Power Acquisition Boost NVT's Data Center Growth? TradingView",
+      "source": "TradingView",
+      "published_at": "2026-08-27T23:02:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3ctMUJidXk3Q3Myd0UwZXR0T3dwUTNiTk1pTUIxb1h0QXY3WGJMLUVrOHMwckdoOXRMZEluSnN3T2VwMkx4Rmp5UjRCOGZtUjRsTFczQVJ6bE9UMU5YYkI4VkZmU252amZzWFBOd2JnX1ptSVhvdHBzUUV2S1YxdUxkV2lqb3dmRFIyaGp1LVNOZ2dGd09nVEF0Zm03WFE2UFphMjdVRVBQXzBGNnNGWkNYZzRRT3ph?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
