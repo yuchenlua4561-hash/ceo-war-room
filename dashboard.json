@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-30T21:00:16+08:00",
+  "intel_updated_at": "2026-08-31T01:20:22+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -235,10 +235,20 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "AI Data Center Boom Fuels Surge in Traditional Heavy Industries - 조선일보",
+      "summary": "AI Data Center Boom Fuels Surge in Traditional Heavy Industries 조선일보",
+      "source": "조선일보",
+      "published_at": "2026-08-30T23:39:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjRNMGp1QXVWWmY4Z1NBQnJBREpCQ2Zsa2FDLWpSdE9zTl82bUxHUkpseVhqeXY1WXRJdTE1QkdueXFvM0trMDFuR2t1QkJldGpDWUtwRW1EWGVLQ1FfRXV3YnFSY3loOXphVHRqSnoxS2RiSUlraWpNczJldU9mamJlRUFfeVpx?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
-      "headline": "Singapore sets benchmark with first liquid cooling standard for tropical data centres - cio.economictimes.indiatimes.com",
-      "summary": "Singapore sets benchmark with first liquid cooling standard for tropical data centres cio.economictimes.indiatimes.com",
-      "source": "cio.economictimes.indiatimes.com",
+      "headline": "Singapore sets benchmark with first liquid cooling standard for tropical data centres - ET CIO",
+      "summary": "Singapore sets benchmark with first liquid cooling standard for tropical data centres ET CIO",
+      "source": "ET CIO",
       "published_at": "2026-08-29T13:00:26+08:00",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1l3OTZIQnZLblZpVHk0cG5tZG95bmcyb0J4TC1uMVVnSjdhOThhSEJqN2Z5d0FUX0pibnVTUXY4T3czdzNGVEVwd21Fd0pBQ2tHa0tFT1BiMUtVQVVPaHdieEg5eHU5bDZEVlAxV3Z5cW1NLW1QSEJXanNMY2VmSVUxYjF2NGtkandhX2hGY1I2cjZ3a1B0LXptcVd1TFFQUnh5RDJaMXcwYVptVXd0YXd1MFRldVAzS2RyOWtacHQzWXc4NDV6VXFUTWNMLXZfRjc2bVBCSDljaERoQlhKbll0a3prVldkMkNoTG530gHuAUFVX3lxTE5XWXc5NkhCdktuVmlUeTRwbm1kb3luZzJvQnhMLW4xVWdKN2E5OGFIQmo3Znl3QVRfSmJudVNRdjhPdzN3M0ZURXB3bUV3SkFDa0drS0VPUGIxS1VBVU9od2J4SDl4dTlsNkRWUDFXdnlxbU0tbVBIQldqc0xjZWZJVTFiMXY0a2Rqd2FfaEZjUjZyNndrUHQtem1xV3VMUVBSeHlEMloxdzBhWm1Vd3Rhd3UwVGV1UDNLZHI5a1pwdDNZdzg0NXpVcVRNY0wtdl9GNzZtUEJIOWNoRGhCWEpuWXRremtWV2QyQ2hMbnc?oc=5",
       "data_type": "live",
@@ -321,16 +331,6 @@
       "source": "thelec.net",
       "published_at": "2026-08-28T15:17:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdG1KVUIyOXVlbnpuMVNSSk9ESDFTOWlQRHpicDgyUE55Z0pka3Y5RTZVbnRVMUlUeV95MzNJSkdnTDRmUHAwN0RxY1VTaDhsWEVHRDMxWjlrcVh2NzkzQjJzMTh1VGs?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Center Electrical-Thermal Capacity Planning Software Market - Future Market Insights",
-      "summary": "AI Data Center Electrical-Thermal Capacity Planning Software Market Future Market Insights",
-      "source": "Future Market Insights",
-      "published_at": "2026-08-28T15:02:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3hSbkMwNGVkckR0WWtJYktKYlBqMmlYRzJvczQ4V1F1VUpRakQyR1JXTG9RWkNFY2ctZDNzeUNEcEtjT3pwRmxGalFiaXZ2OV84V2NDS09MV3JGV0pjZFFJc3FqYnV3MGJ4SnFuNjg0Mnc3THVIajJfN1loRnFrYlBXWGJDX2stM0ZTdDQzQjF0VS1DbEVGeU5hNmFTSklHQzFLbkRzNnV3bjRSem1aTXRn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
