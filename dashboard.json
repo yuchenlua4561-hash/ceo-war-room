@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-31T03:25:00+08:00",
+  "updated_at": "2026-08-31T06:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-31T03:52:41+08:00",
+  "intel_updated_at": "2026-08-31T06:39:32+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/31 03:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/31 06:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-31 03:25 GMT+8",
+      "as_of": "2026-08-31 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2,
+      "value": 0.2001,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-31 03:25 GMT+8",
+      "as_of": "2026-08-31 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.925,
+      "value": 36.915,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-31 03:25 GMT+8",
+      "as_of": "2026-08-31 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -245,6 +245,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Top 10 Data Center Projects Announced in August 2026 as AI Infrastructure Investment Accelerates - InfotechLead",
+      "summary": "Top 10 Data Center Projects Announced in August 2026 as AI Infrastructure Investment Accelerates InfotechLead",
+      "source": "InfotechLead",
+      "published_at": "2026-08-29T21:39:43+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2x2XzdTbXBTR1dNQ3Nmd2xIalNUYjBCaFFzUzdhczh5WnRrYUpoNTNRdVFrNDlneUpBeHBpRC1fZkE0Y2J1RTZpMGQwODY4MEsza1ZwMnJ3OHZFQXcydGxTcEZBRVlpZWdDY3p4TFhKR1NtOGI2b3hSLVV2cW11T0VIRjhZMkVYekNOc3M5Rzd0MGFrRGdqb1J6ZjhKYnhtaFRJYm9ZQllYUFI2Q0hxMWItSXozYU12T0JKbTVpMXVPYjlFb3hoWklydjJoNnUtSlF6TWRB0gHeAUFVX3lxTFA0Q1l1Zzk3LXlkTzJaVmhiT0ptM2lTc09ENnQ5NWM1TVQ5MHFaaGFtV1RUVmpaSmFLYzBnVEZyNG12QWVVdTVEdnpiaVpwM3NLRFQ2Y0tvQmxFNTZPYlQxSC1RLVRYV2hvdmlzcV9ZMVhaVTJVSm9NWDBBQUVRb2VLZVpRN0VsclB3XzBhWlFDWnZaaF9ZR213SVItWkJQTUV0YW91a21UekJqUXBqQm1sU2VIZnZsTFFMWG9DQ1NnbnBkTnMxQ09LRktob1dtam9RQjZXb1JOT1dndGtsQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Singapore sets benchmark with first liquid cooling standard for tropical data centres - ET CIO",
       "summary": "Singapore sets benchmark with first liquid cooling standard for tropical data centres ET CIO",
@@ -341,16 +351,6 @@
       "source": "Procurement Magazine",
       "published_at": "2026-08-28T15:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tak9CdlNrRmVJTEVocHRoM3l4XzZkYWx4MDQyZkh6NnF2TWFsOHpMNmxOWGc1LS1HZm9UMjlBVE9DckJPSDN4bzhzbEp4V3ZfeHU4aHV1eEJvVExV?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Podcast #152: Data Center Thermal Dynamics and Cooling Architectures With Tim Shedd - StorageReview.com",
-      "summary": "Podcast #152: Data Center Thermal Dynamics and Cooling Architectures With Tim Shedd StorageReview.com",
-      "source": "StorageReview.com",
-      "published_at": "2026-08-28T04:01:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3RkTXNiWXZDN01HdFprR3NRNlhhRVhubUFRWTNnU3NkYXJmRFR2b0poSU9KYUxxUmxZSTlmWUZ2a0t2dmZLLVJ5VXNfV2RtdTBqWk1abU9hOVpNN2diYWZTMHNDUGxETU0wWklEX2xtSmR1S2Zld1VVbk9scVVPNDk3dUFGcnN5ZjJqbVlpdmFhMG1PdEs0cTdMRTJ0WC1RUVhESEdmVkozZW9SUjFwdDVSaW1JSlJqZzZF0gHAAUFVX3lxTE5nNHowMDhPaVNINTBRUUNIV0FyOEdNeWw5NVVtRDd3X2Uxd0s2eW42QklSY1cxUk9yRjZDdE1CUTNHeFNlOUd3bkotbFFKYXpHRGN3QURQT3FDUldYaVJwRHpmMkRoeFB0eVYzcHRZZWZDd3YyTWV2MXN0NG5kUG9jbGdnV09VakxnNGlzeUhRd3JFNHByeFc4Y05CV0JfNUh5d1ROZjhlRlRrUzBzTjlzLWR4R3N3TkVhcVljeHJiOA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
