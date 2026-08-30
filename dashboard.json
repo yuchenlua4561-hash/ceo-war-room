@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-30T09:35:30+08:00",
+  "intel_updated_at": "2026-08-30T15:20:27+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,21 +246,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "Where Will $1.3 Trillion Go? Mapping the Companies Behind AI Data Centers - bloomingbit",
-      "summary": "Where Will $1.3 Trillion Go? Mapping the Companies Behind AI Data Centers bloomingbit",
-      "source": "bloomingbit",
-      "published_at": "2026-08-29T06:58:05+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBidWV3c0dISVRpYzZXbVB6aTJxTFZXTEdRQUxqM18wcG9RZ0JWU2RkdXVJU3hOX1dlSGY5SmZvQkJFcDg0U0xodVNfWmNsbndoQUlBMg?oc=5",
+      "headline": "AI Rack Density Limits: Power, Cooling, Failure Risk - ET Datacenters",
+      "summary": "AI Rack Density Limits: Power, Cooling, Failure Risk ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-08-29T11:20:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFJJUnEzX1RXVG9tVnJyX0wzVlVjMEtLZlRZaFNjb2l1amZ4NFRQYS1tbnVPVWZJMl9EVV9sSUxOUnNWUVV6cE94a0tlMERJWGRsU2JHQUZ0Qk5WZ2RPY1J6RzB5LVFCcFJFS1VGOWdGbTZXY0Z3enVHTmZNaEczcmRhcjgxN0lIS2Z3MVVoMHFaWmVrM1dKZ1dmM1FReTF6bmtJb0J4SGZxRWlPTzRHQXU0ZGJSYzNsSGU0eXBIbUlMdUZ4Z1FyaGNpQWJET01PTkluaWE3bjBiZ9IB2gFBVV95cUxPbFJJUnEzX1RXVG9tVnJyX0wzVlVjMEtLZlRZaFNjb2l1amZ4NFRQYS1tbnVPVWZJMl9EVV9sSUxOUnNWUVV6cE94a0tlMERJWGRsU2JHQUZ0Qk5WZ2RPY1J6RzB5LVFCcFJFS1VGOWdGbTZXY0Z3enVHTmZNaEczcmRhcjgxN0lIS2Z3MVVoMHFaWmVrM1dKZ1dmM1FReTF6bmtJb0J4SGZxRWlPTzRHQXU0ZGJSYzNsSGU0eXBIbUlMdUZ4Z1FyaGNpQWJET01PTkluaWE3bjBiZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv Shares Slide 12%: Is the AI Data Center Play Worth Buying on the Dip? - finance.biggo.com",
-      "summary": "Vertiv Shares Slide 12%: Is the AI Data Center Play Worth Buying on the Dip? finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-08-29T02:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRWhvaXh1d1J4R1BNd2l0cEszcVhzc1RaYW5kcFg3dnI2SWRzeWtDaTNzQ2Eyc1A5OTNjTFpMVWtiNFJFbEI5Tl9EZkJPUXo3aUhBTTE5TlA2cFVrdEx0cFZIbFQ2WV91eW1nTjJKY0RZQ1lVLWc?oc=5",
+      "headline": "Where Will $1.3 Trillion Go? Mapping the Companies Behind AI Data Centers - bloomingbit",
+      "summary": "Where Will $1.3 Trillion Go? Mapping the Companies Behind AI Data Centers bloomingbit",
+      "source": "bloomingbit",
+      "published_at": "2026-08-29T06:58:05+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBidWV3c0dISVRpYzZXbVB6aTJxTFZXTEdRQUxqM18wcG9RZ0JWU2RkdXVJU3hOX1dlSGY5SmZvQkJFcDg0U0xodVNfWmNsbndoQUlBMg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -296,16 +296,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "North America Data Center Construction Market Report 2026-2031 Now Available — Published as Google Commits $15B to New Missouri AI Hyperscale Campus - Yahoo Finance Singapore",
-      "summary": "North America Data Center Construction Market Report 2026-2031 Now Available — Published as Google Commits $15B to New Missouri AI Hyperscale Campus Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-08-28T16:28:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1VhZ0FxUDZrZ21aNEtBNEMxam9zdnJFSEttdERLT0RWRWdwUVgwdnFzV2dWRjl4cjE4QUtnZktTSWJReWJ4aTViYjBGUFdTVVhWZXJ1MFl4bWIyQm9DcEtqSWxMWUFOM1RRYXZybGJNR2l2WU43LXB3UC1HZE01Z1lyekNCVEQzWDFOWlY2aG8?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "AI Rack Density’s Real Limits: Power, Cooling, Failure Risk - Data Center Knowledge",
       "summary": "AI Rack Density’s Real Limits: Power, Cooling, Failure Risk Data Center Knowledge",
       "source": "Data Center Knowledge",
@@ -325,32 +315,42 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "AI Data Center Electrical-Thermal Capacity Planning Software Market - Future Market Insights",
+      "summary": "AI Data Center Electrical-Thermal Capacity Planning Software Market Future Market Insights",
+      "source": "Future Market Insights",
+      "published_at": "2026-08-28T15:02:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3hSbkMwNGVkckR0WWtJYktKYlBqMmlYRzJvczQ4V1F1VUpRakQyR1JXTG9RWkNFY2ctZDNzeUNEcEtjT3pwRmxGalFiaXZ2OV84V2NDS09MV3JGV0pjZFFJc3FqYnV3MGJ4SnFuNjg0Mnc3THVIajJfN1loRnFrYlBXWGJDX2stM0ZTdDQzQjF0VS1DbEVGeU5hNmFTSklHQzFLbkRzNnV3bjRSem1aTXRn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "North America Data Center Construction Market Report 2026-2031 Now Available — Published as Google Commits $15B to New Missouri AI Hyperscale Campus - Procurement Magazine",
+      "summary": "North America Data Center Construction Market Report 2026-2031 Now Available — Published as Google Commits $15B to New Missouri AI Hyperscale Campus Procurement Magazine",
+      "source": "Procurement Magazine",
+      "published_at": "2026-08-28T15:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tak9CdlNrRmVJTEVocHRoM3l4XzZkYWx4MDQyZkh6NnF2TWFsOHpMNmxOWGc1LS1HZm9UMjlBVE9DckJPSDN4bzhzbEp4V3ZfeHU4aHV1eEJvVExV?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Podcast #152: Data Center Thermal Dynamics and Cooling Architectures With Tim Shedd - StorageReview.com",
+      "summary": "Podcast #152: Data Center Thermal Dynamics and Cooling Architectures With Tim Shedd StorageReview.com",
+      "source": "StorageReview.com",
+      "published_at": "2026-08-28T04:01:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3RkTXNiWXZDN01HdFprR3NRNlhhRVhubUFRWTNnU3NkYXJmRFR2b0poSU9KYUxxUmxZSTlmWUZ2a0t2dmZLLVJ5VXNfV2RtdTBqWk1abU9hOVpNN2diYWZTMHNDUGxETU0wWklEX2xtSmR1S2Zld1VVbk9scVVPNDk3dUFGcnN5ZjJqbVlpdmFhMG1PdEs0cTdMRTJ0WC1RUVhESEdmVkozZW9SUjFwdDVSaW1JSlJqZzZF0gHAAUFVX3lxTE5nNHowMDhPaVNINTBRUUNIV0FyOEdNeWw5NVVtRDd3X2Uxd0s2eW42QklSY1cxUk9yRjZDdE1CUTNHeFNlOUd3bkotbFFKYXpHRGN3QURQT3FDUldYaVJwRHpmMkRoeFB0eVYzcHRZZWZDd3YyTWV2MXN0NG5kUG9jbGdnV09VakxnNGlzeUhRd3JFNHByeFc4Y05CV0JfNUh5d1ROZjhlRlRrUzBzTjlzLWR4R3N3TkVhcVljeHJiOA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Ablecom Acquires Jochu Stake: Liquid Cooling Now Mandatory for AI Server Racks - Tech Times",
       "summary": "Ablecom Acquires Jochu Stake: Liquid Cooling Now Mandatory for AI Server Racks Tech Times",
       "source": "Tech Times",
       "published_at": "2026-08-28T01:28:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0tuT3VpTDBoUm5BelEzUnhoY2NGalNmYlJrXzZxbXhoYVpUWWdWaU0yRFU4YmM0OFViUFhwc1U4OTYwU3dPNzlJYU5OcmJUSHZNUXpnUWFEcDloemxlSWk5d2ZIQTZ5MmliSVBmRmZCZUtaR2N0VG5OeWw0OUY1VnRaNFBJZEZEbUhOSzdCUGhyQXZVYlpJVkQyS1JxNzdPTjc1WmtDeHozdVdEdWpnemdhRTNLTkpBekIyXy1nLTJTVTVpbURR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Accelsius two-phase data center cooling technology deployed at training center - Facilities Dive",
-      "summary": "Accelsius two-phase data center cooling technology deployed at training center Facilities Dive",
-      "source": "Facilities Dive",
-      "published_at": "2026-08-27T23:26:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0lhY1NJbWFsLWxJdnYtaWY3TlRRc1pOT0IwYndNWnBydUJQQUcxVmpfcTlHcVY5bEk0RHdjOXBoSzk4eTNvWTFLaHhKQWlpZVRjcmVybnZZaW51QklyS2taNWFyRG1JNGNBZ3pvdk14WVh4UWx0c3M0RmJSVzhtWkxaOVh6V1pyZ0Q3SkJoN2paNkRZM3pfVjJ1dGFJTG9DQmtZVl80ZTUyZWZvX3BFcUk3T3UtOE4xTzkw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Can Maverick Power Acquisition Boost NVT's Data Center Growth? - TradingView",
-      "summary": "Can Maverick Power Acquisition Boost NVT's Data Center Growth? TradingView",
-      "source": "TradingView",
-      "published_at": "2026-08-27T23:02:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3ctMUJidXk3Q3Myd0UwZXR0T3dwUTNiTk1pTUIxb1h0QXY3WGJMLUVrOHMwckdoOXRMZEluSnN3T2VwMkx4Rmp5UjRCOGZtUjRsTFczQVJ6bE9UMU5YYkI4VkZmU252amZzWFBOd2JnX1ptSVhvdHBzUUV2S1YxdUxkV2lqb3dmRFIyaGp1LVNOZ2dGd09nVEF0Zm03WFE2UFphMjdVRVBQXzBGNnNGWkNYZzRRT3ph?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
