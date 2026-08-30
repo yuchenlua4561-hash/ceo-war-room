@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-30T15:20:27+08:00",
+  "intel_updated_at": "2026-08-30T21:00:16+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -236,9 +236,9 @@
   "news": [
     {
       "category": "液冷散熱",
-      "headline": "Singapore sets benchmark with first liquid cooling standard for tropical data centres - ET CIO",
-      "summary": "Singapore sets benchmark with first liquid cooling standard for tropical data centres ET CIO",
-      "source": "ET CIO",
+      "headline": "Singapore sets benchmark with first liquid cooling standard for tropical data centres - cio.economictimes.indiatimes.com",
+      "summary": "Singapore sets benchmark with first liquid cooling standard for tropical data centres cio.economictimes.indiatimes.com",
+      "source": "cio.economictimes.indiatimes.com",
       "published_at": "2026-08-29T13:00:26+08:00",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1l3OTZIQnZLblZpVHk0cG5tZG95bmcyb0J4TC1uMVVnSjdhOThhSEJqN2Z5d0FUX0pibnVTUXY4T3czdzNGVEVwd21Fd0pBQ2tHa0tFT1BiMUtVQVVPaHdieEg5eHU5bDZEVlAxV3Z5cW1NLW1QSEJXanNMY2VmSVUxYjF2NGtkandhX2hGY1I2cjZ3a1B0LXptcVd1TFFQUnh5RDJaMXcwYVptVXd0YXd1MFRldVAzS2RyOWtacHQzWXc4NDV6VXFUTWNMLXZfRjc2bVBCSDljaERoQlhKbll0a3prVldkMkNoTG530gHuAUFVX3lxTE5XWXc5NkhCdktuVmlUeTRwbm1kb3luZzJvQnhMLW4xVWdKN2E5OGFIQmo3Znl3QVRfSmJudVNRdjhPdzN3M0ZURXB3bUV3SkFDa0drS0VPUGIxS1VBVU9od2J4SDl4dTlsNkRWUDFXdnlxbU0tbVBIQldqc0xjZWZJVTFiMXY0a2Rqd2FfaEZjUjZyNndrUHQtem1xV3VMUVBSeHlEMloxdzBhWm1Vd3Rhd3UwVGV1UDNLZHI5a1pwdDNZdzg0NXpVcVRNY0wtdl9GNzZtUEJIOWNoRGhCWEpuWXRremtWV2QyQ2hMbnc?oc=5",
       "data_type": "live",
@@ -261,6 +261,16 @@
       "source": "bloomingbit",
       "published_at": "2026-08-29T06:58:05+08:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBidWV3c0dISVRpYzZXbVB6aTJxTFZXTEdRQUxqM18wcG9RZ0JWU2RkdXVJU3hOX1dlSGY5SmZvQkJFcDg0U0xodVNfWmNsbndoQUlBMg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Shares Slide 12%: Is the AI Data Center Play Worth Buying on the Dip? - finance.biggo.com",
+      "summary": "Vertiv Shares Slide 12%: Is the AI Data Center Play Worth Buying on the Dip? finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-29T02:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRWhvaXh1d1J4R1BNd2l0cEszcVhzc1RaYW5kcFg3dnI2SWRzeWtDaTNzQ2Eyc1A5OTNjTFpMVWtiNFJFbEI5Tl9EZkJPUXo3aUhBTTE5TlA2cFVrdEx0cFZIbFQ2WV91eW1nTjJKY0RZQ1lVLWc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -341,16 +351,6 @@
       "source": "StorageReview.com",
       "published_at": "2026-08-28T04:01:53+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3RkTXNiWXZDN01HdFprR3NRNlhhRVhubUFRWTNnU3NkYXJmRFR2b0poSU9KYUxxUmxZSTlmWUZ2a0t2dmZLLVJ5VXNfV2RtdTBqWk1abU9hOVpNN2diYWZTMHNDUGxETU0wWklEX2xtSmR1S2Zld1VVbk9scVVPNDk3dUFGcnN5ZjJqbVlpdmFhMG1PdEs0cTdMRTJ0WC1RUVhESEdmVkozZW9SUjFwdDVSaW1JSlJqZzZF0gHAAUFVX3lxTE5nNHowMDhPaVNINTBRUUNIV0FyOEdNeWw5NVVtRDd3X2Uxd0s2eW42QklSY1cxUk9yRjZDdE1CUTNHeFNlOUd3bkotbFFKYXpHRGN3QURQT3FDUldYaVJwRHpmMkRoeFB0eVYzcHRZZWZDd3YyTWV2MXN0NG5kUG9jbGdnV09VakxnNGlzeUhRd3JFNHByeFc4Y05CV0JfNUh5d1ROZjhlRlRrUzBzTjlzLWR4R3N3TkVhcVljeHJiOA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Ablecom Acquires Jochu Stake: Liquid Cooling Now Mandatory for AI Server Racks - Tech Times",
-      "summary": "Ablecom Acquires Jochu Stake: Liquid Cooling Now Mandatory for AI Server Racks Tech Times",
-      "source": "Tech Times",
-      "published_at": "2026-08-28T01:28:29+08:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0tuT3VpTDBoUm5BelEzUnhoY2NGalNmYlJrXzZxbXhoYVpUWWdWaU0yRFU4YmM0OFViUFhwc1U4OTYwU3dPNzlJYU5OcmJUSHZNUXpnUWFEcDloemxlSWk5d2ZIQTZ5MmliSVBmRmZCZUtaR2N0VG5OeWw0OUY1VnRaNFBJZEZEbUhOSzdCUGhyQXZVYlpJVkQyS1JxNzdPTjc1WmtDeHozdVdEdWpnemdhRTNLTkpBekIyXy1nLTJTVTVpbURR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
