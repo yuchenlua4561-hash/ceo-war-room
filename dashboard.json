@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-08-31T14:54:00+08:00",
+  "updated_at": "2026-08-31T22:41:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-08-31T14:56:00+08:00",
+  "intel_updated_at": "2026-08-31T23:01:10+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/08/31 14:54；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/08/31 22:41；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -46,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.745,
+      "value": 31.75,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -55,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-31 14:53 GMT+8",
+      "as_of": "2026-08-31 22:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2003,
+      "value": 0.201,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-31 14:53 GMT+8",
+      "as_of": "2026-08-31 22:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.93,
+      "value": 37.075,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-08-31 14:53 GMT+8",
+      "as_of": "2026-08-31 22:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4558.0,
+      "value": 4562.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -100,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-31 14:54 GMT+8",
+      "as_of": "2026-08-31 19:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -238,6 +236,36 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
+      "summary": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive. As part of the expanded collaboration, MediaTek will ad",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-08-31T20:30:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "SLB Pays $3.4 Billion for Kelvion to Solve AI Data Centers' Cooling Problem - Startup Fortune",
+      "summary": "SLB Pays $3.4 Billion for Kelvion to Solve AI Data Centers' Cooling Problem Startup Fortune",
+      "source": "Startup Fortune",
+      "published_at": "2026-08-31T20:05:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlZaNktvZ1ZTTkJLanZFU2pyTVRabVhfVW9QdXMwNU9yUTJFSVhhQ09KUERHOC1FOUdsaklLUXRNZjhlNm5zekFDdGFaZFRkSXBhbGlhYV94WXJRQW1RbU1lMDZPYjN5X1pzeUVUMVg3Q0NfMjZLdUNFY3BLRlRIYnZKM0hoTktBbXFKbVhLNHQyZy12SG9Td2RRQUhiQUd6UHc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Needs More Compute. Data Centers Need More Power. Now What? - Nasscom",
+      "summary": "AI Needs More Compute. Data Centers Need More Power. Now What? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-31T17:24:11+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWElPRDBZZnJJTTZyVFN6X2pyY2dhQUpWQ1ZWMDM0MkZ1WlVGR3FxcGVYLUZqOUM5X1Z1REtoMGlCVWNPdmpWVHF2NjVEMzIwUTFuc2YyX00xNVNxaks5ZFcybkdEY0V1M0gtd1ZZMTk3a2pGcVNpSV9QUUZMQWxDTXlXdWRZa1hRVnJiNHRGRWh3Mzc5eFNoc2Vac1JkZ29TeVNOcjl3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "AI Data Center Boom Fuels Surge in Traditional Heavy Industries - 조선일보",
       "summary": "AI Data Center Boom Fuels Surge in Traditional Heavy Industries 조선일보",
       "source": "조선일보",
@@ -263,16 +291,6 @@
       "source": "ET CIO",
       "published_at": "2026-08-29T13:00:26+08:00",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1l3OTZIQnZLblZpVHk0cG5tZG95bmcyb0J4TC1uMVVnSjdhOThhSEJqN2Z5d0FUX0pibnVTUXY4T3czdzNGVEVwd21Fd0pBQ2tHa0tFT1BiMUtVQVVPaHdieEg5eHU5bDZEVlAxV3Z5cW1NLW1QSEJXanNMY2VmSVUxYjF2NGtkandhX2hGY1I2cjZ3a1B0LXptcVd1TFFQUnh5RDJaMXcwYVptVXd0YXd1MFRldVAzS2RyOWtacHQzWXc4NDV6VXFUTWNMLXZfRjc2bVBCSDljaERoQlhKbll0a3prVldkMkNoTG530gHuAUFVX3lxTE5XWXc5NkhCdktuVmlUeTRwbm1kb3luZzJvQnhMLW4xVWdKN2E5OGFIQmo3Znl3QVRfSmJudVNRdjhPdzN3M0ZURXB3bUV3SkFDa0drS0VPUGIxS1VBVU9od2J4SDl4dTlsNkRWUDFXdnlxbU0tbVBIQldqc0xjZWZJVTFiMXY0a2Rqd2FfaEZjUjZyNndrUHQtem1xV3VMUVBSeHlEMloxdzBhWm1Vd3Rhd3UwVGV1UDNLZHI5a1pwdDNZdzg0NXpVcVRNY0wtdl9GNzZtUEJIOWNoRGhCWEpuWXRremtWV2QyQ2hMbnc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Rack Density Limits: Power, Cooling, Failure Risk - ET Datacenters",
-      "summary": "AI Rack Density Limits: Power, Cooling, Failure Risk ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-08-29T11:20:10+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFJJUnEzX1RXVG9tVnJyX0wzVlVjMEtLZlRZaFNjb2l1amZ4NFRQYS1tbnVPVWZJMl9EVV9sSUxOUnNWUVV6cE94a0tlMERJWGRsU2JHQUZ0Qk5WZ2RPY1J6RzB5LVFCcFJFS1VGOWdGbTZXY0Z3enVHTmZNaEczcmRhcjgxN0lIS2Z3MVVoMHFaWmVrM1dKZ1dmM1FReTF6bmtJb0J4SGZxRWlPTzRHQXU0ZGJSYzNsSGU0eXBIbUlMdUZ4Z1FyaGNpQWJET01PTkluaWE3bjBiZ9IB2gFBVV95cUxPbFJJUnEzX1RXVG9tVnJyX0wzVlVjMEtLZlRZaFNjb2l1amZ4NFRQYS1tbnVPVWZJMl9EVV9sSUxOUnNWUVV6cE94a0tlMERJWGRsU2JHQUZ0Qk5WZ2RPY1J6RzB5LVFCcFJFS1VGOWdGbTZXY0Z3enVHTmZNaEczcmRhcjgxN0lIS2Z3MVVoMHFaWmVrM1dKZ1dmM1FReTF6bmtJb0J4SGZxRWlPTzRHQXU0ZGJSYzNsSGU0eXBIbUlMdUZ4Z1FyaGNpQWJET01PTkluaWE3bjBiZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -333,26 +351,6 @@
       "source": "Data Center Knowledge",
       "published_at": "2026-08-28T15:37:45+08:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzFISUY0M1V2OFBONmFmYkktVTQ1SVVjWTdRZ2d3U1ZDUVRhVmJwbHFBcnJIVmhxWHMyUU85Y0xpeF9IaXlRU1dWSTdNM3VpdjBNYjByUEIydmhpWFVjQmRlQ2dGYU9lVUFOOFhJRFRBY0JhQW42bkxHSXU2WVJKNW9wWUdmSFFlZVRGekN2Wm1KeTBsa2dfNXdmbU5MdC1JeXE0dUdBcnM1bE9D?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Center Electrical-Thermal Capacity Planning Software Market - Future Market Insights",
-      "summary": "AI Data Center Electrical-Thermal Capacity Planning Software Market Future Market Insights",
-      "source": "Future Market Insights",
-      "published_at": "2026-08-28T15:02:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3hSbkMwNGVkckR0WWtJYktKYlBqMmlYRzJvczQ4V1F1VUpRakQyR1JXTG9RWkNFY2ctZDNzeUNEcEtjT3pwRmxGalFiaXZ2OV84V2NDS09MV3JGV0pjZFFJc3FqYnV3MGJ4SnFuNjg0Mnc3THVIajJfN1loRnFrYlBXWGJDX2stM0ZTdDQzQjF0VS1DbEVGeU5hNmFTSklHQzFLbkRzNnV3bjRSem1aTXRn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "North America Data Center Construction Market Report 2026-2031 Now Available — Published as Google Commits $15B to New Missouri AI Hyperscale Campus - Procurement Magazine",
-      "summary": "North America Data Center Construction Market Report 2026-2031 Now Available — Published as Google Commits $15B to New Missouri AI Hyperscale Campus Procurement Magazine",
-      "source": "Procurement Magazine",
-      "published_at": "2026-08-28T15:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tak9CdlNrRmVJTEVocHRoM3l4XzZkYWx4MDQyZkh6NnF2TWFsOHpMNmxOWGc1LS1HZm9UMjlBVE9DckJPSDN4bzhzbEp4V3ZfeHU4aHV1eEJvVExV?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
