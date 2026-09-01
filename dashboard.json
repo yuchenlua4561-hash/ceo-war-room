@@ -1,27 +1,23 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-01T07:51:00+08:00",
+  "updated_at": "2026-09-01T12:59:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-01T08:07:17+08:00",
+  "intel_updated_at": "2026-09-01T12:59:58+08:00",
   "intel_status": {
     "state": "partial",
     "collected": 12,
     "source_failures": [
-      "CoolIT Systems: HTTPError",
-      "Google News: HTTPError",
-      "Google News: HTTPError",
-      "Google News: HTTPError",
-      "Google News: HTTPError"
+      "CoolIT Systems: HTTPError"
     ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/01 07:51；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/01 12:59；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -50,7 +46,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.75,
+      "value": 31.69,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -59,13 +55,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-01 07:51 GMT+8",
+      "as_of": "2026-09-01 12:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2009,
+      "value": 0.2,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -74,13 +70,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-01 07:51 GMT+8",
+      "as_of": "2026-09-01 12:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.115,
+      "value": 36.92,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -89,13 +85,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-01 07:51 GMT+8",
+      "as_of": "2026-09-01 12:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4562.0,
+      "value": 4529.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -104,7 +100,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-08-31 19:45 GMT+8",
+      "as_of": "2026-09-01 12:59 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -242,6 +238,66 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Solid-State Transformers Emerge for Next-Gen AI Data Centers - ET Datacenters",
+      "summary": "Solid-State Transformers Emerge for Next-Gen AI Data Centers ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-09-01T11:33:45+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUWZWdWJocGtWdDhRbHFpXzhiVUM2SGkwTDFubVItXzVrMVBmODhPNFRCc3JPbkViWVdUUFJ0T3BzT3pzX05XSXVLU3hRTW1EYmtZQ0tKaklXR2lqU3poVldhazlWYUpxaUk3QUx3UVVncWp5M0QzdjBNanZWTnZkeXNSQnNmVG1KZTdta2M0YXlNanlrbXpMVGlhQmszVkJFaEZNN2N4MzFnOEZuYllzd0tETjZ1QTFBZnpWaXRnc0dfc3UxUUxURUFKUVlkTV9Uc3pibXJjRUFsWHFuRW5zNmxteWlqblFHcHfSAe4BQVVfeXFMTkdaa0pYaEhrRzJlRnFfMDRibXlvdUJlcTIyQUZaX3R6ZkZjeV9KVE9zbTBZWWFucFREUGplTjRRekROMUJ0TTdNUkstM3JKSkFuams2OGFqRGo0dlZadFhoTDljTHhLQ3paWXJhV21sTlpCb3gxeUpTeUJFVEFpRTM1ZC11aWZHWHdnZkVTZXFleXkybEFXVHhLa2szaXBDNDBwdlhrR3lQVFhjc1c5bkdwbFhZUEkzY1lsWlZjODc4cDQ4M044U1dpQ2g2RnBMbC1nTnVpQnNjZTg4bDF4VE5SSjN4d256YW9VckFidw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Liquid Cooling System Components Market to Surge 12-16% CAGR by 2035 on Direct-to-Chip Adoption - IndexBox",
+      "summary": "Liquid Cooling System Components Market to Surge 12-16% CAGR by 2035 on Direct-to-Chip Adoption IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-09-01T07:51:15+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1hHVFlRdllpSWkzTTlfdXJWZUNJbDViOHFIWHNrX1pONk95NXFBaExJTy1HdWR0T0FmaEI0ZnRTQm5BLTFRTXJDazcwamJ6aVZwSDkyQlpmSngxZVk4bEY5V2w5aC1rbGNRdVMySHJJN0lzVXl0V3M2cF9pb1ZDWGsycU00Xzk0eVVLWDQ3X1NfRURpSnZFN2RvV2x2cUctOGtmSjNQY1A0TGdOVjNhNUZjTmd3VkRfM2xYS0xPejlwQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "SLB’s $4.1B Kelvion Deal Expands AI Data Center Push - Data Center Knowledge",
+      "summary": "SLB’s $4.1B Kelvion Deal Expands AI Data Center Push Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "published_at": "2026-09-01T05:11:21+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmx1NWExZ0xadkR5UFJIbzJhenJ2Q3FNc0FaZVRZclo1SkVaMXRoQlJtQ0liWTd3OUNyZVRlcjVIRHJWMnFDQVFXbG1wMkNVUzZqNDF4cVpJNWxqU2UwUnAxakJ2Zl9Kb09kSXNmWTdfWmdYLVIyS1dnRlM4enA4NnN4eUpLeG9tOFY3bS12bnhQTDZtOW5EOG9iMkc5UmJOVnpTUDFNNmhjZG8?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Semiconductor thermal management market poised for explosive growth with advanced cooling solutions - Global Sources",
+      "summary": "Semiconductor thermal management market poised for explosive growth with advanced cooling solutions Global Sources",
+      "source": "Global Sources",
+      "published_at": "2026-08-31T23:33:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcGFNU3dERksyMlY4amkzR3RVYzlFWlF6UjZZU1NhMkJKSmM5aHM5YnFTdXEtLWNlTmNfZ2tJbjA3RlFvQnk1VUVKbkdlTWJKQjlpVHdMZHBESEhiRXdyV1hxNm13VF9TYUZLYVZtbTducEJ3NC01TU5RSGVoRTM2dXF0SWxVNWlfdGNiNV9IOUhuRFIwTGxkUUR3cDl1UlhjLWRCTElGRkc5LVNNRmZ6Z3J4SXdwODdFVks0cEp6UTZZTmhLMDhYT3N2SEwwZHJVMU9QeTJlRzBDNUpoZzRiUVZHOGg2aklvMW5hZmRZcElydWlZV1dWMTJB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "AI's Thermal Management Crisis Is Reshaping the Vapor Chambers Market — Here's What Investors Need to Know - Yahoo Finance Singapore",
+      "summary": "AI's Thermal Management Crisis Is Reshaping the Vapor Chambers Market — Here's What Investors Need to Know Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "published_at": "2026-08-31T23:23:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3VvQUJ3RTJiNHllN3U2N3ZxRkR2NF9SRThVdWw2UUVFZjBtd3VNRGZ5U09qWmNib2ttekd2SmNSV3NadW9PUHQ4Q29CVkg2aF9zWVpPYTZROGxUVDg3T2xWZjh1a0VvSWJBa2hRb0R3WTFTNzJmMUJIWVMzaFRUd25PdXlLYjlWeDVlR2duS2pRQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Jierong Technology, after five consecutive limit-up sessions, issues urgent clarification: AI liquid cooling and foldable screen revenue each under 1% of first-half revenue - finance.biggo.com",
+      "summary": "Jierong Technology, after five consecutive limit-up sessions, issues urgent clarification: AI liquid cooling and foldable screen revenue each under 1% of first-half revenue finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-31T22:55:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBieW12N0dOWDJBYXJEalVJeXRYekl3Q05MOEVtY0hDT0VHeFF6OS1ncTdIeWwzZjNyTGhnbXlGSzRnOG5XR3RpcFVyQUd1S3NMUTFiMFR6d0ViNmV2dTRsNnlaMTVoaWo1STl1MVNUTTloOHNnOUE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
       "summary": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive. As part of the expanded collaboration, MediaTek will ad",
       "source": "NVIDIA Newsroom",
@@ -252,111 +308,51 @@
     },
     {
       "category": "資料中心",
-      "headline": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-27T21:00:17+08:00",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+      "headline": "SLB Pays $3.4 Billion for Kelvion to Solve AI Data Centers' Cooling Problem - Startup Fortune",
+      "summary": "SLB Pays $3.4 Billion for Kelvion to Solve AI Data Centers' Cooling Problem Startup Fortune",
+      "source": "Startup Fortune",
+      "published_at": "2026-08-31T20:05:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlZaNktvZ1ZTTkJLanZFU2pyTVRabVhfVW9QdXMwNU9yUTJFSVhhQ09KUERHOC1FOUdsaklLUXRNZjhlNm5zekFDdGFaZFRkSXBhbGlhYV94WXJRQW1RbU1lMDZPYjN5X1pzeUVUMVg3Q0NfMjZLdUNFY3BLRlRIYnZKM0hoTktBbXFKbVhLNHQyZy12SG9Td2RRQUhiQUd6UHc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Partnering for AI-ready growth: Delivering data center infrastructure at scale",
-      "summary": "Everyone wants AI capacity. Few can actually deliver it. That’s the reality of today’s market. Demand is accelerating. Power is constrained. Critical equipment has long lead times. Skilled labor is stretched thin. Supply chains are under pressure. And deployme",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-08-27T21:00:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/08/27/partnering-for-ai-ready-growth-delivering-data-center-infrastructure-at-scale/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "headline": "AI Needs More Compute. Data Centers Need More Power. Now What? - Nasscom",
+      "summary": "AI Needs More Compute. Data Centers Need More Power. Now What? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-08-31T17:24:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWElPRDBZZnJJTTZyVFN6X2pyY2dhQUpWQ1ZWMDM0MkZ1WlVGR3FxcGVYLUZqOUM5X1Z1REtoMGlCVWNPdmpWVHF2NjVEMzIwUTFuc2YyX00xNVNxaks5ZFcybkdEY0V1M0gtd1ZZMTk3a2pGcVNpSV9QUUZMQWxDTXlXdWRZa1hRVnJiNHRGRWh3Mzc5eFNoc2Vac1JkZ29TeVNOcjl3?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are de",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-27T05:05:30+08:00",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "headline": "AI Data Center Boom Fuels Surge in Traditional Heavy Industries - 조선일보",
+      "summary": "AI Data Center Boom Fuels Surge in Traditional Heavy Industries 조선일보",
+      "source": "조선일보",
+      "published_at": "2026-08-31T02:37:55+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjRNMGp1QXVWWmY4Z1NBQnJBREpCQ2Zsa2FDLWpSdE9zTl82bUxHUkpseVhqeXY1WXRJdTE1QkdueXFvM0trMDFuR2t1QkJldGpDWUtwRW1EWGVLQ1FfRXV3YnFSY3loOXphVHRqSnoxS2RiSUlraWpNczJldU9mamJlRUFfeVpx?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
-      "summary": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earning",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-27T04:20:00+08:00",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "headline": "Top 10 Data Center Projects Announced in August 2026 as AI Infrastructure Investment Accelerates - InfotechLead",
+      "summary": "Top 10 Data Center Projects Announced in August 2026 as AI Infrastructure Investment Accelerates InfotechLead",
+      "source": "InfotechLead",
+      "published_at": "2026-08-29T21:39:43+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2x2XzdTbXBTR1dNQ3Nmd2xIalNUYjBCaFFzUzdhczh5WnRrYUpoNTNRdVFrNDlneUpBeHBpRC1fZkE0Y2J1RTZpMGQwODY4MEsza1ZwMnJ3OHZFQXcydGxTcEZBRVlpZWdDY3p4TFhKR1NtOGI2b3hSLVV2cW11T0VIRjhZMkVYekNOc3M5Rzd0MGFrRGdqb1J6ZjhKYnhtaFRJYm9ZQllYUFI2Q0hxMWItSXozYU12T0JKbTVpMXVPYjlFb3hoWklydjJoNnUtSlF6TWRB0gHeAUFVX3lxTFA0Q1l1Zzk3LXlkTzJaVmhiT0ptM2lTc09ENnQ5NWM1TVQ5MHFaaGFtV1RUVmpaSmFLYzBnVEZyNG12QWVVdTVEdnpiaVpwM3NLRFQ2Y0tvQmxFNTZPYlQxSC1RLVRYV2hvdmlzcV9ZMVhaVTJVSm9NWDBBQUVRb2VLZVpRN0VsclB3XzBhWlFDWnZaaF9ZR213SVItWkJQTUV0YW91a21UekJqUXBqQm1sU2VIZnZsTFFMWG9DQ1NnbnBkTnMxQ09LRktob1dtam9RQjZXb1JOT1dndGtsQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
-      "summary": "Our Key Takeaways Data Center Infrastructure Management (DCIM) is a category of tools that monitor, measure, manage and, sometimes, control data center resources and energy consumption of both IT-related equipment (such as servers, storage and network switches",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-08-26T20:00:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/08/26/2026-gartner-hype-cycle-dcim-tools-enter-the-plateau-of-productivity/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "What is an AI Energy Park?",
-      "summary": "Ask ten people in this industry what an “Energy Park” is, and you’ll get ten different answers. I know, because I get the question constantly from developers, infrastructure funds, and hyperscalers, and in more than a few panels and podcasts and almost no two ",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-08-26T19:08:38+08:00",
-      "url": "https://blog.se.com/infrastructure-and-grid/2026/08/26/what-is-an-ai-energy-park/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Sources, spares, and commissioning liquid cooling in India: The supply-side",
-      "summary": "Author: Sumati Sahgal- VP, Data Centre & Secure Power, Greater India India’s data centre capacity is expanding rapidly, with forecasts indicating 7 GW or more by 2030 as higher-density GPU deployments are driving faster demand for liquid-cooled infrastructure.",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-08-25T12:30:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/08/25/sources-spares-and-commissioning-liquid-cooling-in-india-the-supply-side/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data center thermal management: A practical guide for AI workloads",
-      "summary": "Author: Kyle Geib, Application Engineering Manager at Motivair by Schneider Electric Executive Summary This blog answers common questions about AI data center thermal management, including: With the rapid growth of artificial intelligence (AI) applications, da",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-08-25T02:54:52+08:00",
-      "url": "https://blog.se.com/datacenter/2026/08/24/data-center-thermal-management-practical-guide-ai-workloads/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "How XPUs Meet a World-Class AI Factory",
-      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full fact",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-24T23:00:54+08:00",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-24T23:00:41+08:00",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
-      "summary": "News Summary: SpaceXAI will deploy NVIDIA Vera CPUs to accelerate the work behind its next generation of agentic AI workloads. SpaceXAI is expanding its AI infrastructure for Grok with the NVIDIA Vera Rubin platform as it scales toward gigawatts of computing c",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-24T23:00:00+08:00",
-      "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+      "headline": "Vertiv Shares Slide 12%: Is the AI Data Center Play Worth Buying on the Dip? - finance.biggo.com",
+      "summary": "Vertiv Shares Slide 12%: Is the AI Data Center Play Worth Buying on the Dip? finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-29T02:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRWhvaXh1d1J4R1BNd2l0cEszcVhzc1RaYW5kcFg3dnI2SWRzeWtDaTNzQ2Eyc1A5OTNjTFpMVWtiNFJFbEI5Tl9EZkJPUXo3aUhBTTE5TlA2cFVrdEx0cFZIbFQ2WV91eW1nTjJKY0RZQ1lVLWc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
