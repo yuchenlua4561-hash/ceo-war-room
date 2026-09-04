@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-04T07:11:00+08:00",
+  "updated_at": "2026-09-04T09:02:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-04T07:19:21+08:00",
+  "intel_updated_at": "2026-09-04T09:04:02+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/04 07:11；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/04 09:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.83,
+      "value": 31.775,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-04 07:11 GMT+8",
+      "as_of": "2026-09-04 09:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2061,
+      "value": 0.2058,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-04 07:11 GMT+8",
+      "as_of": "2026-09-04 09:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.225,
+      "value": 37.1,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-04 07:11 GMT+8",
+      "as_of": "2026-09-04 09:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4561.0,
+      "value": 4594.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-09-03 19:52 GMT+8",
+      "as_of": "2026-09-04 08:39 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,7 +200,7 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv acquires microgrid company UtilityInnovation - Data Center Dynamics",
+      "move": "Vertiv acquires microgrid company UtilityInnovation - datacenterdynamics.com",
       "implication": "公開情報更新於 2026-09-03T16:58:07+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEl3YlRjU1FuV2hoaUVZRTJSMUYySUw3RW9OU2VKRzZRbWl1YU43dURHRDhsYWwxVGlfWFZQeEFpdXRkZW1oeVdzT21mbXlaTWF2RlJhTGpDRE1DcENyRk9XOHpmcGRURVJBQTJIZWh6WkxFdGtDU2Z0a3FCWFhBVWNoQ1lXcEdYR3ZlZ0pldUNkWjcwYWlYSGxGWQ?oc=5"
     },
@@ -246,9 +246,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - iconnect007.com",
-      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX iconnect007.com",
-      "source": "iconnect007.com",
+      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - I-Connect007",
+      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX I-Connect007",
+      "source": "I-Connect007",
       "published_at": "2026-09-03T18:52:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkFPVTd1anE3ME5DM3dGOWdxWVBkUXlwLTRBd0Z0bkRKc2lQUURHTDI1LXRON04zWWNLUmZiRlY2QlFJbm8zeF9Hd2gxQlA1eDF4Zm83MWlkQTEzTzE3YWtyMG51NHRuQUh2T0s1TVpnQUVYMi1aSEhkM1o4bGJROTVWc1Zqc1U4U3MzMGhURGNlbmx1dGt1NGRVWHZJUkZjcHJWQjZyS3RzZ2NUWU5VVEJ1SmozejYwdHA3OXdvbjRUemViNWxJ?oc=5",
       "data_type": "live",
@@ -256,9 +256,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - businesswire.com",
-      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX businesswire.com",
-      "source": "businesswire.com",
+      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - Business Wire",
+      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX Business Wire",
+      "source": "Business Wire",
       "published_at": "2026-09-03T18:05:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEZhRDAtNUItc25fQXlpekhvaWtiM0JSUmM5dmppcDhHS215VkxzMU5MdDVJY2JFQV9QTDI1NFREa3JRTEdlZ0s1NUtoRXpHT3pNd3NXa2lZTlBLeFVRUDQxa3NKMG5kUnFUUkZ6UG9nWmpUMHRCTmxXQ29MM0kyOURNSUswQmlXSFlrRlR4NzMyZUl0Uy1POExjVTE0SDJZMklyeTFvSjhxY29XeW9uNklBNTNVblF6Mmw1MGhtQ29hNGlKeHhMRjhCTVBKaEg4?oc=5",
       "data_type": "live",
@@ -276,9 +276,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv acquires microgrid company UtilityInnovation - Data Center Dynamics",
-      "summary": "Vertiv acquires microgrid company UtilityInnovation Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "headline": "Vertiv acquires microgrid company UtilityInnovation - datacenterdynamics.com",
+      "summary": "Vertiv acquires microgrid company UtilityInnovation datacenterdynamics.com",
+      "source": "datacenterdynamics.com",
       "published_at": "2026-09-03T16:58:07+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEl3YlRjU1FuV2hoaUVZRTJSMUYySUw3RW9OU2VKRzZRbWl1YU43dURHRDhsYWwxVGlfWFZQeEFpdXRkZW1oeVdzT21mbXlaTWF2RlJhTGpDRE1DcENyRk9XOHpmcGRURVJBQTJIZWh6WkxFdGtDU2Z0a3FCWFhBVWNoQ1lXcEdYR3ZlZ0pldUNkWjcwYWlYSGxGWQ?oc=5",
       "data_type": "live",
@@ -286,9 +286,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Every climate plays a different hand - Data Center Dynamics",
-      "summary": "Every climate plays a different hand Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "headline": "Every climate plays a different hand - datacenterdynamics.com",
+      "summary": "Every climate plays a different hand datacenterdynamics.com",
+      "source": "datacenterdynamics.com",
       "published_at": "2026-09-03T15:02:27+08:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3ZHVnQyb1ExTGNiQnlKLVZBQ0o5UFh5aDI2YWtBdDFBLXZVZG1nOGpEM1llZkhXM1g4d0hpTXJMb3p2cVd5bU4wMkp5ZTBBMndTVm9OMDNvQ1NJbEV2bTFjcGpnYkZTd0ZYOW1LS09hUTdJWEdsZ3RnVllXa1NEc0F5MUFQT2xSSXZySjZudmE?oc=5",
       "data_type": "live",
