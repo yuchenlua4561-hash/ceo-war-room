@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-04T09:02:00+08:00",
+  "updated_at": "2026-09-04T13:46:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-04T09:04:02+08:00",
+  "intel_updated_at": "2026-09-04T13:46:28+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/04 09:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/04 13:46；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.775,
+      "value": 31.8,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-04 09:02 GMT+8",
+      "as_of": "2026-09-04 13:46 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2058,
+      "value": 0.2051,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-04 09:02 GMT+8",
+      "as_of": "2026-09-04 13:46 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.1,
+      "value": 37.12,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-04 09:02 GMT+8",
+      "as_of": "2026-09-04 13:46 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4594.0,
+      "value": 4590.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-09-04 08:39 GMT+8",
+      "as_of": "2026-09-04 13:24 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,7 +200,7 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv acquires microgrid company UtilityInnovation - datacenterdynamics.com",
+      "move": "Vertiv acquires microgrid company UtilityInnovation - Data Center Dynamics",
       "implication": "公開情報更新於 2026-09-03T16:58:07+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEl3YlRjU1FuV2hoaUVZRTJSMUYySUw3RW9OU2VKRzZRbWl1YU43dURHRDhsYWwxVGlfWFZQeEFpdXRkZW1oeVdzT21mbXlaTWF2RlJhTGpDRE1DcENyRk9XOHpmcGRURVJBQTJIZWh6WkxFdGtDU2Z0a3FCWFhBVWNoQ1lXcEdYR3ZlZ0pldUNkWjcwYWlYSGxGWQ?oc=5"
     },
@@ -235,6 +235,26 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Corrosion Threatens AI Data Center Capital Investments - ET Datacenters",
+      "summary": "Corrosion Threatens AI Data Center Capital Investments ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-09-04T11:50:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVXdiMV8takFWZDlPMlIwcFdVQ3dnZFV3d2FHOTBoRmJoclhjM2JZblZETFJFWGJ0cnd3TmE5ck5MaUxrNWd2aWtKX2d0QjlUZnFQbEJjV0VoalhMdmFJRmlkUFBGb00wTHRyZGhMTlAtWTBQWEc4MW9DdWRkRVpoeC1BWUR5Qm9SaGZ2OTNNbl9qRTJ6OGhBSjc0UjN4R1BqTGd5a0hYWkhuTUtoUnpTM01ISGNMM2RVQV93amwtUjdNSDIyc05Vd2FrMXVlc3o0OXJLMXBJUzFTc3FFaWkwQVl6N1RQNzFIaUFtUEY2eVFRcFluMF9fOEdZeFMtTk15WnRMVGEzNjY1M0Vs0gHbAUFVX3lxTFBzM1M4anZaZ3VaNWx1MW45ZGhYU1V6NGFXekdQTWx2akxRbVF5U3EwVmlFY3FkazRacG5OOHUteVNlZFc1VjVZYUNEazl0OUdDZjhEcHgwU1ZDWU1zaFVPMHR5amxWbERSVDJMdC1wN1UtdGo1MUp6dm9RdFdtTHNORDdhUU1TdUlUdjNkT1A4SWxoZzRzRFo3Y3NibjNhbERwWVk2UElIY3o0NGRMLTU1SmExVXc3ZUJSc1hndmdMUzVwWlNldjVGLUpyOVVSUElfZm5jYjNxWWdsaw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Immersion cooling vendor Ferveret is thinking inside the box - Data Center Dynamics",
+      "summary": "Immersion cooling vendor Ferveret is thinking inside the box Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-09-04T00:02:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEI1aXpCRVhLZk5pM0VibFlDM1ZCbU1Selh2MFBPSjFldUx6VGFzdHY3YldmR1RNSjNmUUdYVEI5REp1X1VTMU1SM21jdElqemVVMXNYcnE2YkV4MlZ6YXUzaVdEMmdwTi1wWkJIUm50MHpGUEdoS1I2TFFxTWJuQUxsLVFGV0gtU2wwUS1CYjNBWXVreVFiTVM0dzR0STI5Z3RF?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Stäubli Enables Next-Generation AI Data Centers With Integrated Power and Liquid Cooling Connectivity - Yahoo Finance",
       "summary": "Stäubli Enables Next-Generation AI Data Centers With Integrated Power and Liquid Cooling Connectivity Yahoo Finance",
@@ -256,9 +276,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - Business Wire",
-      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX Business Wire",
-      "source": "Business Wire",
+      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - businesswire.com",
+      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX businesswire.com",
+      "source": "businesswire.com",
       "published_at": "2026-09-03T18:05:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEZhRDAtNUItc25fQXlpekhvaWtiM0JSUmM5dmppcDhHS215VkxzMU5MdDVJY2JFQV9QTDI1NFREa3JRTEdlZ0s1NUtoRXpHT3pNd3NXa2lZTlBLeFVRUDQxa3NKMG5kUnFUUkZ6UG9nWmpUMHRCTmxXQ29MM0kyOURNSUswQmlXSFlrRlR4NzMyZUl0Uy1POExjVTE0SDJZMklyeTFvSjhxY29XeW9uNklBNTNVblF6Mmw1MGhtQ29hNGlKeHhMRjhCTVBKaEg4?oc=5",
       "data_type": "live",
@@ -266,9 +286,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "LITEON Looks to Take a Strategic Stake in DCX POLSKA as AI Data Center Cooling Needs Grow - Global Sources",
-      "summary": "LITEON Looks to Take a Strategic Stake in DCX POLSKA as AI Data Center Cooling Needs Grow Global Sources",
-      "source": "Global Sources",
+      "headline": "LITEON Looks to Take a Strategic Stake in DCX POLSKA as AI Data Center Cooling Needs Grow - globalsources.com",
+      "summary": "LITEON Looks to Take a Strategic Stake in DCX POLSKA as AI Data Center Cooling Needs Grow globalsources.com",
+      "source": "globalsources.com",
       "published_at": "2026-09-03T17:47:20+08:00",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOemFwMEhxV001bnBvY0s2dUsyeGpVYnNfbU1HRXUyQ1hMYkNzWFNEVWJaYTdiVFh6TVhJUC1pRUdSX2J5eW5kNmxhWjhZdWN0bG14eDRSdmE3VmxPTUE4NFRMWGRkMzhRRnRfQkppTmR5RnpKeUpJYVNTZ2lWMGw0OW5DcVVkTzFPZHA3WUpRUklDWVpIZTBEVUlZTkR1WlZZV3gyeTVUbTM2dlZEQmdsZkdyTmVmR2JGQ3hzVWJTU0pvTUppRE5BQjEwQUZKbkdhdHNNd1NVdFBHUQ?oc=5",
       "data_type": "live",
@@ -276,9 +296,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv acquires microgrid company UtilityInnovation - datacenterdynamics.com",
-      "summary": "Vertiv acquires microgrid company UtilityInnovation datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Vertiv acquires microgrid company UtilityInnovation - Data Center Dynamics",
+      "summary": "Vertiv acquires microgrid company UtilityInnovation Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-09-03T16:58:07+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEl3YlRjU1FuV2hoaUVZRTJSMUYySUw3RW9OU2VKRzZRbWl1YU43dURHRDhsYWwxVGlfWFZQeEFpdXRkZW1oeVdzT21mbXlaTWF2RlJhTGpDRE1DcENyRk9XOHpmcGRURVJBQTJIZWh6WkxFdGtDU2Z0a3FCWFhBVWNoQ1lXcEdYR3ZlZ0pldUNkWjcwYWlYSGxGWQ?oc=5",
       "data_type": "live",
@@ -286,9 +306,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Every climate plays a different hand - datacenterdynamics.com",
-      "summary": "Every climate plays a different hand datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Every climate plays a different hand - Data Center Dynamics",
+      "summary": "Every climate plays a different hand Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-09-03T15:02:27+08:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3ZHVnQyb1ExTGNiQnlKLVZBQ0o5UFh5aDI2YWtBdDFBLXZVZG1nOGpEM1llZkhXM1g4d0hpTXJMb3p2cVd5bU4wMkp5ZTBBMndTVm9OMDNvQ1NJbEV2bTFjcGpnYkZTd0ZYOW1LS09hUTdJWEdsZ3RnVllXa1NEc0F5MUFQT2xSSXZySjZudmE?oc=5",
       "data_type": "live",
@@ -331,26 +351,6 @@
       "source": "헤럴드경제",
       "published_at": "2026-09-03T09:05:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lTnlaMEk2ZklfMUlyVlNsaHlleW5CNXJvYVpmWFdTWGotQVJfbWozYk1mbno1TmlJTnJ0RmNxdGozSmR3WEdQMFRhSnN4RjdhdjRGS0FjUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "S-Oil, KTNF and GST to Demonstrate Immersion Cooling for AI Data Centers - 아시아경제",
-      "summary": "S-Oil, KTNF and GST to Demonstrate Immersion Cooling for AI Data Centers 아시아경제",
-      "source": "아시아경제",
-      "published_at": "2026-09-03T08:57:40+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nSUhpZHFsd0lCekxZS3RrX1JzNzVSSUNJMjVaNFd6c1NSWTh6TGdfS09WT0JDYklyOWVjSXNpSHFGU2lMRi1ialBoSkJhbHpWSjJnTVNUZzNIX3NhOGNfZEdlaDJadFAt?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Centers' $7 Trillion Opportunity Sparks Order Surge Across Power and Cooling Supply Chains - finance.biggo.com",
-      "summary": "AI Data Centers' $7 Trillion Opportunity Sparks Order Surge Across Power and Cooling Supply Chains finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-09-03T07:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQ1B0a3JZYzJzYUVkdVBzanRheU4yQkV1M2N6bm1nVjJhOHFNdE02NURRaTZYZzhCSWNwZERHU1hEZXF1ODBkN1EzTG9maUpaT0cwS29adGtVN1dhNzZVQk1QSENaZURMc2JENmtPM3ZFbTd1SUE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
