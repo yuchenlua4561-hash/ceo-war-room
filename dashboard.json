@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-05T03:42:00+08:00",
+  "updated_at": "2026-09-05T05:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-05T03:54:26+08:00",
+  "intel_updated_at": "2026-09-05T06:18:21+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/05 03:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/05 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-05 03:42 GMT+8",
+      "as_of": "2026-09-05 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-05 03:42 GMT+8",
+      "as_of": "2026-09-05 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.055,
+      "value": 37.045,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-05 03:42 GMT+8",
+      "as_of": "2026-09-05 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -238,9 +236,9 @@
   "news": [
     {
       "category": "液冷散熱",
-      "headline": "Lite-On Tech to invest in liquid cooling - Taipei Times",
-      "summary": "Lite-On Tech to invest in liquid cooling Taipei Times",
-      "source": "Taipei Times",
+      "headline": "Lite-On Tech to invest in liquid cooling - taipeitimes.com",
+      "summary": "Lite-On Tech to invest in liquid cooling taipeitimes.com",
+      "source": "taipeitimes.com",
       "published_at": "2026-09-05T00:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rekY5dXpXcDhYS3hBX0RXSzlqOW5yenB4SHd2YS1tSUlydVRUYndIeHBaTUpVZzdWZmlHc1E4dWtEeldPc05jWmV1UEI5YjE2TTdPcUNSX25tWWJvVG5RaUNwc2lYUlRnMzQ5Tjd0UTZNMmZaMVE?oc=5",
       "data_type": "live",
@@ -268,9 +266,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "AI Liquid Cooling Loop Sanitization Services Market - Future Market Insights",
-      "summary": "AI Liquid Cooling Loop Sanitization Services Market Future Market Insights",
-      "source": "Future Market Insights",
+      "headline": "AI Liquid Cooling Loop Sanitization Services Market - futuremarketinsights.com",
+      "summary": "AI Liquid Cooling Loop Sanitization Services Market futuremarketinsights.com",
+      "source": "futuremarketinsights.com",
       "published_at": "2026-09-04T19:23:50+08:00",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXptelBYR3J3ZDBpMllhZTdEZWFyWFJEQWo0cjVDTGhxVWZKSG0yZWtUcktybnBaV3B4dVhmanJsTDVGODlCYklsYWdlXzhfcTNhbUlZTExsQjdnSUhBSkVWci1TMXk0LXptMVVFNTJRWDFnMjdocWkyR1JGX2xocnFDU1pxY0ZDb1hNZVBXX3VoRlE1aDRwX1Jha0c?oc=5",
       "data_type": "live",
@@ -278,19 +276,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Corrosion Threatens AI Data Center Capital Investments - ET Datacenters",
-      "summary": "Corrosion Threatens AI Data Center Capital Investments ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-09-04T11:50:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVXdiMV8takFWZDlPMlIwcFdVQ3dnZFV3d2FHOTBoRmJoclhjM2JZblZETFJFWGJ0cnd3TmE5ck5MaUxrNWd2aWtKX2d0QjlUZnFQbEJjV0VoalhMdmFJRmlkUFBGb00wTHRyZGhMTlAtWTBQWEc4MW9DdWRkRVpoeC1BWUR5Qm9SaGZ2OTNNbl9qRTJ6OGhBSjc0UjN4R1BqTGd5a0hYWkhuTUtoUnpTM01ISGNMM2RVQV93amwtUjdNSDIyc05Vd2FrMXVlc3o0OXJLMXBJUzFTc3FFaWkwQVl6N1RQNzFIaUFtUEY2eVFRcFluMF9fOEdZeFMtTk15WnRMVGEzNjY1M0Vs0gHbAUFVX3lxTFBzM1M4anZaZ3VaNWx1MW45ZGhYU1V6NGFXekdQTWx2akxRbVF5U3EwVmlFY3FkazRacG5OOHUteVNlZFc1VjVZYUNEazl0OUdDZjhEcHgwU1ZDWU1zaFVPMHR5amxWbERSVDJMdC1wN1UtdGo1MUp6dm9RdFdtTHNORDdhUU1TdUlUdjNkT1A4SWxoZzRzRFo3Y3NibjNhbERwWVk2UElIY3o0NGRMLTU1SmExVXc3ZUJSc1hndmdMUzVwWlNldjVGLUpyOVVSUElfZm5jYjNxWWdsaw?oc=5",
+      "headline": "Corrosion Threatens AI Data Center Capital Investments - datacenters.economictimes.indiatimes.com",
+      "summary": "Corrosion Threatens AI Data Center Capital Investments datacenters.economictimes.indiatimes.com",
+      "source": "datacenters.economictimes.indiatimes.com",
+      "published_at": "2026-09-04T11:26:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3JjRkZOR2VxQnZCRTBLc281TUJsRkZ6eG9Jblk2Um1xMGN6dkU3Q0VDb2k0ZGlpdFNIR1N4dkxIUXc3N2otVDNCWXJQN3FRUWJDRjlYcS04UzlINEpUN2ZOUHNmd0FzUE5qVXJjSXM4M3RfTG1WR2VpYWlEY1R5X3pkYmlDZ0dPdk9UaGlLSlhiVVN4RXhtdHBlYTBSMUo0SkhQUXVoc1dSek45cE5reVZjNDZmM2N4ZlJzb0RQZ2xLeTdYSkpnVG9oZXpWWnh0akY0Qk5EMNIB2wFBVV95cUxQczNTOGp2Wmd1WjVsdTFuOWRoWFNVejRhV3pHUE1sdmpMUW1ReVNxMFZpRWNxZGs0WnBuTjh1LXlTZWRXNVY1WWFDRGs5dDlHQ2Y4RHB4MFNWQ1lNc2hVTzB0eWpsVmxEUlQyTHQtcDdVLXRqNTFKenZvUXRXbUxzTkQ3YVFNU3VJVHYzZE9QOElsaGc0c0RaN2NzYm4zYWxEcFlZNlBJSGN6NDRkTC01NUphMVV3N2VCUnNYZ3ZnTFM1cFpTZXY1Ri1KcjlVUlBJX2ZuY2IzcVlnbGs?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - community.nasscom.in",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-09-03T23:09:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
@@ -348,9 +346,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Liquid Cooling Loop Flushing Services Market - Future Market Insights",
-      "summary": "Liquid Cooling Loop Flushing Services Market Future Market Insights",
-      "source": "Future Market Insights",
+      "headline": "Liquid Cooling Loop Flushing Services Market - futuremarketinsights.com",
+      "summary": "Liquid Cooling Loop Flushing Services Market futuremarketinsights.com",
+      "source": "futuremarketinsights.com",
       "published_at": "2026-09-03T14:38:11+08:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3ZIOXBTeUxHM1FZSXRUcnYzZXJ0bFhqNzRtOVVULTJZZXQwZnRsMTh3VFR4WGpnU3RJWXhwbFpVeXpLV2dGSkdSLUhIdDV3bllFY3BfTkJrNGJINkpMcmYycEdzaDFYdW9fbEI0UW9kUDNXWFYxZTRRX2V1aVZ1dkhkc3VLTjFFMGJXUEpvMVVfYWc?oc=5",
       "data_type": "live",
