@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-06T05:37:21+08:00",
+  "intel_updated_at": "2026-09-06T07:23:21+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -256,9 +256,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Lite-On Tech to invest in liquid cooling - taipeitimes.com",
-      "summary": "Lite-On Tech to invest in liquid cooling taipeitimes.com",
-      "source": "taipeitimes.com",
+      "headline": "Lite-On Tech to invest in liquid cooling - Taipei Times",
+      "summary": "Lite-On Tech to invest in liquid cooling Taipei Times",
+      "source": "Taipei Times",
       "published_at": "2026-09-05T00:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rekY5dXpXcDhYS3hBX0RXSzlqOW5yenB4SHd2YS1tSUlydVRUYndIeHBaTUpVZzdWZmlHc1E4dWtEeldPc05jWmV1UEI5YjE2TTdPcUNSX25tWWJvVG5RaUNwc2lYUlRnMzQ5Tjd0UTZNMmZaMVE?oc=5",
       "data_type": "live",
@@ -305,16 +305,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "AI turns to liquid cooling as sector heating up - China Daily Global Edition",
-      "summary": "AI turns to liquid cooling as sector heating up China Daily Global Edition",
-      "source": "China Daily Global Edition",
-      "published_at": "2026-09-04T13:54:11+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFZCTmpmSkpHZG9ra1A5eGpFNjlUYko4SW5fZVNuYU84Z1d0NFFtaEpCa3c3WldJOXF0bzUyWDRyNlV2LVppZ2tTUHp5VVIzOG1LTnFRaHlyRGNpMVZBRGE2Ty1fS0xVQXJJODhhQjVrdlBmUzBxcWlHOG92Mm5wQnVn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
       "headline": "Corrosion Threatens AI Data Center Capital Investments - ET Datacenters",
       "summary": "Corrosion Threatens AI Data Center Capital Investments ET Datacenters",
@@ -351,6 +341,16 @@
       "source": "Business Wire",
       "published_at": "2026-09-03T18:05:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEZhRDAtNUItc25fQXlpekhvaWtiM0JSUmM5dmppcDhHS215VkxzMU5MdDVJY2JFQV9QTDI1NFREa3JRTEdlZ0s1NUtoRXpHT3pNd3NXa2lZTlBLeFVRUDQxa3NKMG5kUnFUUkZ6UG9nWmpUMHRCTmxXQ29MM0kyOURNSUswQmlXSFlrRlR4NzMyZUl0Uy1POExjVTE0SDJZMklyeTFvSjhxY29XeW9uNklBNTNVblF6Mmw1MGhtQ29hNGlKeHhMRjhCTVBKaEg4?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv acquires microgrid company UtilityInnovation - Data Center Dynamics",
+      "summary": "Vertiv acquires microgrid company UtilityInnovation Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-09-03T16:58:07+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEl3YlRjU1FuV2hoaUVZRTJSMUYySUw3RW9OU2VKRzZRbWl1YU43dURHRDhsYWwxVGlfWFZQeEFpdXRkZW1oeVdzT21mbXlaTWF2RlJhTGpDRE1DcENyRk9XOHpmcGRURVJBQTJIZWh6WkxFdGtDU2Z0a3FCWFhBVWNoQ1lXcEdYR3ZlZ0pldUNkWjcwYWlYSGxGWQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
