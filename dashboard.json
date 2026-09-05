@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-05T20:07:37+08:00",
+  "intel_updated_at": "2026-09-05T23:19:24+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -306,9 +306,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - community.nasscom.in",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-09-03T23:09:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
