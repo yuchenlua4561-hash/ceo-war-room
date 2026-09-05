@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-05T16:38:55+08:00",
+  "intel_updated_at": "2026-09-05T20:07:37+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,9 +246,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Lite-On Tech to invest in liquid cooling - taipeitimes.com",
-      "summary": "Lite-On Tech to invest in liquid cooling taipeitimes.com",
-      "source": "taipeitimes.com",
+      "headline": "Lite-On Tech to invest in liquid cooling - Taipei Times",
+      "summary": "Lite-On Tech to invest in liquid cooling Taipei Times",
+      "source": "Taipei Times",
       "published_at": "2026-09-05T00:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rekY5dXpXcDhYS3hBX0RXSzlqOW5yenB4SHd2YS1tSUlydVRUYndIeHBaTUpVZzdWZmlHc1E4dWtEeldPc05jWmV1UEI5YjE2TTdPcUNSX25tWWJvVG5RaUNwc2lYUlRnMzQ5Tjd0UTZNMmZaMVE?oc=5",
       "data_type": "live",
