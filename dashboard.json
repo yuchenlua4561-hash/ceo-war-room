@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-05T06:18:21+08:00",
+  "intel_updated_at": "2026-09-05T08:10:30+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -236,11 +236,31 @@
   "news": [
     {
       "category": "液冷散熱",
-      "headline": "Lite-On Tech to invest in liquid cooling - taipeitimes.com",
-      "summary": "Lite-On Tech to invest in liquid cooling taipeitimes.com",
-      "source": "taipeitimes.com",
+      "headline": "LG Electronics targets liquid cooling growth in AI data centers - Investing.com",
+      "summary": "LG Electronics targets liquid cooling growth in AI data centers Investing.com",
+      "source": "Investing.com",
+      "published_at": "2026-09-05T00:54:45+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFMxQldxLU50WTdZdFdveklJaEdXU0xZVlJPS2lodW9ON0U4R3NxdzloT05RTkF4ODJRZXNWUW9TSVNHMjZBVmxoTElMQTE1VHEwdTY4Zk5KWkhDNWZWSWZCdnFBRkpHWlZhSXAwOTF0aDg4dk5oZ0ZDSTJGRXdwaTI1QnZYaEJlelFVT0V1cTgtSUZDVUt0bXl2V09obkpGSzRxNjFfYVhmX0N2M1RvRy15YU9mOEZCeVFUYw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Lite-On Tech to invest in liquid cooling - Taipei Times",
+      "summary": "Lite-On Tech to invest in liquid cooling Taipei Times",
+      "source": "Taipei Times",
       "published_at": "2026-09-05T00:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rekY5dXpXcDhYS3hBX0RXSzlqOW5yenB4SHd2YS1tSUlydVRUYndIeHBaTUpVZzdWZmlHc1E4dWtEeldPc05jWmV1UEI5YjE2TTdPcUNSX25tWWJvVG5RaUNwc2lYUlRnMzQ5Tjd0UTZNMmZaMVE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com - Investing.com India",
+      "summary": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "published_at": "2026-09-04T20:47:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX191MFBTY2dwMXNaTGU4SHFQT0V2M1VhbzRvVE1BMlVWMmRWQk5SQmJrOW9EdDgxQ082cW1zZldFaU0xeWVmOS1GVldHaWxfdWxzT09HVnlzZVdiYkpPLUhHOGl3V3RwZ0VBalB4bFpOUFRZa3pYR0tfcndLN0NNSXBXOFZ5dThvbVRCTTEwLTF3X2YwZzFtYVE3X0VtOWdvb0wyZGRMdVJXV1d5aXZWX3VlS193cDZxNkM0dG9wVUxlQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -266,9 +286,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "AI Liquid Cooling Loop Sanitization Services Market - futuremarketinsights.com",
-      "summary": "AI Liquid Cooling Loop Sanitization Services Market futuremarketinsights.com",
-      "source": "futuremarketinsights.com",
+      "headline": "AI Liquid Cooling Loop Sanitization Services Market - Future Market Insights",
+      "summary": "AI Liquid Cooling Loop Sanitization Services Market Future Market Insights",
+      "source": "Future Market Insights",
       "published_at": "2026-09-04T19:23:50+08:00",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXptelBYR3J3ZDBpMllhZTdEZWFyWFJEQWo0cjVDTGhxVWZKSG0yZWtUcktybnBaV3B4dVhmanJsTDVGODlCYklsYWdlXzhfcTNhbUlZTExsQjdnSUhBSkVWci1TMXk0LXptMVVFNTJRWDFnMjdocWkyR1JGX2xocnFDU1pxY0ZDb1hNZVBXX3VoRlE1aDRwX1Jha0c?oc=5",
       "data_type": "live",
@@ -276,19 +296,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Corrosion Threatens AI Data Center Capital Investments - datacenters.economictimes.indiatimes.com",
-      "summary": "Corrosion Threatens AI Data Center Capital Investments datacenters.economictimes.indiatimes.com",
-      "source": "datacenters.economictimes.indiatimes.com",
-      "published_at": "2026-09-04T11:26:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3JjRkZOR2VxQnZCRTBLc281TUJsRkZ6eG9Jblk2Um1xMGN6dkU3Q0VDb2k0ZGlpdFNIR1N4dkxIUXc3N2otVDNCWXJQN3FRUWJDRjlYcS04UzlINEpUN2ZOUHNmd0FzUE5qVXJjSXM4M3RfTG1WR2VpYWlEY1R5X3pkYmlDZ0dPdk9UaGlLSlhiVVN4RXhtdHBlYTBSMUo0SkhQUXVoc1dSek45cE5reVZjNDZmM2N4ZlJzb0RQZ2xLeTdYSkpnVG9oZXpWWnh0akY0Qk5EMNIB2wFBVV95cUxQczNTOGp2Wmd1WjVsdTFuOWRoWFNVejRhV3pHUE1sdmpMUW1ReVNxMFZpRWNxZGs0WnBuTjh1LXlTZWRXNVY1WWFDRGs5dDlHQ2Y4RHB4MFNWQ1lNc2hVTzB0eWpsVmxEUlQyTHQtcDdVLXRqNTFKenZvUXRXbUxzTkQ3YVFNU3VJVHYzZE9QOElsaGc0c0RaN2NzYm4zYWxEcFlZNlBJSGN6NDRkTC01NUphMVV3N2VCUnNYZ3ZnTFM1cFpTZXY1Ri1KcjlVUlBJX2ZuY2IzcVlnbGs?oc=5",
+      "headline": "Corrosion Threatens AI Data Center Capital Investments - ET Datacenters",
+      "summary": "Corrosion Threatens AI Data Center Capital Investments ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-09-04T11:50:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVXdiMV8takFWZDlPMlIwcFdVQ3dnZFV3d2FHOTBoRmJoclhjM2JZblZETFJFWGJ0cnd3TmE5ck5MaUxrNWd2aWtKX2d0QjlUZnFQbEJjV0VoalhMdmFJRmlkUFBGb00wTHRyZGhMTlAtWTBQWEc4MW9DdWRkRVpoeC1BWUR5Qm9SaGZ2OTNNbl9qRTJ6OGhBSjc0UjN4R1BqTGd5a0hYWkhuTUtoUnpTM01ISGNMM2RVQV93amwtUjdNSDIyc05Vd2FrMXVlc3o0OXJLMXBJUzFTc3FFaWkwQVl6N1RQNzFIaUFtUEY2eVFRcFluMF9fOEdZeFMtTk15WnRMVGEzNjY1M0Vs0gHbAUFVX3lxTFBzM1M4anZaZ3VaNWx1MW45ZGhYU1V6NGFXekdQTWx2akxRbVF5U3EwVmlFY3FkazRacG5OOHUteVNlZFc1VjVZYUNEazl0OUdDZjhEcHgwU1ZDWU1zaFVPMHR5amxWbERSVDJMdC1wN1UtdGo1MUp6dm9RdFdtTHNORDdhUU1TdUlUdjNkT1A4SWxoZzRzRFo3Y3NibjNhbERwWVk2UElIY3o0NGRMLTU1SmExVXc3ZUJSc1hndmdMUzVwWlNldjVGLUpyOVVSUElfZm5jYjNxWWdsaw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - community.nasscom.in",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure community.nasscom.in",
-      "source": "community.nasscom.in",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
+      "source": "Nasscom",
       "published_at": "2026-09-03T23:09:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
@@ -331,26 +351,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-09-03T16:58:07+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEl3YlRjU1FuV2hoaUVZRTJSMUYySUw3RW9OU2VKRzZRbWl1YU43dURHRDhsYWwxVGlfWFZQeEFpdXRkZW1oeVdzT21mbXlaTWF2RlJhTGpDRE1DcENyRk9XOHpmcGRURVJBQTJIZWh6WkxFdGtDU2Z0a3FCWFhBVWNoQ1lXcEdYR3ZlZ0pldUNkWjcwYWlYSGxGWQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Every climate plays a different hand - Data Center Dynamics",
-      "summary": "Every climate plays a different hand Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-09-03T15:02:27+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3ZHVnQyb1ExTGNiQnlKLVZBQ0o5UFh5aDI2YWtBdDFBLXZVZG1nOGpEM1llZkhXM1g4d0hpTXJMb3p2cVd5bU4wMkp5ZTBBMndTVm9OMDNvQ1NJbEV2bTFjcGpnYkZTd0ZYOW1LS09hUTdJWEdsZ3RnVllXa1NEc0F5MUFQT2xSSXZySjZudmE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling Loop Flushing Services Market - futuremarketinsights.com",
-      "summary": "Liquid Cooling Loop Flushing Services Market futuremarketinsights.com",
-      "source": "futuremarketinsights.com",
-      "published_at": "2026-09-03T14:38:11+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3ZIOXBTeUxHM1FZSXRUcnYzZXJ0bFhqNzRtOVVULTJZZXQwZnRsMTh3VFR4WGpnU3RJWXhwbFpVeXpLV2dGSkdSLUhIdDV3bllFY3BfTkJrNGJINkpMcmYycEdzaDFYdW9fbEI0UW9kUDNXWFYxZTRRX2V1aVZ1dkhkc3VLTjFFMGJXUEpvMVVfYWc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
