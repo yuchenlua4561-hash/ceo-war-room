@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-06T07:23:21+08:00",
+  "intel_updated_at": "2026-09-06T09:17:23+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -266,9 +266,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com - Investing.com India",
-      "summary": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com Investing.com India",
-      "source": "Investing.com India",
+      "headline": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com - in.investing.com",
+      "summary": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com in.investing.com",
+      "source": "in.investing.com",
       "published_at": "2026-09-04T20:47:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX191MFBTY2dwMXNaTGU4SHFQT0V2M1VhbzRvVE1BMlVWMmRWQk5SQmJrOW9EdDgxQ082cW1zZldFaU0xeWVmOS1GVldHaWxfdWxzT09HVnlzZVdiYkpPLUhHOGl3V3RwZ0VBalB4bFpOUFRZa3pYR0tfcndLN0NNSXBXOFZ5dThvbVRCTTEwLTF3X2YwZzFtYVE3X0VtOWdvb0wyZGRMdVJXV1d5aXZWX3VlS193cDZxNkM0dG9wVUxlQQ?oc=5",
       "data_type": "live",
@@ -345,12 +345,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Vertiv acquires microgrid company UtilityInnovation - Data Center Dynamics",
-      "summary": "Vertiv acquires microgrid company UtilityInnovation Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-09-03T16:58:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEl3YlRjU1FuV2hoaUVZRTJSMUYySUw3RW9OU2VKRzZRbWl1YU43dURHRDhsYWwxVGlfWFZQeEFpdXRkZW1oeVdzT21mbXlaTWF2RlJhTGpDRE1DcENyRk9XOHpmcGRURVJBQTJIZWh6WkxFdGtDU2Z0a3FCWFhBVWNoQ1lXcEdYR3ZlZ0pldUNkWjcwYWlYSGxGWQ?oc=5",
+      "category": "液冷散熱",
+      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - The Manila Times",
+      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX The Manila Times",
+      "source": "The Manila Times",
+      "published_at": "2026-09-03T17:40:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZHpGT00yZUtmdTRhWm9XRkthUlVaWXpONkxYOUdaa0EzeWx2YVJkSlpfMU54bk1vV2JfaFl4WXRxRl91SkwybEdhOW1qSHhGem16SXp5cWhoM2pqYjVqS0xLMHNaVkhoSDJqd3FlX3NKOE1wNDdydDVtc3ZBNXBYS005bmUyd01WSTFVZjJ6SWdmRnFReFpIRXJLc2JrN2hBVHNISTRjOGlaSFh0YjFILWZaTXNMRlZpcEVSalpKejhrOHRWSXFSNElUemhjSU56U2xvTmJhZkxFcU1mOXpjeTNRdkJpSUFLanfSAeoBQVVfeXFMUGR6Rk9NMmVLZnU0YVpvV0ZLYVJVWll6TjZMWDlHWmtBM3lsdmFSZEpaXzFOeG5Nb1diX2hZeFl0cUZfdUpMMmxHYTltakh4Rnptekl6eXFoaDNqamI1aktMSzBzWlZIaEgyandxZV9zSjhNcDQ3cnQ1bXN2QTVwWEtNOW5lMndNVkkxVWYyeklnZkZxUXhaSEVyS3NiazdoQVRzSEk0YzhpWkhYdGIxSC1mWk1zTEZWaXBFUmpaSno4azh0VklxUjRJVHpoY0lOelNsb05iYWZMRXFNZjl6Y3kzUXZCaUlBS2p3?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
