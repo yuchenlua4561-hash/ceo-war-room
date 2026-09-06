@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-06T18:47:59+08:00",
+  "intel_updated_at": "2026-09-06T21:49:13+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -235,10 +235,20 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Liquid-Cooling Orders Booked Through Year-End as Production Lines Run Double Shifts; Surging Chip Power Consumption Ushers in the \"Must-Have\" Era for Thermal Management - finance.biggo.com",
+      "summary": "Liquid-Cooling Orders Booked Through Year-End as Production Lines Run Double Shifts; Surging Chip Power Consumption Ushers in the \"Must-Have\" Era for Thermal Management finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-06T20:05:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NbUFyOHEzUUJYRUc3NlZ1c0NUU2tfclctajBJcHZqRzFSNTdiN1VFMDgxeUY3czFON0xWYi1IVUxzMkV4Q0huY3psYW1HQWoyMVhycXlMVERrdGpJMHFVX01pWU45WkxXZXJ2VWgyWU5uc0xCaEE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
-      "headline": "Data Center M&A is Popping Off - Data Center Richness | Substack",
-      "summary": "Data Center M&A is Popping Off Data Center Richness | Substack",
-      "source": "Data Center Richness | Substack",
+      "headline": "Data Center M&A is Popping Off - datacenterrichness.substack.com",
+      "summary": "Data Center M&A is Popping Off datacenterrichness.substack.com",
+      "source": "datacenterrichness.substack.com",
       "published_at": "2026-09-05T19:10:45+08:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWlHX3lxUVBGNmtTVDFHeTA3WC1jbEVaWVU1QjVsTnduejNyVHVwRGNRM2lRRGVDVm9iSGxUYldGUE0tSF9HV1JQUEhDYkx3eXJfTUhqOGt6dS0yY1plcGNoZFNETUFOaXRLU1lSOUZWNVRaOTNmZEs1ZWlQekZMQkZR?oc=5",
       "data_type": "live",
@@ -256,9 +266,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Lite-On Tech to invest in liquid cooling - Taipei Times",
-      "summary": "Lite-On Tech to invest in liquid cooling Taipei Times",
-      "source": "Taipei Times",
+      "headline": "Lite-On Tech to invest in liquid cooling - taipeitimes.com",
+      "summary": "Lite-On Tech to invest in liquid cooling taipeitimes.com",
+      "source": "taipeitimes.com",
       "published_at": "2026-09-05T00:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rekY5dXpXcDhYS3hBX0RXSzlqOW5yenB4SHd2YS1tSUlydVRUYndIeHBaTUpVZzdWZmlHc1E4dWtEeldPc05jWmV1UEI5YjE2TTdPcUNSX25tWWJvVG5RaUNwc2lYUlRnMzQ5Tjd0UTZNMmZaMVE?oc=5",
       "data_type": "live",
@@ -341,16 +351,6 @@
       "source": "Yahoo Finance",
       "published_at": "2026-09-03T22:23:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2U5N0dxazJTeEdoWkVWRlpjYmxPUWxJc0hBdkVTSng3STNhRTBpcldMV09yYTJuM1pFYXg0d3FwU091TkdBT1ZmdEJod2FaaHhjd3h5Rm9IUEQ5cENFOXh4LWFQZlo1dW9ZMXBBSmduR0hkTmZyLTREcUs0VHY2X1lzdkk2R0FKV1BNWUxJb0s1M3BOejgyVzVWOA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX - Business Wire",
-      "summary": "LITEON Announces Strategic Investment in Liquid Cooling Technology Company DCX Business Wire",
-      "source": "Business Wire",
-      "published_at": "2026-09-03T18:05:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEZhRDAtNUItc25fQXlpekhvaWtiM0JSUmM5dmppcDhHS215VkxzMU5MdDVJY2JFQV9QTDI1NFREa3JRTEdlZ0s1NUtoRXpHT3pNd3NXa2lZTlBLeFVRUDQxa3NKMG5kUnFUUkZ6UG9nWmpUMHRCTmxXQ29MM0kyOURNSUswQmlXSFlrRlR4NzMyZUl0Uy1POExjVTE0SDJZMklyeTFvSjhxY29XeW9uNklBNTNVblF6Mmw1MGhtQ29hNGlKeHhMRjhCTVBKaEg4?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
