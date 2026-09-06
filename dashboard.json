@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-06T14:01:41+08:00",
+  "intel_updated_at": "2026-09-06T18:47:59+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv Holdings Co (VRT) Agrees Utility Deal To Deepen AI Data Center Power Reach - Yahoo Finance",
-      "implication": "公開情報更新於 2026-09-05T10:13:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamZaQ29ZUG5GMlMzTUtJbnlPZ3Zqck5rUVN1XzdPMnZJZl9EMF9YZ2phQmF6ZDVTR1dPZ0t6aWh5emoyV0pRT2lhMndoSmJDMFhRMjdibWh2b0JtRng3Nk50Z002WFMxczhHSFVQRi1laVN5NWFUdm9iX3JyNHhtc29nTndsMEN4RC1VN3lPX3dQYTUxN3Q3Nw?oc=5"
+      "move": "Vertiv leads AI data center growth with $15B ba... - pluang.com",
+      "implication": "公開情報更新於 2026-09-03T23:36:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRM3lPV1dMb2xDQUlVb1FKQS1vWHRyY2cxX3FQTGZ2MWNqY2tFQlRUVF9xYjdUUlVzc3RoZWVjSUJ6Y1lZNFNHSnF1VUlXNTVfRXBxSjFCdjFyRHJFbEVocUh2NGo0NVZ2YWlibkxCNjVtTVpxa3IxbklxNA?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,16 +241,6 @@
       "source": "Data Center Richness | Substack",
       "published_at": "2026-09-05T19:10:45+08:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWlHX3lxUVBGNmtTVDFHeTA3WC1jbEVaWVU1QjVsTnduejNyVHVwRGNRM2lRRGVDVm9iSGxUYldGUE0tSF9HV1JQUEhDYkx3eXJfTUhqOGt6dS0yY1plcGNoZFNETUFOaXRLU1lSOUZWNVRaOTNmZEs1ZWlQekZMQkZR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv Holdings Co (VRT) Agrees Utility Deal To Deepen AI Data Center Power Reach - Yahoo Finance",
-      "summary": "Vertiv Holdings Co (VRT) Agrees Utility Deal To Deepen AI Data Center Power Reach Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-05T10:13:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamZaQ29ZUG5GMlMzTUtJbnlPZ3Zqck5rUVN1XzdPMnZJZl9EMF9YZ2phQmF6ZDVTR1dPZ0t6aWh5emoyV0pRT2lhMndoSmJDMFhRMjdibWh2b0JtRng3Nk50Z002WFMxczhHSFVQRi1laVN5NWFUdm9iX3JyNHhtc29nTndsMEN4RC1VN3lPX3dQYTUxN3Q3Nw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -296,9 +286,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Taiwan-based Liteon purchases 25 percent stake in Polish liquid cooling firm, DCX - datacenterdynamics.com",
-      "summary": "Taiwan-based Liteon purchases 25 percent stake in Polish liquid cooling firm, DCX datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Taiwan-based Liteon purchases 25 percent stake in Polish liquid cooling firm, DCX - Data Center Dynamics",
+      "summary": "Taiwan-based Liteon purchases 25 percent stake in Polish liquid cooling firm, DCX Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-09-04T19:33:23+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWI5c3VmVG9xTWpPYjZrXzZKNFkxbXVLQkRPQlJRTGRKMVZzdkJ0bnE4VXJGX2NNLU5JVUhhRWRxSkpuYjZ6RDh3Yk1icTBIREdSNFUxWWgtV19TU2lRMnhiWkNQZEthNGh3QTFfaWp3a3JETEIya1ZCRmlKT1lJU1BxbFFveXJoWW9JbWNYS19JNGwxdzJ5eGQzN1lMZEZEeDYxdE5IZUVzazd1Z3ItNVRMV1RDcjY5YVNhbFNWT3FaUQ?oc=5",
       "data_type": "live",
@@ -321,6 +311,16 @@
       "source": "ET Datacenters",
       "published_at": "2026-09-04T11:26:53+08:00",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3JjRkZOR2VxQnZCRTBLc281TUJsRkZ6eG9Jblk2Um1xMGN6dkU3Q0VDb2k0ZGlpdFNIR1N4dkxIUXc3N2otVDNCWXJQN3FRUWJDRjlYcS04UzlINEpUN2ZOUHNmd0FzUE5qVXJjSXM4M3RfTG1WR2VpYWlEY1R5X3pkYmlDZ0dPdk9UaGlLSlhiVVN4RXhtdHBlYTBSMUo0SkhQUXVoc1dSek45cE5reVZjNDZmM2N4ZlJzb0RQZ2xLeTdYSkpnVG9oZXpWWnh0akY0Qk5EMNIB2wFBVV95cUxQczNTOGp2Wmd1WjVsdTFuOWRoWFNVejRhV3pHUE1sdmpMUW1ReVNxMFZpRWNxZGs0WnBuTjh1LXlTZWRXNVY1WWFDRGs5dDlHQ2Y4RHB4MFNWQ1lNc2hVTzB0eWpsVmxEUlQyTHQtcDdVLXRqNTFKenZvUXRXbUxzTkQ3YVFNU3VJVHYzZE9QOElsaGc0c0RaN2NzYm4zYWxEcFlZNlBJSGN6NDRkTC01NUphMVV3N2VCUnNYZ3ZnTFM1cFpTZXY1Ri1KcjlVUlBJX2ZuY2IzcVlnbGs?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv leads AI data center growth with $15B ba... - pluang.com",
+      "summary": "Vertiv leads AI data center growth with $15B ba... pluang.com",
+      "source": "pluang.com",
+      "published_at": "2026-09-03T23:36:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRM3lPV1dMb2xDQUlVb1FKQS1vWHRyY2cxX3FQTGZ2MWNqY2tFQlRUVF9xYjdUUlVzc3RoZWVjSUJ6Y1lZNFNHSnF1VUlXNTVfRXBxSjFCdjFyRHJFbEVocUh2NGo0NVZ2YWlibkxCNjVtTVpxa3IxbklxNA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
