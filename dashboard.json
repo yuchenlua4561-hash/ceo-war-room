@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-07T23:01:00+08:00",
+  "updated_at": "2026-09-08T03:01:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-07T23:18:28+08:00",
+  "intel_updated_at": "2026-09-08T03:14:06+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/07 23:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/08 03:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-07 23:01 GMT+8",
+      "as_of": "2026-09-08 03:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2071,
+      "value": 0.207,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-07 23:01 GMT+8",
+      "as_of": "2026-09-08 03:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-07 23:01 GMT+8",
+      "as_of": "2026-09-08 03:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -221,8 +221,8 @@
     {
       "company": "STULZ",
       "product": "資料中心",
-      "move": "Stulz launches new air cooling systems for Edge data center - Data Center Dynamics",
-      "implication": "公開情報更新於 2026-09-07T18:58:27+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "move": "Stulz launches new air cooling systems for Edge data centers - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-09-07T19:00:24+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0JGUEVxSjdsclJkUG1sX0tMYzkyb1NMam5BN2xJRDhYUHc5WTRWc2hLaFhteGJhU3RrVnN5X1AtWmVXcllkNE9EMUZfbTA2b0o1dlhSWVg0V09mXzVVcXh2VnVwOVdFelRSeFVzV2dnUXBxNmhZblRVT2tSeUZRcm9uOEJWanhoZlp3WFdvaGV6TF9iRmRkc2xERTE1WEpnQWpPc3RDRQ?oc=5"
     },
     {
@@ -243,9 +243,9 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "United States Data Center Piping Market 2033 | Growth Drivers, - openPR.com",
-      "summary": "United States Data Center Piping Market 2033 | Growth Drivers, openPR.com",
-      "source": "openPR.com",
+      "headline": "United States Data Center Piping Market 2033 | Growth Drivers, - openpr.com",
+      "summary": "United States Data Center Piping Market 2033 | Growth Drivers, openpr.com",
+      "source": "openpr.com",
       "published_at": "2026-09-07T20:44:46+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVJhNkF4aFgtM2VycVp0WlJ1UWw0ZGx4Y19LR1FWWGp0LWxBN0JVVzR4WGg3aGoyMWNGVVpkanV6VHBTUnpQOUk0T2VuX29xS3Y0N25HbllySWluNjhmdTZ0cFBWYUk0TS1WZU5aRkM5eFVSa0M1d2NRUnMzWVpoRkpaTTUxZUI5TTBzNURzNG9KZzV3bTF3SzlIWQ?oc=5",
       "data_type": "live",
@@ -253,19 +253,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Stulz launches new air cooling systems for Edge data center - Data Center Dynamics",
-      "summary": "Stulz launches new air cooling systems for Edge data center Data Center Dynamics",
+      "headline": "Stulz launches new air cooling systems for Edge data centers - Data Center Dynamics",
+      "summary": "Stulz launches new air cooling systems for Edge data centers Data Center Dynamics",
       "source": "Data Center Dynamics",
-      "published_at": "2026-09-07T18:58:27+08:00",
+      "published_at": "2026-09-07T19:00:24+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0JGUEVxSjdsclJkUG1sX0tMYzkyb1NMam5BN2xJRDhYUHc5WTRWc2hLaFhteGJhU3RrVnN5X1AtWmVXcllkNE9EMUZfbTA2b0o1dlhSWVg0V09mXzVVcXh2VnVwOVdFelRSeFVzV2dnUXBxNmhZblRVT2tSeUZRcm9uOEJWanhoZlp3WFdvaGV6TF9iRmRkc2xERTE1WEpnQWpPc3RDRQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "液冷散熱",
-      "headline": "AI Data Center Liquid Cooling Market to Reach US$ 23.23 billion - openPR.com",
-      "summary": "AI Data Center Liquid Cooling Market to Reach US$ 23.23 billion openPR.com",
-      "source": "openPR.com",
+      "headline": "AI Data Center Liquid Cooling Market to Reach US$ 23.23 billion - openpr.com",
+      "summary": "AI Data Center Liquid Cooling Market to Reach US$ 23.23 billion openpr.com",
+      "source": "openpr.com",
       "published_at": "2026-09-07T18:20:42+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLW02REdKYnZzcndHTy1heUdUeW9ZZ29lbEJMMDFrOFU3c0dqLV9oZFN1V2ZTSzQwM0tUbTRVQTFaWWJuaW9CemlnNHNfemZxUmRhaFBFNTh5OExGRm1jeEVFci1HY3FFaUVqSERqZmVqc3A1dkRXZTktaWNmUEc3T2dhb1JObm5MRllmMFY0RmYxZ3FyeUkzdnZaLVdvZUk?oc=5",
       "data_type": "live",
@@ -273,9 +273,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "TCS HyperVault Secures Hyderabad Land for 1GW AI Data Center - TechGig",
-      "summary": "TCS HyperVault Secures Hyderabad Land for 1GW AI Data Center TechGig",
-      "source": "TechGig",
+      "headline": "TCS HyperVault Secures Hyderabad Land for 1GW AI Data Center - techgig.com",
+      "summary": "TCS HyperVault Secures Hyderabad Land for 1GW AI Data Center techgig.com",
+      "source": "techgig.com",
       "published_at": "2026-09-07T08:07:41+08:00",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT2RNODhLZ1FBZEE5bUpaN3kwQ3VIWGtScjRFZ28wNld3WGhXSkR0S1hhZ2tMSm1waGltOUFUQ0liOTU2SFpYLVE4SXZrUGlTVG4xcHhaSDFkMUVPVkhWMk9rbXVKOW5SQUtQbUdjNGZ4ZjRuMVhMQmtxZ3Zmd1Zmdkk0SXRRRnRYelRxZTRuM3NFTzBoVUFtMktHRkdDZXluM3NEMEZ0S0UxNjF1Z3RYa2ppZDZ4d1nSAbwBQVVfeXFMTU96VVFHV3I3MDMtWkZUSF9TMHVLT0xoTFg2OFlENGN1X0ZaRS0yS2IyRTk5ak1sOGVDb1NHY1VOREFVN1dYY0tnLXZRbUs3Uk9ON21Fd05mZHNUejh6VnZIb1hVemk5N0NtWXVCOU45UFZLUGtfQXN3YTkzaU9WNHBQemthWGFvM2o5bUtnYWo0OXZBLWJsRWx6czZsRlNLdnd6WUhYV2NWZGl6TGdCNFRTWEhvMi0teUxVVVk?oc=5",
       "data_type": "live",
@@ -353,11 +353,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Taiwan-based Liteon purchases 25 percent stake in Polish liquid cooling firm, DCX - Data Center Dynamics",
-      "summary": "Taiwan-based Liteon purchases 25 percent stake in Polish liquid cooling firm, DCX Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-09-04T19:33:23+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWI5c3VmVG9xTWpPYjZrXzZKNFkxbXVLQkRPQlJRTGRKMVZzdkJ0bnE4VXJGX2NNLU5JVUhhRWRxSkpuYjZ6RDh3Yk1icTBIREdSNFUxWWgtV19TU2lRMnhiWkNQZEthNGh3QTFfaWp3a3JETEIya1ZCRmlKT1lJU1BxbFFveXJoWW9JbWNYS19JNGwxdzJ5eGQzN1lMZEZEeDYxdE5IZUVzazd1Z3ItNVRMV1RDcjY5YVNhbFNWT3FaUQ?oc=5",
+      "headline": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com - Investing.com UK",
+      "summary": "LG Electronics targets liquid cooling growth in AI data centers By Investing.com Investing.com UK",
+      "source": "Investing.com UK",
+      "published_at": "2026-09-04T19:38:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXhYcjhGUXpsSlY3QzI1LWEwdjJsZEtfaXZIaDctRTNBS25NMDFfWlJZcXRxVkUtUmdVSG9jTEgyZk04RTRVVDhyLUdIc2p4NlpXSENDMzl5RFJHaktCS3kwLW0yLWtEX1k0c3ZiLTVucHNyeGs4MEltb18xR0FpbXBBbVJoakZUUHI3M1NEXzJ3aklldVVjdUd3bXRZcnlGWXB3MldraEhQYk9qcU1yWGtXN3hKdFJOVnI0R3JERENYQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
