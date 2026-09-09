@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-09T13:14:00+08:00",
+  "updated_at": "2026-09-09T18:02:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-09T13:22:11+08:00",
+  "intel_updated_at": "2026-09-09T18:03:41+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/09 13:14；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/09 18:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -46,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.545,
+      "value": 31.57,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -55,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-09 12:58 GMT+8",
+      "as_of": "2026-09-09 18:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2073,
+      "value": 0.2076,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-09 12:58 GMT+8",
+      "as_of": "2026-09-09 18:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.84,
+      "value": 36.915,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-09 12:58 GMT+8",
+      "as_of": "2026-09-09 18:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4461.0,
+      "value": 4470.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -100,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-09-09 13:14 GMT+8",
+      "as_of": "2026-09-09 17:59 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -244,20 +242,40 @@
   ],
   "news": [
     {
-      "category": "液冷散熱",
-      "headline": "Data Center Thermal Management Market by Solution, Component, Data Center Type, End-use Industry, Technology, Type of Cooling, and Region - Global Forecast to 2032 - Yahoo Finance UK",
-      "summary": "Data Center Thermal Management Market by Solution, Component, Data Center Type, End-use Industry, Technology, Type of Cooling, and Region - Global Forecast to 2032 Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-09-08T22:50:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc0RDSTBJc3RXZkJiT0YzSmRGZkpQUEE1a2JpTXlWY3BuYW5yLUJiaTZHdTUxaVpXSHJjdjBYNlNVQWM1aHE4WVlROHJDek5KQ1Utb1JTUkRmUTRqSE1HSkNUalh3OWxoWFZ6MnRDSl9BNXc2b1dOUzhjdUNfaFhrYnlwX1BLMjN5SUtxWFBRYw?oc=5",
+      "category": "資料中心",
+      "headline": "Data Center HVAC Systems Market Size Report, 2026-2033 - Grand View Research",
+      "summary": "Data Center HVAC Systems Market Size Report, 2026-2033 Grand View Research",
+      "source": "Grand View Research",
+      "published_at": "2026-09-09T14:10:01+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTRDd3h3R3BidDROSlZVZUZwMUlWQ2hxWGlHLWNrbFVZX3ZjVGt3UXpKUUpmSDVhN0RKZzB5dm5qeURHblZKTFJZdF9JVUpQVF9VWHA0WTQ3TGZXN2l4NDhYaWVPaVVNbGNFcGx5NmVpcTdFdWo0ZzBtVkNFYzdfdVc2SmttRWhldV9lc0JST0VXSk5F?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Cost Per Token: The Metric Definition AI Factory Economics",
+      "summary": "Cost per token is the all-in operational cost of generating a single unit of AI output. It is shaped by an entire infrastructure ecosystem, including compute performance, networking, cooling, power distribution, software-driven optimization, deployment strateg",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-09-09T06:56:56+08:00",
+      "url": "https://blog.se.com/datacenter/2026/09/08/cost-per-token-ai-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "液冷散熱",
-      "headline": "Nidec to Debut Liquid Cooling Solutions at \"Data Center World Asia\" - Mynewsdesk",
-      "summary": "Nidec to Debut Liquid Cooling Solutions at \"Data Center World Asia\" Mynewsdesk",
-      "source": "Mynewsdesk",
+      "headline": "Data Center Thermal Management Market by Solution, Component, Data Center Type, End-use Industry, Technology, Type of Cooling, and Region - Global Forecast to 2032 - Yahoo Finance",
+      "summary": "Data Center Thermal Management Market by Solution, Component, Data Center Type, End-use Industry, Technology, Type of Cooling, and Region - Global Forecast to 2032 Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:50:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTMtSmt4MUNRU3FUcHBobmluNHV5bU5lQ2NKc21OTXpWZXlWUEFsQVI1Ykt5bFNyYVh2eDA4MFFFajNBYU83TnRua3g2OEo3dkpzbmVkRHlzbEtTMlROOWV4Qzh5ZjJFQXNlWDh6STFSTHBFQjF3M3B1bmJWaEZXcFFmcUFYUDVIUF9UdFA3cGEyRjBXNDlvQWM2dllSSVE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Nidec to Debut Liquid Cooling Solutions at \"Data Center World Asia\" - mynewsdesk.com",
+      "summary": "Nidec to Debut Liquid Cooling Solutions at \"Data Center World Asia\" mynewsdesk.com",
+      "source": "mynewsdesk.com",
       "published_at": "2026-09-08T14:36:50+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnZoN0lpTGFzM3VvRXZQbHJEalRjaDNrNEFaMDFpWjViS3hkZUlTdXVLcVJHN1IzckxVdVByUVNBREFxa1N5VkFpakFJaU1hdVdDS0dSQTZram8xRWJUSXNFbV9qNGVIUTNUVkVMQ2E4MmpCbGVwa0t2b1o4UFZFUno4NW5JMzd4Z2VubXBmM3FmRDF0eGxfa2xEMXpyOU12ZXVwOWVPLXYyc0x0T2haVXFUNGhWc2NWWHZITDY5anc?oc=5",
       "data_type": "live",
@@ -335,31 +353,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "TCS HyperVault Secures Hyderabad Land for 1GW AI Data Center - TechGig",
-      "summary": "TCS HyperVault Secures Hyderabad Land for 1GW AI Data Center TechGig",
-      "source": "TechGig",
-      "published_at": "2026-09-07T08:07:41+08:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT2RNODhLZ1FBZEE5bUpaN3kwQ3VIWGtScjRFZ28wNld3WGhXSkR0S1hhZ2tMSm1waGltOUFUQ0liOTU2SFpYLVE4SXZrUGlTVG4xcHhaSDFkMUVPVkhWMk9rbXVKOW5SQUtQbUdjNGZ4ZjRuMVhMQmtxZ3Zmd1Zmdkk0SXRRRnRYelRxZTRuM3NFTzBoVUFtMktHRkdDZXluM3NEMEZ0S0UxNjF1Z3RYa2ppZDZ4d1nSAbwBQVVfeXFMTU96VVFHV3I3MDMtWkZUSF9TMHVLT0xoTFg2OFlENGN1X0ZaRS0yS2IyRTk5ak1sOGVDb1NHY1VOREFVN1dYY0tnLXZRbUs3Uk9ON21Fd05mZHNUejh6VnZIb1hVemk5N0NtWXVCOU45UFZLUGtfQXN3YTkzaU9WNHBQemthWGFvM2o5bUtnYWo0OXZBLWJsRWx6czZsRlNLdnd6WUhYV2NWZGl6TGdCNFRTWEhvMi0teUxVVVk?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid-Cooling Orders Booked Through Year-End as Production Lines Run Double Shifts; Surging Chip Power Consumption Ushers in the \"Must-Have\" Era for Thermal Management - finance.biggo.com",
-      "summary": "Liquid-Cooling Orders Booked Through Year-End as Production Lines Run Double Shifts; Surging Chip Power Consumption Ushers in the \"Must-Have\" Era for Thermal Management finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-09-06T20:05:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NbUFyOHEzUUJYRUc3NlZ1c0NUU2tfclctajBJcHZqRzFSNTdiN1VFMDgxeUY3czFON0xWYi1IVUxzMkV4Q0huY3psYW1HQWoyMVhycXlMVERrdGpJMHFVX01pWU45WkxXZXJ2VWgyWU5uc0xCaEE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center M&A is Popping Off - Data Center Richness | Substack",
-      "summary": "Data Center M&A is Popping Off Data Center Richness | Substack",
-      "source": "Data Center Richness | Substack",
-      "published_at": "2026-09-05T19:10:45+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWlHX3lxUVBGNmtTVDFHeTA3WC1jbEVaWVU1QjVsTnduejNyVHVwRGNRM2lRRGVDVm9iSGxUYldGUE0tSF9HV1JQUEhDYkx3eXJfTUhqOGt6dS0yY1plcGNoZFNETUFOaXRLU1lSOUZWNVRaOTNmZEs1ZWlQekZMQkZR?oc=5",
+      "headline": "AI Boom Could Help Create $200B Insurance Market as Data Centers and Energy Projects Surge - TradingView",
+      "summary": "AI Boom Could Help Create $200B Insurance Market as Data Centers and Energy Projects Surge TradingView",
+      "source": "TradingView",
+      "published_at": "2026-09-07T15:33:36+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV1ZWclpYQnN6cHpyMS1kcGR1NXRGcWpwMFJmRlZyU3hycG84VzBxYnRFeEZTYlJtR1RqaXVseDNBM3RWQkR0QlNXeml3NDJ3M2FqcUgxRWRSNmxiSWgyR21UOXpiNlhXWmphWXlIYktHcWpjYXllV2lIVFFZTDN1aTlqMXlscGRZeTBrYVR4RGQzWThfbzBWUFdaNS1OaE1fbjZXbXFyakRmWmdsdHZ1azJfU1lxb1NLMzdmdVFuOFVPZTlUMG9XSlB3YTM0cXh4YjRza2U5aVBFRzNkUnVKeE93?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
