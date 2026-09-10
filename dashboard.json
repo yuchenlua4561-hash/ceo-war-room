@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-10T06:51:00+08:00",
+  "updated_at": "2026-09-10T09:07:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-10T07:09:00+08:00",
+  "intel_updated_at": "2026-09-10T09:09:08+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/10 06:51；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/10 09:07；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.57,
+      "value": 31.56,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-10 06:51 GMT+8",
+      "as_of": "2026-09-10 09:07 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.208,
+      "value": 0.2072,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-10 06:51 GMT+8",
+      "as_of": "2026-09-10 09:07 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.955,
+      "value": 36.86,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-10 06:51 GMT+8",
+      "as_of": "2026-09-10 09:07 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4489.0,
+      "value": 4488.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-09-09 19:55 GMT+8",
+      "as_of": "2026-09-10 09:04 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -242,6 +242,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
+      "summary": "News Summary: NVIDIA is collaborating with Australian NVIDIA Cloud Partners and AI infrastructure partners including Firmus, Sharon AI, IREN, ResetData, Megaport, CDC, NEXTDC and AirTrunk to expand land, power and shell capacity designed to host multiple gener",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-09-10T08:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments - TipRanks",
       "summary": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments TipRanks",
@@ -253,9 +263,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Trinity Biotech (NASDAQ: TRIB) tests AI data center liquid cooling in new U.S. pilot deal - Stock Titan",
-      "summary": "Trinity Biotech (NASDAQ: TRIB) tests AI data center liquid cooling in new U.S. pilot deal Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Trinity Biotech (NASDAQ: TRIB) tests AI data center liquid cooling in new U.S. pilot deal - stocktitan.net",
+      "summary": "Trinity Biotech (NASDAQ: TRIB) tests AI data center liquid cooling in new U.S. pilot deal stocktitan.net",
+      "source": "stocktitan.net",
       "published_at": "2026-09-09T20:35:42+08:00",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXc0VFVJSWcyT1FmNnJBaUl2akdrRFVobk1acFBod281bHNUSkViOHpkMjVJc1ptUHZzQ1JqUVZsR3BUWC1HMTVQbGhkdHZTczVTZzBxOGN6MnZEeU43Mmk0NEtuOU1hbDluN09PVTNHaEJMbXNRVHhDeGhkSkVvUmhZQkNSNXZIbkJVSUQ1LUgxdUMxaGIzNUROLU1yT21lUElpWjBYcVgzREwtenQ4WHl0UnZ6UQ?oc=5",
       "data_type": "live",
@@ -263,9 +273,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "A paid pilot will test Trinity Biotech cooling fluids in AI data centers - Stock Titan",
-      "summary": "A paid pilot will test Trinity Biotech cooling fluids in AI data centers Stock Titan",
-      "source": "Stock Titan",
+      "headline": "A paid pilot will test Trinity Biotech cooling fluids in AI data centers - stocktitan.net",
+      "summary": "A paid pilot will test Trinity Biotech cooling fluids in AI data centers stocktitan.net",
+      "source": "stocktitan.net",
       "published_at": "2026-09-09T20:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDhzd1FtekpMUjB6aW0wU1RnSEw4Y1JvLXJUQU5fLVZMWnlOMm5IRzRJVkVfSlp4ZzM4UFFNZjZpSjFxQ0JBX0JKWFdrQnZucEhXaTZuTktybWdZREtHa290ZFNDUGYwaThwOGx4eV9hdHlodzB6QjNfZi05SXVUd3pyWkd5Ml9GYk9waXY2OFVWdFVLNXlkUl9zMGw1RGRyU3I1UUpsRkxPN1ZqUFh3NEhKU3B6UjdWVWVzdTVEOA?oc=5",
       "data_type": "live",
@@ -298,6 +308,16 @@
       "source": "Yahoo Finance UK",
       "published_at": "2026-09-08T22:50:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc0RDSTBJc3RXZkJiT0YzSmRGZkpQUEE1a2JpTXlWY3BuYW5yLUJiaTZHdTUxaVpXSHJjdjBYNlNVQWM1aHE4WVlROHJDek5KQ1Utb1JTUkRmUTRqSE1HSkNUalh3OWxoWFZ6MnRDSl9BNXc2b1dOUzhjdUNfaFhrYnlwX1BLMjN5SUtxWFBRYw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Are AI Data Centers Depleting Earth's Water? - en.tempo.co",
+      "summary": "Are AI Data Centers Depleting Earth's Water? en.tempo.co",
+      "source": "en.tempo.co",
+      "published_at": "2026-09-08T22:35:29+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUU3ckswczQxOHNFYmF4b3ZnRWxMRFRvanA1VWFxaWRGeEJNaloxMEhVS3ZwMElRX1o0STVDZ3ZTWFR3RUp3Uy01RFZ0bnJ3WUx2SzBZVnF6SmJweVJibWU1SjBrUzM5WW5ta3hYNXhfeExaMnRjLU9sdWZqdUIwRA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -338,26 +358,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-09-07T19:00:24+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0JGUEVxSjdsclJkUG1sX0tMYzkyb1NMam5BN2xJRDhYUHc5WTRWc2hLaFhteGJhU3RrVnN5X1AtWmVXcllkNE9EMUZfbTA2b0o1dlhSWVg0V09mXzVVcXh2VnVwOVdFelRSeFVzV2dnUXBxNmhZblRVT2tSeUZRcm9uOEJWanhoZlp3WFdvaGV6TF9iRmRkc2xERTE1WEpnQWpPc3RDRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - community.nasscom.in",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure community.nasscom.in",
-      "source": "community.nasscom.in",
-      "published_at": "2026-09-07T18:28:37+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - community.nasscom.in",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture community.nasscom.in",
-      "source": "community.nasscom.in",
-      "published_at": "2026-09-07T18:28:37+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
