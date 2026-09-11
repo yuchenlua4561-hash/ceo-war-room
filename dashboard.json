@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-12T01:46:44+08:00",
+  "intel_updated_at": "2026-09-12T04:04:04+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -253,16 +253,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "AMD EPYC processors drive data center efficiency with fewer servers - ET Datacenters",
-      "summary": "AMD EPYC processors drive data center efficiency with fewer servers ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-09-11T11:49:38+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObkRGRk84c2NQUTlfSkpNb2hnd1RrOUdUcklJZHF6NkIzdDVpY0xmbFAyUS1XaEVnZ3hMejBjcG95bEZiWkRwNnhuZXN5eEROSEJpY1pHQW5zNjF0VXBObDNQNll0b3JPTE0zdGt3VVhhaUNqejNYN3YxLWxUVUs4QmV1NE9zR2pNVkhtNUpkS0lTQmowcEgyU3N6LUhfSDlOVk1peVBJU1JoRVhvcmNNSzE3X0xLUjI1SU5qQ0ZFWHU0WlNRejlSQWlDS0swOHVjSkRmbkRrbUhHVUYwdk12YzcwZ003emxWcnlKYjY5TlRGNHJWY0VHdXRBcTMtNW5NbHlpNTBrRm1XeGxyVVdYaTd3RjV1UkY5bEZJNkNBd3RnNDJKX2tKdNIB9wFBVV95cUxQc2tjSDZyQlpVNXJPTVl2emtSOHV4ckJ3a00zNW5VTlNTSHhPMTNpNEVLSm5scEVJSmFvbGxyU0hhbWRmUlNPQXh1ZEd1dXJMdWF1SnlrRUlLbl96NUVnX1Fla3BnREpYNVU3dDZYNXlOaERhVWNQWjlGVUMzUEQ3dTJvamRoSkw5bW9IdDRMNDYxLWxRTld6TkRPU3lXc2ZsaDJDNklkLUxnSmlqTGtwOHgwYVlOcFZTNGp2T2RYT1ZmVjhNZTZkTnpmVE5EbzFIREVGalN6R3ZSbEhEOUFkV0o4SnVBaEpwRFUtUmtGQU1XX1QxTk9r?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Inside Ecolab’s $4.75 Billion CoolIT Acquisition - Data Center Richness | Substack",
       "summary": "Inside Ecolab’s $4.75 Billion CoolIT Acquisition Data Center Richness | Substack",
       "source": "Data Center Richness | Substack",
@@ -358,6 +348,16 @@
       "source": "Investing.com",
       "published_at": "2026-09-09T20:59:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaW5OeFBxYXFBd09DaEFEUmxwbFIzc1RpY0JITFVkOGJSQkE4THN2LXMtSVFBM21UWEZXSHVNMHhGUG5LQ1Z2YTkxa3VITzFIaHlueTZfQ01JQlZJWTBzTk8zaXlyWm5fSGJlVTY2N0U4WENuM0JCMDZHOUJ6T0hfeDBEUHFKdDdWajZBQnBXanU0RmFjR1JIVS1ZY1hrNWRtN0xQMWRDNnVfaThOUTdTZ0lpQWhGWFVKbUlGTWlQOW4?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri - PR Newswire",
+      "summary": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri PR Newswire",
+      "source": "PR Newswire",
+      "published_at": "2026-09-09T20:36:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFNtNXhUMFU2QTFhS1VIZFZSQ2Jla2c2ekpxbmQ4NXF4WUdONnNCOEY3QjJDZTlwaUxVRkxGamU0eGxXODF2WC0tSkxqU1VjQUlUMGx6cEgwU0JiajExTTMyVUJmNk1YV2FMN1ZPNV90bDVlR0ZublF5MlVOOG5iM2JEVmZqTGJiUFBFNWpnTW43SVJZUE9MX3AzYURZd05STlRYeF9UVG4yVmZ4QWtic2dSYUQxUkE4RDlYTXlwd0VHU1cyUzBaM2pSXy1oT0kzNEczeTdXalhOd3RudVJmaVphS1hueDNpQ3k0TnNUUkRfVGx3TGIzN3dNYnIyclFoYzhnYw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
