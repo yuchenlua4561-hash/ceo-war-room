@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-12T04:04:04+08:00",
+  "intel_updated_at": "2026-09-12T06:29:34+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Investors Are Misreading America’s Data Center Lead - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "summary": "Investors Are Misreading America’s Data Center Lead Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "published_at": "2026-09-12T04:36:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ1lONkN0amdBaEpwSHpwQk54a3dhQnRmSU5vTjY4X2htQmhPNVFqbTE4QjlKeHVZUUJDeFotblFWT2R6amtwWFBZV1ZycDBJNFN0WlFQbFJDckFFeDVxVkhoX0tiWHRDc05PQlNMbnNBNm5UV3hBSERFMUF3VEhYQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market - openPR.com",
       "summary": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market openPR.com",
       "source": "openPR.com",
@@ -348,16 +358,6 @@
       "source": "Investing.com",
       "published_at": "2026-09-09T20:59:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaW5OeFBxYXFBd09DaEFEUmxwbFIzc1RpY0JITFVkOGJSQkE4THN2LXMtSVFBM21UWEZXSHVNMHhGUG5LQ1Z2YTkxa3VITzFIaHlueTZfQ01JQlZJWTBzTk8zaXlyWm5fSGJlVTY2N0U4WENuM0JCMDZHOUJ6T0hfeDBEUHFKdDdWajZBQnBXanU0RmFjR1JIVS1ZY1hrNWRtN0xQMWRDNnVfaThOUTdTZ0lpQWhGWFVKbUlGTWlQOW4?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri - PR Newswire",
-      "summary": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri PR Newswire",
-      "source": "PR Newswire",
-      "published_at": "2026-09-09T20:36:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFNtNXhUMFU2QTFhS1VIZFZSQ2Jla2c2ekpxbmQ4NXF4WUdONnNCOEY3QjJDZTlwaUxVRkxGamU0eGxXODF2WC0tSkxqU1VjQUlUMGx6cEgwU0JiajExTTMyVUJmNk1YV2FMN1ZPNV90bDVlR0ZublF5MlVOOG5iM2JEVmZqTGJiUFBFNWpnTW43SVJZUE9MX3AzYURZd05STlRYeF9UVG4yVmZ4QWtic2dSYUQxUkE4RDlYTXlwd0VHU1cyUzBaM2pSXy1oT0kzNEczeTdXalhOd3RudVJmaVphS1hueDNpQ3k0TnNUUkRfVGx3TGIzN3dNYnIyclFoYzhnYw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
