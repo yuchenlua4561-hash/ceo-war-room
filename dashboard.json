@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-12T08:33:33+08:00",
+  "intel_updated_at": "2026-09-12T12:56:59+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -283,16 +283,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "CargoSense Acquires Adapt-IP to Expand Data Center Supply Chain Platform - citybiz",
-      "summary": "CargoSense Acquires Adapt-IP to Expand Data Center Supply Chain Platform citybiz",
-      "source": "citybiz",
-      "published_at": "2026-09-11T00:20:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjdHNGhkdHd4bXV2QUxhbjczckNSVGZlUTJTckN6YmRDQl9DeWh6RzVSQUNUZE5RS1ZfNlkzcnBxY3JNaU80aDh5dHNYQzZsQ18wMEI0NHcwMXlHb1V3T0xNX2hONjdqRlhuTXU4UmliNlFNQXRGcndLTVR1VFZ2MDc2Rmp3d2ZQSnZtM25PdUZ3MU1mTlc4SDdXaTJLTWstLTZXdW1RZ25TaTVQN1NTaA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Gerchamp Launches Modular AI Data Center to Bring High-Density Compute to Available Power - markets.businessinsider.com",
       "summary": "Gerchamp Launches Modular AI Data Center to Bring High-Density Compute to Available Power markets.businessinsider.com",
       "source": "markets.businessinsider.com",
@@ -343,9 +333,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments - TipRanks",
-      "summary": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments TipRanks",
-      "source": "TipRanks",
+      "headline": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments - tipranks.com",
+      "summary": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments tipranks.com",
+      "source": "tipranks.com",
       "published_at": "2026-09-09T21:35:16+08:00",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWV1QzZya01MZHFCNElJVmhHVTFYNjJaU2d6SVRVOG9lcG80MkhwUURUUFR3U3UzODVDQV9SckJuYmdKTzRXaFpCNVNQWjF6SGF5QXU4cldZRnV4ZUM4dHdHeEhDSUgtSXZNcXVKRVVVa182WGpwUUxhOEZYRlctckRVSW4yVHNzNE93LWF3c2lvMWlYRkFzQU1zV1VralE1YnJhclZBMFJFcUZYNmpuNXEzMHljODhKODNXU2t4SFVnS2JwSUM3ZWJUcWNGRXJrMkRsMlFwd1BsQWdDX3BnSl83Zw?oc=5",
       "data_type": "live",
@@ -358,6 +348,16 @@
       "source": "Investing.com",
       "published_at": "2026-09-09T20:59:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaW5OeFBxYXFBd09DaEFEUmxwbFIzc1RpY0JITFVkOGJSQkE4THN2LXMtSVFBM21UWEZXSHVNMHhGUG5LQ1Z2YTkxa3VITzFIaHlueTZfQ01JQlZJWTBzTk8zaXlyWm5fSGJlVTY2N0U4WENuM0JCMDZHOUJ6T0hfeDBEUHFKdDdWajZBQnBXanU0RmFjR1JIVS1ZY1hrNWRtN0xQMWRDNnVfaThOUTdTZ0lpQWhGWFVKbUlGTWlQOW4?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri - PR Newswire",
+      "summary": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri PR Newswire",
+      "source": "PR Newswire",
+      "published_at": "2026-09-09T20:36:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFNtNXhUMFU2QTFhS1VIZFZSQ2Jla2c2ekpxbmQ4NXF4WUdONnNCOEY3QjJDZTlwaUxVRkxGamU0eGxXODF2WC0tSkxqU1VjQUlUMGx6cEgwU0JiajExTTMyVUJmNk1YV2FMN1ZPNV90bDVlR0ZublF5MlVOOG5iM2JEVmZqTGJiUFBFNWpnTW43SVJZUE9MX3AzYURZd05STlRYeF9UVG4yVmZ4QWtic2dSYUQxUkE4RDlYTXlwd0VHU1cyUzBaM2pSXy1oT0kzNEczeTdXalhOd3RudVJmaVphS1hueDNpQ3k0TnNUUkRfVGx3TGIzN3dNYnIyclFoYzhnYw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
