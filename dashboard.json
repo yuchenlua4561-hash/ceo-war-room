@@ -7,15 +7,12 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-12T20:54:56+08:00",
+  "intel_updated_at": "2026-09-13T00:12:06+08:00",
   "intel_status": {
     "state": "partial",
-    "collected": 11,
+    "collected": 12,
     "source_failures": [
-      "Google News: HTTPError",
-      "Google News: HTTPError",
-      "Google News: HTTPError",
-      "Google News: HTTPError"
+      "CoolIT Systems: HTTPError"
     ]
   },
   "ceo_summary": {
@@ -247,6 +244,86 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Investors Are Misreading America’s Data Center Lead - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "summary": "Investors Are Misreading America’s Data Center Lead Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "published_at": "2026-09-12T04:36:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ1lONkN0amdBaEpwSHpwQk54a3dhQnRmSU5vTjY4X2htQmhPNVFqbTE4QjlKeHVZUUJDeFotblFWT2R6amtwWFBZV1ZycDBJNFN0WlFQbFJDckFFeDVxVkhoX0tiWHRDc05PQlNMbnNBNm5UV3hBSERFMUF3VEhYQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market - openPR.com",
+      "summary": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-09-11T18:00:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1ZOZjJEZ2VtcGo2Y1duR3NxNlgyVkZHb2FsQ1NzekNldm9zS0V0N0F0TXFnZ3ZEUUlBLVVfMklOeTRHZi0zT2MyZFhVejFJem5hc3hHaG9YQ193WWV2ajNRXzdtcktobU5uRjZkNC1JT3dPODRHbUotd1M5UWJPbUttUy1GX1AxTnJvVndiSGFEWjliaDFOdE5KQXNMZw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA Pushes DSX Deeper Into Data Center Infrastructure - Data Center Frontier",
+      "summary": "NVIDIA Pushes DSX Deeper Into Data Center Infrastructure Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-09-11T02:02:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVVOaHpWU183d0tiWmZ3YVdrc18yM2YzcDlBSW92TElUcVBjU3Z1X2p1Ml93dzNYR0hNSHZhWXFIdUIzekMxREtvTjNFTnduTHA5NHd4LVFYYjdvZTZZVWFKUjRveWtabVVhYVpqNDZ0U3VBX1RVcUtNWnI5aTNzQTQ5Q3R4R3pCeERFNTRRYVMxZGZQMDU1U1l0MU5KYmEzV0t6V1JJR05kdmxYbmFTeFExZUphVlkwNmNr?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
+      "summary": "Clean Energy Resources to Meet Data Center Electricity Demand Department of Energy (.gov)",
+      "source": "Department of Energy (.gov)",
+      "published_at": "2026-09-11T00:21:28+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Gerchamp Launches Modular AI Data Center to Bring High-Density Compute to Available Power - markets.businessinsider.com",
+      "summary": "Gerchamp Launches Modular AI Data Center to Bring High-Density Compute to Available Power markets.businessinsider.com",
+      "source": "markets.businessinsider.com",
+      "published_at": "2026-09-10T22:41:19+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYlhwMzRYWHI5YTJ2Sk1WQTNKYlpsTXdLN3VrbjFMcVM5R09RbDctQURfY3NERHU4T1RkZmlxMVhTWk5Ud0VHSndIYnhlYW9HdnFzcEVzRWxXU2hXRU01cE4xejNEcmxPTEloUUstYmFUQ1V5OE9WcWFXbmtncGZaTjNRQUlCa0pDbW85MFRyMS1QRk1DS29xQXd1NEVfNU5leFM2RFpaYmtIUU9NVTd1V3VuZG56WmJvWFZQNUZRelVOREZBekF2YkVtc2Rad2FVZ3gyYTZaSXdQbG45T1ZiOFF3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Blackstone plans to buy a maker of cooling parts for AI data centers. - Stock Titan",
+      "summary": "Blackstone plans to buy a maker of cooling parts for AI data centers. Stock Titan",
+      "source": "Stock Titan",
+      "published_at": "2026-09-10T22:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDd0VHBoWVpEOENfWFg3dExqMl95bmNLdk1ZamQwME1Gcno5SDRLTWpIWnpmS0dGWmlmSVNIcXhESlF3dGllWkIzY1IxenZzNU1vM1RrZ3F0S0lLYVE0eDFLVFNmZXJ2RzdIb0dacDhrN2dKZEU1MlpfTm9obFcwVHNRYTBWVGpjX2E2M3BIQXdnY214WENiSTVfNXc0LVNXcVdwRExFY2xzVXNCQ3VsTUNGSmQ3dw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "800VDC power architecture emerging as key solution for AI data centers - Global Sources",
+      "summary": "800VDC power architecture emerging as key solution for AI data centers Global Sources",
+      "source": "Global Sources",
+      "published_at": "2026-09-10T16:21:49+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHJhNG45SUNQZmE2MnhkSFhKckpaY0cwLVk0VUI3dk9XeGNQVHVxNldWcGtfbFBpS0xfNm5rNUNCV0Eyd0dMQ19Hem4zWTNSU0lSWXhMRUlQa2JkLUx5TTdtZHpabjhocFVIcGFCT3hBQkh3RkJ4VWtZLVJiSEVOckh1MGYzZFMwNnFpbWJibFJBN0VVOTAzanR6MFV1anhla1Etd09rX1lTa1JpeHhvdEh4TQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Containment Tech Boosts Data Center Energy Efficiency, AI Readiness - datacenters.economictimes.indiatimes.com",
+      "summary": "Containment Tech Boosts Data Center Energy Efficiency, AI Readiness datacenters.economictimes.indiatimes.com",
+      "source": "datacenters.economictimes.indiatimes.com",
+      "published_at": "2026-09-10T13:32:25+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTWdaa20wN0JpRU42dUMxdGF3eHBsZmtkdDN1VUl1Q25DX1NFZ0pFWEN1NmZiSkE5c2hIb2FoSW9TbzYzcUl0S2tYTVFGMnp1VjJsTTQ3Rm5ScjhiY2trVTkybEN4dW5lLUt3RnJUVTg1YWZGbzV2c3c3RC1tQ2tTVmpURWJnVVBuXzdkVzFQdk00T3FnUVdXTnVka0VGcHlvRGJvZUhmbHlNN0NuZ1J2TkhhUlVCOHU1bGRzTnpHYlJQRWc0VHU0czdNNTFwd0VVVzBlUUFvRXFOUzJHNDY1U19OSWVHdTJxWnNDVGtpdVR6d9IB9gFBVV95cUxPNG9QTVAtemVFdHFHT2d4MGY4cTVNbERGR0l5SWhhN2VCYnRXbWFxa1BHUHBlbmplaUkzamJjb0c0NHlSaGtQS2loa0JrbGJPbS1tZThwQkJzNEJyYTg0NjFSamdqbm1OcEEzSG81Q28yMWhuall5cWRCWDRBd1ppLTYxeDFVaE9ldVhDeE5DU2VRQ1JpTExPdHR5UGZJMVhSdmtRRFI2RjktSklpTTNzdnNiRHk3Q2d6ZVd5N1c4TFhKT0xGXzJaUmlXcHlPVm1ZMXotTlhPR0lBTElSMzVZX0hrUTl4dzBBNEtabFY4V2pFeU13cGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
       "summary": "News Summary: NVIDIA is collaborating with Australian NVIDIA Cloud Partners and AI infrastructure partners including Firmus, Sharon AI, IREN, ResetData, Megaport, CDC, NEXTDC and AirTrunk to expand land, power and shell capacity designed to host multiple gener",
@@ -258,101 +335,31 @@
     },
     {
       "category": "資料中心",
-      "headline": "Cost Per Token: The Metric Definition AI Factory Economics",
-      "summary": "Cost per token is the all-in operational cost of generating a single unit of AI output. It is shaped by an entire infrastructure ecosystem, including compute performance, networking, cooling, power distribution, software-driven optimization, deployment strateg",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-09-09T06:56:56+08:00",
-      "url": "https://blog.se.com/datacenter/2026/09/08/cost-per-token-ai-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "headline": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments - TipRanks",
+      "summary": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments TipRanks",
+      "source": "TipRanks",
+      "published_at": "2026-09-09T21:35:16+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWV1QzZya01MZHFCNElJVmhHVTFYNjJaU2d6SVRVOG9lcG80MkhwUURUUFR3U3UzODVDQV9SckJuYmdKTzRXaFpCNVNQWjF6SGF5QXU4cldZRnV4ZUM4dHdHeEhDSUgtSXZNcXVKRVVVa182WGpwUUxhOEZYRlctckRVSW4yVHNzNE93LWF3c2lvMWlYRkFzQU1zV1VralE1YnJhclZBMFJFcUZYNmpuNXEzMHljODhKODNXU2t4SFVnS2JwSUM3ZWJUcWNGRXJrMkRsMlFwd1BsQWdDX3BnSl83Zw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "New nanofluid delivers measurable improvements in data center cooling tests",
-      "summary": "Authors: By Florian Hanslik, Platform Development Leader at Schneider Electric, and Bernard Sagaiyaraj, CTO at Blue Snow Frontier Technologies Executive Summary: As rack power densities continue to increase across hyperscale, neocloud, and enterprise data cent",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-09-03T19:00:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/09/03/new-nanofluid-delivers-measurable-improvements-data-center-cooling-tests/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "headline": "Trinovium signs contract with RTI for AI data center cooling pilot - Investing.com",
+      "summary": "Trinovium signs contract with RTI for AI data center cooling pilot Investing.com",
+      "source": "Investing.com",
+      "published_at": "2026-09-09T20:59:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaW5OeFBxYXFBd09DaEFEUmxwbFIzc1RpY0JITFVkOGJSQkE4THN2LXMtSVFBM21UWEZXSHVNMHhGUG5LQ1Z2YTkxa3VITzFIaHlueTZfQ01JQlZJWTBzTk8zaXlyWm5fSGJlVTY2N0U4WENuM0JCMDZHOUJ6T0hfeDBEUHFKdDdWajZBQnBXanU0RmFjR1JIVS1ZY1hrNWRtN0xQMWRDNnVfaThOUTdTZ0lpQWhGWFVKbUlGTWlQOW4?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "“Less is More” Why fewer is better: How fewer partnerships de-risk data center builds for OEMs – and owners",
-      "summary": "Effective data center construction is in many ways an exercise in risk reduction. Reducing the risk of downtime is paramount, since the chief goal is to build a facility that operates flawlessly for many years. But the build process itself is also fraught with",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-09-03T05:11:17+08:00",
-      "url": "https://blog.se.com/industry/2026/09/02/less-why-fewer-partnerships-de-risk-data-center-builds-oems-owners/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Designing liquid cooling for tightening US data center cooling efficiency standards",
-      "summary": "Author: Corey Olson, Senior Principal, Systems Engineering, Motivair by Schneider Electric A data center design that may not be commissioned for another three to five years creates a difficult target for teams specifying their infrastructure. The cooling syste",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-09-02T20:00:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/09/02/designing-liquid-cooling-for-tightening-us-data-center-cooling-efficiency-standards/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-      "summary": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive. As part of the expanded collaboration, MediaTek will ad",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-31T20:30:00+08:00",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-27T21:00:17+08:00",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are de",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-27T05:05:30+08:00",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
-      "summary": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earning",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-27T04:20:00+08:00",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "How XPUs Meet a World-Class AI Factory",
-      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full fact",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-24T23:00:54+08:00",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-08-24T23:00:41+08:00",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "headline": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri - PR Newswire",
+      "summary": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri PR Newswire",
+      "source": "PR Newswire",
+      "published_at": "2026-09-09T20:36:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFNtNXhUMFU2QTFhS1VIZFZSQ2Jla2c2ekpxbmQ4NXF4WUdONnNCOEY3QjJDZTlwaUxVRkxGamU0eGxXODF2WC0tSkxqU1VjQUlUMGx6cEgwU0JiajExTTMyVUJmNk1YV2FMN1ZPNV90bDVlR0ZublF5MlVOOG5iM2JEVmZqTGJiUFBFNWpnTW43SVJZUE9MX3AzYURZd05STlRYeF9UVG4yVmZ4QWtic2dSYUQxUkE4RDlYTXlwd0VHU1cyUzBaM2pSXy1oT0kzNEczeTdXalhOd3RudVJmaVphS1hueDNpQ3k0TnNUUkRfVGx3TGIzN3dNYnIyclFoYzhnYw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
