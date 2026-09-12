@@ -7,13 +7,11 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-13T00:12:06+08:00",
+  "intel_updated_at": "2026-09-13T02:27:57+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -255,9 +253,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market - openPR.com",
-      "summary": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market openPR.com",
-      "source": "openPR.com",
+      "headline": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market - openpr.com",
+      "summary": "USA Data Center Rack Market 2035 | Growth Drivers, Trends & Market openpr.com",
+      "source": "openpr.com",
       "published_at": "2026-09-11T18:00:46+08:00",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1ZOZjJEZ2VtcGo2Y1duR3NxNlgyVkZHb2FsQ1NzekNldm9zS0V0N0F0TXFnZ3ZEUUlBLVVfMklOeTRHZi0zT2MyZFhVejFJem5hc3hHaG9YQ193WWV2ajNRXzdtcktobU5uRjZkNC1JT3dPODRHbUotd1M5UWJPbUttUy1GX1AxTnJvVndiSGFEWjliaDFOdE5KQXNMZw?oc=5",
       "data_type": "live",
@@ -294,20 +292,20 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Blackstone plans to buy a maker of cooling parts for AI data centers. - Stock Titan",
-      "summary": "Blackstone plans to buy a maker of cooling parts for AI data centers. Stock Titan",
-      "source": "Stock Titan",
+      "category": "液冷散熱",
+      "headline": "Blackstone to Acquire Flow Control Holdings, a Leader in Highly Engineered Data Center Liquid Cooling Components - Yahoo! Finance Canada",
+      "summary": "Blackstone to Acquire Flow Control Holdings, a Leader in Highly Engineered Data Center Liquid Cooling Components Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
       "published_at": "2026-09-10T22:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDd0VHBoWVpEOENfWFg3dExqMl95bmNLdk1ZamQwME1Gcno5SDRLTWpIWnpmS0dGWmlmSVNIcXhESlF3dGllWkIzY1IxenZzNU1vM1RrZ3F0S0lLYVE0eDFLVFNmZXJ2RzdIb0dacDhrN2dKZEU1MlpfTm9obFcwVHNRYTBWVGpjX2E2M3BIQXdnY214WENiSTVfNXc0LVNXcVdwRExFY2xzVXNCQ3VsTUNGSmQ3dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeERNLUQzQUM1T2lTTEFPOVlVRDhkYkJfMGpHeHVXc2VFX1pUcVZBY1RRLWVmNjJNMV9xcmdLWHN4QVg3RXAxczRZTUJzNFhpd0pTTFd2enR1dFNNdFFQNkxhN0FCN0dpa0JzS3gydnJFUVVfck1PazZqRmxZd2M4QTdxQlJPZ1pZVXk2bnVNVEQtbUk?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "800VDC power architecture emerging as key solution for AI data centers - Global Sources",
-      "summary": "800VDC power architecture emerging as key solution for AI data centers Global Sources",
-      "source": "Global Sources",
+      "headline": "800VDC power architecture emerging as key solution for AI data centers - globalsources.com",
+      "summary": "800VDC power architecture emerging as key solution for AI data centers globalsources.com",
+      "source": "globalsources.com",
       "published_at": "2026-09-10T16:21:49+08:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHJhNG45SUNQZmE2MnhkSFhKckpaY0cwLVk0VUI3dk9XeGNQVHVxNldWcGtfbFBpS0xfNm5rNUNCV0Eyd0dMQ19Hem4zWTNSU0lSWXhMRUlQa2JkLUx5TTdtZHpabjhocFVIcGFCT3hBQkh3RkJ4VWtZLVJiSEVOckh1MGYzZFMwNnFpbWJibFJBN0VVOTAzanR6MFV1anhla1Etd09rX1lTa1JpeHhvdEh4TQ?oc=5",
       "data_type": "live",
