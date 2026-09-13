@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-13T13:25:19+08:00",
+  "intel_updated_at": "2026-09-13T18:33:50+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -242,6 +242,26 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling - Data Center Dynamics",
+      "summary": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-09-13T16:36:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeldEQ2oxQ1RFU3BvUGRiOHd3ZEZnNklydjRNdDI4cHdkSHpFYlRrRVdUUEluaVY4QXVjd25MaUd4eDNIWXF5eTNKcTRXNUx1dVgyY3A0RjhQazZaV3ZTUGU2ZFNhQXBBakR5MWlUWlppS1h5dkItSkwxeDlhM1RaenpOYVlFZU1SVDhKU2dwXzZibFVhaUcwZ2pJdU1DQ1IyRUN6c0JoZzgtQWlnOElEZGJmX1BzVUlFNTFzdEFFa3cweG50YnkxT1o2TkxOZVM5YW40?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data centre cooling faces skills gap amid AI boom - ET Datacenters",
+      "summary": "Data centre cooling faces skills gap amid AI boom ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-09-13T11:45:18+08:00",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQnV1UllkYWZ5VWxEV3VuNDhsV1hBcTFvVGhCbzdjYXJlOXBCajdSUUlJcm9FWEg2Yl9rQ1BRNWZuT2FmcjlyU3BUTFVzMHo0dUlrZ19jRG1SVksyaklOVmtJVnB3ODk2cVRCTzdVd0VrQTF0QkVsMDlxbWd3SWhjTEpEZGNmMF9oQTFzUlVTcllPQXdFQUptcU9aeXFJR28xS3NSeGRGUmNaLUNwOXRQQW1oMEVGYkdHLTN5cGtoUGtHdjBXVXUxMVU0cEE5aTZVdGtmemZ0WHZTcFRfWnJDV05CX2ZhZ3p3ZTQ0VDllYW1PdE5SUHNZZmdnRWE1TkxmdXdLWFFYQzU4N2RnY0M5aNIB3wFBVV95cUxQNGh0d3JJdXRkUlRpQWUyMS1JdjhvRFdwdmtkTlR4R01sdXdtZEtVWFBjMF94bVB6TWRTX1N0aUM5ZmR0WGEza1hkUHNYM1JUQmJKNl90TnItTy1vNjNLcTBoMVl3NnlJNVdNMlRYUlVjZFdVVkZtRWRTYlBQWkUxb3U1TmJFZFhZdjhkQk1ha2FmdGx0RVZqS3ZHa3RiUVptckl6VERteGNWaHBkWThYdGtyREc1eXZlejB0d2FyVlVpX0VLYnotMXI5ZFRmRlNXVnlETHJwWHF3TXhlVldv?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Investors Are Misreading America’s Data Center Lead - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
       "summary": "Investors Are Misreading America’s Data Center Lead Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
@@ -303,9 +323,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "800VDC power architecture emerging as key solution for AI data centers - globalsources.com",
-      "summary": "800VDC power architecture emerging as key solution for AI data centers globalsources.com",
-      "source": "globalsources.com",
+      "headline": "800VDC power architecture emerging as key solution for AI data centers - Global Sources",
+      "summary": "800VDC power architecture emerging as key solution for AI data centers Global Sources",
+      "source": "Global Sources",
       "published_at": "2026-09-10T16:21:49+08:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHJhNG45SUNQZmE2MnhkSFhKckpaY0cwLVk0VUI3dk9XeGNQVHVxNldWcGtfbFBpS0xfNm5rNUNCV0Eyd0dMQ19Hem4zWTNSU0lSWXhMRUlQa2JkLUx5TTdtZHpabjhocFVIcGFCT3hBQkh3RkJ4VWtZLVJiSEVOckh1MGYzZFMwNnFpbWJibFJBN0VVOTAzanR6MFV1anhla1Etd09rX1lTa1JpeHhvdEh4TQ?oc=5",
       "data_type": "live",
@@ -338,26 +358,6 @@
       "source": "TipRanks",
       "published_at": "2026-09-09T21:35:16+08:00",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWV1QzZya01MZHFCNElJVmhHVTFYNjJaU2d6SVRVOG9lcG80MkhwUURUUFR3U3UzODVDQV9SckJuYmdKTzRXaFpCNVNQWjF6SGF5QXU4cldZRnV4ZUM4dHdHeEhDSUgtSXZNcXVKRVVVa182WGpwUUxhOEZYRlctckRVSW4yVHNzNE93LWF3c2lvMWlYRkFzQU1zV1VralE1YnJhclZBMFJFcUZYNmpuNXEzMHljODhKODNXU2t4SFVnS2JwSUM3ZWJUcWNGRXJrMkRsMlFwd1BsQWdDX3BnSl83Zw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Trinovium signs contract with RTI for AI data center cooling pilot - Investing.com",
-      "summary": "Trinovium signs contract with RTI for AI data center cooling pilot Investing.com",
-      "source": "Investing.com",
-      "published_at": "2026-09-09T20:59:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaW5OeFBxYXFBd09DaEFEUmxwbFIzc1RpY0JITFVkOGJSQkE4THN2LXMtSVFBM21UWEZXSHVNMHhGUG5LQ1Z2YTkxa3VITzFIaHlueTZfQ01JQlZJWTBzTk8zaXlyWm5fSGJlVTY2N0U4WENuM0JCMDZHOUJ6T0hfeDBEUHFKdDdWajZBQnBXanU0RmFjR1JIVS1ZY1hrNWRtN0xQMWRDNnVfaThOUTdTZ0lpQWhGWFVKbUlGTWlQOW4?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri - PR Newswire",
-      "summary": "Island Roadhouse Data Centers Details Behind-the-Meter Atomic Design for a Low-Water AI Data Center Campus in Missouri PR Newswire",
-      "source": "PR Newswire",
-      "published_at": "2026-09-09T20:36:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFNtNXhUMFU2QTFhS1VIZFZSQ2Jla2c2ekpxbmQ4NXF4WUdONnNCOEY3QjJDZTlwaUxVRkxGamU0eGxXODF2WC0tSkxqU1VjQUlUMGx6cEgwU0JiajExTTMyVUJmNk1YV2FMN1ZPNV90bDVlR0ZublF5MlVOOG5iM2JEVmZqTGJiUFBFNWpnTW43SVJZUE9MX3AzYURZd05STlRYeF9UVG4yVmZ4QWtic2dSYUQxUkE4RDlYTXlwd0VHU1cyUzBaM2pSXy1oT0kzNEczeTdXalhOd3RudVJmaVphS1hueDNpQ3k0TnNUUkRfVGx3TGIzN3dNYnIyclFoYzhnYw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
