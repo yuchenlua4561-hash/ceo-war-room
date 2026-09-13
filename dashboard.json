@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-13T18:33:50+08:00",
+  "intel_updated_at": "2026-09-13T22:38:04+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,9 +243,9 @@
   "news": [
     {
       "category": "液冷散熱",
-      "headline": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling - Data Center Dynamics",
-      "summary": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "headline": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling - datacenterdynamics.com",
+      "summary": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling datacenterdynamics.com",
+      "source": "datacenterdynamics.com",
       "published_at": "2026-09-13T16:36:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeldEQ2oxQ1RFU3BvUGRiOHd3ZEZnNklydjRNdDI4cHdkSHpFYlRrRVdUUEluaVY4QXVjd25MaUd4eDNIWXF5eTNKcTRXNUx1dVgyY3A0RjhQazZaV3ZTUGU2ZFNhQXBBakR5MWlUWlppS1h5dkItSkwxeDlhM1RaenpOYVlFZU1SVDhKU2dwXzZibFVhaUcwZ2pJdU1DQ1IyRUN6c0JoZzgtQWlnOElEZGJmX1BzVUlFNTFzdEFFa3cweG50YnkxT1o2TkxOZVM5YW40?oc=5",
       "data_type": "live",
