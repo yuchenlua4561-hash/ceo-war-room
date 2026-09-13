@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-13T22:38:04+08:00",
+  "intel_updated_at": "2026-09-14T01:43:28+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -242,10 +242,20 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Fan Impeller Assemblies Market Forecast to 2035: Data Center Cooling Demand Drives 5.2% CAGR - IndexBox",
+      "summary": "Fan Impeller Assemblies Market Forecast to 2035: Data Center Cooling Demand Drives 5.2% CAGR IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-09-13T23:36:17+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkhvSFRQbWtQYnVvRC1USGtSUFRLcWVKNlFpbGNVa2wzN0MzQ28xalJ3aW1CdlRDaWdxQmlGLW9CRUxNbk9Fb3VwVjJhaExwdHQ1Y2gzd3JjUnhKVjlFLVpVZHdDQnV5OGRlb1g4dTZLdjFRU1hzc04ybUhfdkZwUjM3U1d3QzNOSVJpSXRBYkpIcXJ4SjBNUl9MNFdjSmlxV1dKaENQSU00NkNMMV85dVNnazBKdzNjUGNsWA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
-      "headline": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling - datacenterdynamics.com",
-      "summary": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling - Data Center Dynamics",
+      "summary": "From pilot to production: Direct liquid cooling deployment risks in AI data center cooling Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-09-13T16:36:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeldEQ2oxQ1RFU3BvUGRiOHd3ZEZnNklydjRNdDI4cHdkSHpFYlRrRVdUUEluaVY4QXVjd25MaUd4eDNIWXF5eTNKcTRXNUx1dVgyY3A0RjhQazZaV3ZTUGU2ZFNhQXBBakR5MWlUWlppS1h5dkItSkwxeDlhM1RaenpOYVlFZU1SVDhKU2dwXzZibFVhaUcwZ2pJdU1DQ1IyRUN6c0JoZzgtQWlnOElEZGJmX1BzVUlFNTFzdEFFa3cweG50YnkxT1o2TkxOZVM5YW40?oc=5",
       "data_type": "live",
@@ -313,9 +323,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Blackstone to Acquire Flow Control Holdings, a Leader in Highly Engineered Data Center Liquid Cooling Components - Yahoo! Finance Canada",
-      "summary": "Blackstone to Acquire Flow Control Holdings, a Leader in Highly Engineered Data Center Liquid Cooling Components Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
+      "headline": "Blackstone to Acquire Flow Control Holdings, a Leader in Highly Engineered Data Center Liquid Cooling Components - ca.finance.yahoo.com",
+      "summary": "Blackstone to Acquire Flow Control Holdings, a Leader in Highly Engineered Data Center Liquid Cooling Components ca.finance.yahoo.com",
+      "source": "ca.finance.yahoo.com",
       "published_at": "2026-09-10T22:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeERNLUQzQUM1T2lTTEFPOVlVRDhkYkJfMGpHeHVXc2VFX1pUcVZBY1RRLWVmNjJNMV9xcmdLWHN4QVg3RXAxczRZTUJzNFhpd0pTTFd2enR1dFNNdFFQNkxhN0FCN0dpa0JzS3gydnJFUVVfck1PazZqRmxZd2M4QTdxQlJPZ1pZVXk2bnVNVEQtbUk?oc=5",
       "data_type": "live",
@@ -348,16 +358,6 @@
       "source": "NVIDIA Newsroom",
       "published_at": "2026-09-10T08:00:00+08:00",
       "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments - TipRanks",
-      "summary": "Trinity Biotech’s Trinovium Unit Signs AI Data Center Cooling Pilot Deal with Red Team Investments TipRanks",
-      "source": "TipRanks",
-      "published_at": "2026-09-09T21:35:16+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWV1QzZya01MZHFCNElJVmhHVTFYNjJaU2d6SVRVOG9lcG80MkhwUURUUFR3U3UzODVDQV9SckJuYmdKTzRXaFpCNVNQWjF6SGF5QXU4cldZRnV4ZUM4dHdHeEhDSUgtSXZNcXVKRVVVa182WGpwUUxhOEZYRlctckRVSW4yVHNzNE93LWF3c2lvMWlYRkFzQU1zV1VralE1YnJhclZBMFJFcUZYNmpuNXEzMHljODhKODNXU2t4SFVnS2JwSUM3ZWJUcWNGRXJrMkRsMlFwd1BsQWdDX3BnSl83Zw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
