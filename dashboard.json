@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-15T20:02:00+08:00",
+  "updated_at": "2026-09-16T01:02:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-15T20:13:19+08:00",
+  "intel_updated_at": "2026-09-16T01:05:59+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/15 20:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/16 01:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-15 20:02 GMT+8",
+      "as_of": "2026-09-16 01:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2083,
+      "value": 0.2081,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-15 20:02 GMT+8",
+      "as_of": "2026-09-16 01:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.065,
+      "value": 37.085,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-15 20:02 GMT+8",
+      "as_of": "2026-09-16 01:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,9 +243,29 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "KT Cloud to Build 1GW AI Data Center by 2031 - 조선일보",
-      "summary": "KT Cloud to Build 1GW AI Data Center by 2031 조선일보",
-      "source": "조선일보",
+      "headline": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team a",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-09-16T00:55:59+08:00",
+      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed au",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-09-16T00:55:40+08:00",
+      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KT Cloud to Build 1GW AI Data Center by 2031 - chosun.com",
+      "summary": "KT Cloud to Build 1GW AI Data Center by 2031 chosun.com",
+      "source": "chosun.com",
       "published_at": "2026-09-15T15:38:21+08:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaW9qd0lfRnoxQnhWeEpiS0U0dkQtczJiakpvSHI3elBwUGphWjlVaDBibk1iNnJlRmgzVVpocFJzMUlDelBTRTN5MVJzWGpvM0VnNFpIcjJZLU5GRU5wZEJpd01PdkNYQWhweFlPWEM5OHZNa2ZyMk9URzUteVF0Q1J4UDhOYVB6?oc=5",
       "data_type": "live",
@@ -283,11 +303,31 @@
     },
     {
       "category": "資料中心",
+      "headline": "Why coolant health is becoming an uptime issue for AI data centers - Data Center Dynamics",
+      "summary": "Why coolant health is becoming an uptime issue for AI data centers Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-09-14T22:32:43+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHotTmpSSlJOOXpsVXloWnJ5aV9NNzFYczJKc2cxZmtXUHZaRXducVVuaXVoWWREM0MxRGs0VEI0S3JaZHRTOEVmWVRMeDl0c2Rva2FYY3I4THNuZHNyYWlfcFdNaXdhUzl0Yi1oS2kya0dOakp0MXZ3TlVoY2FtbGsxU18zTkM0Qnd5SUdWbm1kRXR3dGpLaXpLM3dmZ01Rd0J2UHd3UVpCdkVDWmNXdjZYZmU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "AI data center deal could add millions of new shares at AirJoule Technologies (AIRJ) - Stock Titan",
       "summary": "AI data center deal could add millions of new shares at AirJoule Technologies (AIRJ) Stock Titan",
       "source": "Stock Titan",
       "published_at": "2026-09-14T19:58:58+08:00",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONGhUV1JidUFuM3Bab1RyY3NSY1FtdmtrXzZUcHNmcGdSNzJuYk9zQl9wY1oyaDJUR01EcVJxc3hWZVBfRDBGSUdJNFVJY2NnY3RDWEZZZzJ2Si1XMGxHS0J4blAxV2t5c3hqd3lRcWp6ckROdzRTU01qS3dVZEFJS3gyeHN4UEsyZnhpM3dyTExVSlVGdUU2OXFhWVBRQXcyMG0wU3hKNldCVTFfYTcyS2dSbnZSams?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "3 E Network Deploys CFD Simulation and Digital Twin Technologies for Mikkeli AI Data Center - The Manila Times",
+      "summary": "3 E Network Deploys CFD Simulation and Digital Twin Technologies for Mikkeli AI Data Center The Manila Times",
+      "source": "The Manila Times",
+      "published_at": "2026-09-14T19:56:42+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNktHeE1IUDZHRVowZm1GS3BuQndwYndqZW5XbEIyemRaWF9CWDhaRDROckZLOFNQNXV6R1VQNElQdC1UWEM4ZXR1Q3d3bGNweW03NWtjQzNaOHF3c016OWNiZWxWNGpIR2tSZDBkbkY1S3lVd2RteXpKVFN0YlpPdWlieXk1dndrdi1QS3RDRHYwZmZaRkx4OEc3UDktOUJRS0JTZkVCck50SlNZemNTUjlmNWxtOE9sdHRmR19rZXNOeFNydWJROUUyYThUS0V6ZVFpSFMtcXYwT3RkX3JXN25mekpFZ1VETl9GMVVjSHpERU9EVHlRbnVoT052QdIB_gFBVV95cUxQNktHeE1IUDZHRVowZm1GS3BuQndwYndqZW5XbEIyemRaWF9CWDhaRDROckZLOFNQNXV6R1VQNElQdC1UWEM4ZXR1Q3d3bGNweW03NWtjQzNaOHF3c016OWNiZWxWNGpIR2tSZDBkbkY1S3lVd2RteXpKVFN0YlpPdWlieXk1dndrdi1QS3RDRHYwZmZaRkx4OEc3UDktOUJRS0JTZkVCck50SlNZemNTUjlmNWxtOE9sdHRmR19rZXNOeFNydWJROUUyYThUS0V6ZVFpSFMtcXYwT3RkX3JXN25mekpFZ1VETl9GMVVjSHpERU9EVHlRbnVoT052QQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -318,46 +358,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-09-13T16:36:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeldEQ2oxQ1RFU3BvUGRiOHd3ZEZnNklydjRNdDI4cHdkSHpFYlRrRVdUUEluaVY4QXVjd25MaUd4eDNIWXF5eTNKcTRXNUx1dVgyY3A0RjhQazZaV3ZTUGU2ZFNhQXBBakR5MWlUWlppS1h5dkItSkwxeDlhM1RaenpOYVlFZU1SVDhKU2dwXzZibFVhaUcwZ2pJdU1DQ1IyRUN6c0JoZzgtQWlnOElEZGJmX1BzVUlFNTFzdEFFa3cweG50YnkxT1o2TkxOZVM5YW40?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data centre cooling faces skills gap amid AI boom - ET Datacenters",
-      "summary": "Data centre cooling faces skills gap amid AI boom ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-09-13T11:45:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQnV1UllkYWZ5VWxEV3VuNDhsV1hBcTFvVGhCbzdjYXJlOXBCajdSUUlJcm9FWEg2Yl9rQ1BRNWZuT2FmcjlyU3BUTFVzMHo0dUlrZ19jRG1SVksyaklOVmtJVnB3ODk2cVRCTzdVd0VrQTF0QkVsMDlxbWd3SWhjTEpEZGNmMF9oQTFzUlVTcllPQXdFQUptcU9aeXFJR28xS3NSeGRGUmNaLUNwOXRQQW1oMEVGYkdHLTN5cGtoUGtHdjBXVXUxMVU0cEE5aTZVdGtmemZ0WHZTcFRfWnJDV05CX2ZhZ3p3ZTQ0VDllYW1PdE5SUHNZZmdnRWE1TkxmdXdLWFFYQzU4N2RnY0M5aNIB3wFBVV95cUxQNGh0d3JJdXRkUlRpQWUyMS1JdjhvRFdwdmtkTlR4R01sdXdtZEtVWFBjMF94bVB6TWRTX1N0aUM5ZmR0WGEza1hkUHNYM1JUQmJKNl90TnItTy1vNjNLcTBoMVl3NnlJNVdNMlRYUlVjZFdVVkZtRWRTYlBQWkUxb3U1TmJFZFhZdjhkQk1ha2FmdGx0RVZqS3ZHa3RiUVptckl6VERteGNWaHBkWThYdGtyREc1eXZlejB0d2FyVlVpX0VLYnotMXI5ZFRmRlNXVnlETHJwWHF3TXhlVldv?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
-      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-09-12T16:40:12+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "India Eyes AI Data Center Cooling Norms in Cooling Plan Update - Whalesbook",
-      "summary": "India Eyes AI Data Center Cooling Norms in Cooling Plan Update Whalesbook",
-      "source": "Whalesbook",
-      "published_at": "2026-09-12T09:08:41+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd1BGX3JGLUFwaWZtTVhaX0JlcmNOX3NCOVlNdDBmb0JaTGNrOUdmZHpKY2FKV2NIby1mZHNKZlRORmpHZzFMZ3hsV0lLbVlleTM3dzJZMDJtYkZKVG5GeW9NMGU4WEQ4TFI0ZU9VX0pheEMtejlRTUtNa19OaUZheVNSekI4MjZGZmV2QXBjMHg1MTIzTDd5YXl2dG91MHdBanZvcjVKc1dQengwd285c0NRWTY4ZGhIZmZHVTEtTVE5aUdtWkNCM2JJSktNVnNi?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-09-12T01:06:12+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
