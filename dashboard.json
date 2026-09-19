@@ -7,11 +7,16 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-19T13:59:04+08:00",
+  "intel_updated_at": "2026-09-19T18:48:37+08:00",
   "intel_status": {
-    "state": "ok",
-    "collected": 12,
-    "source_failures": []
+    "state": "partial",
+    "collected": 5,
+    "source_failures": [
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -243,106 +248,6 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Why AI Data Centers Need Board-Level Protection for High-Density Compute - Electronic Design",
-      "summary": "Why AI Data Centers Need Board-Level Protection for High-Density Compute Electronic Design",
-      "source": "Electronic Design",
-      "published_at": "2026-09-19T01:55:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlJmOFB3NEI5ZF9qRDlJZUdBa3ZISkxDTlA5WlB3T0QzWkFNMlA3cVFIel9va1ZvUlVUM0JYNEl2UTg2Z2VpbU9kam56Tk9LZHpkS2hUYXhmM29KenVMdm50d3dMd2dKQklRY2s0R1NoR0ZUb09ZdnMzRkFDdUxQcEw5QXRNYXpqX2pSYWhya2ZnV3hmeEhTakpwQlNEQWtxaVQ3ZURsZUpDTmcwT2k3cGdrMEdfRE45aHFFbGloT2lsU1ZLSVROU054bEkwRE9TX1hjQlk3Q3o4eFhkZWFjMUdBdm5iRFM0NkE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Infrastructure Is Redrawing the Data Center Services Landscape - Data Center Frontier",
-      "summary": "AI Infrastructure Is Redrawing the Data Center Services Landscape Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-09-18T22:41:08+08:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXYzZTlORWVzQ1B2S0VCdlU3S0hnNk4xY1ZGYUFXNFhkMWpvZjhGQ2owTGNZMFlKcjVPNlpwZEZUdEVIRzk1R0pXTGJsNXpkMnlSV25ORHBuSE5CWFhvZ0pueTNtZzhJejg5Q1FPbnFDRXFkTDdncXp6TGNRQXdwbzNjblV0ZHpvM2ZKbTUzY0pQdEZHR3Z0TklnRkl1bzBRVk9pSlRFVnk4aG9WeXRrZWtzMXlDblN3TE1pb1gyMW9aNVBpM2RF?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI - openPR.com",
-      "summary": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-09-18T14:16:51+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmVrSmNQelptb2dGWGhtMEhIamREaHJpNUVla1FrNEVYZnZJcmdwaUlKZkhBMmszbnpVUVZvTmFnVHUzWldhZDNYM2J3VTZPcmVkenloMWpYUWxVX0gwZDNWeXhncEJrRFJpUS1ncHJhdWRsQVE1QW9PZUQ0c2FpUWt3ZG5JNG5RcVItcDl3V0VRcG1qcVJFcjN4YWZHSHRH?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "ODATA Deploys DeltaFlow Liquid Cooling in Mexico - mexicobusiness.news",
-      "summary": "ODATA Deploys DeltaFlow Liquid Cooling in Mexico mexicobusiness.news",
-      "source": "mexicobusiness.news",
-      "published_at": "2026-09-18T01:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaTlaVlNacUZWWGVsR2lvNGMwTWg2dy1WZld3bXZnV3FuUHFVLXhOLWVla1lwZmx5cnBfcG9lTUh3aGxmd1ExUHdXQTJROV9nV2JyZE5GMlJxMEU2VkEwbGhaWUpNdTZZZW9LeXktU3cwSGZaX21veWdXTVBCRHgwanlYcGx0c016S2w0NFRyeTlxQUw1amc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Fujitsu targets AI data center market in Japan, Europe - Electronics360",
-      "summary": "Fujitsu targets AI data center market in Japan, Europe Electronics360",
-      "source": "Electronics360",
-      "published_at": "2026-09-17T22:23:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3lURjcyQ09NVHd6YmFCQ1QwNll1dGxldFN5VkxYcW1qM1dhMWxoR3hBWE1iU0loalRBRFNhSjRlM0gtX2J1Y25Dby02aDJpMW1EMGZOLXdFVzNIcUhwRmhBaGxFbWpNTExnS180MmZlT2t4MVExRlBCWTZHNkZXTGpLN3JYb1pqM01ObUVDdEYxVjUzbGN0Yi1zRUthcXJxNkVTcTQtcnk?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Market to Reach USD 36,593.53 million by 2034, Growing at a CAGR of 32.6% - openPR.com",
-      "summary": "Data Center Liquid Cooling Market to Reach USD 36,593.53 million by 2034, Growing at a CAGR of 32.6% openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-09-17T19:38:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjFKTUcwMGUyX2M3bXNsY01IYkFaMGNqVWpvVzBiR01WSXpVaEVsVEUtNXVYWjd0TXlta3VBV3h4elBMbGR2TG9FLV9sMF82MXFCaFV1RDU4VGZTRlBMbm0zRzZnRnRWS3lUSV9EdS0zbEFSOUx3QVNuUkswaXVPUlJJZzZXZ3ZKR2Y1VFc1cnQ2LTJYREpSN0ZvajlzaGdtQVE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 - Yahoo Finance",
-      "summary": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-17T15:48:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXdJaHRfNE1UZHB6djFsTnF1SnQ5N2tMTm94WTFlaEJNU1ZORHZ1cHU5TG44dU5uV0ZWd09XRjY0SVVfQU9kWUlOWUk1ZnlOd2k1QTB1Wi1DelZPX2tzVmcycHhjNnljZUc5SGptUGEtN0ZOVzhXUHB2Wl9CcDUxWGM4QndSaWZ0V25HR2ZKd2dyZ2ZRNC1TU0RyQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "\"Data centers now have power ahead of the ground. It's worth more than a lot of land where you can get power on time.\" - 매일경제",
-      "summary": "\"Data centers now have power ahead of the ground. It's worth more than a lot of land where you can get power on time.\" 매일경제",
-      "source": "매일경제",
-      "published_at": "2026-09-17T14:14:51+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaVVsQ2lTZ3JXb0UwNmNPMzdoVmpwakNyb19pWVFLX285bW5ZYnFQOGFfU3IyRnVTWm9teF9saTRQUXo0Znl1Zi00YThIUGt3TVFYdF9B?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "EXTRCOOL at Data Center World USA: Insights from a Global Leading - openPR.com",
-      "summary": "EXTRCOOL at Data Center World USA: Insights from a Global Leading openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-09-17T13:47:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVmNHdwRGZST1lid1ZWZHN0c2d3ckMyTThqNEt1bUowTGJnMGNNdm9fUDVSUzhRdW9GRXFJTlpvZ05Wc0VWMUZJSGNWa1M2cXhVcmNMN3VaeUx2Z1ozY1JLRm5xTFRiU3ExYnJBdE5vTlBiZlpKT3VUSFlTQTNWNUhXTFBueGNWOWxEUUN1U2Jzc19yT3dZVmdZNkdQVGl1a3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Centers to Draw $50 Trillion by 2050, With Investment Shifting to Power and Equipment - finance.biggo.com",
-      "summary": "AI Data Centers to Draw $50 Trillion by 2050, With Investment Shifting to Power and Equipment finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-09-17T11:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52dU1TTlJuYVJZYUFwVHlqUHRmazFCN3o4NnAzYVB6YkM4a3VtQkczSFlScVRlZ1dGV01LZi1IQll3OE10ZVFIY2RkUXJ6Y0o3b1hBSVQzRHdFaWlka09NOGtzeGdQZGRpQXZ0SnZPWnl1N0JRMnc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
       "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (A",
       "source": "NVIDIA Blog",
@@ -353,11 +258,41 @@
     },
     {
       "category": "資料中心",
-      "headline": "GS Expands AI Data Center Business with Startup Partnerships - 조선일보",
-      "summary": "GS Expands AI Data Center Business with Startup Partnerships 조선일보",
-      "source": "조선일보",
-      "published_at": "2026-09-16T13:35:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkJZQ3ZxVjE4VDAwNE1XRTVaS0ptbnh0blUxWUk0SjFvQ3lmeTc3dmc2WEkyQUUzVjRmMnUzQVVLaWRoX01iY1FnTm5uTUg2RVV2U2pTWER0M3pqUE11X0hxWWRrY2xlSF8wVmtNbkc1bXpVeW9yNmR0WnZKazhTVHNwNTJPeVVj?oc=5",
+      "headline": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team a",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-09-16T00:55:59+08:00",
+      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed au",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-09-16T00:55:40+08:00",
+      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
+      "summary": "News Summary: NVIDIA is collaborating with Australian NVIDIA Cloud Partners and AI infrastructure partners including Firmus, Sharon AI, IREN, ResetData, Megaport, CDC, NEXTDC and AirTrunk to expand land, power and shell capacity designed to host multiple gener",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-09-10T08:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Cost Per Token: The Metric Defining AI Factory Economics",
+      "summary": "Cost per token is the all-in operational cost of generating a single unit of AI output. It is shaped by an entire infrastructure ecosystem, including compute performance, networking, cooling, power distribution, software-driven optimization, deployment strateg",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-09-09T06:56:56+08:00",
+      "url": "https://blog.se.com/datacenter/2026/09/08/cost-per-token-ai-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     }
