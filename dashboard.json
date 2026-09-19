@@ -7,11 +7,13 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-20T03:21:51+08:00",
+  "intel_updated_at": "2026-09-20T05:30:39+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -272,6 +274,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "Rest-Of-Asia-Pacific Data Center Thermal Management Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "summary": "Rest-Of-Asia-Pacific Data Center Thermal Management Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
+      "source": "MarketsandMarkets",
+      "published_at": "2026-09-18T22:00:42+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVpoZzNaSjdBVDV3eWwyNDNlQjNOM29wNjEwNGVXQmJLNFh5cU93b1hXV0hHS2VjUWZseEVFanhrUlRnTzJqM2I4bm5jeURwVHBYQjFwSFpGN2VXTzJiX0FkWEhGM2xfZWhfWnN0YlBCWEdjUnJ3c3FsbWxJamlYcXFFMkhHVWFrQ0dFN1hMcTQ0bFowWEpkZzVYT3hlVl9MWHREMUQzNGpnS0xHbmpzMXVHNzB6d1ct?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI - openPR.com",
       "summary": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI openPR.com",
@@ -298,6 +310,16 @@
       "source": "Mexico Business News",
       "published_at": "2026-09-18T01:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaTlaVlNacUZWWGVsR2lvNGMwTWg2dy1WZld3bXZnV3FuUHFVLXhOLWVla1lwZmx5cnBfcG9lTUh3aGxmd1ExUHdXQTJROV9nV2JyZE5GMlJxMEU2VkEwbGhaWUpNdTZZZW9LeXktU3cwSGZaX21veWdXTVBCRHgwanlYcGx0c016S2w0NFRyeTlxQUw1amc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI, Data Center Infrastructure, Semiconductor, Power & Energy, Sensing, Robotics and Advanced Technology Markets - MarketsandMarkets",
+      "summary": "AI, Data Center Infrastructure, Semiconductor, Power & Energy, Sensing, Robotics and Advanced Technology Markets MarketsandMarkets",
+      "source": "MarketsandMarkets",
+      "published_at": "2026-09-17T19:54:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1dZS2c1SXJjTHo1ZFp1OEVlT1ZmR21DTnU4Y0ZDQU4wa254TFRUQ0J5TnAtcWZ5b09mbzBENUtXOVc5a2VEM1RtMjR0anZJMG02S1c2WUNjT1B3WU5iMDZmN0U4UENNR2ZnNUJ6LTNwdW5IdGYteUJzbnI4RGV6UEZFMnNnSmExUzVjNi1OTlozejZkWlZrcnJR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -338,26 +360,6 @@
       "source": "openPR.com",
       "published_at": "2026-09-17T13:47:07+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVmNHdwRGZST1lid1ZWZHN0c2d3ckMyTThqNEt1bUowTGJnMGNNdm9fUDVSUzhRdW9GRXFJTlpvZ05Wc0VWMUZJSGNWa1M2cXhVcmNMN3VaeUx2Z1ozY1JLRm5xTFRiU3ExYnJBdE5vTlBiZlpKT3VUSFlTQTNWNUhXTFBueGNWOWxEUUN1U2Jzc19yT3dZVmdZNkdQVGl1a3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Centers to Draw $50 Trillion by 2050, With Investment Shifting to Power and Equipment - finance.biggo.com",
-      "summary": "AI Data Centers to Draw $50 Trillion by 2050, With Investment Shifting to Power and Equipment finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-09-17T11:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52dU1TTlJuYVJZYUFwVHlqUHRmazFCN3o4NnAzYVB6YkM4a3VtQkczSFlScVRlZ1dGV01LZi1IQll3OE10ZVFIY2RkUXJ6Y0o3b1hBSVQzRHdFaWlka09NOGtzeGdQZGRpQXZ0SnZPWnl1N0JRMnc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (A",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-09-16T21:00:33+08:00",
-      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "data_type": "live",
       "data_label": "公開情報"
     }
