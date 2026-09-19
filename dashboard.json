@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-19T05:31:00+08:00",
+  "updated_at": "2026-09-19T09:25:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-19T09:17:35+08:00",
+  "intel_updated_at": "2026-09-19T13:59:04+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/19 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/19 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-19 05:31 GMT+8",
+      "as_of": "2026-09-19 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-19 05:31 GMT+8",
+      "as_of": "2026-09-19 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-19 05:31 GMT+8",
+      "as_of": "2026-09-19 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,26 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Why AI Data Centers Need Board-Level Protection for High-Density Compute - Electronic Design",
+      "summary": "Why AI Data Centers Need Board-Level Protection for High-Density Compute Electronic Design",
+      "source": "Electronic Design",
+      "published_at": "2026-09-19T01:55:32+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlJmOFB3NEI5ZF9qRDlJZUdBa3ZISkxDTlA5WlB3T0QzWkFNMlA3cVFIel9va1ZvUlVUM0JYNEl2UTg2Z2VpbU9kam56Tk9LZHpkS2hUYXhmM29KenVMdm50d3dMd2dKQklRY2s0R1NoR0ZUb09ZdnMzRkFDdUxQcEw5QXRNYXpqX2pSYWhya2ZnV3hmeEhTakpwQlNEQWtxaVQ3ZURsZUpDTmcwT2k3cGdrMEdfRE45aHFFbGloT2lsU1ZLSVROU054bEkwRE9TX1hjQlk3Q3o4eFhkZWFjMUdBdm5iRFM0NkE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Infrastructure Is Redrawing the Data Center Services Landscape - Data Center Frontier",
+      "summary": "AI Infrastructure Is Redrawing the Data Center Services Landscape Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-09-18T22:41:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXYzZTlORWVzQ1B2S0VCdlU3S0hnNk4xY1ZGYUFXNFhkMWpvZjhGQ2owTGNZMFlKcjVPNlpwZEZUdEVIRzk1R0pXTGJsNXpkMnlSV25ORHBuSE5CWFhvZ0pueTNtZzhJejg5Q1FPbnFDRXFkTDdncXp6TGNRQXdwbzNjblV0ZHpvM2ZKbTUzY0pQdEZHR3Z0TklnRkl1bzBRVk9pSlRFVnk4aG9WeXRrZWtzMXlDblN3TE1pb1gyMW9aNVBpM2RF?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI - openPR.com",
       "summary": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI openPR.com",
       "source": "openPR.com",
@@ -252,20 +272,10 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Simplifying AI Data Center Cooling Systems - bisnow.com",
-      "summary": "Simplifying AI Data Center Cooling Systems bisnow.com",
-      "source": "bisnow.com",
-      "published_at": "2026-09-18T03:12:23+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3BycWcwblpUX3FDVC1nY1B6RjBSYktmUmo3NUpucUtvcW03ZnAzZjNGVlQ2Uk9ENXc5VWdaMS1OQVQ1ak55d1dOWFRqNEl1NFJEX3NZc0Y0ZGc2V1ByS1E3ZHkxTDhsZWg4T0lwMVZza1VYdkFXZ2szSTI1THpualdZZUNLMzZmZi03MXNZQ2tCMXRqdjQ1MzNOM1RjSnowRFZpYTlYTlFLa1NXelZYejBR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
-      "headline": "ODATA Deploys DeltaFlow Liquid Cooling in Mexico - Mexico Business News",
-      "summary": "ODATA Deploys DeltaFlow Liquid Cooling in Mexico Mexico Business News",
-      "source": "Mexico Business News",
+      "headline": "ODATA Deploys DeltaFlow Liquid Cooling in Mexico - mexicobusiness.news",
+      "summary": "ODATA Deploys DeltaFlow Liquid Cooling in Mexico mexicobusiness.news",
+      "source": "mexicobusiness.news",
       "published_at": "2026-09-18T01:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaTlaVlNacUZWWGVsR2lvNGMwTWg2dy1WZld3bXZnV3FuUHFVLXhOLWVla1lwZmx5cnBfcG9lTUh3aGxmd1ExUHdXQTJROV9nV2JyZE5GMlJxMEU2VkEwbGhaWUpNdTZZZW9LeXktU3cwSGZaX21veWdXTVBCRHgwanlYcGx0c016S2w0NFRyeTlxQUw1amc?oc=5",
       "data_type": "live",
@@ -293,9 +303,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 - finance.yahoo.com",
-      "summary": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 - Yahoo Finance",
+      "summary": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 Yahoo Finance",
+      "source": "Yahoo Finance",
       "published_at": "2026-09-17T15:48:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXdJaHRfNE1UZHB6djFsTnF1SnQ5N2tMTm94WTFlaEJNU1ZORHZ1cHU5TG44dU5uV0ZWd09XRjY0SVVfQU9kWUlOWUk1ZnlOd2k1QTB1Wi1DelZPX2tzVmcycHhjNnljZUc5SGptUGEtN0ZOVzhXUHB2Wl9CcDUxWGM4QndSaWZ0V25HR2ZKd2dyZ2ZRNC1TU0RyQQ?oc=5",
       "data_type": "live",
@@ -348,16 +358,6 @@
       "source": "조선일보",
       "published_at": "2026-09-16T13:35:46+08:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkJZQ3ZxVjE4VDAwNE1XRTVaS0ptbnh0blUxWUk0SjFvQ3lmeTc3dmc2WEkyQUUzVjRmMnUzQVVLaWRoX01iY1FnTm5uTUg2RVV2U2pTWER0M3pqUE11X0hxWWRrY2xlSF8wVmtNbkc1bXpVeW9yNmR0WnZKazhTVHNwNTJPeVVj?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "GS turns AI data centers into startup proving ground - The Korea Times",
-      "summary": "GS turns AI data centers into startup proving ground The Korea Times",
-      "source": "The Korea Times",
-      "published_at": "2026-09-16T13:13:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQm82MVZZNUxibURNYTgwTkhZVzdydERDaGJ0dGdURDg2NGdkejJaeWhISnptRW1RX0VaM0RjTXhVeXF0RFd0Y0FtLUYxaHUxTzhRMlpIR1hhWmJSVURjbjlsMmxnclVJT3loYWxtaTZvcjZTUzkyOG5LMWpacGJNU0lsTndvRDJ2Mkhxa2VsRUtKdlBCMzZPWVBKZDBEWTRzRzBPb1Ytc2cyUUdpeG9fbG43TdIBswFBVV95cUxQQm82MVZZNUxibURNYTgwTkhZVzdydERDaGJ0dGdURDg2NGdkejJaeWhISnptRW1RX0VaM0RjTXhVeXF0RFd0Y0FtLUYxaHUxTzhRMlpIR1hhWmJSVURjbjlsMmxnclVJT3loYWxtaTZvcjZTUzkyOG5LMWpacGJNU0lsTndvRDJ2Mkhxa2VsRUtKdlBCMzZPWVBKZDBEWTRzRzBPb1Ytc2cyUUdpeG9fbG43TQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
