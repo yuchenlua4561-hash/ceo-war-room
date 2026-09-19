@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-19T07:21:03+08:00",
+  "intel_updated_at": "2026-09-19T09:17:35+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,16 +243,6 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Why AI Data Centers Need Board-Level Protection for High-Density Compute - electronicdesign.com",
-      "summary": "Why AI Data Centers Need Board-Level Protection for High-Density Compute electronicdesign.com",
-      "source": "electronicdesign.com",
-      "published_at": "2026-09-19T01:55:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlJmOFB3NEI5ZF9qRDlJZUdBa3ZISkxDTlA5WlB3T0QzWkFNMlA3cVFIel9va1ZvUlVUM0JYNEl2UTg2Z2VpbU9kam56Tk9LZHpkS2hUYXhmM29KenVMdm50d3dMd2dKQklRY2s0R1NoR0ZUb09ZdnMzRkFDdUxQcEw5QXRNYXpqX2pSYWhya2ZnV3hmeEhTakpwQlNEQWtxaVQ3ZURsZUpDTmcwT2k3cGdrMEdfRE45aHFFbGloT2lsU1ZLSVROU054bEkwRE9TX1hjQlk3Q3o4eFhkZWFjMUdBdm5iRFM0NkE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI - openPR.com",
       "summary": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI openPR.com",
       "source": "openPR.com",
@@ -263,9 +253,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Simplifying AI Data Center Cooling Systems - Bisnow",
-      "summary": "Simplifying AI Data Center Cooling Systems Bisnow",
-      "source": "Bisnow",
+      "headline": "Simplifying AI Data Center Cooling Systems - bisnow.com",
+      "summary": "Simplifying AI Data Center Cooling Systems bisnow.com",
+      "source": "bisnow.com",
       "published_at": "2026-09-18T03:12:23+08:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3BycWcwblpUX3FDVC1nY1B6RjBSYktmUmo3NUpucUtvcW03ZnAzZjNGVlQ2Uk9ENXc5VWdaMS1OQVQ1ak55d1dOWFRqNEl1NFJEX3NZc0Y0ZGc2V1ByS1E3ZHkxTDhsZWg4T0lwMVZza1VYdkFXZ2szSTI1THpualdZZUNLMzZmZi03MXNZQ2tCMXRqdjQ1MzNOM1RjSnowRFZpYTlYTlFLa1NXelZYejBR?oc=5",
       "data_type": "live",
@@ -292,16 +282,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "AI, Data Center Infrastructure, Semiconductor, Power & Energy, Sensing, Robotics and Advanced Technology Markets - MarketsandMarkets",
-      "summary": "AI, Data Center Infrastructure, Semiconductor, Power & Energy, Sensing, Robotics and Advanced Technology Markets MarketsandMarkets",
-      "source": "MarketsandMarkets",
-      "published_at": "2026-09-17T19:54:06+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1dZS2c1SXJjTHo1ZFp1OEVlT1ZmR21DTnU4Y0ZDQU4wa254TFRUQ0J5TnAtcWZ5b09mbzBENUtXOVc5a2VEM1RtMjR0anZJMG02S1c2WUNjT1B3WU5iMDZmN0U4UENNR2ZnNUJ6LTNwdW5IdGYteUJzbnI4RGV6UEZFMnNnSmExUzVjNi1OTlozejZkWlZrcnJR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "Data Center Liquid Cooling Market to Reach USD 36,593.53 million by 2034, Growing at a CAGR of 32.6% - openPR.com",
       "summary": "Data Center Liquid Cooling Market to Reach USD 36,593.53 million by 2034, Growing at a CAGR of 32.6% openPR.com",
@@ -313,9 +293,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 - Yahoo Finance",
-      "summary": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 - finance.yahoo.com",
+      "summary": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "published_at": "2026-09-17T15:48:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXdJaHRfNE1UZHB6djFsTnF1SnQ5N2tMTm94WTFlaEJNU1ZORHZ1cHU5TG44dU5uV0ZWd09XRjY0SVVfQU9kWUlOWUk1ZnlOd2k1QTB1Wi1DelZPX2tzVmcycHhjNnljZUc5SGptUGEtN0ZOVzhXUHB2Wl9CcDUxWGM4QndSaWZ0V25HR2ZKd2dyZ2ZRNC1TU0RyQQ?oc=5",
       "data_type": "live",
@@ -358,6 +338,26 @@
       "source": "NVIDIA Blog",
       "published_at": "2026-09-16T21:00:33+08:00",
       "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "GS Expands AI Data Center Business with Startup Partnerships - 조선일보",
+      "summary": "GS Expands AI Data Center Business with Startup Partnerships 조선일보",
+      "source": "조선일보",
+      "published_at": "2026-09-16T13:35:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkJZQ3ZxVjE4VDAwNE1XRTVaS0ptbnh0blUxWUk0SjFvQ3lmeTc3dmc2WEkyQUUzVjRmMnUzQVVLaWRoX01iY1FnTm5uTUg2RVV2U2pTWER0M3pqUE11X0hxWWRrY2xlSF8wVmtNbkc1bXpVeW9yNmR0WnZKazhTVHNwNTJPeVVj?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "GS turns AI data centers into startup proving ground - The Korea Times",
+      "summary": "GS turns AI data centers into startup proving ground The Korea Times",
+      "source": "The Korea Times",
+      "published_at": "2026-09-16T13:13:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQm82MVZZNUxibURNYTgwTkhZVzdydERDaGJ0dGdURDg2NGdkejJaeWhISnptRW1RX0VaM0RjTXhVeXF0RFd0Y0FtLUYxaHUxTzhRMlpIR1hhWmJSVURjbjlsMmxnclVJT3loYWxtaTZvcjZTUzkyOG5LMWpacGJNU0lsTndvRDJ2Mkhxa2VsRUtKdlBCMzZPWVBKZDBEWTRzRzBPb1Ytc2cyUUdpeG9fbG43TdIBswFBVV95cUxQQm82MVZZNUxibURNYTgwTkhZVzdydERDaGJ0dGdURDg2NGdkejJaeWhISnptRW1RX0VaM0RjTXhVeXF0RFd0Y0FtLUYxaHUxTzhRMlpIR1hhWmJSVURjbjlsMmxnclVJT3loYWxtaTZvcjZTUzkyOG5LMWpacGJNU0lsTndvRDJ2Mkhxa2VsRUtKdlBCMzZPWVBKZDBEWTRzRzBPb1Ytc2cyUUdpeG9fbG43TQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
