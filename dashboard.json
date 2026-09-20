@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-20T20:13:50+08:00",
+  "intel_updated_at": "2026-09-21T00:13:52+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -273,6 +273,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
+      "summary": "Clean Energy Resources to Meet Data Center Electricity Demand Department of Energy (.gov)",
+      "source": "Department of Energy (.gov)",
+      "published_at": "2026-09-19T02:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Why AI Data Centers Need Board-Level Protection for High-Density Compute - Electronic Design",
       "summary": "Why AI Data Centers Need Board-Level Protection for High-Density Compute Electronic Design",
       "source": "Electronic Design",
@@ -323,9 +333,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Simplifying AI Data Center Cooling Systems - Bisnow",
-      "summary": "Simplifying AI Data Center Cooling Systems Bisnow",
-      "source": "Bisnow",
+      "headline": "Simplifying AI Data Center Cooling Systems - bisnow.com",
+      "summary": "Simplifying AI Data Center Cooling Systems bisnow.com",
+      "source": "bisnow.com",
       "published_at": "2026-09-18T03:12:23+08:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3BycWcwblpUX3FDVC1nY1B6RjBSYktmUmo3NUpucUtvcW03ZnAzZjNGVlQ2Uk9ENXc5VWdaMS1OQVQ1ak55d1dOWFRqNEl1NFJEX3NZc0Y0ZGc2V1ByS1E3ZHkxTDhsZWg4T0lwMVZza1VYdkFXZ2szSTI1THpualdZZUNLMzZmZi03MXNZQ2tCMXRqdjQ1MzNOM1RjSnowRFZpYTlYTlFLa1NXelZYejBR?oc=5",
       "data_type": "live",
@@ -348,16 +358,6 @@
       "source": "openPR.com",
       "published_at": "2026-09-17T19:38:32+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjFKTUcwMGUyX2M3bXNsY01IYkFaMGNqVWpvVzBiR01WSXpVaEVsVEUtNXVYWjd0TXlta3VBV3h4elBMbGR2TG9FLV9sMF82MXFCaFV1RDU4VGZTRlBMbm0zRzZnRnRWS3lUSV9EdS0zbEFSOUx3QVNuUkswaXVPUlJJZzZXZ3ZKR2Y1VFc1cnQ2LTJYREpSN0ZvajlzaGdtQVE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 - Yahoo Finance",
-      "summary": "INVT to Showcase Power and Liquid-Cooling Solutions for Data Center Modernization at Data Centre World Asia 2026 Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-17T15:48:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXdJaHRfNE1UZHB6djFsTnF1SnQ5N2tMTm94WTFlaEJNU1ZORHZ1cHU5TG44dU5uV0ZWd09XRjY0SVVfQU9kWUlOWUk1ZnlOd2k1QTB1Wi1DelZPX2tzVmcycHhjNnljZUc5SGptUGEtN0ZOVzhXUHB2Wl9CcDUxWGM4QndSaWZ0V25HR2ZKd2dyZ2ZRNC1TU0RyQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
