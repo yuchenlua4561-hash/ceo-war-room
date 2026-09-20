@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-21T00:13:52+08:00",
+  "intel_updated_at": "2026-09-21T02:51:42+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Graphite-Reinforced Thermal Sheets Market To 2035: AI and Data Center Cooling Drive Expansion - News and Statistics - IndexBox",
+      "summary": "Graphite-Reinforced Thermal Sheets Market To 2035: AI and Data Center Cooling Drive Expansion - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-09-21T01:46:12+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcUhYek4yNDNUQkJ4c0sxUTVwdmF3RElzN0tjMFpSb3FWNU9hdGc1dnZ5SkljY05ldGM3RU1rVEJqcEpzR3FpcklUZVNFQ0NXR1R4eUFhREkzZGwzRVVOd1labzV4TDVqdTA3SUhNQUxqZUJwU2tDYWRHWGU0SFNFYjlkUlpUajhjSEZLSjg4QUNPNS1VVXZSd2VLM3lpVXBTUVdlQ0d3NkMxLWZaNEswU2xiRExHV3g5LS0xTHViVExvYlZ0dkFWX2wwMGJIUFJIYUEzSUNxcGgxQ0o4?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Motley Fool",
       "summary": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Motley Fool",
       "source": "The Motley Fool",
@@ -253,9 +263,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Globe and Mail",
-      "summary": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - theglobeandmail.com",
+      "summary": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. theglobeandmail.com",
+      "source": "theglobeandmail.com",
       "published_at": "2026-09-20T08:46:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMldiLVVGVzg0M2FwSDVxaFZwakNJNExLWjdpZnNDbzNTTl93amNBRERjdk5ndW5XejZwMWU1ckFORE9CbDRLTi1BWmFLNXhPLVl3eW0xVTNXY3JSMzhrS0VnVVNqUjJkVFFESFJCUkFPTlBQTDdTWHh4LUU3bDlaSEdTVXgtRGJhbS1sbDBpc2xFdE55TzJqdFJQTlFSOW5ZTkgxT1BOZGxoUHBZUmZUVFEtbHg1d0JzMVJ3SzdDa2FWNUtFR0FxWjJWMFdEYzFRWnVxSGFwQ0xtS3ZTS3hGQlE5OTJRZU5VNjVqZXg1UzhKZkVYN2JaVEYxSmItR2o4OGI2QmpnSmFoaFNzaWc?oc=5",
       "data_type": "live",
@@ -313,9 +323,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
-      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
-      "source": "Nasscom",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - community.nasscom.in",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure community.nasscom.in",
+      "source": "community.nasscom.in",
       "published_at": "2026-09-18T17:53:32+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
       "data_type": "live",
@@ -348,16 +358,6 @@
       "source": "Mexico Business News",
       "published_at": "2026-09-18T01:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaTlaVlNacUZWWGVsR2lvNGMwTWg2dy1WZld3bXZnV3FuUHFVLXhOLWVla1lwZmx5cnBfcG9lTUh3aGxmd1ExUHdXQTJROV9nV2JyZE5GMlJxMEU2VkEwbGhaWUpNdTZZZW9LeXktU3cwSGZaX21veWdXTVBCRHgwanlYcGx0c016S2w0NFRyeTlxQUw1amc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Market to Reach USD 36,593.53 million by 2034, Growing at a CAGR of 32.6% - openPR.com",
-      "summary": "Data Center Liquid Cooling Market to Reach USD 36,593.53 million by 2034, Growing at a CAGR of 32.6% openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-09-17T19:38:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjFKTUcwMGUyX2M3bXNsY01IYkFaMGNqVWpvVzBiR01WSXpVaEVsVEUtNXVYWjd0TXlta3VBV3h4elBMbGR2TG9FLV9sMF82MXFCaFV1RDU4VGZTRlBMbm0zRzZnRnRWS3lUSV9EdS0zbEFSOUx3QVNuUkswaXVPUlJJZzZXZ3ZKR2Y1VFc1cnQ2LTJYREpSN0ZvajlzaGdtQVE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
