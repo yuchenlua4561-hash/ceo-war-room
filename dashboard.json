@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-20T09:31:58+08:00",
+  "intel_updated_at": "2026-09-20T14:53:11+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,21 +243,21 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Globe and Mail",
-      "summary": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-09-20T08:46:34+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMldiLVVGVzg0M2FwSDVxaFZwakNJNExLWjdpZnNDbzNTTl93amNBRERjdk5ndW5XejZwMWU1ckFORE9CbDRLTi1BWmFLNXhPLVl3eW0xVTNXY3JSMzhrS0VnVVNqUjJkVFFESFJCUkFPTlBQTDdTWHh4LUU3bDlaSEdTVXgtRGJhbS1sbDBpc2xFdE55TzJqdFJQTlFSOW5ZTkgxT1BOZGxoUHBZUmZUVFEtbHg1d0JzMVJ3SzdDa2FWNUtFR0FxWjJWMFdEYzFRWnVxSGFwQ0xtS3ZTS3hGQlE5OTJRZU5VNjVqZXg1UzhKZkVYN2JaVEYxSmItR2o4OGI2QmpnSmFoaFNzaWc?oc=5",
+      "headline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Motley Fool",
+      "summary": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Motley Fool",
+      "source": "The Motley Fool",
+      "published_at": "2026-09-20T09:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGJwUXlsNVlncnFwd0JXNkRMazRiRjJLNW9FTmdMdFJ1amZsMVFqLVF2cUZhTWhuRWRCUVVfNENnUGMzeHJJZzk3TjJhcEJvbEM0Y09rWUVBNkxaQkZnV2prb2pXS1FRMjByMWtueUszckNmUWRCNWM5Z2o3ckFHd2lTLXNaeE56ejRZNDVpTWNQcVBfeF9sVA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Motley Fool",
-      "summary": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Motley Fool",
-      "source": "The Motley Fool",
-      "published_at": "2026-09-20T08:21:40+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGJwUXlsNVlncnFwd0JXNkRMazRiRjJLNW9FTmdMdFJ1amZsMVFqLVF2cUZhTWhuRWRCUVVfNENnUGMzeHJJZzk3TjJhcEJvbEM0Y09rWUVBNkxaQkZnV2prb2pXS1FRMjByMWtueUszckNmUWRCNWM5Z2o3ckFHd2lTLXNaeE56ejRZNDVpTWNQcVBfeF9sVA?oc=5",
+      "headline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Globe and Mail",
+      "summary": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Globe and Mail",
+      "source": "The Globe and Mail",
+      "published_at": "2026-09-20T08:46:34+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMldiLVVGVzg0M2FwSDVxaFZwakNJNExLWjdpZnNDbzNTTl93amNBRERjdk5ndW5XejZwMWU1ckFORE9CbDRLTi1BWmFLNXhPLVl3eW0xVTNXY3JSMzhrS0VnVVNqUjJkVFFESFJCUkFPTlBQTDdTWHh4LUU3bDlaSEdTVXgtRGJhbS1sbDBpc2xFdE55TzJqdFJQTlFSOW5ZTkgxT1BOZGxoUHBZUmZUVFEtbHg1d0JzMVJ3SzdDa2FWNUtFR0FxWjJWMFdEYzFRWnVxSGFwQ0xtS3ZTS3hGQlE5OTJRZU5VNjVqZXg1UzhKZkVYN2JaVEYxSmItR2o4OGI2QmpnSmFoaFNzaWc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -283,9 +283,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "AI Infrastructure Is Redrawing the Data Center Services Landscape - datacenterfrontier.com",
-      "summary": "AI Infrastructure Is Redrawing the Data Center Services Landscape datacenterfrontier.com",
-      "source": "datacenterfrontier.com",
+      "headline": "AI Infrastructure Is Redrawing the Data Center Services Landscape - Data Center Frontier",
+      "summary": "AI Infrastructure Is Redrawing the Data Center Services Landscape Data Center Frontier",
+      "source": "Data Center Frontier",
       "published_at": "2026-09-18T22:41:08+08:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXYzZTlORWVzQ1B2S0VCdlU3S0hnNk4xY1ZGYUFXNFhkMWpvZjhGQ2owTGNZMFlKcjVPNlpwZEZUdEVIRzk1R0pXTGJsNXpkMnlSV25ORHBuSE5CWFhvZ0pueTNtZzhJejg5Q1FPbnFDRXFkTDdncXp6TGNRQXdwbzNjblV0ZHpvM2ZKbTUzY0pQdEZHR3Z0TklnRkl1bzBRVk9pSlRFVnk4aG9WeXRrZWtzMXlDblN3TE1pb1gyMW9aNVBpM2RF?oc=5",
       "data_type": "live",
@@ -303,11 +303,31 @@
     },
     {
       "category": "資料中心",
+      "headline": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure - Nasscom",
+      "summary": "Liquid Cooled AI Data Center: The Future of High-Density AI Infrastructure Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-09-18T17:53:32+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGRnc1JiUjFrQUUxMGM4WU1URVpRRjUyb1VxN3FIRkpkVmpoQVZSVHY3Q1I2ZUF1bEQ5N3Zhd09QcHIzdGJVN0liZHdLNFJpelExcFJFYVpqWGQ5dWJqa01qWWtjNlhzUUNYN3YwQ2xucjFqQUxPcGNxTGN6NkQ0WGl5VHVJdGU0MS1ianZRTk5tREhpNmFjNzRtYWJXTnQ0dGcyR0YtYTM4eF9qNWR2YUY2S1U4Q0tiZlFz?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI - openPR.com",
       "summary": "Data Center Cooling Equipment Market Outlook 2026 Highlights AI openPR.com",
       "source": "openPR.com",
       "published_at": "2026-09-18T14:16:51+08:00",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmVrSmNQelptb2dGWGhtMEhIamREaHJpNUVla1FrNEVYZnZJcmdwaUlKZkhBMmszbnpVUVZvTmFnVHUzWldhZDNYM2J3VTZPcmVkenloMWpYUWxVX0gwZDNWeXhncEJrRFJpUS1ncHJhdWRsQVE1QW9PZUQ0c2FpUWt3ZG5JNG5RcVItcDl3V0VRcG1qcVJFcjN4YWZHSHRH?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Simplifying AI Data Center Cooling Systems - Bisnow",
+      "summary": "Simplifying AI Data Center Cooling Systems Bisnow",
+      "source": "Bisnow",
+      "published_at": "2026-09-18T03:12:23+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3BycWcwblpUX3FDVC1nY1B6RjBSYktmUmo3NUpucUtvcW03ZnAzZjNGVlQ2Uk9ENXc5VWdaMS1OQVQ1ak55d1dOWFRqNEl1NFJEX3NZc0Y0ZGc2V1ByS1E3ZHkxTDhsZWg4T0lwMVZza1VYdkFXZ2szSTI1THpualdZZUNLMzZmZi03MXNZQ2tCMXRqdjQ1MzNOM1RjSnowRFZpYTlYTlFLa1NXelZYejBR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -338,26 +358,6 @@
       "source": "Yahoo Finance",
       "published_at": "2026-09-17T15:48:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXdJaHRfNE1UZHB6djFsTnF1SnQ5N2tMTm94WTFlaEJNU1ZORHZ1cHU5TG44dU5uV0ZWd09XRjY0SVVfQU9kWUlOWUk1ZnlOd2k1QTB1Wi1DelZPX2tzVmcycHhjNnljZUc5SGptUGEtN0ZOVzhXUHB2Wl9CcDUxWGM4QndSaWZ0V25HR2ZKd2dyZ2ZRNC1TU0RyQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "\"Data centers now have power ahead of the ground. It's worth more than a lot of land where you can get power on time.\" - 매일경제",
-      "summary": "\"Data centers now have power ahead of the ground. It's worth more than a lot of land where you can get power on time.\" 매일경제",
-      "source": "매일경제",
-      "published_at": "2026-09-17T14:14:51+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaVVsQ2lTZ3JXb0UwNmNPMzdoVmpwakNyb19pWVFLX285bW5ZYnFQOGFfU3IyRnVTWm9teF9saTRQUXo0Znl1Zi00YThIUGt3TVFYdF9B?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "EXTRCOOL at Data Center World USA: Insights from a Global Leading - openPR.com",
-      "summary": "EXTRCOOL at Data Center World USA: Insights from a Global Leading openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-09-17T13:47:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVmNHdwRGZST1lid1ZWZHN0c2d3ckMyTThqNEt1bUowTGJnMGNNdm9fUDVSUzhRdW9GRXFJTlpvZ05Wc0VWMUZJSGNWa1M2cXhVcmNMN3VaeUx2Z1ozY1JLRm5xTFRiU3ExYnJBdE5vTlBiZlpKT3VUSFlTQTNWNUhXTFBueGNWOWxEUUN1U2Jzc19yT3dZVmdZNkdQVGl1a3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
