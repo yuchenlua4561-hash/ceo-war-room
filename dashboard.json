@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-22T23:20:00+08:00",
+  "updated_at": "2026-09-23T02:40:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-22T23:38:34+08:00",
+  "intel_updated_at": "2026-09-23T03:15:54+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/22 23:20；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/23 02:40；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-22 23:20 GMT+8",
+      "as_of": "2026-09-23 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.204,
+      "value": 0.2039,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-22 23:20 GMT+8",
+      "as_of": "2026-09-23 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-22 23:20 GMT+8",
+      "as_of": "2026-09-23 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv Stock And 2 AI Data Center Picks Backed by Power and Cooling Demand - simplywall.st",
-      "implication": "公開情報更新於 2026-09-16T11:48:12+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSDg3Yzl6SjNFbG5rano1M0k4bFVBNFN5djR3bWp4OUs1SngtYU5LZWc4VXZmdEJ6VXRoYlZoRF9lbWNWM0dMLXUyV19RbnhaeHRHeGVqbE12aDdyMzRaSjRSSGZkZFExN3FYeC15LTV0MnFFUTlZMUFPWUd0ZUlldGtWbHphN3dpWnRmT0dMbTdXcE1wYzhpRmRUUkxmWGExdUVPSklzVjR4N1M1eVoxZU52TXBOZUhxOTNZVk5xVEhzckhvZk5TZDBoblJVZEJheU1yVmR6eVpjN1Q5QlNicEFxaUFVV2hVaDRvUFdpaDVFUkNH0gH0AUFVX3lxTFBIODdjOXpKM0VsbmtqejUzSThsVUE0U3l2NHdtang5SzVKeC1hTktlZzhVdmZ0QnpVdGhiVmhEX2VtY1YzR0wtdTJXX1FueFp4dEd4ZWpsTXZoN3IzNFpKNFJIZmRkUTE3cVh4LXktNXQycUVROVkxQU9ZR3RlSWV0a1ZsemE3d2ladGZPR0xtN1dwTXBjOGlGZFRSTGZYYTF1RU9KSXNWNHg3UzV5WjFlTnZNcE5lSHE5M1lWTnFUSHNySG9mTlNkMGhuUlVkQmF5TXJWZHp5WmM3VDlCU2JwQXFpQVVXaFVoNG9QV2loNUVSQ0c?oc=5"
+      "move": "Eaton vs. Vertiv: Which Data Center Power Stock Has an Edge? - TradingView",
+      "implication": "公開情報更新於 2026-09-23T01:10:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFdxdU5JN3J1cXhvbWVobUk0WVpROGx0Qng0ZjV1cXluMm1fWW82SlBhd2xlSXYwX1lCNGI2UUpyV0ZoNmtVOEh6NGlCaWpmb3NTVTVWNHN0cUNaa2MzcE1vQm5pOEZhYkJYRk5VVmJ1MFNPODBhZU1iRUpsSVZ4Y1V4UFowNXo2bkVONlBaXzQxeHdrNHE1SURSSk5CNmZNZkR6TC1kYkJBM1pGS21PNVY1OA?oc=5"
     },
     {
       "company": "Boyd",
@@ -243,6 +243,26 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Eaton vs. Vertiv: Which Data Center Power Stock Has an Edge? - TradingView",
+      "summary": "Eaton vs. Vertiv: Which Data Center Power Stock Has an Edge? TradingView",
+      "source": "TradingView",
+      "published_at": "2026-09-23T01:10:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFdxdU5JN3J1cXhvbWVobUk0WVpROGx0Qng0ZjV1cXluMm1fWW82SlBhd2xlSXYwX1lCNGI2UUpyV0ZoNmtVOEh6NGlCaWpmb3NTVTVWNHN0cUNaa2MzcE1vQm5pOEZhYkJYRk5VVmJ1MFNPODBhZU1iRUpsSVZ4Y1V4UFowNXo2bkVONlBaXzQxeHdrNHE1SURSSk5CNmZNZkR6TC1kYkJBM1pGS21PNVY1OA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Group, Microsoft Strengthen AI Data Center Partnership - 조선일보",
+      "summary": "LG Group, Microsoft Strengthen AI Data Center Partnership 조선일보",
+      "source": "조선일보",
+      "published_at": "2026-09-23T00:37:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSXRwREdhSHpxOHdKcFNYV2Rodjd4WWhGak1Ua0htempKdm5Oa1RQcGlsLWduaDU2WF9RMmNnb29mYjBienhRYTVuX0V3TUliUHBGNEhtRlppaVo0czI2b3NYNVdZSThMdHczZkNoZThnN012REw0WGRHWUFhN0NkU3hReE1Nekp0?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "JPMorgan CEO Sees Hyperscaler Spending Hitting $1 Trillion Next Year And Still Growing — Investors Are Shrugging It Off For Now - TradingView",
       "summary": "JPMorgan CEO Sees Hyperscaler Spending Hitting $1 Trillion Next Year And Still Growing — Investors Are Shrugging It Off For Now TradingView",
       "source": "TradingView",
@@ -253,9 +273,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "LG Electronics' Large-Capacity Liquid Cooling Solution Approved to NVIDIA AI Factory Specifications - 매일경제",
-      "summary": "LG Electronics' Large-Capacity Liquid Cooling Solution Approved to NVIDIA AI Factory Specifications 매일경제",
-      "source": "매일경제",
+      "headline": "LG Electronics' Large-Capacity Liquid Cooling Solution Approved to NVIDIA AI Factory Specifications - mk.co.kr",
+      "summary": "LG Electronics' Large-Capacity Liquid Cooling Solution Approved to NVIDIA AI Factory Specifications mk.co.kr",
+      "source": "mk.co.kr",
       "published_at": "2026-09-22T12:35:36+08:00",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHeExHWWlKTlZ6bkVJaGxTblVzdXoxeW1xTkJCUGRFWnVMVVliSWZiZmI1N2RiSXppcUpVYVZVdkhISjI1bWxHRnN4bnVIUTZqck00?oc=5",
       "data_type": "live",
@@ -338,26 +358,6 @@
       "source": "NVIDIA Blog",
       "published_at": "2026-09-22T02:00:07+08:00",
       "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "LG Electronics’ 2.6-Megawatt Coolant Distribution Unit Qualifies as NVIDIA DSX Ready CDU - LG Corp",
-      "summary": "LG Electronics’ 2.6-Megawatt Coolant Distribution Unit Qualifies as NVIDIA DSX Ready CDU LG Corp",
-      "source": "LG Corp",
-      "published_at": "2026-09-21T23:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OdEpaMi15TldCY2NwTVlpdnd0bFFEbE5lZnZRN0RycWJnaG5IQ2dlcHJveGlkdm5XTlV3LUFpYTFJNXZxZC1Fa2U3VlRBQXdyVnVOT05pUTdrUmc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "【Koryo Electronics FY2026 H1 Earnings Call】Taiwan's Koryo Electronics H1 Pre-Tax Profit Surges 189% YoY; Data Center Revenue Share Jumps to 27% - finance.biggo.com",
-      "summary": "【Koryo Electronics FY2026 H1 Earnings Call】Taiwan's Koryo Electronics H1 Pre-Tax Profit Surges 189% YoY; Data Center Revenue Share Jumps to 27% finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-09-21T17:34:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zb3FGdE9kQTNCU3JjdDRLOUhaeVVNYnhZNFk3RlY5Rlk5QmtCYmxZSVowVlgtVFc5a0thVTBBZWxHSldKQXNwWU1iVGo3Vm1IY19YV2h6Zi1NQjJJYUhIbE9n?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
