@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-23T13:01:00+08:00",
+  "updated_at": "2026-09-23T18:01:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-23T13:15:33+08:00",
+  "intel_updated_at": "2026-09-23T18:04:05+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/23 13:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/23 18:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.74,
+      "value": 31.775,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-23 13:01 GMT+8",
+      "as_of": "2026-09-23 18:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2031,
+      "value": 0.2034,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-23 13:01 GMT+8",
+      "as_of": "2026-09-23 18:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.42,
+      "value": 36.495,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-23 13:01 GMT+8",
+      "as_of": "2026-09-23 18:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4448.0,
+      "value": 4419.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-09-23 13:00 GMT+8",
+      "as_of": "2026-09-23 17:52 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,11 +243,31 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "LG, SK Enmove team up to develop green refrigerants and AI data center cooling - CHOSUNBIZ - Chosunbiz",
-      "summary": "LG, SK Enmove team up to develop green refrigerants and AI data center cooling - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-09-23T09:36:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTBGaDJiaXRHaThPN29yNU1tQXVNcktlZnpqQUZTZ1E1TDBvTm0zcEdfczU1cnhoRFpmZTNFRTQ1QkZNNXJvY2xJTTJMdUlhM09oNlo3YmZua3BjaVppaC1rYnZWZjdkRGtwd09sbWZXSnJha0xwUUgwanp3TXJjU25WOWF4cE9KNVFESlJn0gGOAUFVX3lxTE9RMEZoMmJpdEdpOE83b3I1TW1BdU1yS2VmempBRlNnUTVMMG9ObTNwR19zNTVyeGhEWmZlM0VFNDVCRk01cm9jbElNMkx1SWEzT2g2WjdiZm5rcGNpWmloLWtidlZmN2REa3B3T2xtZldKcmFrTHBRSDBqendNcmNTblY5YXhwT0o1UURKUmc?oc=5",
+      "headline": "Data Center 'War on Heat' Refinery Joins - 매일경제",
+      "summary": "Data Center 'War on Heat' Refinery Joins 매일경제",
+      "source": "매일경제",
+      "published_at": "2026-09-23T15:02:36+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RRFhsU04tb2ZjY2xDeXFzWW5NQnU1YlR0cXpDY1k2cUp5X3NpWnFjWk5tLXlSV292SVNJa250ZlBQX0wzbUNYcUhneWRCbFNvZGY4?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Oil Refiners Join Data Centers in the “War Against Heat” - 매일경제",
+      "summary": "Oil Refiners Join Data Centers in the “War Against Heat” 매일경제",
+      "source": "매일경제",
+      "published_at": "2026-09-23T15:02:36+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RRFhsU04tb2ZjY2xDeXFzWW5NQnU1YlR0cXpDY1k2cUp5X3NpWnFjWk5tLXlSV292SVNJa250ZlBQX0wzbUNYcUhneWRCbFNvZGY4?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Electronics, SK Enmove Join Forces to Co-Develop AI Data Center Cooling Materials - finance.biggo.com",
+      "summary": "LG Electronics, SK Enmove Join Forces to Co-Develop AI Data Center Cooling Materials finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-23T10:05:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zMWpFa2ZHMERwWXk1VThGLWdrWTFmd3JaZ1ZPRWlyOVpJSVdFZUxKX0pseldDbmFwS3hIeWI0M1ZaS2xKSmE2RGRLdHV6MUZNYXRueURuZy1OT01HN0oxdUdiTWpkMlRIc0JUNTM0eXpLQkxvekE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -323,41 +343,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "LG chairman widens AI data center partnerships with Big Tech firms - koreatimes.co.kr",
-      "summary": "LG chairman widens AI data center partnerships with Big Tech firms koreatimes.co.kr",
-      "source": "koreatimes.co.kr",
+      "headline": "LG chairman widens AI data center partnerships with Big Tech firms - The Korea Times",
+      "summary": "LG chairman widens AI data center partnerships with Big Tech firms The Korea Times",
+      "source": "The Korea Times",
       "published_at": "2026-09-22T10:11:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTk0wZ2loOVJ1dW9qV2RUcmpOX2xtODVfU2xISjRfZ0RpNG1JYjlhQXd2Ukl0aW5wNFBVY2NRWDN1VC15eWRxcG5nRmhPN3loNFhyaFltVC05U3ZCYTFuU2VMOVllYzNpQUx4S3d5WDVsVnRRcjh0T1doa3BRSVRtNml1WUQ4djZkdTFzRUZQVGMzQ3hQNkQzbVhRV3NqT1o5T21UWmlnNUlld215U1I0Qkp1RmYtdlNJSWVQenMzYlNsMzI5WlHSAcYBQVVfeXFMTU5NMGdpaDlSdXVvaldkVHJqTl9sbTg1X1NsSEo0X2dEaTRtSWI5YUF3dlJJdGlucDRQVWNjUVgzdVQteXlkcXBuZ0ZoTzd5aDRYcmhZbVQtOVN2QmExblNlTDlZZWMzaUFMeEt3eVg1bFZ0UXI4dE9XaGtwUUlUbTZpdVlEOHY2ZHUxc0VGUFRjM0N4UDZEM21YUVdzak9aOU9tVFppZzVJZXdteVNSNEJKdUZmLXZTSUllUHpzM2JTbDMyOVpR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
-      "category": "CDU／幫浦",
-      "headline": "LG Electronics wins Nvidia nod for 2.5MW CDU, boosts AI data center push - CHOSUNBIZ - Chosunbiz",
-      "summary": "LG Electronics wins Nvidia nod for 2.5MW CDU, boosts AI data center push - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-09-22T08:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLc1lpVTQzamROTV9oaGh4V2VWSjhpOTZJeUwyVjF3bzdXUW9ZNEp2ZDcwckNJOXpOcVFURU1LQ1NXc1g0NVRUUEdFY2YzQmJIaElpclcxelVYM2ZIT05DZEFlVll5ZUxQZzMwb3p0NlhiUnpacGVvZm530gGOAUFVX3lxTE1BSk9UM1VrSlp4MjliTFphaDFjWTk5N25feFI4ZEF1YndjNXNmOFRFdWJNZXdDVE1PeVJaczEtYkYzaXFLOGVsUzQyTmhva1J3eERJYS1oalZOWFV0RnpsUWdYdTMybEc0RmczbEE4ODZqZXl2Sk9wbjhkcjVwbDhTc2NPT09XbXRjVkIyZkE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
-      "headline": "LG Electronics Receives Nvidia Approval for High-Capacity Cooling Solution, Accelerates AI Data Center Supply - 아시아경제",
-      "summary": "LG Electronics Receives Nvidia Approval for High-Capacity Cooling Solution, Accelerates AI Data Center Supply 아시아경제",
-      "source": "아시아경제",
-      "published_at": "2026-09-22T07:55:14+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53d2tQdzc2NlpFblRNNEtlMXhiNUNFUzc3VXV0ekI5b0U5Z1NNRXBtZzRyN0lELU9OaDhTNGt1ZUxHcHdoQURGZ0d6RlhiVkZuSU9QNzVBMVNWUzBuTEZaMFU3X28?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data Center Direct-to-Chip Coolants Market Size, Share & Growth, 2026-2035 - SNS Insider",
-      "summary": "Data Center Direct-to-Chip Coolants Market Size, Share & Growth, 2026-2035 SNS Insider",
-      "source": "SNS Insider",
-      "published_at": "2026-09-22T02:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjRTZXdkYWRXWTdtSjJvNHdiYXJWZ1BuQ210UGdpaHlqZ1BadXh6QVNNVEdRcUFBZlRvYlBoWlNOS1p5YWFmMk1qeV9EZDU3aTUzR2hIamJ4MUZoaXNTTG0yLXZ3SWhSS1RnQnQ5ekFTaFFUMlFreVVGSFVQc3VXaFJnM2l5UmMtMnNB?oc=5",
+      "headline": "TICA Showcases Integrated Data Center Cooling Solutions at ENGINEER & MARVEX 2026, Supporting AI Infrastructure Growth in Southeast Asia - Yahoo Finance",
+      "summary": "TICA Showcases Integrated Data Center Cooling Solutions at ENGINEER & MARVEX 2026, Supporting AI Infrastructure Growth in Southeast Asia Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-22T09:53:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWFWRVFvX1ZvdGtJVXQ3dE1zc2hLaDQxSDNtMW94cWZveXYxSXpEd0c0X1ZXRnlqNjAwQzQ2aUlRQU5ZWnhPRy1qblZaYjBVa0EtTWg5YlU3RWtOYzROeG01c29nb0lOdDAzQ2NFLVZXekVXSzBEOU9FT0NTU1NBNnp5UU13SV9aUUgyUFVBcmpxZ2V0NDdRZ2RoN3R3X3RjN0VV?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
