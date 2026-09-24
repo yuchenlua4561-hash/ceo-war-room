@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-25T03:01:00+08:00",
+  "updated_at": "2026-09-25T06:11:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-25T03:15:41+08:00",
+  "intel_updated_at": "2026-09-25T06:28:55+08:00",
   "intel_status": {
     "state": "partial",
     "collected": 12,
@@ -17,7 +17,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/25 03:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/25 06:11；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,7 +55,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-25 03:01 GMT+8",
+      "as_of": "2026-09-25 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -70,13 +70,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-25 03:01 GMT+8",
+      "as_of": "2026-09-25 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.455,
+      "value": 36.465,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,7 +85,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-25 03:01 GMT+8",
+      "as_of": "2026-09-25 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -258,7 +258,7 @@
       "headline": "AI data centers can run hot to stay cool: report - TechTarget",
       "summary": "AI data centers can run hot to stay cool: report TechTarget",
       "source": "TechTarget",
-      "published_at": "2026-09-24T22:47:43+08:00",
+      "published_at": "2026-09-24T23:16:31+08:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRC1zSy1sQkxQNVZPTVdnWHdJSzRadEdZT2YwMGx2RUhVNlNudmFIR3lYOXNCQkUxeFNuZG4xb0lsSW8tZGNQd0lZZElYQUUwNEs5S3hsUGlmR3R3dFlQV2xUOElhSmx4ZHZTejBic0puc0duLXhYOTY4cU1sQnBwTm5laFFDNHBjdV9CTkVNRDkzZXplZnNTS3I4S2lnMlNBZFdGYW5DYXhiLWs?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -295,6 +295,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Giga Computing Launches Taiwan AI Factory to Validate Rack-Scale Infrastructure - konsulteer.com",
+      "summary": "Giga Computing Launches Taiwan AI Factory to Validate Rack-Scale Infrastructure konsulteer.com",
+      "source": "konsulteer.com",
+      "published_at": "2026-09-24T15:22:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUERld21rR183NlkzcWhWMHMwTkgwdklFNlpFeEV0UEJDcVdGLUtOTUVFdVR5bTM1enZteHp3MzNBZ2M1WW1TR0p5MVlqSTBpY2VvVjAtQ1FLTEtFc214NGxOZVdSRVFOQTVCVEx4YjNGazRhWmxHc0loZzFMQlZkTWlEcTdLdDZXYlBkWWlQMnl2LXZMY0hUbHVhb3gydFFuUUtDTWFKaERzZDlwa25IMDVydEk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Samsung, LG Intensify Rivalry for AI Data Center Cooling Market Leadership - finance.biggo.com",
       "summary": "Samsung, LG Intensify Rivalry for AI Data Center Cooling Market Leadership finance.biggo.com",
       "source": "finance.biggo.com",
@@ -325,9 +335,9 @@
     },
     {
       "category": "CDU／幫浦",
-      "headline": "NVIDIA DSX Ready Qualifies Tesla, LG, and Hitachi Batteries and Vertiv, LiquidStack, and LG CDUs for AI Fac... - StorageReview.com",
-      "summary": "NVIDIA DSX Ready Qualifies Tesla, LG, and Hitachi Batteries and Vertiv, LiquidStack, and LG CDUs for AI Fac... StorageReview.com",
-      "source": "StorageReview.com",
+      "headline": "NVIDIA DSX Ready Qualifies Tesla, LG, and Hitachi Batteries and Vertiv, LiquidStack, and LG CDUs for AI Fac... - storagereview.com",
+      "summary": "NVIDIA DSX Ready Qualifies Tesla, LG, and Hitachi Batteries and Vertiv, LiquidStack, and LG CDUs for AI Fac... storagereview.com",
+      "source": "storagereview.com",
       "published_at": "2026-09-24T02:05:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUJBa0lMZDZaVlRyb184MXRhUXVKbU81djJETXE2akp0a0lmSUc1QlhvQ0RzR3lMSDk5Qjk2RTNKOERoeVlnZVJkTWw5STNIdEljclBSWEZTZEZiRTRDUFlJbC01RzAxRU5BcXE4N1VnaEZYWFZ5eTF6Nlc2RVduR19UQWZtaUQ2YWw5eEpaNGdmdk0tc1BIdy1sWUNhS3pQSTNwcHFmampwaE9KVloxY3JTMXRtazBqRE8wSV9xWXRpRDg1ZmhQQkY0eW1qcjBGR3UyOUFtNUpITU5X0gHiAUFVX3lxTE5XMUFMOGdPbjVDRlVhbER2cTZobGtnc0I3Y3FYVjR5MWstdmREYlpRMWl6QXgyUHNib0V3V0V3Qk9URHpDc1oyNjdpNFFMSUtwMHh3X1pjM0lrRGd0aDBrT18yN1FhcVlWVjFyOTU3aWZPaGtseXJQaF9WUXdfNXJQeXZMX2I1RHRXQ3J0OU85M1FNc3pRam9FTzhqNFYtcWxMYW5hNHJWVmczSVRTV1huRDVGNnk4UklmeVdmWWFEME9lc2ctTVAwT2NqZnI2cDdtU2lhQkpZMnQ0bTQwaUEtUXc?oc=5",
       "data_type": "live",
@@ -340,16 +350,6 @@
       "source": "The Globe and Mail",
       "published_at": "2026-09-23T23:18:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQTE3N05KV0tIUDBYQk4taEdBb2tjWm41V3pOZWlZb3NtX1AtMnkzczVXbjRPcGRHcS12TDk3VWthVlRtV3JJN2RtdGdUZTFXRTY1VnZQTlhMWkJENTZHMjlKM0QzRF9PSjdTZ1JBLTBhZXFsTW8wTEdTRXVCM09Ib01fX0w4MVh6emJDTXE1UFhNSGtTem9UV0hTWm5KZnkzY1QxWFo2bFo2R1JjNmRxdl9sZV9MSW1JUEgtY1ppTERUUDJ6YTVFMDdjX0RtV2QtMlE3bzJaRGJaNWlLLWpRUmZWRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The next benchmark in UPS sustainability",
-      "summary": "Highly efficient UPS solutions support data center sustainability Every AI deployment increases demand for power, space, and infrastructure. At the same time, operators face mounting pressure to cut emissions and show measurable progress on sustainability. Thi",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-09-23T22:46:02+08:00",
-      "url": "https://blog.se.com/datacenter/2026/09/23/the-next-benchmark-ups-sustainability/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
