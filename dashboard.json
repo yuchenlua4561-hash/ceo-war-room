@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-26T06:43:56+08:00",
+  "intel_updated_at": "2026-09-26T08:56:14+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -343,9 +343,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - community.nasscom.in",
-      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? community.nasscom.in",
-      "source": "community.nasscom.in",
+      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
+      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
+      "source": "Nasscom",
       "published_at": "2026-09-25T01:39:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
       "data_type": "live",
