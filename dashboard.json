@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-27T02:29:39+08:00",
+  "intel_updated_at": "2026-09-27T05:27:12+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -186,7 +186,7 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "CDU／幫浦",
-      "move": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - webwire.com",
+      "move": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - WebWire",
       "implication": "公開情報更新於 2026-09-25T20:57:39+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aa0VtNWdMN2RYaFFnV05YOENtY1VPYkVhZGl4dng0MlFuR1JaTEFrRGg2NGhZS2xzWkdfOE5nTkdCMFlfTXg0R0ZjaUhzYWJNWVBrekY1UVpNUnZMMVdqRnhGSVJtdlplNHZXZU9QRQ?oc=5"
     },
@@ -253,9 +253,9 @@
     },
     {
       "category": "CDU／幫浦",
-      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - webwire.com",
-      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments webwire.com",
-      "source": "webwire.com",
+      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - WebWire",
+      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments WebWire",
+      "source": "WebWire",
       "published_at": "2026-09-25T20:57:39+08:00",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aa0VtNWdMN2RYaFFnV05YOENtY1VPYkVhZGl4dng0MlFuR1JaTEFrRGg2NGhZS2xzWkdfOE5nTkdCMFlfTXg0R0ZjaUhzYWJNWVBrekY1UVpNUnZMMVdqRnhGSVJtdlplNHZXZU9QRQ?oc=5",
       "data_type": "live",
@@ -343,21 +343,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "White Box Server Market Forecast to 2035: AI and Hyperscale Demand Drive Growth - IndexBox",
-      "summary": "White Box Server Market Forecast to 2035: AI and Hyperscale Demand Drive Growth IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-09-25T02:31:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHFmY2JycjB4OGNEZlJId05VWEVRZ2RQYmsta3dpVHFOaHNqREx1TkZ2alhMLUxpZWt3UEVLYmt1MHlYZGR2dTFJcmRxMVdlRFRRR3dGc1QzMDR2NzY3enRqdnByMU1vVF9WdE0xTUdBWG1ZQm1JcTQ3NXo3bk5KY1FBaHZ3ckI5d0p6b0gtaWhkVHZNZHB4cEs5S1NSVndPME9ubzd3SEZUTXUy?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Vertiv to Buy King Environmental Services to Bolster Data Center Cooling - HPCwire",
       "summary": "Vertiv to Buy King Environmental Services to Bolster Data Center Cooling HPCwire",
       "source": "HPCwire",
       "published_at": "2026-09-25T02:20:33+08:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnRWM3RrQzV5dW1yRDhYMGNrQXdBVFMzbXgzb0lEWmZnenA3SWM3OFhsQjIxWXhZdTc3Y1A0ZGxNZzBSNUJ1YkxvZGN0T056dnNyakpIbVBHUHJ5OS00bkhKYnByWHh5MlI0eXh5dzMxWlMtWU9zUDJRdFotSTFXb1U3ajFmWk5ZUHlwcjVtRHZ6Qko2TWVpYXVoNG4ybkdPcVB1b2lqT2xnX1YySFVv?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
+      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-09-25T01:39:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
