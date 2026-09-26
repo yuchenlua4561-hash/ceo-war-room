@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-26T14:03:57+08:00",
+  "intel_updated_at": "2026-09-26T19:15:59+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -186,7 +186,7 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "CDU／幫浦",
-      "move": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - webwire.com",
+      "move": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - WebWire",
       "implication": "公開情報更新於 2026-09-25T20:57:39+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mX2Fyd2ZWX0tBdFJYaHl5RkJwVUlfRzRGbGhtN1BlZHZYbkhOejM5Y1J6a0k3c2ZjOFR5NV9XalBLaUpXTzdmbzhxVE9zSFEwWktsLWFzcWZoOU12VGZ1Vm5CQ050ckZK?oc=5"
     },
@@ -200,7 +200,7 @@
     {
       "company": "Vertiv",
       "product": "液冷散熱",
-      "move": "Vertiv to Acquire KES to Boost EMEA Liquid Cooling Services - datacentremagazine.com",
+      "move": "Vertiv to Acquire KES to Boost EMEA Liquid Cooling Services - Data Centre Magazine",
       "implication": "公開情報更新於 2026-09-25T20:38:44+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEJKLVVsYWdoRk9uV1VoRzlSQnZNUU5pWHNqMHdfSU1IdWUtZktpMGJfR0oxdGdwTnJORS1ROVA3bmNXUkx3WkFWRzlGVW1SMVpjNmsya3pCUWVBckdvbGNaUklQal9DQXpjT0s1RVJNeVJFNGMwLVh3RXBSc0JjZkY5aEdsel9ZbWhRYTFraHYtU0lyUGVRVDF6OA?oc=5"
     },
@@ -246,16 +246,16 @@
       "headline": "Google AI data centers become grid partners with advanced power, cooling - ET Datacenters",
       "summary": "Google AI data centers become grid partners with advanced power, cooling ET Datacenters",
       "source": "ET Datacenters",
-      "published_at": "2026-09-26T10:16:34+08:00",
+      "published_at": "2026-09-26T10:25:59+08:00",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZEpYRnFNNjdZdDU0bURpUUswYmFRZkJxT2lZa2JsR2pFNXhWa3diVTdqa0FEU00tbEhEVmNOaXVBWW52d3o5ZW9ydm9uVXVKYy1fMXhMMF9pOVdrMW1VY3VuaUx1UGxWd1NlWEpkd0JlUTU4M1FXZXhaVEZTVmpqejBBek5lOWRxYmxtWVZBWkU1RkZOdlI5TEJpR0o4SmdpUGxnVVBLd2RNU1dvX3EydVg0ZWxwbk5UVDJ2YWMtU2N5TlZGNGVaeUdlU0tJeENtam4xZW1tbTUwbTczcjMyOVpqc1hLYlAxUDZORk9NWjVaUkHSAfcBQVVfeXFMTVF2VElOcFBoSjRRVG1UYTZZeWsxM3hQa2czSkRKaU4yS1ZhR2h3TS1BbHYxWEVrNWdpY1Ftc1dqT3ZiZlJDenh0VFVqdVFKMC05TWFTR1ZGNnZfRHp6azhMVldyajVoa1QybGEzMnFfS1dWNHJCYUM3MGVSeVY2a3hRZkdSNWRGUFl3cXc0QS12Q2JUTTJnU1ZVUnhkdG1sVTN6SFI3YnVJTklHVlZJdWZNMkYtb3FKZ1BTNHNsMVRTSFVpZk1XYkZXbGhaVmk1aDdQaTRqcUdXSGF0ZkJYYy1oc1A5ZmVjTjVXOG5BeVVFV19aUXFZNA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "CDU／幫浦",
-      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - webwire.com",
-      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments webwire.com",
-      "source": "webwire.com",
+      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - WebWire",
+      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments WebWire",
+      "source": "WebWire",
       "published_at": "2026-09-25T20:57:39+08:00",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mX2Fyd2ZWX0tBdFJYaHl5RkJwVUlfRzRGbGhtN1BlZHZYbkhOejM5Y1J6a0k3c2ZjOFR5NV9XalBLaUpXTzdmbzhxVE9zSFEwWktsLWFzcWZoOU12VGZ1Vm5CQ050ckZK?oc=5",
       "data_type": "live",
@@ -263,9 +263,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Vertiv to Acquire KES to Boost EMEA Liquid Cooling Services - datacentremagazine.com",
-      "summary": "Vertiv to Acquire KES to Boost EMEA Liquid Cooling Services datacentremagazine.com",
-      "source": "datacentremagazine.com",
+      "headline": "Vertiv to Acquire KES to Boost EMEA Liquid Cooling Services - Data Centre Magazine",
+      "summary": "Vertiv to Acquire KES to Boost EMEA Liquid Cooling Services Data Centre Magazine",
+      "source": "Data Centre Magazine",
       "published_at": "2026-09-25T20:38:44+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEJKLVVsYWdoRk9uV1VoRzlSQnZNUU5pWHNqMHdfSU1IdWUtZktpMGJfR0oxdGdwTnJORS1ROVA3bmNXUkx3WkFWRzlGVW1SMVpjNmsya3pCUWVBckdvbGNaUklQal9DQXpjT0s1RVJNeVJFNGMwLVh3RXBSc0JjZkY5aEdsel9ZbWhRYTFraHYtU0lyUGVRVDF6OA?oc=5",
       "data_type": "live",
@@ -283,19 +283,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Data center cooling is changing. The engineering fundamentals are not. - Data Center Frontier",
-      "summary": "Data center cooling is changing. The engineering fundamentals are not. Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-09-25T18:36:05+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2xZTzRsblpYZlNuTmpvRUlEdkJFNm1vN3ZWUnZrYXRRT2R1NTRzRFdxYUJwVnhKVzJWN2NZNHJrY293ekxSMFM4TG5uVFNOdVcyM01hUUtQd2F4T0FWc3YxcWRiVXhaOUQyUTd1bjFKU0RFNmdtN3JGN2RZUVRidllRVVMtaDNaU1dCSlZqN20tUVpEbUl6RlI1TlhWd1ZSYW9pWDR4cG9WT2VuSkFrT0lrSUVQWjhleU9FTVBoS0EyS0h2c200RHV3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv to acquire data center fluid management firm King Environmental Services - datacenterdynamics.com",
-      "summary": "Vertiv to acquire data center fluid management firm King Environmental Services datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "Vertiv to acquire data center fluid management firm King Environmental Services - Data Center Dynamics",
+      "summary": "Vertiv to acquire data center fluid management firm King Environmental Services Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-09-25T17:29:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcTNQUllUaFV2NUR5V29PY2VrZTEyZUlWS01PLWxkeWVaZHlTcUpQOGJjTy1mOWlCTUZZMGZtUENfcmNueEh2a1ZzR0NWbTNmQU9NYmFsMVZweXZkRHNreWxxTDZId0hOa1RGUTVJV3I5RVhWYUhCY0VJV0xLclJJSkstTW1tTHV1NXU0VmM4emZack0tU2Y4VXpDbThOQXFXZTlTc2dYTUR6aDFibkl6QjBub2hUZ2FYdlNrR0YtZ2Y?oc=5",
       "data_type": "live",
@@ -358,6 +348,16 @@
       "source": "HPCwire",
       "published_at": "2026-09-25T02:20:33+08:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnRWM3RrQzV5dW1yRDhYMGNrQXdBVFMzbXgzb0lEWmZnenA3SWM3OFhsQjIxWXhZdTc3Y1A0ZGxNZzBSNUJ1YkxvZGN0T056dnNyakpIbVBHUHJ5OS00bkhKYnByWHh5MlI0eXh5dzMxWlMtWU9zUDJRdFotSTFXb1U3ajFmWk5ZUHlwcjVtRHZ6Qko2TWVpYXVoNG4ybkdPcVB1b2lqT2xnX1YySFVv?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? - Nasscom",
+      "summary": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-09-25T01:39:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
