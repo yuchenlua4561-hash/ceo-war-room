@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-27T21:50:28+08:00",
+  "intel_updated_at": "2026-09-28T01:56:58+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -242,6 +242,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Immersion Cooling Fluids Market To 2035: AI Data Center Demand Drives Growth - News and Statistics - IndexBox",
+      "summary": "Immersion Cooling Fluids Market To 2035: AI Data Center Demand Drives Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-09-27T22:06:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWRHY2VyUGRaZDloZXkwbm9ReW1ENC1mdUVPX3diM1hfZnZadTdWSnlBbjBTWThXMmNOajV1Z2JGU25sME1RMUFFMXVXUGJyLXZJelE5VHNKalNVWkdnbUJiVDRPc21JVUdoRmJwVzI1Sm41aVFhQjRubWNpQjQ5cjA0bGlfaUhHVUVIZW9ENlAwbGg2eEFYOTlYOVE2WWdZTFpaVEllLUNkVHBaSTZHQks5bXM?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "AI Chips Are 10× More Efficient. Data Center Power Demand Keeps Exploding - HackerNoon",
       "summary": "AI Chips Are 10× More Efficient. Data Center Power Demand Keeps Exploding HackerNoon",
@@ -293,9 +303,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "LG Electronics joins NVIDIA network, targets AI data center cooling growth - CHOSUNBIZ - Chosunbiz",
-      "summary": "LG Electronics joins NVIDIA network, targets AI data center cooling growth - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
+      "headline": "LG Electronics joins NVIDIA network, targets AI data center cooling growth - CHOSUNBIZ - biz.chosun.com",
+      "summary": "LG Electronics joins NVIDIA network, targets AI data center cooling growth - CHOSUNBIZ biz.chosun.com",
+      "source": "biz.chosun.com",
       "published_at": "2026-09-27T09:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FaEFuNVphM3hON3piUlZBeVJZM3g4U0w5YWxHbXltUHc5NlhJMmpGWVFxUWtyMVNfSDdoT210Y19tdjNDMHVCYnJocHFxcWRQVDNua3Jwd1hTSTk1VkZuaEp4X29iQVNHSmJZMVhHRTdjRDB0cE55aDR30gGOAUFVX3lxTE0zZzdPRm5URDBqRWtNdG42Mk5INEdKLXlhZzhFcG94UjZCVEkwRXdDeXdHdWg0LVVnS2RxdjZRaFdYeENHUjVpcG0tUXlfcldFVGN4UngtX1pKTGQ1cUlsckY0U1VRTWpRRVlwLTRnd0hvRGdiMkdHU2N5VkxaNTVWSnNsblV1em1xeDdZVEE?oc=5",
       "data_type": "live",
@@ -348,16 +358,6 @@
       "source": "Impakter",
       "published_at": "2026-09-25T19:34:21+08:00",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0U2RUc4VTR0Y3B4NWJBSjBBSTBiWV9PYnNtX1lPeTI2VVZCVC1ZSnhVLTYxc2lHbWFhMUphaG5KTnpCNkhxRjV6a0ozNE0zR2xfRUNOMk9UVDhRclVJc0RLTWZ6eXFkbXVJeHVGME5nem9xZXdMQ1NJajY3eWVmdzFMTnlrdzB4SXUzTA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv to acquire data center fluid management firm King Environmental Services - Data Center Dynamics",
-      "summary": "Vertiv to acquire data center fluid management firm King Environmental Services Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-09-25T17:29:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcTNQUllUaFV2NUR5V29PY2VrZTEyZUlWS01PLWxkeWVaZHlTcUpQOGJjTy1mOWlCTUZZMGZtUENfcmNueEh2a1ZzR0NWbTNmQU9NYmFsMVZweXZkRHNreWxxTDZId0hOa1RGUTVJV3I5RVhWYUhCY0VJV0xLclJJSkstTW1tTHV1NXU0VmM4emZack0tU2Y4VXpDbThOQXFXZTlTc2dYTUR6aDFibkl6QjBub2hUZ2FYdlNrR0YtZ2Y?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
