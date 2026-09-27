@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-27T16:00:09+08:00",
+  "intel_updated_at": "2026-09-27T21:50:28+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -185,10 +185,10 @@
   "competitors": [
     {
       "company": "Schneider Electric／Motivair",
-      "product": "CDU／幫浦",
-      "move": "Schneider Electric: Motivair WCDU Combines Liquid and Air Cooling for AI Data Centers - ARC Advisory Group",
-      "implication": "公開情報更新於 2026-09-27T14:23:24+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1VSenFsUnFnS3FLRGhKa3JZaFhFLXlDaWJGVnU3a1IzejJWWjNzMTFtT2NNaWlRWHctbFAzdTdYdEYzQm5uMTJ0bTcxb3FsTHV2cUdlZjlkT1hzYk51NnRkeWh3RHIxb1BtR3N1WkJiQ3JBNzBsX0FHdVJoOFYxVTdwTElHZktFS19OeTlQLWJZS0lPckFUTWdMbHlXQ1RrUU5Xb0xxOA?oc=5"
+      "product": "液冷散熱",
+      "move": "Liquid Cooling Launch Might Change The Case For Investing In Schneider Electric (ENXTPA:SU) - simplywall.st",
+      "implication": "公開情報更新於 2026-09-27T15:54:42+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb3ZMZE5KNjgwclQ5MjB2elBaYUJZVDlaelY2TTB2WFhaSHFBUVNKaHJSNjZTcHl5OVJCRlBIWEl5QU1JOURPcnZMdTBWd1pYcnJfQUsxZnVRNVlsU2RmR0ROazFZWHlzdF9FVU8weVE1U1JCMU85M1QyRHhOblFUWjdsZ3NRUEdBQ0MxRmF2QnRwb0RPamRHa0gtMkdfWHdfbVRWNkVwRldYX2ZrSzFVY3hYWWJfWGNLOWpxM1hUZ01xTHVOV2NScTE3LWpLWHhpTUE0LVNGOUg4eld20gHiAUFVX3lxTE1aODU5Y0pwbF9TVVM2S3lVNkFMRjNFLWFnZDlZaDU5VFdlYjdoMmVVRmI3VFJEZWNTYmpuOGVONVVzcXZBNGFSZkRRZ2docm1LZXdtRnJaRER2OHlraHIzWnFnczR1d0xyRnJaVl9zU041TW92bkU0TDhiVERYWGNFZGFrMkttazRSaFQ1UkpSRXFWM0FndnVsMm9GMUJDelVIRDNtbHBnME96SjNMSjkyNHlubDl0OFVOWWczakdnR0Nkd0NlWGFlMWpGT3BNZzhZUDR4bWNXVHlfOENtUm1VZ3c?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -243,6 +243,26 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "AI Chips Are 10× More Efficient. Data Center Power Demand Keeps Exploding - HackerNoon",
+      "summary": "AI Chips Are 10× More Efficient. Data Center Power Demand Keeps Exploding HackerNoon",
+      "source": "HackerNoon",
+      "published_at": "2026-09-27T18:18:23+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcndGbGtDZHhmWjNmM290YmhFN2VLUFlxT2hTdktoSnd4UXJEa0hzQU1VdFh0RkxQdWV4cEtFX3U0MFhMRFU0eUd1MnZqdTNqbHplUFBsemF1R0hZaU1pZFJxUVVMeldXMVptU2tQYUphTUh3bGU1Qm1OODZnU1c3N21JdTUyNWo0TFdBQkM1eUpEcW03RW1YTVN3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Liquid Cooling Launch Might Change The Case For Investing In Schneider Electric (ENXTPA:SU) - simplywall.st",
+      "summary": "Liquid Cooling Launch Might Change The Case For Investing In Schneider Electric (ENXTPA:SU) simplywall.st",
+      "source": "simplywall.st",
+      "published_at": "2026-09-27T15:54:42+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb3ZMZE5KNjgwclQ5MjB2elBaYUJZVDlaelY2TTB2WFhaSHFBUVNKaHJSNjZTcHl5OVJCRlBIWEl5QU1JOURPcnZMdTBWd1pYcnJfQUsxZnVRNVlsU2RmR0ROazFZWHlzdF9FVU8weVE1U1JCMU85M1QyRHhOblFUWjdsZ3NRUEdBQ0MxRmF2QnRwb0RPamRHa0gtMkdfWHdfbVRWNkVwRldYX2ZrSzFVY3hYWWJfWGNLOWpxM1hUZ01xTHVOV2NScTE3LWpLWHhpTUE0LVNGOUg4eld20gHiAUFVX3lxTE1aODU5Y0pwbF9TVVM2S3lVNkFMRjNFLWFnZDlZaDU5VFdlYjdoMmVVRmI3VFJEZWNTYmpuOGVONVVzcXZBNGFSZkRRZ2docm1LZXdtRnJaRER2OHlraHIzWnFnczR1d0xyRnJaVl9zU041TW92bkU0TDhiVERYWGNFZGFrMkttazRSaFQ1UkpSRXFWM0FndnVsMm9GMUJDelVIRDNtbHBnME96SjNMSjkyNHlubDl0OFVOWWczakdnR0Nkd0NlWGFlMWpGT3BNZzhZUDR4bWNXVHlfOENtUm1VZ3c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "LG Electronics joins Nvidia network to expand AI data center cooling business - Korea JoongAng Daily",
       "summary": "LG Electronics joins Nvidia network to expand AI data center cooling business Korea JoongAng Daily",
       "source": "Korea JoongAng Daily",
@@ -282,10 +302,20 @@
       "data_label": "公開情報"
     },
     {
+      "category": "CDU／幫浦",
+      "headline": "LG qualifies 2.6 MW CDU for NVIDIA DSX AI infrastructure - Refindustry",
+      "summary": "LG qualifies 2.6 MW CDU for NVIDIA DSX AI infrastructure Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-09-27T05:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3Ryb2t5dGFmSkJVc1NCUFZLVXY5VlVfR0ZkdV9qNTFHdU81eUlocFZTeG0zRE9oNV92Vk85THlRMHVjUlE3S1ZLaU1VMU5zMF9IQ2JtSTAtVmdfVHpMRHMxR0FQcFNGSnV3TGxYeTRvMjYwWGo1QnVXLVl2bWFCUThuRzNWcmVicEZCakFoMA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
-      "headline": "Google AI data centers become grid partners with advanced power, cooling - datacenters.economictimes.indiatimes.com",
-      "summary": "Google AI data centers become grid partners with advanced power, cooling datacenters.economictimes.indiatimes.com",
-      "source": "datacenters.economictimes.indiatimes.com",
+      "headline": "Google AI data centers become grid partners with advanced power, cooling - ET Datacenters",
+      "summary": "Google AI data centers become grid partners with advanced power, cooling ET Datacenters",
+      "source": "ET Datacenters",
       "published_at": "2026-09-26T10:25:59+08:00",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZEpYRnFNNjdZdDU0bURpUUswYmFRZkJxT2lZa2JsR2pFNXhWa3diVTdqa0FEU00tbEhEVmNOaXVBWW52d3o5ZW9ydm9uVXVKYy1fMXhMMF9pOVdrMW1VY3VuaUx1UGxWd1NlWEpkd0JlUTU4M1FXZXhaVEZTVmpqejBBek5lOWRxYmxtWVZBWkU1RkZOdlI5TEJpR0o4SmdpUGxnVVBLd2RNU1dvX3EydVg0ZWxwbk5UVDJ2YWMtU2N5TlZGNGVaeUdlU0tJeENtam4xZW1tbTUwbTczcjMyOVpqc1hLYlAxUDZORk9NWjVaUkHSAfcBQVVfeXFMTVF2VElOcFBoSjRRVG1UYTZZeWsxM3hQa2czSkRKaU4yS1ZhR2h3TS1BbHYxWEVrNWdpY1Ftc1dqT3ZiZlJDenh0VFVqdVFKMC05TWFTR1ZGNnZfRHp6azhMVldyajVoa1QybGEzMnFfS1dWNHJCYUM3MGVSeVY2a3hRZkdSNWRGUFl3cXc0QS12Q2JUTTJnU1ZVUnhkdG1sVTN6SFI3YnVJTklHVlZJdWZNMkYtb3FKZ1BTNHNsMVRTSFVpZk1XYkZXbGhaVmk1aDdQaTRqcUdXSGF0ZkJYYy1oc1A5ZmVjTjVXOG5BeVVFV19aUXFZNA?oc=5",
       "data_type": "live",
@@ -293,9 +323,9 @@
     },
     {
       "category": "CDU／幫浦",
-      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - webwire.com",
-      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments webwire.com",
-      "source": "webwire.com",
+      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - WebWire",
+      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments WebWire",
+      "source": "WebWire",
       "published_at": "2026-09-25T20:57:39+08:00",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aa0VtNWdMN2RYaFFnV05YOENtY1VPYkVhZGl4dng0MlFuR1JaTEFrRGg2NGhZS2xzWkdfOE5nTkdCMFlfTXg0R0ZjaUhzYWJNWVBrekY1UVpNUnZMMVdqRnhGSVJtdlplNHZXZU9QRQ?oc=5",
       "data_type": "live",
@@ -328,36 +358,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-09-25T17:29:02+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcTNQUllUaFV2NUR5V29PY2VrZTEyZUlWS01PLWxkeWVaZHlTcUpQOGJjTy1mOWlCTUZZMGZtUENfcmNueEh2a1ZzR0NWbTNmQU9NYmFsMVZweXZkRHNreWxxTDZId0hOa1RGUTVJV3I5RVhWYUhCY0VJV0xLclJJSkstTW1tTHV1NXU0VmM4emZack0tU2Y4VXpDbThOQXFXZTlTc2dYTUR6aDFibkl6QjBub2hUZ2FYdlNrR0YtZ2Y?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv to Acquire King Environmental Services, Expanding Data Center Fluid Management in EMEA - eponline.com",
-      "summary": "Vertiv to Acquire King Environmental Services, Expanding Data Center Fluid Management in EMEA eponline.com",
-      "source": "eponline.com",
-      "published_at": "2026-09-25T16:44:01+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXU3Rm41RWJucjRFcWRzWE1ObVhLZlRFRFpQX1M0OVhxMG9lX1JWVkxleHp5RTFJNi1wUVlQeXo0WFNNXzJ6N2xSX1g0M0xPcnVpSlJFcG5rTUljckJ3cHZ6eHhlWHdnVmZaRXJvdWNhVjUwQi1Kc3poS2lrZXNvc2xHeExnN0xldEJzalVuV2Q2NExBN0Q2MDFTNjBLSGd4czVETDhyRVFfdUdIZjNGc1YtYXV6ZHFiWWRmcVdzS3dTbTdKMjJqZld4RXFKMWlwWDlhUA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture - Nasscom",
-      "summary": "Direct-to-Chip vs. Immersion: Choosing the Right Liquid Cooled AI Data Center Architecture Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-09-25T16:31:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamxobDVfMVlwU004eHRVVGc2WmJiOC14cGNxNEdHeVF4MmoyUnRrUDgwb3p3RlE5VHN2VXBITF8xX0RnYm1LNXBfM2ltbEl2V3R4cnBaRTE2T25makZFYzlJNld2U0dyMnFHVjZoN01HMTNSdV9IODdzRVRXc1QxRk1ySGpkVUxaZ2I3SlFiX3g3ZlJLcTN5N0RkaUxEQmw1ME5YSVJuWDVMYXZVaWxHUVFPRkI3QnVhQzk1TXBR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Cold Aisle Containment Systems Market to Accelerate on AI Data Center Demand, Forecast Points Higher Toward 2035 - IndexBox",
-      "summary": "Cold Aisle Containment Systems Market to Accelerate on AI Data Center Demand, Forecast Points Higher Toward 2035 IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-09-25T08:21:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkM4UklvOHBRT0VweUh3eWQ1TVlXUVNZb21KM1FkaS1TQXd0UHl6VXpMQ1JHb1pfUXZVQUxnemVJQVNKMmVneUctempJTHNXTUs1ekVmZkNEWXFGWTdjSjdFY3NTend3UllJYmJ1cEZNNVlUWTFOMld5d0pkUVlRenZjRXFwM0J5OUpvYzhmb3ExVHRfeXdIR0g5RmljXzd5WTFsb1F1TzVvYTZtRkM2ajYyd0RyNXZ5T0M1RjZoOHJwQTBDRzFVSlBJazJDX2FZb1pZSXhIQ1k?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
