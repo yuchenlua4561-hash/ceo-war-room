@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-29T00:45:00+08:00",
+  "updated_at": "2026-09-29T06:11:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-29T00:58:59+08:00",
+  "intel_updated_at": "2026-09-29T06:29:37+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/29 00:45；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/29 06:11；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-29 00:45 GMT+8",
+      "as_of": "2026-09-29 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2047,
+      "value": 0.2046,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-29 00:45 GMT+8",
+      "as_of": "2026-09-29 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.465,
+      "value": 36.445,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-29 00:45 GMT+8",
+      "as_of": "2026-09-29 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv expands data center kit manufacturing capacity in Slovakia - Data Center Dynamics",
-      "implication": "公開情報更新於 2026-09-28T21:34:22+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXhfalYzNU5XT3NXSERmWElWdEc3dHNHY19aeDNpc0t1dzB5WExGRmp6Vmt2d0xEeUVRU2VqNXVua282S3VPY1NfQmpZeVRSSTA0ZlBIWWE5VmpiSEpHS0kwYTNjbmxfYVQtN3FDY1RLeERLNkpTeFJFLTVHcXE1eThzOWpXVjY0RmNmRjBjZ2JvVklVNXRLci13ZWVEeXhFcFFwN2hlNWNDdVlaMnc?oc=5"
+      "move": "Vertiv Week 2026: NVIDIA Sees Global Data Center Demand More Than Doubling by 2030 - Morocco World News",
+      "implication": "公開情報更新於 2026-09-29T01:39:16+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOGkwMUJQYkVjT01YQTVRZkY3X0xveHZXcWVjdHV3cnRHRlFQYVZhdFBGYWZNeENOSGcwQ3JMdWp1djMxaTFGM3ZTcWVxRC1fZXhXSWFuZldxUU9PMXV4bXZLb0YxdlJkVVFtTWc0ZzhFcEttXzhhQzllREprQ3dZTXNoYUlZaFdSaTFxQ1laVlgyWUI2UkNqa2w2a2FYWFVkZWFkZWJhNU5HWmRVcHRNUzV5WkdnTjFMZU9GdG14WGoybHRtNVJYa1d3?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,6 +241,16 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Week 2026: NVIDIA Sees Global Data Center Demand More Than Doubling by 2030 - Morocco World News",
+      "summary": "Vertiv Week 2026: NVIDIA Sees Global Data Center Demand More Than Doubling by 2030 Morocco World News",
+      "source": "Morocco World News",
+      "published_at": "2026-09-29T01:39:16+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOGkwMUJQYkVjT01YQTVRZkY3X0xveHZXcWVjdHV3cnRHRlFQYVZhdFBGYWZNeENOSGcwQ3JMdWp1djMxaTFGM3ZTcWVxRC1fZXhXSWFuZldxUU9PMXV4bXZLb0YxdlJkVVFtTWc0ZzhFcEttXzhhQzllREprQ3dZTXNoYUlZaFdSaTFxQ1laVlgyWUI2UkNqa2w2a2FYWFVkZWFkZWJhNU5HWmRVcHRNUzV5WkdnTjFMZU9GdG14WGoybHRtNVJYa1d3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "液冷散熱",
       "headline": "DCF Tours: Inside CoolIT, Where AI Liquid Cooling Goes to Scale - Data Center Frontier",
@@ -348,16 +358,6 @@
       "source": "IndexBox",
       "published_at": "2026-09-27T22:06:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWRHY2VyUGRaZDloZXkwbm9ReW1ENC1mdUVPX3diM1hfZnZadTdWSnlBbjBTWThXMmNOajV1Z2JGU25sME1RMUFFMXVXUGJyLXZJelE5VHNKalNVWkdnbUJiVDRPc21JVUdoRmJwVzI1Sm41aVFhQjRubWNpQjQ5cjA0bGlfaUhHVUVIZW9ENlAwbGg2eEFYOTlYOVE2WWdZTFpaVEllLUNkVHBaSTZHQks5bXM?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Vertiv CoolChip CDU qualifies as NVIDIA DSX Ready in the US - Refindustry",
-      "summary": "Vertiv CoolChip CDU qualifies as NVIDIA DSX Ready in the US Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-09-27T19:10:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNml1QXFTY0QtZFd3ellYaDk5YkJLbTRldHdUaFZFMmNRbHV4ODV1bGEwTGZESjJiN1M4dzhqdm9pQ0FnY0FIa0tkVFdsSlZwQ3JSWmJfbnI0X09ZLU81RVZfYkZwMmtrb2RrSFB5cFBtTmlJMEVmTTlMUW1ZTU5ISzlqQklrOXZkMEN6Q0xtNEg5OXc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
