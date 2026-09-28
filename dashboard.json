@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-28T16:25:00+08:00",
+  "updated_at": "2026-09-29T00:45:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-28T16:36:28+08:00",
+  "intel_updated_at": "2026-09-29T00:58:59+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/28 16:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/29 00:45；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-28 16:25 GMT+8",
+      "as_of": "2026-09-29 00:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2055,
+      "value": 0.2047,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-28 16:25 GMT+8",
+      "as_of": "2026-09-29 00:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.495,
+      "value": 36.465,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-28 16:25 GMT+8",
+      "as_of": "2026-09-29 00:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -194,16 +192,16 @@
     },
     {
       "company": "CoolIT Systems",
-      "product": "資料中心",
-      "move": "Inside Ecolab’s $4.75 Billion CoolIT Acquisition - datacenterrichness.substack.com",
-      "implication": "公開情報更新於 2026-09-11T03:07:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMW0xX0hEUFlPNjNVdkI3YklFcS04TDFPN1JkZEppbjQ1R1ZUOEl1MVkwNzBiSVp3U2x2bHJ3QXJVOW1RV2FVRkdfOEZoMjNSeUZzcENmdllic3JoTEJic3lNRnowX1lvN2dYQWpkTVQwcFgyR2hROFRfaWxaR2xKNA?oc=5"
+      "product": "液冷散熱",
+      "move": "DCF Tours: Inside CoolIT, Where AI Liquid Cooling Goes to Scale - Data Center Frontier",
+      "implication": "公開情報更新於 2026-09-28T23:22:27+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV01BaEpBdXVVV3Vma1RZbng4cFBTdloyY1JsZk91d0U3T0pIc0JCTVgtQXEwTm5KV09CSWdlcVpueWZsM0FYRTg1Z1lIZVZYLVRrTWR2ZmRZZUxCV0ZFazQxQWpEOXF4Wk15OUdmNHBBMERMc1BRYUY5N2JkMFpZMUh3Q0RXNGRvay1BUkFxNTgzNmhDUllDRkhTMW0tTDM0UUlhSHlhVXhhQ1hsaE9QdEdGWlJRTmZoNXVoVUVB?oc=5"
     },
     {
       "company": "Vertiv",
       "product": "資料中心",
       "move": "Vertiv expands data center kit manufacturing capacity in Slovakia - Data Center Dynamics",
-      "implication": "公開情報更新於 2026-09-28T16:06:51+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "implication": "公開情報更新於 2026-09-28T21:34:22+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXhfalYzNU5XT3NXSERmWElWdEc3dHNHY19aeDNpc0t1dzB5WExGRmp6Vmt2d0xEeUVRU2VqNXVua282S3VPY1NfQmpZeVRSSTA0ZlBIWWE5VmpiSEpHS0kwYTNjbmxfYVQtN3FDY1RLeERLNkpTeFJFLTVHcXE1eThzOWpXVjY0RmNmRjBjZ2JvVklVNXRLci13ZWVEeXhFcFFwN2hlNWNDdVlaMnc?oc=5"
     },
     {
@@ -244,22 +242,72 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "DCF Tours: Inside CoolIT, Where AI Liquid Cooling Goes to Scale - Data Center Frontier",
+      "summary": "DCF Tours: Inside CoolIT, Where AI Liquid Cooling Goes to Scale Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-09-28T23:22:27+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV01BaEpBdXVVV3Vma1RZbng4cFBTdloyY1JsZk91d0U3T0pIc0JCTVgtQXEwTm5KV09CSWdlcVpueWZsM0FYRTg1Z1lIZVZYLVRrTWR2ZmRZZUxCV0ZFazQxQWpEOXF4Wk15OUdmNHBBMERMc1BRYUY5N2JkMFpZMUh3Q0RXNGRvay1BUkFxNTgzNmhDUllDRkhTMW0tTDM0UUlhSHlhVXhhQ1hsaE9QdEdGWlJRTmZoNXVoVUVB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Vertiv expands data center kit manufacturing capacity in Slovakia - Data Center Dynamics",
       "summary": "Vertiv expands data center kit manufacturing capacity in Slovakia Data Center Dynamics",
       "source": "Data Center Dynamics",
-      "published_at": "2026-09-28T16:06:51+08:00",
+      "published_at": "2026-09-28T21:34:22+08:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXhfalYzNU5XT3NXSERmWElWdEc3dHNHY19aeDNpc0t1dzB5WExGRmp6Vmt2d0xEeUVRU2VqNXVua282S3VPY1NfQmpZeVRSSTA0ZlBIWWE5VmpiSEpHS0kwYTNjbmxfYVQtN3FDY1RLeERLNkpTeFJFLTVHcXE1eThzOWpXVjY0RmNmRjBjZ2JvVklVNXRLci13ZWVEeXhFcFFwN2hlNWNDdVlaMnc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Shinsung E&G Unveils AIO Cooling Platform for AI Data Centers - thelec.net",
+      "summary": "Shinsung E&G Unveils AIO Cooling Platform for AI Data Centers thelec.net",
+      "source": "thelec.net",
+      "published_at": "2026-09-28T17:51:30+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02Q0xHdmFIb05DM2NYcWl6M0ctaFNBMkVYT3hRVHZKOUZDd2RXaHRBaVlIdklIN2hlakdhMnp3YWM2LVJvaFQ1ZHI5NG1WOVFlNGpxczBQMllNWmNKY1QxYzB1SVBPRXM?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
-      "headline": "Why Near Total Liquid Cooling Is the New Standard for AI Racks - IEEE Spectrum",
-      "summary": "Why Near Total Liquid Cooling Is the New Standard for AI Racks IEEE Spectrum",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-09-28T15:03:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uR0JNR2JlVmE3QjdBNTFqTmtlQWExR05MSGlZMkpSVFpqQlhaOTFuNWcybVFVbHRCd2RvSnRLSHp2eFMzWGljeEVoRlRMZUZFRXB6SldfRFJqaWN2ZEdwVTk4MHpTWlBOTkN3QTBGVDd2NDg?oc=5",
+      "headline": "KT Cloud to Build Gunsan AI Data Center With Full Liquid Cooling by 2028 - Seoul Economic Daily",
+      "summary": "KT Cloud to Build Gunsan AI Data Center With Full Liquid Cooling by 2028 Seoul Economic Daily",
+      "source": "Seoul Economic Daily",
+      "published_at": "2026-09-28T17:03:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYW5QTUhsdnRDUS1qQm01aU13UVIwMG1La2pTNjR0UVNNSW4yWTRTdmdBTXVQYi1JaWZybm11WTBibGR6akZvUHJsWmc3RGRqbUpNb1dqZUFpQ244TF9jZVpKWms3akc4ek5xY21Fd0xLbi1RU1dDVDg3eGpYZFBjUk03azhWUW54QjRvXzY4dzNGZjVJMXUwNE40dGwwVGg4cW1J?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "summary": "News Summary: NVIDIA Open Agent Safety Platform consists of NVIDIA OpenShell open source software and the NVIDIA Sentry reference system design that enables full-stack governance and control across software and the hardware, compute and robotics systems that r",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-09-28T17:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data Centers Are Swapping Water for PFAS Cooling. The Fix Has a Catch - Intelligent Living",
+      "summary": "Data Centers Are Swapping Water for PFAS Cooling. The Fix Has a Catch Intelligent Living",
+      "source": "Intelligent Living",
+      "published_at": "2026-09-28T14:47:28+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQ1hINzhtcW1aRXdXVjQwVE8yNUpFbzB6T0ZZVkIzSkxHOHdUOUR0cVF4MXRoam03aXE1alk2QlhJa0xNQ3pzSUxIZDZJM3pzR1ptalVsUlBybVZpRVlRVWZtcFppb0U2Z2VCSVNhXzd4dy1GZDY0bzlIWW1KRlU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KT Cloud announced on the 28th that it will participate in the Jeonbuk Gunsan AI Data Center (AIDC) - 매일경제",
+      "summary": "KT Cloud announced on the 28th that it will participate in the Jeonbuk Gunsan AI Data Center (AIDC) 매일경제",
+      "source": "매일경제",
+      "published_at": "2026-09-28T13:35:27+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kaHFHakpmR1pQWVdrOXBScVVfUlFIYV9OMHc4QzQwUVg5cDVKMnFsdUpvMXVxM0pIR3gwMUl5SnVSWE1PMG4tS2pXdw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -310,56 +358,6 @@
       "source": "Refindustry",
       "published_at": "2026-09-27T19:10:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNml1QXFTY0QtZFd3ellYaDk5YkJLbTRldHdUaFZFMmNRbHV4ODV1bGEwTGZESjJiN1M4dzhqdm9pQ0FnY0FIa0tkVFdsSlZwQ3JSWmJfbnI0X09ZLU81RVZfYkZwMmtrb2RrSFB5cFBtTmlJMEVmTTlMUW1ZTU5ISzlqQklrOXZkMEN6Q0xtNEg5OXc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling Launch Might Change The Case For Investing In Schneider Electric (ENXTPA:SU) - simplywall.st",
-      "summary": "Liquid Cooling Launch Might Change The Case For Investing In Schneider Electric (ENXTPA:SU) simplywall.st",
-      "source": "simplywall.st",
-      "published_at": "2026-09-27T15:54:42+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb3ZMZE5KNjgwclQ5MjB2elBaYUJZVDlaelY2TTB2WFhaSHFBUVNKaHJSNjZTcHl5OVJCRlBIWEl5QU1JOURPcnZMdTBWd1pYcnJfQUsxZnVRNVlsU2RmR0ROazFZWHlzdF9FVU8weVE1U1JCMU85M1QyRHhOblFUWjdsZ3NRUEdBQ0MxRmF2QnRwb0RPamRHa0gtMkdfWHdfbVRWNkVwRldYX2ZrSzFVY3hYWWJfWGNLOWpxM1hUZ01xTHVOV2NScTE3LWpLWHhpTUE0LVNGOUg4eld20gHiAUFVX3lxTE1aODU5Y0pwbF9TVVM2S3lVNkFMRjNFLWFnZDlZaDU5VFdlYjdoMmVVRmI3VFJEZWNTYmpuOGVONVVzcXZBNGFSZkRRZ2docm1LZXdtRnJaRER2OHlraHIzWnFnczR1d0xyRnJaVl9zU041TW92bkU0TDhiVERYWGNFZGFrMkttazRSaFQ1UkpSRXFWM0FndnVsMm9GMUJDelVIRDNtbHBnME96SjNMSjkyNHlubDl0OFVOWWczakdnR0Nkd0NlWGFlMWpGT3BNZzhZUDR4bWNXVHlfOENtUm1VZ3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics joins Nvidia network to expand AI data center cooling business - Korea JoongAng Daily",
-      "summary": "LG Electronics joins Nvidia network to expand AI data center cooling business Korea JoongAng Daily",
-      "source": "Korea JoongAng Daily",
-      "published_at": "2026-09-27T14:34:33+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGl0YUNMa21NMWtNMUg3YnRrcTZXcU5VY3ctNF9XekpETmlHRnNYaWRnYktFMUZFMlN5enZGaVdWbERaUjNYR0NnWG1fZnFYaWI2ZFA2RU9ZV1dnU1p5ZC11LW44S2NrYmFtZmpJOTcxZlZRVEUwTU5ScDZzbVJBXzZtcnhZbWluWGVrbmEyUUZna3NJbmFsc05oSWRwRVFGV0JweDkzZUo1UmJfaHZwQjNpVVRSVHQ2MkNxazZsSXRTV0dxOGdHTFFmQUxTQW8?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Schneider Electric: Motivair WCDU Combines Liquid and Air Cooling for AI Data Centers - ARC Advisory Group",
-      "summary": "Schneider Electric: Motivair WCDU Combines Liquid and Air Cooling for AI Data Centers ARC Advisory Group",
-      "source": "ARC Advisory Group",
-      "published_at": "2026-09-27T14:23:24+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1VSenFsUnFnS3FLRGhKa3JZaFhFLXlDaWJGVnU3a1IzejJWWjNzMTFtT2NNaWlRWHctbFAzdTdYdEYzQm5uMTJ0bTcxb3FsTHV2cUdlZjlkT1hzYk51NnRkeWh3RHIxb1BtR3N1WkJiQ3JBNzBsX0FHdVJoOFYxVTdwTElHZktFS19OeTlQLWJZS0lPckFUTWdMbHlXQ1RrUU5Xb0xxOA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics named Nvidia partner for AI data center cooling - The Korea Herald",
-      "summary": "LG Electronics named Nvidia partner for AI data center cooling The Korea Herald",
-      "source": "The Korea Herald",
-      "published_at": "2026-09-27T12:37:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XclRKRzFVWFkxRXdOVUN0RFFnNENkN3RvRzFOT3NnYlQyZXljdldCSE1OcXdvRUxpUE9BczFuSG84N1JZMFhKS2ozbWx1U25MMnVVZGx2Yw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics joins NVIDIA network, targets AI data center cooling growth - CHOSUNBIZ - Chosunbiz",
-      "summary": "LG Electronics joins NVIDIA network, targets AI data center cooling growth - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-09-27T09:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FaEFuNVphM3hON3piUlZBeVJZM3g4U0w5YWxHbXltUHc5NlhJMmpGWVFxUWtyMVNfSDdoT210Y19tdjNDMHVCYnJocHFxcWRQVDNua3Jwd1hTSTk1VkZuaEp4X29iQVNHSmJZMVhHRTdjRDB0cE55aDR30gGOAUFVX3lxTE0zZzdPRm5URDBqRWtNdG42Mk5INEdKLXlhZzhFcG94UjZCVEkwRXdDeXdHdWg0LVVnS2RxdjZRaFdYeENHUjVpcG0tUXlfcldFVGN4UngtX1pKTGQ1cUlsckY0U1VRTWpRRVlwLTRnd0hvRGdiMkdHU2N5VkxaNTVWSnNsblV1em1xeDdZVEE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
