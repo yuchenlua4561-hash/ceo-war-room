@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-28T09:45:00+08:00",
+  "updated_at": "2026-09-28T16:25:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-09-28T10:01:02+08:00",
+  "intel_updated_at": "2026-09-28T16:36:28+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/09/28 09:45；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/09/28 16:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +55,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-28 09:45 GMT+8",
+      "as_of": "2026-09-28 16:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2041,
+      "value": 0.2055,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,7 +70,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-28 09:45 GMT+8",
+      "as_of": "2026-09-28 16:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +85,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-09-28 09:45 GMT+8",
+      "as_of": "2026-09-28 16:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -199,10 +201,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "CDU／幫浦",
-      "move": "Vertiv CoolChip CDU qualifies as NVIDIA DSX Ready in the US - Refindustry",
-      "implication": "公開情報更新於 2026-09-27T19:10:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNml1QXFTY0QtZFd3ellYaDk5YkJLbTRldHdUaFZFMmNRbHV4ODV1bGEwTGZESjJiN1M4dzhqdm9pQ0FnY0FIa0tkVFdsSlZwQ3JSWmJfbnI0X09ZLU81RVZfYkZwMmtrb2RrSFB5cFBtTmlJMEVmTTlMUW1ZTU5ISzlqQklrOXZkMEN6Q0xtNEg5OXc?oc=5"
+      "product": "資料中心",
+      "move": "Vertiv expands data center kit manufacturing capacity in Slovakia - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-09-28T16:06:51+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXhfalYzNU5XT3NXSERmWElWdEc3dHNHY19aeDNpc0t1dzB5WExGRmp6Vmt2d0xEeUVRU2VqNXVua282S3VPY1NfQmpZeVRSSTA0ZlBIWWE5VmpiSEpHS0kwYTNjbmxfYVQtN3FDY1RLeERLNkpTeFJFLTVHcXE1eThzOWpXVjY0RmNmRjBjZ2JvVklVNXRLci13ZWVEeXhFcFFwN2hlNWNDdVlaMnc?oc=5"
     },
     {
       "company": "Boyd",
@@ -243,9 +245,39 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "LG Electronics Joins NVIDIA Partner Network to Expand AI Data Center Cooling Business - koreaittimes.com",
-      "summary": "LG Electronics Joins NVIDIA Partner Network to Expand AI Data Center Cooling Business koreaittimes.com",
-      "source": "koreaittimes.com",
+      "headline": "Vertiv expands data center kit manufacturing capacity in Slovakia - Data Center Dynamics",
+      "summary": "Vertiv expands data center kit manufacturing capacity in Slovakia Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-09-28T16:06:51+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXhfalYzNU5XT3NXSERmWElWdEc3dHNHY19aeDNpc0t1dzB5WExGRmp6Vmt2d0xEeUVRU2VqNXVua282S3VPY1NfQmpZeVRSSTA0ZlBIWWE5VmpiSEpHS0kwYTNjbmxfYVQtN3FDY1RLeERLNkpTeFJFLTVHcXE1eThzOWpXVjY0RmNmRjBjZ2JvVklVNXRLci13ZWVEeXhFcFFwN2hlNWNDdVlaMnc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Why Near Total Liquid Cooling Is the New Standard for AI Racks - IEEE Spectrum",
+      "summary": "Why Near Total Liquid Cooling Is the New Standard for AI Racks IEEE Spectrum",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-09-28T15:03:30+08:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uR0JNR2JlVmE3QjdBNTFqTmtlQWExR05MSGlZMkpSVFpqQlhaOTFuNWcybVFVbHRCd2RvSnRLSHp2eFMzWGljeEVoRlRMZUZFRXB6SldfRFJqaWN2ZEdwVTk4MHpTWlBOTkN3QTBGVDd2NDg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "CorefloX opens Johor liquid-cooling factory for AI data centers - TNGlobal",
+      "summary": "CorefloX opens Johor liquid-cooling factory for AI data centers TNGlobal",
+      "source": "TNGlobal",
+      "published_at": "2026-09-28T10:43:28+08:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFFPNmNrTDJqYi0zN1QtMzlaSnY4TWdaWU9iaE1hMV9KTUZMWjZBZEprcnlteEJCRW5VYTlwWkR6NlhkSWRjVEdBOE12OHBhaTh6aWh6VHEydzVuODdvc0F4czB6Nk81VlU2Tl8xUTc4YW95ODNmVGhVaXFDVzNmWDBYRjhWdF8tcDNnNDI1Z3lOT1E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Electronics Joins NVIDIA Partner Network to Expand AI Data Center Cooling Business - Korea IT Times",
+      "summary": "LG Electronics Joins NVIDIA Partner Network to Expand AI Data Center Cooling Business Korea IT Times",
+      "source": "Korea IT Times",
       "published_at": "2026-09-28T09:06:05+08:00",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Zi1yMkdSUUNtaFBEcHdUQ19UZTc5RkI0RGhzZi1xUHM3OU1xTDRVbjZzc1hLaDJkMzdZc0ZpNjBSSE1MV2s2VU5hbkY0SXJBUS1RSlJqQ0JoZENCRUZEdllvRk9raXNOVGVJT1dtNDc?oc=5",
       "data_type": "live",
@@ -263,9 +295,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Immersion Cooling Fluids Market To 2035: AI Data Center Demand Drives Growth - News and Statistics - indexbox.io",
-      "summary": "Immersion Cooling Fluids Market To 2035: AI Data Center Demand Drives Growth - News and Statistics indexbox.io",
-      "source": "indexbox.io",
+      "headline": "Immersion Cooling Fluids Market To 2035: AI Data Center Demand Drives Growth - News and Statistics - IndexBox",
+      "summary": "Immersion Cooling Fluids Market To 2035: AI Data Center Demand Drives Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
       "published_at": "2026-09-27T22:06:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWRHY2VyUGRaZDloZXkwbm9ReW1ENC1mdUVPX3diM1hfZnZadTdWSnlBbjBTWThXMmNOajV1Z2JGU25sME1RMUFFMXVXUGJyLXZJelE5VHNKalNVWkdnbUJiVDRPc21JVUdoRmJwVzI1Sm41aVFhQjRubWNpQjQ5cjA0bGlfaUhHVUVIZW9ENlAwbGg2eEFYOTlYOVE2WWdZTFpaVEllLUNkVHBaSTZHQks5bXM?oc=5",
       "data_type": "live",
@@ -328,36 +360,6 @@
       "source": "Chosunbiz",
       "published_at": "2026-09-27T09:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FaEFuNVphM3hON3piUlZBeVJZM3g4U0w5YWxHbXltUHc5NlhJMmpGWVFxUWtyMVNfSDdoT210Y19tdjNDMHVCYnJocHFxcWRQVDNua3Jwd1hTSTk1VkZuaEp4X29iQVNHSmJZMVhHRTdjRDB0cE55aDR30gGOAUFVX3lxTE0zZzdPRm5URDBqRWtNdG42Mk5INEdKLXlhZzhFcG94UjZCVEkwRXdDeXdHdWg0LVVnS2RxdjZRaFdYeENHUjVpcG0tUXlfcldFVGN4UngtX1pKTGQ1cUlsckY0U1VRTWpRRVlwLTRnd0hvRGdiMkdHU2N5VkxaNTVWSnNsblV1em1xeDdZVEE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "LG qualifies 2.6 MW CDU for NVIDIA DSX AI infrastructure - Refindustry",
-      "summary": "LG qualifies 2.6 MW CDU for NVIDIA DSX AI infrastructure Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-09-27T05:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3Ryb2t5dGFmSkJVc1NCUFZLVXY5VlVfR0ZkdV9qNTFHdU81eUlocFZTeG0zRE9oNV92Vk85THlRMHVjUlE3S1ZLaU1VMU5zMF9IQ2JtSTAtVmdfVHpMRHMxR0FQcFNGSnV3TGxYeTRvMjYwWGo1QnVXLVl2bWFCUThuRzNWcmVicEZCakFoMA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Google AI data centers become grid partners with advanced power, cooling - ET Datacenters",
-      "summary": "Google AI data centers become grid partners with advanced power, cooling ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-09-26T10:25:59+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZEpYRnFNNjdZdDU0bURpUUswYmFRZkJxT2lZa2JsR2pFNXhWa3diVTdqa0FEU00tbEhEVmNOaXVBWW52d3o5ZW9ydm9uVXVKYy1fMXhMMF9pOVdrMW1VY3VuaUx1UGxWd1NlWEpkd0JlUTU4M1FXZXhaVEZTVmpqejBBek5lOWRxYmxtWVZBWkU1RkZOdlI5TEJpR0o4SmdpUGxnVVBLd2RNU1dvX3EydVg0ZWxwbk5UVDJ2YWMtU2N5TlZGNGVaeUdlU0tJeENtam4xZW1tbTUwbTczcjMyOVpqc1hLYlAxUDZORk9NWjVaUkHSAfcBQVVfeXFMTVF2VElOcFBoSjRRVG1UYTZZeWsxM3hQa2czSkRKaU4yS1ZhR2h3TS1BbHYxWEVrNWdpY1Ftc1dqT3ZiZlJDenh0VFVqdVFKMC05TWFTR1ZGNnZfRHp6azhMVldyajVoa1QybGEzMnFfS1dWNHJCYUM3MGVSeVY2a3hRZkdSNWRGUFl3cXc0QS12Q2JUTTJnU1ZVUnhkdG1sVTN6SFI3YnVJTklHVlZJdWZNMkYtb3FKZ1BTNHNsMVRTSFVpZk1XYkZXbGhaVmk1aDdQaTRqcUdXSGF0ZkJYYy1oc1A5ZmVjTjVXOG5BeVVFV19aUXFZNA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments - WebWire",
-      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments WebWire",
-      "source": "WebWire",
-      "published_at": "2026-09-25T20:57:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aa0VtNWdMN2RYaFFnV05YOENtY1VPYkVhZGl4dng0MlFuR1JaTEFrRGg2NGhZS2xzWkdfOE5nTkdCMFlfTXg0R0ZjaUhzYWJNWVBrekY1UVpNUnZMMVdqRnhGSVJtdlplNHZXZU9QRQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
