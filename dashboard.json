@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-02T22:01:00+08:00",
+  "updated_at": "2026-10-03T03:01:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-02T22:04:22+08:00",
+  "intel_updated_at": "2026-10-03T03:11:48+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/02 22:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/03 03:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-02 22:01 GMT+8",
+      "as_of": "2026-10-03 03:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2047,
+      "value": 0.2043,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-02 22:01 GMT+8",
+      "as_of": "2026-10-03 03:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.205,
+      "value": 36.135,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-02 22:01 GMT+8",
+      "as_of": "2026-10-03 03:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -242,6 +242,16 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Thermal Interface Films Market Forecast to 2035: Growth Driven by EV and Data Center Demand - News and Statistics - IndexBox",
+      "summary": "Thermal Interface Films Market Forecast to 2035: Growth Driven by EV and Data Center Demand - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-10-02T22:16:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0Q4Y1g3X2ZJaFZ4UTNIZmhKOGM2RE9HZ2w1Vm5ScnRxVWVjVVdERV9kVGREaVZlaVVyTV9VSXE5bUZPQnZHZVlobnZZbUFyd3ZFNGYwZVpjZ0d6aEh2X3ZoX2M2azJ1VDNXZjM3OW1BeEVCM1Z4c3U2cm5SY2pobWdHbXF3U2JtSGRzT0tUNkdXUm9TbHpRSTlvbUNZQ2hSeG5NY0p5QThVWHFiMDBSVHJxb25RSkRQdUh4TTdQcmF6QQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth - Investing.com",
       "summary": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth Investing.com",
@@ -252,12 +262,32 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "UL Solutions launches liquid cooling certification for US data centers - Refindustry",
+      "summary": "UL Solutions launches liquid cooling certification for US data centers Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-10-02T19:36:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUd6YW93cktJeldKcFczSEs2UEMxVDBndzJ6VG9hSGUzV18yT21uTDVmOVN3MGkyMWwxV3NjeW56aTFrZkxzV1VLbHFYbWFQV21va1NyY1drZ0xRRHRvQXZlRzlqbU52ejFtd2xJTXg0OVBMU0lmVnhMRU13SVNDeWVVZkpta2k0bWdjMGRoa0xkTFRCbklaQnhCN3BfMC00RFE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "AI Data Center Component Shortage to Persist Through 2028 - finance.biggo.com",
       "summary": "AI Data Center Component Shortage to Persist Through 2028 finance.biggo.com",
       "source": "finance.biggo.com",
       "published_at": "2026-10-02T18:25:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncUhVUDVQTUZLSjI1TmoyNE9wTmh3UUlNcEVTd1MxSUhUdXdXZXU4bjljbGxhaldYUklaRW1hUnRYdlA5X0FKR2E0SEJ1QmYtNG9iODQ3QUJ0TEJ1MXJyTnZqOW5pdnFCbTFIWUQzeUVHLXhGc0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "With limited power comes great cooling responsibility - Data Center Dynamics",
+      "summary": "With limited power comes great cooling responsibility Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-10-02T16:07:13+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUU3aWxRaDlpYnNleElVSVh2UmJSWnZBWGlpbVFtbkVjcUU0bmJuQzVGR1ZtbzZxUkFoRllFU2RsU1BxWmpYdVFTYVd3WWdOeEdUVDZtVXFkOFlGR3NnaGVET1VROHNCTTVXcHNpNlRzRTFwT0F0Mk93RWdxOUtfZ0NTOXZxeTI2cXFVcWVaODB3emxZX0lubThPMjdhZjVQQ3pzZHRiQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -313,9 +343,9 @@
     },
     {
       "category": "CDU／幫浦",
-      "headline": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU - 아시아경제",
-      "summary": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU 아시아경제",
-      "source": "아시아경제",
+      "headline": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU - asiae.co.kr",
+      "summary": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU asiae.co.kr",
+      "source": "asiae.co.kr",
       "published_at": "2026-10-01T12:59:26+08:00",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zTkRrUG5MamY1aFRIS1hnY3o0NV9oSjk1RnkxR0JYTloycTlKSHZsbW1VQUE0WGdsOGZrbVlkMUhFcTlBN19xQVdqRWYxcTlmRDBRVmN5Ri1wajQ1eU5CQmJLSUhDcWphU3JkcVEtMmRkbFZaeUJ1aDFtdw?oc=5",
       "data_type": "live",
@@ -328,36 +358,6 @@
       "source": "finance.biggo.com",
       "published_at": "2026-10-01T11:55:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zT2IzbDlUR3hEU0VzaTlHUWNUSDN6LWpDTklIOWJvRUZRSHIyUzl3ekZ5R3F3alJIbndQeXdERUJMOHozUnpodGJULUdZdkxhcjJYNGIwYjhrZXNCSzZkVVZBdzlBVG9YWTFvcDZuZW1LQk1KY2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Autech Carrier wins Nvidia nod for AI cooling, targets Korea data center surge - CHOSUNBIZ - biz.chosun.com",
-      "summary": "Autech Carrier wins Nvidia nod for AI cooling, targets Korea data center surge - CHOSUNBIZ biz.chosun.com",
-      "source": "biz.chosun.com",
-      "published_at": "2026-10-01T10:32:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckoxQ1VXQmIxLXppU0xqcUNqbTR2UGJwektGUmtxRzVJcGROdnppb091aW8xcmhMenBiaDlrOVVlcUkweTJNaWpOY1pnWXprQlF3QXE5ZTNzZk5sV0hQZ0dBb181dlVzMnoxTk0wOW9VRTN0a01iWVVXYm1mZUdybWk2Y1E5MFJVMGszcmhR0gGOAUFVX3lxTE9ySjFDVVdCYjEtemlTTGpxQ2ptNHZQYnB6S0ZSa3FHNUlwZE52emlvT3VpbzFyaEx6cGJoOWs5VWVxSTB5Mk1pak5jWmdZemtCUXdBcTllM3NmTmxXSFBnR0FvXzV2VXMyejFOTTA5b1VFM3RrTWJZVVdibWZlR3JtaTZjUTkwUlUwazNyaFE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Jabil targets US$17.5 billion in data center revenue as it builds out power, cooling, and networking - digitimes",
-      "summary": "Jabil targets US$17.5 billion in data center revenue as it builds out power, cooling, and networking digitimes",
-      "source": "digitimes",
-      "published_at": "2026-10-01T10:12:37+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1ZYdnlWUGZpUHlqbjVxbWRCdENGc2EtQUZMQTFtMGxaaWtfamozMW1jMXl4WlpKaU1Hc0xHWE42VmNWX3Z2V21CSGRWZlZjQ2lHTEF0OHRuY1h4Y0hmYWh2eWY3bVYyYUhxWWU4OGFEZXhRRGVrZktrZGV0ZW1ONDlLM3lwWDlUbmtzR09VcW01SjZfRHhFNUtjVQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "China's Midea Challenges AI Data Center Cooling Market with 'World-First' Technology - finance.biggo.com",
-      "summary": "China's Midea Challenges AI Data Center Cooling Market with 'World-First' Technology finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-10-01T06:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVmRRTEx2MmRYMEd3b1g2NGEtTkVCZEhaV1hKSEZjTndOSWp5XzJOaWZMV1h1YjU4RDFINW5Sa09CT01zVGFyTUl6YnJEdUZpWDg1VHN3U3ZJMUFSSGxmSDljdmxqcmZnRmxQMW9lSjFrVFdvcmc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
