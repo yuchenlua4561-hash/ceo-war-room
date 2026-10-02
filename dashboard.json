@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-02T15:27:00+08:00",
+  "updated_at": "2026-10-02T22:01:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-02T15:28:48+08:00",
+  "intel_updated_at": "2026-10-02T22:04:22+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/02 15:27；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/02 22:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.94,
+      "value": 31.905,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-02 15:27 GMT+8",
+      "as_of": "2026-10-02 22:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.204,
+      "value": 0.2047,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-02 15:27 GMT+8",
+      "as_of": "2026-10-02 22:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.13,
+      "value": 36.205,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-02 15:27 GMT+8",
+      "as_of": "2026-10-02 22:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4314.0,
+      "value": 4304.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-02 15:24 GMT+8",
+      "as_of": "2026-10-02 19:47 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -227,10 +227,10 @@
     },
     {
       "company": "nVent",
-      "product": "資料中心",
-      "move": "Can AI Data Center Demand Drive nVent Electric's Growth in 2026? - The Globe and Mail",
-      "implication": "公開情報更新於 2026-09-23T23:18:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQTE3N05KV0tIUDBYQk4taEdBb2tjWm41V3pOZWlZb3NtX1AtMnkzczVXbjRPcGRHcS12TDk3VWthVlRtV3JJN2RtdGdUZTFXRTY1VnZQTlhMWkJENTZHMjlKM0QzRF9PSjdTZ1JBLTBhZXFsTW8wTEdTRXVCM09Ib01fX0w4MVh6emJDTXE1UFhNSGtTem9UV0hTWm5KZnkzY1QxWFo2bFo2R1JjNmRxdl9sZV9MSW1JUEgtY1ppTERUUDJ6YTVFMDdjX0RtV2QtMlE3bzJaRGJaNWlLLWpRUmZWRQ?oc=5"
+      "product": "液冷散熱",
+      "move": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth - Investing.com",
+      "implication": "公開情報更新於 2026-10-02T20:41:15+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGhRSFFVZkhSNXNmSklhU1dIaFoybkh3NFo5SlVFMzFQeWlBaXR3aFZLWXliNzc4RkpNSUVhVm1RQ3c5QWlidUhoUGpUZ0VjcHJnemt2SVlGLXZ2d0N5a1J4NXMya2k4VE1URkNGa0lTYzFrTWVnRjhUelhDZ3VTdGp5SXFsdkotb1JqbjdMVFNySVhuQ0RmVkFiOHh0aG8wT2JWb0tFaTRiQjhqOFV2aWxZTXpkaXJKaF82Zk5DWXhsbUZVSENXd1hvS0FPdw?oc=5"
     },
     {
       "company": "Johnson Controls",
@@ -241,6 +241,26 @@
     }
   ],
   "news": [
+    {
+      "category": "液冷散熱",
+      "headline": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth - Investing.com",
+      "summary": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth Investing.com",
+      "source": "Investing.com",
+      "published_at": "2026-10-02T20:41:15+08:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGhRSFFVZkhSNXNmSklhU1dIaFoybkh3NFo5SlVFMzFQeWlBaXR3aFZLWXliNzc4RkpNSUVhVm1RQ3c5QWlidUhoUGpUZ0VjcHJnemt2SVlGLXZ2d0N5a1J4NXMya2k4VE1URkNGa0lTYzFrTWVnRjhUelhDZ3VTdGp5SXFsdkotb1JqbjdMVFNySVhuQ0RmVkFiOHh0aG8wT2JWb0tFaTRiQjhqOFV2aWxZTXpkaXJKaF82Zk5DWXhsbUZVSENXd1hvS0FPdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Data Center Component Shortage to Persist Through 2028 - finance.biggo.com",
+      "summary": "AI Data Center Component Shortage to Persist Through 2028 finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-10-02T18:25:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncUhVUDVQTUZLSjI1TmoyNE9wTmh3UUlNcEVTd1MxSUhUdXdXZXU4bjljbGxhaldYUklaRW1hUnRYdlA5X0FKR2E0SEJ1QmYtNG9iODQ3QUJ0TEJ1MXJyTnZqOW5pdnFCbTFIWUQzeUVHLXhGc0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "Midea Showcases Breakthrough Cooling Technologies for High-Density AI Data Centers at Data Center World Asia 2026 - PR Newswire",
@@ -253,21 +273,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Liquid Cooling Manifolds Market To 2035: Data Center Demand Drives Growth - News and Statistics - indexbox.io",
-      "summary": "Liquid Cooling Manifolds Market To 2035: Data Center Demand Drives Growth - News and Statistics indexbox.io",
-      "source": "indexbox.io",
+      "headline": "Liquid Cooling Manifolds Market To 2035: Data Center Demand Drives Growth - News and Statistics - IndexBox",
+      "summary": "Liquid Cooling Manifolds Market To 2035: Data Center Demand Drives Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
       "published_at": "2026-10-02T06:46:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2t2NFl4WTBwWnNhdEZKZ1N5dlEwaG5VTWRJUUdsOVFHcUtCTVFvZXR0VkE4bjNfUXhnbDVEdi02VGM1ejN1WDROcTV3d3dmR2Exc3ZBOXM0R3NqanlkWVZCdVhjSVM4ZlVUd3ZEZU5xamRMX1VNSjZXemFnaC00aUFrSHdhYWFaR1czX0t0NFNJNnp1YnJwakVWWG1hMHgtTGFpS1E2d3Rqd2dTb1dNSU9TYlhFNzVCVW1Eek9n?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Trane Technologies adds two 250 MW AI factory cooling designs - refindustry.com",
-      "summary": "Trane Technologies adds two 250 MW AI factory cooling designs refindustry.com",
-      "source": "refindustry.com",
-      "published_at": "2026-10-02T06:20:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmVrRWIyNWZNTlcxUVIyNGZKUEJjcWVJU1lXZnZEQVpJZjZUSUFsbE1iR1c5WnU4SGJ5Z2g4TEtwQ2hNWVc0eDkyMTJ3Ym5Mb2xOenM0MlFTVlZIUDVvMWp6cVU4U3ZDWHlkS3pReGt2RjY1azN6QjhvVlFsWjBhUjRsaWI0NnltN0dfalhaRTRtQzJ4cXc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -293,9 +303,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR - indexbox.io",
-      "summary": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR indexbox.io",
-      "source": "indexbox.io",
+      "headline": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR - IndexBox",
+      "summary": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR IndexBox",
+      "source": "IndexBox",
       "published_at": "2026-10-01T13:31:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHdWOTNGdHJZNkNySWNRYnZjcHNyc2hjUmVHS2pSTHl3NkZnbm03eHJyTjI0MmMwd25DUGNyOEVJc2pJLThSanpCM1NlbWtBX0MxSVZKbGtmbjVhUXVzQ3FrMWtmMWlIZm5iQjl4Sjd5amRWQjJqbTNjUEhENlFEZzF5b216OVFreGF4YThWNDZJSnllRlNGcV9CUHNTV0N1ZGNvczJscVNpNHFDNXEwdFdtOUt2MEhYQlZQU0ZTc1VaNnc?oc=5",
       "data_type": "live",
@@ -323,9 +333,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "Autech Carrier wins Nvidia nod for AI cooling, targets Korea data center surge - CHOSUNBIZ - Chosunbiz",
-      "summary": "Autech Carrier wins Nvidia nod for AI cooling, targets Korea data center surge - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
+      "headline": "Autech Carrier wins Nvidia nod for AI cooling, targets Korea data center surge - CHOSUNBIZ - biz.chosun.com",
+      "summary": "Autech Carrier wins Nvidia nod for AI cooling, targets Korea data center surge - CHOSUNBIZ biz.chosun.com",
+      "source": "biz.chosun.com",
       "published_at": "2026-10-01T10:32:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckoxQ1VXQmIxLXppU0xqcUNqbTR2UGJwektGUmtxRzVJcGROdnppb091aW8xcmhMenBiaDlrOVVlcUkweTJNaWpOY1pnWXprQlF3QXE5ZTNzZk5sV0hQZ0dBb181dlVzMnoxTk0wOW9VRTN0a01iWVVXYm1mZUdybWk2Y1E5MFJVMGszcmhR0gGOAUFVX3lxTE9ySjFDVVdCYjEtemlTTGpxQ2ptNHZQYnB6S0ZSa3FHNUlwZE52emlvT3VpbzFyaEx6cGJoOWs5VWVxSTB5Mk1pak5jWmdZemtCUXdBcTllM3NmTmxXSFBnR0FvXzV2VXMyejFOTTA5b1VFM3RrTWJZVVdibWZlR3JtaTZjUTkwUlUwazNyaFE?oc=5",
       "data_type": "live",
@@ -348,16 +358,6 @@
       "source": "finance.biggo.com",
       "published_at": "2026-10-01T06:35:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVmRRTEx2MmRYMEd3b1g2NGEtTkVCZEhaV1hKSEZjTndOSWp5XzJOaWZMV1h1YjU4RDFINW5Sa09CT01zVGFyTUl6YnJEdUZpWDg1VHN3U3ZJMUFSSGxmSDljdmxqcmZnRmxQMW9lSjFrVFdvcmc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG joins NVIDIA Partner Network for AI data center cooling - refindustry.com",
-      "summary": "LG joins NVIDIA Partner Network for AI data center cooling refindustry.com",
-      "source": "refindustry.com",
-      "published_at": "2026-10-01T05:10:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDhtNm5kbDF0SWtpTEl4XzZpay11QlVVWU4tZEVmTnJCRHJxX2lPdnFYWm9CVjEyc0lrWlRHZ1NhMWJuXzI4UEpKNmRsYlBrcUprekpwNVhsNmdEOGtsZFRSOXc3YkV4bVVNOVQtcHFSVzQ1a3RZVHZFaFIzUW16Sy1xZElZR0RpVXFYTjFyNXU1UQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
