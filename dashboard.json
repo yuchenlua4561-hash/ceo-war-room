@@ -1,21 +1,26 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-03T05:31:00+08:00",
+  "updated_at": "2026-10-03T09:25:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-03T07:02:05+08:00",
+  "intel_updated_at": "2026-10-03T09:52:26+08:00",
   "intel_status": {
-    "state": "ok",
-    "collected": 12,
-    "source_failures": []
+    "state": "partial",
+    "collected": 9,
+    "source_failures": [
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError",
+      "Google News: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/03 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/03 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +58,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-03 05:31 GMT+8",
+      "as_of": "2026-10-03 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +73,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-03 05:31 GMT+8",
+      "as_of": "2026-10-03 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +88,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-03 05:31 GMT+8",
+      "as_of": "2026-10-03 09:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -185,10 +190,10 @@
   "competitors": [
     {
       "company": "Schneider Electric／Motivair",
-      "product": "液冷散熱",
-      "move": "Liquid Cooling Launch Might Change The Case For Investing In Schneider Electric (ENXTPA:SU) - simplywall.st",
-      "implication": "公開情報更新於 2026-09-27T15:54:42+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb3ZMZE5KNjgwclQ5MjB2elBaYUJZVDlaelY2TTB2WFhaSHFBUVNKaHJSNjZTcHl5OVJCRlBIWEl5QU1JOURPcnZMdTBWd1pYcnJfQUsxZnVRNVlsU2RmR0ROazFZWHlzdF9FVU8weVE1U1JCMU85M1QyRHhOblFUWjdsZ3NRUEdBQ0MxRmF2QnRwb0RPamRHa0gtMkdfWHdfbVRWNkVwRldYX2ZrSzFVY3hYWWJfWGNLOWpxM1hUZ01xTHVOV2NScTE3LWpLWHhpTUE0LVNGOUg4eld20gHiAUFVX3lxTE1aODU5Y0pwbF9TVVM2S3lVNkFMRjNFLWFnZDlZaDU5VFdlYjdoMmVVRmI3VFJEZWNTYmpuOGVONVVzcXZBNGFSZkRRZ2docm1LZXdtRnJaRER2OHlraHIzWnFnczR1d0xyRnJaVl9zU041TW92bkU0TDhiVERYWGNFZGFrMkttazRSaFQ1UkpSRXFWM0FndnVsMm9GMUJDelVIRDNtbHBnME96SjNMSjkyNHlubDl0OFVOWWczakdnR0Nkd0NlWGFlMWpGT3BNZzhZUDR4bWNXVHlfOENtUm1VZ3c?oc=5"
+      "product": "資料中心",
+      "move": "Powering Trust at Scale: UL 2755 Certification Elevates Schneider Electric’s Modular Data Center Performance",
+      "implication": "公開情報更新於 2026-09-25T22:43:04+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://blog.se.com/datacenter/2026/09/25/powering-trust-scale-ul-2755-certification-elevates-schneider-electrics-modular-data-center-performance/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign"
     },
     {
       "company": "CoolIT Systems",
@@ -242,86 +247,6 @@
   ],
   "news": [
     {
-      "category": "冷板／機櫃",
-      "headline": "World Rear Door Heat Exchangers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "summary": "World Rear Door Heat Exchangers - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-10-03T03:01:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcExmU1NMaHNqUWtvSHo0aWM2Z3ZIcmJvVlBSSC10MHlwcEt4Z2RPb2VnT0ZnZkRWc08ySFVteVhYX0RRLVZ1WFBtbmhCVFlkZHNXcHBwQWlRRkQ2VThsRVdSX1JuTHFmbjhpUGFERmNDbVc3X3lwbDdqcDljN014T19IRkktRU44UmtoLVRFOFEtYld0MFpnM2VqQ0IxQUZvenlTZDNPam1mSkJlQ05ubVBTX003R2NwQ1ZYWUpBZVFSampYYmxUUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Thermal Interface Films Market Forecast to 2035: Growth Driven by EV and Data Center Demand - News and Statistics - IndexBox",
-      "summary": "Thermal Interface Films Market Forecast to 2035: Growth Driven by EV and Data Center Demand - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-10-02T22:16:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0Q4Y1g3X2ZJaFZ4UTNIZmhKOGM2RE9HZ2w1Vm5ScnRxVWVjVVdERV9kVGREaVZlaVVyTV9VSXE5bUZPQnZHZVlobnZZbUFyd3ZFNGYwZVpjZ0d6aEh2X3ZoX2M2azJ1VDNXZjM3OW1BeEVCM1Z4c3U2cm5SY2pobWdHbXF3U2JtSGRzT0tUNkdXUm9TbHpRSTlvbUNZQ2hSeG5NY0p5QThVWHFiMDBSVHJxb25RSkRQdUh4TTdQcmF6QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth - Investing.com",
-      "summary": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth Investing.com",
-      "source": "Investing.com",
-      "published_at": "2026-10-02T20:41:15+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGhRSFFVZkhSNXNmSklhU1dIaFoybkh3NFo5SlVFMzFQeWlBaXR3aFZLWXliNzc4RkpNSUVhVm1RQ3c5QWlidUhoUGpUZ0VjcHJnemt2SVlGLXZ2d0N5a1J4NXMya2k4VE1URkNGa0lTYzFrTWVnRjhUelhDZ3VTdGp5SXFsdkotb1JqbjdMVFNySVhuQ0RmVkFiOHh0aG8wT2JWb0tFaTRiQjhqOFV2aWxZTXpkaXJKaF82Zk5DWXhsbUZVSENXd1hvS0FPdw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "UL Solutions launches liquid cooling certification for US data centers - Refindustry",
-      "summary": "UL Solutions launches liquid cooling certification for US data centers Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-02T19:36:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUd6YW93cktJeldKcFczSEs2UEMxVDBndzJ6VG9hSGUzV18yT21uTDVmOVN3MGkyMWwxV3NjeW56aTFrZkxzV1VLbHFYbWFQV21va1NyY1drZ0xRRHRvQXZlRzlqbU52ejFtd2xJTXg0OVBMU0lmVnhMRU13SVNDeWVVZkpta2k0bWdjMGRoa0xkTFRCbklaQnhCN3BfMC00RFE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Center Component Shortage to Persist Through 2028 - finance.biggo.com",
-      "summary": "AI Data Center Component Shortage to Persist Through 2028 finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-10-02T18:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncUhVUDVQTUZLSjI1TmoyNE9wTmh3UUlNcEVTd1MxSUhUdXdXZXU4bjljbGxhaldYUklaRW1hUnRYdlA5X0FKR2E0SEJ1QmYtNG9iODQ3QUJ0TEJ1MXJyTnZqOW5pdnFCbTFIWUQzeUVHLXhGc0E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "With limited power comes great cooling responsibility - Data Center Dynamics",
-      "summary": "With limited power comes great cooling responsibility Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-02T16:07:13+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUU3aWxRaDlpYnNleElVSVh2UmJSWnZBWGlpbVFtbkVjcUU0bmJuQzVGR1ZtbzZxUkFoRllFU2RsU1BxWmpYdVFTYVd3WWdOeEdUVDZtVXFkOFlGR3NnaGVET1VROHNCTTVXcHNpNlRzRTFwT0F0Mk93RWdxOUtfZ0NTOXZxeTI2cXFVcWVaODB3emxZX0lubThPMjdhZjVQQ3pzZHRiQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Midea Showcases Breakthrough Cooling Technologies for High-Density AI Data Centers at Data Center World Asia 2026 - PR Newswire",
-      "summary": "Midea Showcases Breakthrough Cooling Technologies for High-Density AI Data Centers at Data Center World Asia 2026 PR Newswire",
-      "source": "PR Newswire",
-      "published_at": "2026-10-02T08:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaXRsQ3pUdmp0c2J0c0NfQnBia2ttc3FIb3dkZlZ2SFpKVnQxcmg4MFpYRTkxNVA1LXZBNFJvYXU3TXNzamlYM25tOWsxcWdGMnVoMWVLUUZ0X2FQQURqM2NhcTZWMEhEY2VaY3Utc01MTVVZTE02NHpSNlpJeXFMU1dmeHQ1VEY2eGVFdktXc0MyYXVFR180S1JILW9qZDB3SEduRDM5SlNlUi1qdEF6dEFWZ0NCV1hiWlBKLTdCWV90ZXdQREs3RGZqT24tSGFiOUlBTV9ETzZJdGRnYV9xNmtXbzFzTXhlY0tNZVBSbHVsYVE3R2M4Qk1rclpSR3lsMC0tcA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling Manifolds Market To 2035: Data Center Demand Drives Growth - News and Statistics - IndexBox",
-      "summary": "Liquid Cooling Manifolds Market To 2035: Data Center Demand Drives Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-10-02T06:46:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2t2NFl4WTBwWnNhdEZKZ1N5dlEwaG5VTWRJUUdsOVFHcUtCTVFvZXR0VkE4bjNfUXhnbDVEdi02VGM1ejN1WDROcTV3d3dmR2Exc3ZBOXM0R3NqanlkWVZCdVhjSVM4ZlVUd3ZEZU5xamRMX1VNSjZXemFnaC00aUFrSHdhYWFaR1czX0t0NFNJNnp1YnJwakVWWG1hMHgtTGFpS1E2d3Rqd2dTb1dNSU9TYlhFNzVCVW1Eek9n?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "CDU／幫浦",
       "headline": "Fall Into 25 New Games on GeForce NOW This October",
       "summary": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant reward for Performance and Ultimate members ",
@@ -342,22 +267,72 @@
       "data_label": "公開情報"
     },
     {
+      "category": "CDU／幫浦",
+      "headline": "Open control meets intelligent motor management in water networks",
+      "summary": "Water and wastewater operators are under pressure to do more with less. Aging infrastructure, rising energy costs, workforce shortages, stricter environmental compliance requirements, and increasing expectations for operational resilience are pushing utilities",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-09-29T19:31:00+08:00",
+      "url": "https://blog.se.com/industry/2026/09/29/open-control-meets-intelligent-motor-management-in-water-networks/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
-      "headline": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR - IndexBox",
-      "summary": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-10-01T13:31:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHdWOTNGdHJZNkNySWNRYnZjcHNyc2hjUmVHS2pSTHl3NkZnbm03eHJyTjI0MmMwd25DUGNyOEVJc2pJLThSanpCM1NlbWtBX0MxSVZKbGtmbjVhUXVzQ3FrMWtmMWlIZm5iQjl4Sjd5amRWQjJqbTNjUEhENlFEZzF5b216OVFreGF4YThWNDZJSnllRlNGcV9CUHNTV0N1ZGNvczJscVNpNHFDNXEwdFdtOUt2MEhYQlZQU0ZTc1VaNnc?oc=5",
+      "headline": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "summary": "News Summary: NVIDIA Open Agent Safety Platform consists of NVIDIA OpenShell open source software and the NVIDIA Sentry reference system design that enables full-stack governance and control across software and the hardware, compute and robotics systems that r",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-09-28T17:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The next decade of AI infrastructure: Why Europe has an opportunity to lead",
+      "summary": "After 30 years at Schneider Electric, across five countries and several different parts of our business, I believe the next decade could be one of the most exciting I have experienced. AI is driving extraordinary demand for digital infrastructure with data cen",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-09-28T15:00:00+08:00",
+      "url": "https://blog.se.com/datacenter/2026/09/28/the-next-decade-of-ai-infrastructure-why-europe-has-an-opportunity-to-lead/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Powering Trust at Scale: UL 2755 Certification Elevates Schneider Electric’s Modular Data Center Performance",
+      "summary": "In today’s rapidly evolving digital landscape, data center operators are under increasing pressure to deploy infrastructure faster, more efficiently, and with uncompromising safety. That’s why achieving UL 2755 certification for power centers, prefabricated mo",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-09-25T22:43:04+08:00",
+      "url": "https://blog.se.com/datacenter/2026/09/25/powering-trust-scale-ul-2755-certification-elevates-schneider-electrics-modular-data-center-performance/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "CDU／幫浦",
-      "headline": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU - 아시아경제",
-      "summary": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU 아시아경제",
-      "source": "아시아경제",
-      "published_at": "2026-10-01T12:59:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zTkRrUG5MamY1aFRIS1hnY3o0NV9oSjk1RnkxR0JYTloycTlKSHZsbW1VQUE0WGdsOGZrbVlkMUhFcTlBN19xQVdqRWYxcTlmRDBRVmN5Ri1wajQ1eU5CQmJLSUhDcWphU3JkcVEtMmRkbFZaeUJ1aDFtdw?oc=5",
+      "headline": "Smarter pumping: The hidden lever for higher-yield wastewater treatment and water recovery",
+      "summary": "Wastewater treatment plants rely on metrics such as regulatory compliance, effluent quality, operating costs, and sustainability performance to measure success. Yet plant operators often overlook one of the most influential drivers of these outcomes: the pumpi",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-09-24T21:34:00+08:00",
+      "url": "https://blog.se.com/industry/water-and-wastewater/2026/09/24/smarter-pumping-the-hidden-lever-for-higher-yield-wastewater-treatment-and-water-recovery/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The next benchmark in UPS sustainability",
+      "summary": "Highly efficient UPS solutions support data center sustainability Every AI deployment increases demand for power, space, and infrastructure. At the same time, operators face mounting pressure to cut emissions and show measurable progress on sustainability. Thi",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-09-23T22:46:02+08:00",
+      "url": "https://blog.se.com/datacenter/2026/09/23/the-next-benchmark-ups-sustainability/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps buil",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-09-22T02:00:07+08:00",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "data_type": "live",
       "data_label": "公開情報"
     }
