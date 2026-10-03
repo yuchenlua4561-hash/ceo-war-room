@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-03T09:25:00+08:00",
+  "updated_at": "2026-10-04T05:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-04T03:30:31+08:00",
+  "intel_updated_at": "2026-10-04T06:23:02+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/03 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/04 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-03 09:25 GMT+8",
+      "as_of": "2026-10-04 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-03 09:25 GMT+8",
+      "as_of": "2026-10-04 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-03 09:25 GMT+8",
+      "as_of": "2026-10-04 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -283,9 +283,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "UL Solutions launches liquid cooling certification for US data centers - refindustry.com",
-      "summary": "UL Solutions launches liquid cooling certification for US data centers refindustry.com",
-      "source": "refindustry.com",
+      "headline": "UL Solutions launches liquid cooling certification for US data centers - Refindustry",
+      "summary": "UL Solutions launches liquid cooling certification for US data centers Refindustry",
+      "source": "Refindustry",
       "published_at": "2026-10-02T19:36:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUd6YW93cktJeldKcFczSEs2UEMxVDBndzJ6VG9hSGUzV18yT21uTDVmOVN3MGkyMWwxV3NjeW56aTFrZkxzV1VLbHFYbWFQV21va1NyY1drZ0xRRHRvQXZlRzlqbU52ejFtd2xJTXg0OVBMU0lmVnhMRU13SVNDeWVVZkpta2k0bWdjMGRoa0xkTFRCbklaQnhCN3BfMC00RFE?oc=5",
       "data_type": "live",
@@ -326,8 +326,8 @@
       "headline": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. - The Globe and Mail",
       "summary": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. The Globe and Mail",
       "source": "The Globe and Mail",
-      "published_at": "2026-10-01T23:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLUFpd1pSMEU4TF9uM2RHM2wwZXBjclhjRlZrRmFNQm1HU3ZqYlJCV2Z3U0RDLWh5d1J3c2l2YnRIZlFsd2hfU0lWSWVHdzM4N0NQOWVTN0d0WWRpWDdJTHg4ejY3NVUxUDNCRW1KQWgwdm5pM25adHhOa1ljZkNGY2JKWFd0cjVZSEp0d00wSkhFNE95NXhZZWJuLUxhbWZJbDRpTk1EdTlCWDA4WkdGcDZMS2FLTFZWRXJTZHZkYy13UlA0cmI2M3FTM2ptNlR5OEJjeXdRWjBnVnBYTm9tT0J0MmJfSG1oTlplZXhUV2tFbV9iV1ZYUGlnZkgxc2dLUi1KRg?oc=5",
+      "published_at": "2026-10-01T23:43:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaWcwTFBzVW1xREpfTEVZS1plNlctbmhiamU3Zlg2c0Rfb1YtQXFzRjc3dTVFeEU4WjNERDhUbUU3a3FVVjJVREFYRkRJeFVxWDd0d3F2RnBMNVVkeFFrNEQzNVh6Y2JnUmhYcm5OcUVWX0dRdlY2MXUyMTJQSENsaENDeG1MaDQ5MFo4Q0RqQkVNWExIeGlRWlpuT1JHNURZZGRRTUlUcjFGcU16ZTEyRUk0dEtSMjl1OF9MTENNVUFGMjN5LTUzWjBLOXNoR3ZCSndpbjBvNEJldEJzM29TUzlFVUFYT0pVcnlXNkRMZVNyMGJKN2V3SWVJejlOd2EzZFM3aWxB?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -353,11 +353,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Japan's largest power producer teams with Dell on $15bn data center - Nikkei Asia",
-      "summary": "Japan's largest power producer teams with Dell on $15bn data center Nikkei Asia",
-      "source": "Nikkei Asia",
-      "published_at": "2026-10-01T17:33:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzdXMzVfNjdGV29yY1ZJS19udmtGZU84WVc2N0VHSmJIbkU1ZHpyZWlwR0xWYkEzbXdYR3VYejJ6dWNQQ3dtRXpvTzJtdHNtSVVOaXNFejB4S2NUdXFtZ0xDOXpvLVRMRzZJbUtYN21heWl0WDFiZUtQYjVCaTc0aTdzakhjeFBzNjF5ZS1HRkxqemZ5SnF2dU5ZWlFleWlGclE0ZUExeEVaTWVxRExNMWViWTRkb0RhelNRMlZHa1FQOVhuRjNvbjhxaTFIRUE?oc=5",
+      "headline": "Autech Carrier, LG Electronics Showcase Data Center Cooling Innovations - 조선일보",
+      "summary": "Autech Carrier, LG Electronics Showcase Data Center Cooling Innovations 조선일보",
+      "source": "조선일보",
+      "published_at": "2026-10-01T20:31:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3NlTF8wUU9VcTZwb01fTnhneUd5RkNZaHlFTlBlNndsN0NuLXNqVEJHeEVkcWphcVhHS3g0ZEU3ZXlQQUpRVGJBY1M0YTBsVWxGc010bGtiY3prN1MydjhJWjBjWjNEWW1kbHpaTmVDeEs1aU1neHByelBZMFM5Mi14RDNUVk4t?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
