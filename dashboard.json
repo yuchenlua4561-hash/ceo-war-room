@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-04T00:41:20+08:00",
+  "intel_updated_at": "2026-10-04T03:30:31+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -242,6 +242,16 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "How AI is reshaping the data center domain - Express Computer",
+      "summary": "How AI is reshaping the data center domain Express Computer",
+      "source": "Express Computer",
+      "published_at": "2026-10-04T00:13:31+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEczZmhOZ28zM0hPSnh2dmQ1MWJHTU5zRmMxbmdqZkdGdURRd002eGVtcE9Hc01fb09PTndDNDBYWHQ1N21KUUU1NllxR2loaUtod1hyRGRhTjhiYk9sRHdOM3dIdWpIcDd2QlNwVjlJNGFZMkdIV08zWlJKbEJiLUFjU3ZpWnVscHk3amk5c29YNFVjRHVYSzVaLU1wQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "冷板／機櫃",
       "headline": "World Rear Door Heat Exchangers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
       "summary": "World Rear Door Heat Exchangers - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
@@ -273,9 +283,9 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "UL Solutions launches liquid cooling certification for US data centers - Refindustry",
-      "summary": "UL Solutions launches liquid cooling certification for US data centers Refindustry",
-      "source": "Refindustry",
+      "headline": "UL Solutions launches liquid cooling certification for US data centers - refindustry.com",
+      "summary": "UL Solutions launches liquid cooling certification for US data centers refindustry.com",
+      "source": "refindustry.com",
       "published_at": "2026-10-02T19:36:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUd6YW93cktJeldKcFczSEs2UEMxVDBndzJ6VG9hSGUzV18yT21uTDVmOVN3MGkyMWwxV3NjeW56aTFrZkxzV1VLbHFYbWFQV21va1NyY1drZ0xRRHRvQXZlRzlqbU52ejFtd2xJTXg0OVBMU0lmVnhMRU13SVNDeWVVZkpta2k0bWdjMGRoa0xkTFRCbklaQnhCN3BfMC00RFE?oc=5",
       "data_type": "live",
@@ -312,12 +322,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "UL Solutions Launches Certification for Direct-to-Chip Liquid Cooling in AI Data Centres - ReadITQuik",
-      "summary": "UL Solutions Launches Certification for Direct-to-Chip Liquid Cooling in AI Data Centres ReadITQuik",
-      "source": "ReadITQuik",
-      "published_at": "2026-10-02T03:24:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUZzdVRjZHJ0b2lnZ0lkQmh3Nml2eFpkUzlKRlFpZzdDemlkY3E5ZjBGeXJzYzJUbmNaWGp0ZkVHbHlZbjJQSWNlVFJ5cXNSSHQ1TnkwVW8wUkkwSEVaYkxKcVlLMExuc1FtNF84RkYzTjJKajhucWdnbXFmWVJWanZ6TzlXTlN1YXhneXFBOUwxYjF3YVBxbXdR?oc=5",
+      "category": "資料中心",
+      "headline": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. - The Globe and Mail",
+      "summary": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. The Globe and Mail",
+      "source": "The Globe and Mail",
+      "published_at": "2026-10-01T23:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLUFpd1pSMEU4TF9uM2RHM2wwZXBjclhjRlZrRmFNQm1HU3ZqYlJCV2Z3U0RDLWh5d1J3c2l2YnRIZlFsd2hfU0lWSWVHdzM4N0NQOWVTN0d0WWRpWDdJTHg4ejY3NVUxUDNCRW1KQWgwdm5pM25adHhOa1ljZkNGY2JKWFd0cjVZSEp0d00wSkhFNE95NXhZZWJuLUxhbWZJbDRpTk1EdTlCWDA4WkdGcDZMS2FLTFZWRXJTZHZkYy13UlA0cmI2M3FTM2ptNlR5OEJjeXdRWjBnVnBYTm9tT0J0MmJfSG1oTlplZXhUV2tFbV9iV1ZYUGlnZkgxc2dLUi1KRg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "Nikkei Asia",
       "published_at": "2026-10-01T17:33:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzdXMzVfNjdGV29yY1ZJS19udmtGZU84WVc2N0VHSmJIbkU1ZHpyZWlwR0xWYkEzbXdYR3VYejJ6dWNQQ3dtRXpvTzJtdHNtSVVOaXNFejB4S2NUdXFtZ0xDOXpvLVRMRzZJbUtYN21heWl0WDFiZUtQYjVCaTc0aTdzakhjeFBzNjF5ZS1HRkxqemZ5SnF2dU5ZWlFleWlGclE0ZUExeEVaTWVxRExNMWViWTRkb0RhelNRMlZHa1FQOVhuRjNvbjhxaTFIRUE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR - IndexBox",
-      "summary": "Computer Room Air Handler Market Forecast to 2035: AI Data Center Cooling Demand Drives 6-9% CAGR IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-10-01T13:31:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHdWOTNGdHJZNkNySWNRYnZjcHNyc2hjUmVHS2pSTHl3NkZnbm03eHJyTjI0MmMwd25DUGNyOEVJc2pJLThSanpCM1NlbWtBX0MxSVZKbGtmbjVhUXVzQ3FrMWtmMWlIZm5iQjl4Sjd5amRWQjJqbTNjUEhENlFEZzF5b216OVFreGF4YThWNDZJSnllRlNGcV9CUHNTV0N1ZGNvczJscVNpNHFDNXEwdFdtOUt2MEhYQlZQU0ZTc1VaNnc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
