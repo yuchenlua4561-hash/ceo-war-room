@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-04T16:19:34+08:00",
+  "intel_updated_at": "2026-10-04T22:08:57+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -242,6 +242,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Liquid Cooling In AI Data Center Levante Vs Osasuna (mgchmBC4mZ) - Unisba Media",
+      "summary": "Liquid Cooling In AI Data Center Levante Vs Osasuna (mgchmBC4mZ) Unisba Media",
+      "source": "Unisba Media",
+      "published_at": "2026-10-04T14:12:22+08:00",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oUEZrMmc0VHBvSnZIb2I4WmsxLXhTOUh0cG1DX3RwNGl4ZDdnXzBwWlpRenJEZHdGYi1YaWJBOU92NHVQUVlfYV9qMkRwTWxkQmU1QXNBRHVaNWdBeC1DS1NuSGgxdnMzbDlR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "How AI is reshaping the data center domain - Express Computer",
       "summary": "How AI is reshaping the data center domain Express Computer",
@@ -283,9 +293,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "With limited power comes great cooling responsibility - Data Center Dynamics",
-      "summary": "With limited power comes great cooling responsibility Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "headline": "With limited power comes great cooling responsibility - datacenterdynamics.com",
+      "summary": "With limited power comes great cooling responsibility datacenterdynamics.com",
+      "source": "datacenterdynamics.com",
       "published_at": "2026-10-02T16:07:13+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUU3aWxRaDlpYnNleElVSVh2UmJSWnZBWGlpbVFtbkVjcUU0bmJuQzVGR1ZtbzZxUkFoRllFU2RsU1BxWmpYdVFTYVd3WWdOeEdUVDZtVXFkOFlGR3NnaGVET1VROHNCTTVXcHNpNlRzRTFwT0F0Mk93RWdxOUtfZ0NTOXZxeTI2cXFVcWVaODB3emxZX0lubThPMjdhZjVQQ3pzZHRiQQ?oc=5",
       "data_type": "live",
@@ -307,7 +317,7 @@
       "summary": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. The Globe and Mail",
       "source": "The Globe and Mail",
       "published_at": "2026-10-01T23:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLUFpd1pSMEU4TF9uM2RHM2wwZXBjclhjRlZrRmFNQm1HU3ZqYlJCV2Z3U0RDLWh5d1J3c2l2YnRIZlFsd2hfU0lWSWVHdzM4N0NQOWVTN0d0WWRpWDdJTHg4ejY3NVUxUDNCRW1KQWgwdm5pM25adHhOa1ljZkNGY2JKWFd0cjVZSEp0d00wSkhFNE95NXhZZWJuLUxhbWZJbDRpTk1EdTlCWDA4WkdGcDZMS2FLTFZWRXJTZHZkYy13UlA0cmI2M3FTM2ptNlR5OEJjeXdRWjBnVnBYTm9tT0J0MmJfSG1oTlplZXhUV2tFbV9iV1ZYUGlnZkgxc2dLUi1KRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNDBvVi1OYzd4WlNaaThtME9wQkFUbE5ldlMtTWpEZ0NDZGdjMWhaQVJJOUFhYkNCNkJpQURJWmtzZHZJMEdCOWllU01zTng0S0FxdW83M1FTMzk4enYwMVA3R1ZJbmZETHZCVFdqeHBwV3BaX29TdUh5T0VrOUREWGJkN2F5SHdrWG9JWDVUMDFKUHNTbU5MbXJxNHJWYXhJMXFfd0Y4eElYRVFhTHdtOFdMMWVOcEtNeXFqLTBUX3MxQmRhX2Z2Vk13SDlBbmR5R1VUSEFJMTIydFdYSWE3SGdhNllWT2lSVFJCZXEwZjcwWnRLZ2QtSFQyVlBlamxOdlRXaWJSTQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -332,20 +342,10 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Japan's largest power producer teams with Dell on $15bn data center - Nikkei Asia",
-      "summary": "Japan's largest power producer teams with Dell on $15bn data center Nikkei Asia",
-      "source": "Nikkei Asia",
-      "published_at": "2026-10-01T17:33:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzdXMzVfNjdGV29yY1ZJS19udmtGZU84WVc2N0VHSmJIbkU1ZHpyZWlwR0xWYkEzbXdYR3VYejJ6dWNQQ3dtRXpvTzJtdHNtSVVOaXNFejB4S2NUdXFtZ0xDOXpvLVRMRzZJbUtYN21heWl0WDFiZUtQYjVCaTc0aTdzakhjeFBzNjF5ZS1HRkxqemZ5SnF2dU5ZWlFleWlGclE0ZUExeEVaTWVxRExNMWViWTRkb0RhelNRMlZHa1FQOVhuRjNvbjhxaTFIRUE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "CDU／幫浦",
-      "headline": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU - 아시아경제",
-      "summary": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU 아시아경제",
-      "source": "아시아경제",
+      "headline": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU - asiae.co.kr",
+      "summary": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU asiae.co.kr",
+      "source": "asiae.co.kr",
       "published_at": "2026-10-01T12:59:26+08:00",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zTkRrUG5MamY1aFRIS1hnY3o0NV9oSjk1RnkxR0JYTloycTlKSHZsbW1VQUE0WGdsOGZrbVlkMUhFcTlBN19xQVdqRWYxcTlmRDBRVmN5Ri1wajQ1eU5CQmJLSUhDcWphU3JkcVEtMmRkbFZaeUJ1aDFtdw?oc=5",
       "data_type": "live",
