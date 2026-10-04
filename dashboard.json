@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-04T22:08:57+08:00",
+  "intel_updated_at": "2026-10-05T02:12:43+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -242,22 +242,12 @@
   ],
   "news": [
     {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling In AI Data Center Levante Vs Osasuna (mgchmBC4mZ) - Unisba Media",
-      "summary": "Liquid Cooling In AI Data Center Levante Vs Osasuna (mgchmBC4mZ) Unisba Media",
-      "source": "Unisba Media",
-      "published_at": "2026-10-04T14:12:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oUEZrMmc0VHBvSnZIb2I4WmsxLXhTOUh0cG1DX3RwNGl4ZDdnXzBwWlpRenJEZHdGYi1YaWJBOU92NHVQUVlfYV9qMkRwTWxkQmU1QXNBRHVaNWdBeC1DS1NuSGgxdnMzbDlR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
       "headline": "How AI is reshaping the data center domain - Express Computer",
       "summary": "How AI is reshaping the data center domain Express Computer",
       "source": "Express Computer",
-      "published_at": "2026-10-04T00:13:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEczZmhOZ28zM0hPSnh2dmQ1MWJHTU5zRmMxbmdqZkdGdURRd002eGVtcE9Hc01fb09PTndDNDBYWHQ1N21KUUU1NllxR2loaUtod1hyRGRhTjhiYk9sRHdOM3dIdWpIcDd2QlNwVjlJNGFZMkdIV08zWlJKbEJiLUFjU3ZpWnVscHk3amk5c29YNFVjRHVYSzVaLU1wQQ?oc=5",
+      "published_at": "2026-10-03T23:54:27+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRF9tM0tIMUs5aWVGaGljLWlfb1BvTE52YXpaRkVDN2lnbHhXMHlscmQ2SVUwZHg0ZU9mdzR3UW8zMlRwTHo2Mzg1dFpPTDJXTnlHejNZekMyMGZkOV80b1RCWGxBVGVPTHN5R3pMc1Jndm5RSU1tYURqQV9kZVdXLVlDVmM0REVWd25EdFlSUGVEQVNTOTcwMQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -293,9 +283,9 @@
     },
     {
       "category": "資料中心",
-      "headline": "With limited power comes great cooling responsibility - datacenterdynamics.com",
-      "summary": "With limited power comes great cooling responsibility datacenterdynamics.com",
-      "source": "datacenterdynamics.com",
+      "headline": "With limited power comes great cooling responsibility - Data Center Dynamics",
+      "summary": "With limited power comes great cooling responsibility Data Center Dynamics",
+      "source": "Data Center Dynamics",
       "published_at": "2026-10-02T16:07:13+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUU3aWxRaDlpYnNleElVSVh2UmJSWnZBWGlpbVFtbkVjcUU0bmJuQzVGR1ZtbzZxUkFoRllFU2RsU1BxWmpYdVFTYVd3WWdOeEdUVDZtVXFkOFlGR3NnaGVET1VROHNCTTVXcHNpNlRzRTFwT0F0Mk93RWdxOUtfZ0NTOXZxeTI2cXFVcWVaODB3emxZX0lubThPMjdhZjVQQ3pzZHRiQQ?oc=5",
       "data_type": "live",
@@ -313,9 +303,19 @@
     },
     {
       "category": "資料中心",
-      "headline": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. - The Globe and Mail",
-      "summary": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "Trane Technologies adds two 250 MW AI factory cooling designs - Refindustry",
+      "summary": "Trane Technologies adds two 250 MW AI factory cooling designs Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-10-02T06:20:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmVrRWIyNWZNTlcxUVIyNGZKUEJjcWVJU1lXZnZEQVpJZjZUSUFsbE1iR1c5WnU4SGJ5Z2g4TEtwQ2hNWVc0eDkyMTJ3Ym5Mb2xOenM0MlFTVlZIUDVvMWp6cVU4U3ZDWHlkS3pReGt2RjY1azN6QjhvVlFsWjBhUjRsaWI0NnltN0dfalhaRTRtQzJ4cXc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. - theglobeandmail.com",
+      "summary": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. theglobeandmail.com",
+      "source": "theglobeandmail.com",
       "published_at": "2026-10-01T23:35:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNDBvVi1OYzd4WlNaaThtME9wQkFUbE5ldlMtTWpEZ0NDZGdjMWhaQVJJOUFhYkNCNkJpQURJWmtzZHZJMEdCOWllU01zTng0S0FxdW83M1FTMzk4enYwMVA3R1ZJbmZETHZCVFdqeHBwV3BaX29TdUh5T0VrOUREWGJkN2F5SHdrWG9JWDVUMDFKUHNTbU5MbXJxNHJWYXhJMXFfd0Y4eElYRVFhTHdtOFdMMWVOcEtNeXFqLTBUX3MxQmRhX2Z2Vk13SDlBbmR5R1VUSEFJMTIydFdYSWE3SGdhNllWT2lSVFJCZXEwZjcwWnRLZ2QtSFQyVlBlamxOdlRXaWJSTQ?oc=5",
       "data_type": "live",
@@ -342,22 +342,22 @@
       "data_label": "公開情報"
     },
     {
-      "category": "CDU／幫浦",
-      "headline": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU - asiae.co.kr",
-      "summary": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU asiae.co.kr",
-      "source": "asiae.co.kr",
-      "published_at": "2026-10-01T12:59:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zTkRrUG5MamY1aFRIS1hnY3o0NV9oSjk1RnkxR0JYTloycTlKSHZsbW1VQUE0WGdsOGZrbVlkMUhFcTlBN19xQVdqRWYxcTlmRDBRVmN5Ri1wajQ1eU5CQmJLSUhDcWphU3JkcVEtMmRkbFZaeUJ1aDFtdw?oc=5",
+      "category": "資料中心",
+      "headline": "Trane Technologies demonstrates 800 VDC chiller for AI data centers - Refindustry",
+      "summary": "Trane Technologies demonstrates 800 VDC chiller for AI data centers Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-10-01T19:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZk9hVjZTOW9kbE5uQ0pnajcza3lkNGg1VmVZU3JPSi0tOFJRLUxSbnZlSXp0V2hmZzJkUlNtYWcxMUNqUFVoNnZDOVFuRU9TZEh1UVlCZ3ZpSm1zOTQxRG5ZVHREMlI1WlFkTGt2Z256QjhhUmpHUmpfcll3YkZtQlNJTXYxS2psZ2F2a2loMzBhOHhOb2s2YXp0bDBZUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
-      "category": "CDU／幫浦",
-      "headline": "Otech Carrier Secures Nvidia Certification for 1.3MW Liquid-Cooling CDU; Targets 2.6MW by Year-End - finance.biggo.com",
-      "summary": "Otech Carrier Secures Nvidia Certification for 1.3MW Liquid-Cooling CDU; Targets 2.6MW by Year-End finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-10-01T11:55:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zT2IzbDlUR3hEU0VzaTlHUWNUSDN6LWpDTklIOWJvRUZRSHIyUzl3ekZ5R3F3alJIbndQeXdERUJMOHozUnpodGJULUdZdkxhcjJYNGIwYjhrZXNCSzZkVVZBdzlBVG9YWTFvcDZuZW1LQk1KY2c?oc=5",
+      "category": "資料中心",
+      "headline": "Japan's largest power producer teams with Dell on $15bn data center - Nikkei Asia",
+      "summary": "Japan's largest power producer teams with Dell on $15bn data center Nikkei Asia",
+      "source": "Nikkei Asia",
+      "published_at": "2026-10-01T17:33:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzdXMzVfNjdGV29yY1ZJS19udmtGZU84WVc2N0VHSmJIbkU1ZHpyZWlwR0xWYkEzbXdYR3VYejJ6dWNQQ3dtRXpvTzJtdHNtSVVOaXNFejB4S2NUdXFtZ0xDOXpvLVRMRzZJbUtYN21heWl0WDFiZUtQYjVCaTc0aTdzakhjeFBzNjF5ZS1HRkxqemZ5SnF2dU5ZWlFleWlGclE0ZUExeEVaTWVxRExNMWViWTRkb0RhelNRMlZHa1FQOVhuRjNvbjhxaTFIRUE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
