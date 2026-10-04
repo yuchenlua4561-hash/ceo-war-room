@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-04T09:56:57+08:00",
+  "intel_updated_at": "2026-10-04T16:19:34+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -262,16 +262,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Thermal Interface Films Market Forecast to 2035: Growth Driven by EV and Data Center Demand - News and Statistics - IndexBox",
-      "summary": "Thermal Interface Films Market Forecast to 2035: Growth Driven by EV and Data Center Demand - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-10-02T22:16:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0Q4Y1g3X2ZJaFZ4UTNIZmhKOGM2RE9HZ2w1Vm5ScnRxVWVjVVdERV9kVGREaVZlaVVyTV9VSXE5bUZPQnZHZVlobnZZbUFyd3ZFNGYwZVpjZ0d6aEh2X3ZoX2M2azJ1VDNXZjM3OW1BeEVCM1Z4c3U2cm5SY2pobWdHbXF3U2JtSGRzT0tUNkdXUm9TbHpRSTlvbUNZQ2hSeG5NY0p5QThVWHFiMDBSVHJxb25RSkRQdUh4TTdQcmF6QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth - Investing.com",
       "summary": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth Investing.com",
@@ -316,8 +306,8 @@
       "headline": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. - The Globe and Mail",
       "summary": "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. The Globe and Mail",
       "source": "The Globe and Mail",
-      "published_at": "2026-10-01T23:43:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaWcwTFBzVW1xREpfTEVZS1plNlctbmhiamU3Zlg2c0Rfb1YtQXFzRjc3dTVFeEU4WjNERDhUbUU3a3FVVjJVREFYRkRJeFVxWDd0d3F2RnBMNVVkeFFrNEQzNVh6Y2JnUmhYcm5OcUVWX0dRdlY2MXUyMTJQSENsaENDeG1MaDQ5MFo4Q0RqQkVNWExIeGlRWlpuT1JHNURZZGRRTUlUcjFGcU16ZTEyRUk0dEtSMjl1OF9MTENNVUFGMjN5LTUzWjBLOXNoR3ZCSndpbjBvNEJldEJzM29TUzlFVUFYT0pVcnlXNkRMZVNyMGJKN2V3SWVJejlOd2EzZFM3aWxB?oc=5",
+      "published_at": "2026-10-01T23:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLUFpd1pSMEU4TF9uM2RHM2wwZXBjclhjRlZrRmFNQm1HU3ZqYlJCV2Z3U0RDLWh5d1J3c2l2YnRIZlFsd2hfU0lWSWVHdzM4N0NQOWVTN0d0WWRpWDdJTHg4ejY3NVUxUDNCRW1KQWgwdm5pM25adHhOa1ljZkNGY2JKWFd0cjVZSEp0d00wSkhFNE95NXhZZWJuLUxhbWZJbDRpTk1EdTlCWDA4WkdGcDZMS2FLTFZWRXJTZHZkYy13UlA0cmI2M3FTM2ptNlR5OEJjeXdRWjBnVnBYTm9tT0J0MmJfSG1oTlplZXhUV2tFbV9iV1ZYUGlnZkgxc2dLUi1KRg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -343,21 +333,31 @@
     },
     {
       "category": "資料中心",
-      "headline": "Autech Carrier, LG Electronics Showcase Data Center Cooling Innovations - 조선일보",
-      "summary": "Autech Carrier, LG Electronics Showcase Data Center Cooling Innovations 조선일보",
-      "source": "조선일보",
-      "published_at": "2026-10-01T20:31:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3NlTF8wUU9VcTZwb01fTnhneUd5RkNZaHlFTlBlNndsN0NuLXNqVEJHeEVkcWphcVhHS3g0ZEU3ZXlQQUpRVGJBY1M0YTBsVWxGc010bGtiY3prN1MydjhJWjBjWjNEWW1kbHpaTmVDeEs1aU1neHByelBZMFM5Mi14RDNUVk4t?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Japan's largest power producer teams with Dell on $15bn data center - Nikkei Asia",
       "summary": "Japan's largest power producer teams with Dell on $15bn data center Nikkei Asia",
       "source": "Nikkei Asia",
       "published_at": "2026-10-01T17:33:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzdXMzVfNjdGV29yY1ZJS19udmtGZU84WVc2N0VHSmJIbkU1ZHpyZWlwR0xWYkEzbXdYR3VYejJ6dWNQQ3dtRXpvTzJtdHNtSVVOaXNFejB4S2NUdXFtZ0xDOXpvLVRMRzZJbUtYN21heWl0WDFiZUtQYjVCaTc0aTdzakhjeFBzNjF5ZS1HRkxqemZ5SnF2dU5ZWlFleWlGclE0ZUExeEVaTWVxRExNMWViWTRkb0RhelNRMlZHa1FQOVhuRjNvbjhxaTFIRUE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU - 아시아경제",
+      "summary": "Autec Carrier Targets AI Data Center Market with NVIDIA-Certified CDU 아시아경제",
+      "source": "아시아경제",
+      "published_at": "2026-10-01T12:59:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zTkRrUG5MamY1aFRIS1hnY3o0NV9oSjk1RnkxR0JYTloycTlKSHZsbW1VQUE0WGdsOGZrbVlkMUhFcTlBN19xQVdqRWYxcTlmRDBRVmN5Ri1wajQ1eU5CQmJLSUhDcWphU3JkcVEtMmRkbFZaeUJ1aDFtdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Otech Carrier Secures Nvidia Certification for 1.3MW Liquid-Cooling CDU; Targets 2.6MW by Year-End - finance.biggo.com",
+      "summary": "Otech Carrier Secures Nvidia Certification for 1.3MW Liquid-Cooling CDU; Targets 2.6MW by Year-End finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-10-01T11:55:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zT2IzbDlUR3hEU0VzaTlHUWNUSDN6LWpDTklIOWJvRUZRSHIyUzl3ekZ5R3F3alJIbndQeXdERUJMOHozUnpodGJULUdZdkxhcjJYNGIwYjhrZXNCSzZkVVZBdzlBVG9YWTFvcDZuZW1LQk1KY2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
