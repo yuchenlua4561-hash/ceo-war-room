@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-07T20:00:00+08:00",
+  "updated_at": "2026-10-08T02:40:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-07T20:03:41+08:00",
+  "intel_updated_at": "2026-10-08T02:51:11+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/07 20:00；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/08 02:40；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-07 20:00 GMT+8",
+      "as_of": "2026-10-08 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2036,
+      "value": 0.204,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-07 20:00 GMT+8",
+      "as_of": "2026-10-08 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 35.885,
+      "value": 35.925,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-07 20:00 GMT+8",
+      "as_of": "2026-10-08 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,26 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "Q&A: Ecolab bets on liquid cooling for AI data center growth - Electronics360",
+      "summary": "Q&A: Ecolab bets on liquid cooling for AI data center growth Electronics360",
+      "source": "Electronics360",
+      "published_at": "2026-10-07T23:04:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzg1TXRqQWt6em56MEg3V1Z2Q0dWQWwxdGM4ZFNsV25RcFpRU0gwQVZ0aEVXa00ybldqbWt5bXZnME1wSmRVX1c3N2gydFI3bEFKU0ZLTVBiVWlkNDVBNjRSR0c4bjNWczNGdTAwb3JOcHpGLW9nTF9FcThMODFRcU1JV3hpRzFQb0Uxc3ZOSktZbTA4UWV4ZURQY3VIRmY0TEk5OFRFRHdCWEFZOFdoZA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "3 AI Data Center Stocks to Watch as AMD Signals Strong Server Demand - Simply Wall Street",
+      "summary": "3 AI Data Center Stocks to Watch as AMD Signals Strong Server Demand Simply Wall Street",
+      "source": "Simply Wall Street",
+      "published_at": "2026-10-07T20:54:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkhJaDhoRTMweUU2dkV4NzV4NHhUdjJ2cWNWTkRuNWtUeXhxaEx3YmtuSjd2X0RYWFB5RmxpSzBRYURrMk9LVTVOaEhZb1BDM3pSZS1nR3JnWTAySTVja3hJREJkTmVaM2Q5TC1YR2ItRnhVQzhZRHNYNkpONUkxUFhKX2pGUHJneE1qSndKNmpLVHl5YnB4OGloN19QRl9JeDBSNmxidHZDSXc3TS1oTnJtMHBPQjE3cFQtVkVqRXlzNl9GalY4R1JYcXVORVNDUF9fMFZB0gHbAUFVX3lxTE1yTHlJY19GMGRhdXNSZlpuM3FvVW53LWhYbHQ0aVdhSHN3Q0xJNERaZGtyb3pxZ3dVcnBiYTBaSW4tT3hkNkl4NmNCTTN6UEczMlRKUV9vLUNXdGhORzRqLUJuSlVWN3RvUVpoY3RnSzQ5NTF1eWNJMmhOZjRiS21VN1djc0RBanJQUndmelpVY1UzMHgtNHl5OFN3alZfWHNkNWRtakdsMmt6RjFzakdFTURxa3pYbUt6enppc2dLUllkekhlY3lrX3N3eDkxQm9jTXZxM2RsUkptUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "NHN Cloud Bets on Liquid Cooling to Lead AI Infrastructure Race - Seoul Economic Daily",
       "summary": "NHN Cloud Bets on Liquid Cooling to Lead AI Infrastructure Race Seoul Economic Daily",
       "source": "Seoul Economic Daily",
@@ -338,26 +358,6 @@
       "source": "Schneider Electric Blog",
       "published_at": "2026-10-06T21:00:00+08:00",
       "url": "https://blog.se.com/datacenter/2026/10/06/3-operational-priorities-for-successful-ai-infrastructure-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Green Circle Decarbonize Technology Planned to Enter AI Data Center Cooling Market with Proprietary Ultra-Low Energy Liquid Cooling Solutions - The Manila Times",
-      "summary": "Green Circle Decarbonize Technology Planned to Enter AI Data Center Cooling Market with Proprietary Ultra-Low Energy Liquid Cooling Solutions The Manila Times",
-      "source": "The Manila Times",
-      "published_at": "2026-10-06T19:45:25+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQaHRndmg0RXE3TlZoN2pibmtyS2cyYjFsVEgxbEFKQ1BnYXpHcXhUTEpjYmZCaUtWSy1WeVJiMFNETWpmYVdSTEV3UHJndWItUjNrRmNQVmpwWVNQS3R3OVpidFBNV1lLMWsyWlo1S2dWS3dDV1F4Nm45RVdKSE1vY1hIcEgwWkd2TFBmZWxqOGdFa2ZWblRkTjhTa1NXR290ZmNvQ2FkTXBOX1BVa0RDcS1sZWhzN0RFYzQyNno2eEV1dFhyTDE3blhLeVRLM3Vwc3ZsUUN3RWpGdFF5RjMzdk93WHBrSk9idG5FSGZkNDhreFc4dGN5d2pPY2JmQWpqdXQ4Wks0MGJiak9ZeU9BSlFUd2Y1LTRlcmxXc2pEdUNiRGgyM1BDN2l1Umc2QnNRTk1OQkhMWThSMFHSAcACQVVfeXFMTzRqZnM3Zl9GTlBXR1RuNmJzM3NxYkVPbmZiT1lCbnl1aUppZmxCMjAzWWl6SmlkZUVZTTl6SXMwZzRhSXl6TUl3QmRwT040SWY0c082eVZOcmpoV1ZvUUNVTm9FbWFDV1EwZWwwRGdFN0pEWTVIZlloVl9uM0pmcllkM1JnVGswT3VpUXNLWFRvUDBBUER3N3J3ZEx6RHA0Sk1CbEw2T1hIeDByZWVRXy05b0pLTm1aMldGWU5TdzRRZGtseEtMSG9PS1FsNGNlazFSemhid29ycTQ2TFo3WmlaUFRHaVJYU3lEc2xWZktQdHhqQXdfaEVXOGd4d2FJWktaRVU5LThQRUNlMkROOU1mVzBjMWROZXJEUWdUSHRFTUtUTmpCaHU3RTJiMlVBeVdzbXU2aExyaUk3NzRjbFQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG signs North American AI data center chiller supply agreement - Refindustry",
-      "summary": "LG signs North American AI data center chiller supply agreement Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-06T19:45:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeC0zWUg3OFl4MzRZdzNKczNSSHhWMGF0R1NXMm5Rc29FNnJNNWZtRWRjRGU3cDhGR3VoTloybWFoUGFSSTFZa3UxNW5VOTdJS1pFZ0JURWt2cDd2VVNROXYyQmZNcXNPY29mbXIyWTlhWXdwSzFIMW1QdlpBUnlPX09pWERBQTU1ZmEwVWZIcUJ6Yy1WR1RiYg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
