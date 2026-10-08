@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-08T10:39:00+08:00",
+  "updated_at": "2026-10-08T17:21:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-08T10:44:50+08:00",
+  "intel_updated_at": "2026-10-08T17:32:04+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/08 10:39；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/08 17:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 31.91,
+      "value": 31.955,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-08 10:36 GMT+8",
+      "as_of": "2026-10-08 17:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2036,
+      "value": 0.2042,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-08 10:36 GMT+8",
+      "as_of": "2026-10-08 17:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 35.91,
+      "value": 35.975,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-08 10:36 GMT+8",
+      "as_of": "2026-10-08 17:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4266.0,
+      "value": 4252.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-08 10:39 GMT+8",
+      "as_of": "2026-10-08 17:18 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -199,10 +199,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "資料中心",
-      "move": "Vertiv: How Much Longer Can Hyperscaler CapEx Support This Growth? (NYSE:VRT) - Seeking Alpha",
-      "implication": "公開情報更新於 2026-10-06T22:29:11+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJ2Y1NfYzdKSXk2WDcycEtISWhkRnF2LVI5U25Pb1EwM09NYWNoZjI4eEZhX0FEaXJpOHlvRmZYWTRKRWo4NGxROVRvU0VuT3ROTV92b3ZYZFRzVkhjWC1YNWZxMm0xNkt1dXR5NXZXUFVLcWI4VVBrWVNsVURKZUQ1WG4yOGEwNDlLODh4SjNlcE9QYVd5SV9rak5ZbVZsbmpxal9HVms?oc=5"
+      "product": "CDU／幫浦",
+      "move": "Vertiv coolant distribution unit qualified as NVIDIA DSX Ready for AI Factory infrastructure - Zawya",
+      "implication": "公開情報更新於 2026-10-07T16:20:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYjlvaF9wcXNEcmpRaHpvYjNWeTY0QURsUlBQUWdBQndqaHZJQWRVRjExN0Z3TF9EajI3dGZKTlNpVzZYaEdNSUhHWkxqQ0hZM2hseHZFNjZ4YWxjcFhpOWtIOFYtdjRiWHZ0a1NfSUhJcFpvWXBqeXVDamp0V1hIQ2VUUUF2eXBfUFN0eDNFdnpqeVVPd2Y1NmkxVUUxU2ZOLWlWd0dmc3FvTDl1X3U4MllfeGtiTnd4WjhHTHFwR0Q0RGY1MFp1Z3dxRmhHckZMZ0lxWXBQLVlFTmVwWkxub2JVcXdJWVVzRlE?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,6 +241,16 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "Airtrunk Pours $1 Billion Into Japan’s AI Data Center Push - Finimize",
+      "summary": "Airtrunk Pours $1 Billion Into Japan’s AI Data Center Push Finimize",
+      "source": "Finimize",
+      "published_at": "2026-10-08T12:09:19+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ09hT2ctcWZKSjg3dXBRRV95aVJfZU1YNmJmUWNiaVM3ZjdTVWtzOElVTU5oYnViVGVPYnYwa2I4R3B5Wk1xMGVEX1NMRGk5dlIyZjBMeGI1Q0RrUHhKRFU3d1pCUU16a0V6QXE1RmJpNHlGNS0zaDVkbGNJaXVfeE1rUDc1cFlobkZIM25R?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "LG expands AI data centre chiller production in US - DataCenterNews Asia Pacific",
@@ -282,12 +292,32 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "AI Needs More Compute. Data Centers Need More Power. Now What? - Nasscom",
+      "summary": "AI Needs More Compute. Data Centers Need More Power. Now What? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-10-07T18:09:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWElPRDBZZnJJTTZyVFN6X2pyY2dhQUpWQ1ZWMDM0MkZ1WlVGR3FxcGVYLUZqOUM5X1Z1REtoMGlCVWNPdmpWVHF2NjVEMzIwUTFuc2YyX00xNVNxaks5ZFcybkdEY0V1M0gtd1ZZMTk3a2pGcVNpSV9QUUZMQWxDTXlXdWRZa1hRVnJiNHRGRWh3Mzc5eFNoc2Vac1JkZ29TeVNOcjl3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "NHN Cloud Bets on Liquid Cooling to Lead AI Infrastructure Race - Seoul Economic Daily",
       "summary": "NHN Cloud Bets on Liquid Cooling to Lead AI Infrastructure Race Seoul Economic Daily",
       "source": "Seoul Economic Daily",
       "published_at": "2026-10-07T17:01:36+08:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUYyc0FmbENHc1k4cEY4TDk3NXBELVJ2N0Rxa3c5SmtmbW1Qd2k0U0U5bVpGTzZnSjVWeGFCcVJHajJDVS15MWZkQVdBS2EwMHZ6WFpMakZvV3pUczhBSHJNcnQ1aUdCVG1PM2JkSS1kWWVXUlQtdVYwSEZGZURJMWxuUzBsQ1Y5VElZUnZsVFNwM1lmZ3lRcEpRY3RwWXJqYUVSdGtR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Vertiv coolant distribution unit qualified as NVIDIA DSX Ready for AI Factory infrastructure - Zawya",
+      "summary": "Vertiv coolant distribution unit qualified as NVIDIA DSX Ready for AI Factory infrastructure Zawya",
+      "source": "Zawya",
+      "published_at": "2026-10-07T16:20:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYjlvaF9wcXNEcmpRaHpvYjNWeTY0QURsUlBQUWdBQndqaHZJQWRVRjExN0Z3TF9EajI3dGZKTlNpVzZYaEdNSUhHWkxqQ0hZM2hseHZFNjZ4YWxjcFhpOWtIOFYtdjRiWHZ0a1NfSUhJcFpvWXBqeXVDamp0V1hIQ2VUUUF2eXBfUFN0eDNFdnpqeVVPd2Y1NmkxVUUxU2ZOLWlWd0dmc3FvTDl1X3U4MllfeGtiTnd4WjhHTHFwR0Q0RGY1MFp1Z3dxRmhHckZMZ0lxWXBQLVlFTmVwWkxub2JVcXdJWVVzRlE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -322,42 +352,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "STULZ outlines end-to-end liquid cooling for AI data centers - Refindustry",
-      "summary": "STULZ outlines end-to-end liquid cooling for AI data centers Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-07T05:10:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmJzWV9EbE94dHpING5yYVZKT0otY3dVcTJLUVVvcHNNN1B4SnNiOUxhV2ZmWkc4VTV1dEFLTG81dXAtRHc5SlpmZFRvc1gtNUtkdlhkLWxCdmNsOXB0b3ZyWDNxMzRGR3JwX1NiMFhQVkxhZS1vSkViN3pKcEJESmJkeUc0ZmExR2FQRUFtTS1kT3dD?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "資料中心",
-      "headline": "AI Data Center Operations Management Software Market Size, Share, Trends 2036 - Future Market Insights",
-      "summary": "AI Data Center Operations Management Software Market Size, Share, Trends 2036 Future Market Insights",
-      "source": "Future Market Insights",
-      "published_at": "2026-10-07T02:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVk01OF91UFF6aW1zN09fVThEbjhETkpYdWE0RlA0TUs1VGU3TnRnS0FxVW9jcXBlNUhXbzFabk0ydTh5VlJwVjlmWmZjR0hscjY1amlTOVRrYm1aREx1c1VtZ3lWQ1JpTHhUaGRsWXFJdHhrcE9iVnNvQndySTNhZHoxdmtqU1NkQVpuWkRnYnVoOW1yTHU5TThpRU1FQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv: How Much Longer Can Hyperscaler CapEx Support This Growth? (NYSE:VRT) - Seeking Alpha",
-      "summary": "Vertiv: How Much Longer Can Hyperscaler CapEx Support This Growth? (NYSE:VRT) Seeking Alpha",
-      "source": "Seeking Alpha",
-      "published_at": "2026-10-06T22:29:11+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJ2Y1NfYzdKSXk2WDcycEtISWhkRnF2LVI5U25Pb1EwM09NYWNoZjI4eEZhX0FEaXJpOHlvRmZYWTRKRWo4NGxROVRvU0VuT3ROTV92b3ZYZFRzVkhjWC1YNWZxMm0xNkt1dXR5NXZXUFVLcWI4VVBrWVNsVURKZUQ1WG4yOGEwNDlLODh4SjNlcE9QYVd5SV9rak5ZbVZsbmpxal9HVms?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI infrastructure deployment: Demand is easy. Execution is hard.",
-      "summary": "The growing demand for AI is obvious. The real question is: What’s the build plan? For data center operators, meeting AI demand comes down to turning opportunity into operational capacity. Is there a credible path to power? Is electrical and mechanical capacit",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-06T21:00:00+08:00",
-      "url": "https://blog.se.com/datacenter/2026/10/06/3-operational-priorities-for-successful-ai-infrastructure-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "headline": "AI loads, new architectures reshape data center UPS role - ET Datacenters",
+      "summary": "AI loads, new architectures reshape data center UPS role ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-07T07:44:50+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUU42SHpJb0psUHRQVkdxcUQzSUZMVV95QUF6UHJVd2dEVUJhakRUbFBDMThtdnkxc2YzcXpMZS1TTkVOZUV0cThUQTNSRHFzWWdjTTlMWmM1T1BCTzNMX1JyaDRKN3FnZXVyOGRXdUt0b3BmeWdCekVNaFNkMmR5VEFVUFJxdldwN1NHMFc5d2lJZDB6WnNrTUVtYlk0WWhIU3JZRXpsU21Zay1RdkpmQ09zV0JTQmtDMFVuMWtTMXp1bWFQY2tvQXlCNmU0LVFqMUxWakF4b3hFeld2d0cxVFJB0gHnAUFVX3lxTFBuZC01V1RuTUFTOFRaWk9SYlhQTlNXb3lfSmZIeDNCVkpMZmxJdFR4SVl5TXNucDdkNHh2X2c0ZDJTT0VBRHE4aHpFRFNtd2RIVUo5U3FEdlM1QlZpemZjME1kQnhzcVBmVzlJY0RUX2N0VVVRYVh4NVppUGg5WlBEZkNBMXRhS3dvOWFFR3BKXzc0LTUyeUptWDJxMDBjVS1VRTR6TFR0OEF3dlJjamRvQ1g2TDUtdnlDQ0xITHBWS05reFdpc2stODBOUlF4eTdiNEZ1bkt2TFZ0WktNUk5LeFpkRXNVWQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
