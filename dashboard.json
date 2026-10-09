@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-09T23:05:00+08:00",
+  "updated_at": "2026-10-10T03:25:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-09T23:13:11+08:00",
+  "intel_updated_at": "2026-10-10T04:08:31+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/09 23:05；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/10 03:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-09 23:05 GMT+8",
+      "as_of": "2026-10-10 03:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2039,
+      "value": 0.2041,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-09 23:05 GMT+8",
+      "as_of": "2026-10-10 03:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.015,
+      "value": 36.005,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-09 23:05 GMT+8",
+      "as_of": "2026-10-10 03:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Nvidia’s Latest AI Breakthrough May Not Be a Chip, And It Could Fuel the Next Data Center Boom - AOL.com",
+      "summary": "Nvidia’s Latest AI Breakthrough May Not Be a Chip, And It Could Fuel the Next Data Center Boom AOL.com",
+      "source": "AOL.com",
+      "published_at": "2026-10-10T01:16:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUdLMUxpSUY1NF9icDUxdHJwX0RTRFJNTzRaOFViWmIwU1BJSGUzdlNneG5NdGJFeGRKMnQwZmFGNlVvSEVNWlRvalhnRDY1VjZLd0ExT2hZenBNaWh5ZThocmQxZnA0djZpZ3BCQVpyamFpNTR5QWlJenp6alNteTBSZw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Zankore’s AI Factory: Can Central Java afford the water cost? - The Conversation",
       "summary": "Zankore’s AI Factory: Can Central Java afford the water cost? The Conversation",
       "source": "The Conversation",
@@ -348,16 +358,6 @@
       "source": "Simply Wall Street",
       "published_at": "2026-10-07T20:54:39+08:00",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkhJaDhoRTMweUU2dkV4NzV4NHhUdjJ2cWNWTkRuNWtUeXhxaEx3YmtuSjd2X0RYWFB5RmxpSzBRYURrMk9LVTVOaEhZb1BDM3pSZS1nR3JnWTAySTVja3hJREJkTmVaM2Q5TC1YR2ItRnhVQzhZRHNYNkpONUkxUFhKX2pGUHJneE1qSndKNmpLVHl5YnB4OGloN19QRl9JeDBSNmxidHZDSXc3TS1oTnJtMHBPQjE3cFQtVkVqRXlzNl9GalY4R1JYcXVORVNDUF9fMFZB0gHbAUFVX3lxTE1yTHlJY19GMGRhdXNSZlpuM3FvVW53LWhYbHQ0aVdhSHN3Q0xJNERaZGtyb3pxZ3dVcnBiYTBaSW4tT3hkNkl4NmNCTTN6UEczMlRKUV9vLUNXdGhORzRqLUJuSlVWN3RvUVpoY3RnSzQ5NTF1eWNJMmhOZjRiS21VN1djc0RBanJQUndmelpVY1UzMHgtNHl5OFN3alZfWHNkNWRtakdsMmt6RjFzakdFTURxa3pYbUt6enppc2dLUllkekhlY3lrX3N3eDkxQm9jTXZxM2RsUkptUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Needs More Compute. Data Centers Need More Power. Now What? - Nasscom",
-      "summary": "AI Needs More Compute. Data Centers Need More Power. Now What? Nasscom",
-      "source": "Nasscom",
-      "published_at": "2026-10-07T18:09:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWElPRDBZZnJJTTZyVFN6X2pyY2dhQUpWQ1ZWMDM0MkZ1WlVGR3FxcGVYLUZqOUM5X1Z1REtoMGlCVWNPdmpWVHF2NjVEMzIwUTFuc2YyX00xNVNxaks5ZFcybkdEY0V1M0gtd1ZZMTk3a2pGcVNpSV9QUUZMQWxDTXlXdWRZa1hRVnJiNHRGRWh3Mzc5eFNoc2Vac1JkZ29TeVNOcjl3?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
