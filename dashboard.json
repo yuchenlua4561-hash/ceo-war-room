@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-10T19:24:29+08:00",
+  "intel_updated_at": "2026-10-11T00:21:23+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -313,16 +313,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "Airtrunk Pours $1 Billion Into Japan’s AI Data Center Push - Finimize",
-      "summary": "Airtrunk Pours $1 Billion Into Japan’s AI Data Center Push Finimize",
-      "source": "Finimize",
-      "published_at": "2026-10-08T12:31:19+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ09hT2ctcWZKSjg3dXBRRV95aVJfZU1YNmJmUWNiaVM3ZjdTVWtzOElVTU5oYnViVGVPYnYwa2I4R3B5Wk1xMGVEX1NMRGk5dlIyZjBMeGI1Q0RrUHhKRFU3d1pCUU16a0V6QXE1RmJpNHlGNS0zaDVkbGNJaXVfeE1rUDc1cFlobkZIM25R?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "LG expands AI data centre chiller production in US - DataCenterNews Asia Pacific",
       "summary": "LG expands AI data centre chiller production in US DataCenterNews Asia Pacific",
       "source": "DataCenterNews Asia Pacific",
@@ -358,6 +348,16 @@
       "source": "Electronics360",
       "published_at": "2026-10-07T23:04:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzg1TXRqQWt6em56MEg3V1Z2Q0dWQWwxdGM4ZFNsV25RcFpRU0gwQVZ0aEVXa00ybldqbWt5bXZnME1wSmRVX1c3N2gydFI3bEFKU0ZLTVBiVWlkNDVBNjRSR0c4bjNWczNGdTAwb3JOcHpGLW9nTF9FcThMODFRcU1JV3hpRzFQb0Uxc3ZOSktZbTA4UWV4ZURQY3VIRmY0TEk5OFRFRHdCWEFZOFdoZA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "3 AI Data Center Stocks to Watch as AMD Signals Strong Server Demand - Simply Wall Street",
+      "summary": "3 AI Data Center Stocks to Watch as AMD Signals Strong Server Demand Simply Wall Street",
+      "source": "Simply Wall Street",
+      "published_at": "2026-10-07T20:54:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkhJaDhoRTMweUU2dkV4NzV4NHhUdjJ2cWNWTkRuNWtUeXhxaEx3YmtuSjd2X0RYWFB5RmxpSzBRYURrMk9LVTVOaEhZb1BDM3pSZS1nR3JnWTAySTVja3hJREJkTmVaM2Q5TC1YR2ItRnhVQzhZRHNYNkpONUkxUFhKX2pGUHJneE1qSndKNmpLVHl5YnB4OGloN19QRl9JeDBSNmxidHZDSXc3TS1oTnJtMHBPQjE3cFQtVkVqRXlzNl9GalY4R1JYcXVORVNDUF9fMFZB0gHbAUFVX3lxTE1yTHlJY19GMGRhdXNSZlpuM3FvVW53LWhYbHQ0aVdhSHN3Q0xJNERaZGtyb3pxZ3dVcnBiYTBaSW4tT3hkNkl4NmNCTTN6UEczMlRKUV9vLUNXdGhORzRqLUJuSlVWN3RvUVpoY3RnSzQ5NTF1eWNJMmhOZjRiS21VN1djc0RBanJQUndmelpVY1UzMHgtNHl5OFN3alZfWHNkNWRtakdsMmt6RjFzakdFTURxa3pYbUt6enppc2dLUllkekhlY3lrX3N3eDkxQm9jTXZxM2RsUkptUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
