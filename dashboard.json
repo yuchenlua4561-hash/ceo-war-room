@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-11T00:21:23+08:00",
+  "intel_updated_at": "2026-10-11T04:10:17+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -199,10 +199,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "CDU／幫浦",
-      "move": "Vertiv coolant distribution unit qualified as NVIDIA DSX Ready for AI Factory infrastructure - Zawya",
-      "implication": "公開情報更新於 2026-10-07T16:20:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYjlvaF9wcXNEcmpRaHpvYjNWeTY0QURsUlBQUWdBQndqaHZJQWRVRjExN0Z3TF9EajI3dGZKTlNpVzZYaEdNSUhHWkxqQ0hZM2hseHZFNjZ4YWxjcFhpOWtIOFYtdjRiWHZ0a1NfSUhJcFpvWXBqeXVDamp0V1hIQ2VUUUF2eXBfUFN0eDNFdnpqeVVPd2Y1NmkxVUUxU2ZOLWlWd0dmc3FvTDl1X3U4MllfeGtiTnd4WjhHTHFwR0Q0RGY1MFp1Z3dxRmhHckZMZ0lxWXBQLVlFTmVwWkxub2JVcXdJWVVzRlE?oc=5"
+      "product": "資料中心",
+      "move": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
+      "implication": "公開情報更新於 2026-10-10T05:03:35+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5"
     },
     {
       "company": "Boyd",
@@ -243,6 +243,26 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Why do liquid-cooled AI data centers require different backup power strategy? - Data Center Dynamics",
+      "summary": "Why do liquid-cooled AI data centers require different backup power strategy? Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-10-10T23:25:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU09CdVBscmFyMnN3WUxwbEszOFFhbVRtSHVzYWkzVGhCY2k2YldyeUlZMHJJRmJVUjhjQ1QzUFpyUXlycWlSS0RUbUtWTkNkVW90Q0VXUy1XT2I3a3lPRmFLcklkTS04UlVObG1LakgwRnA1MFlROGM1Vnp0N0hQQWdRSTM2UlRoQ0pPWUVqMWRKVXdzUGNWV3ZaUTQtRGtWQzV2dkQyYmhMdVRMMUR0TnFKVWZidl90OUQxTnJHOGdsZw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
+      "summary": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling Stocktwits",
+      "source": "Stocktwits",
+      "published_at": "2026-10-10T05:03:35+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Nvidia’s Latest AI Breakthrough May Not Be a Chip, And It Could Fuel the Next Data Center Boom - AOL.com",
       "summary": "Nvidia’s Latest AI Breakthrough May Not Be a Chip, And It Could Fuel the Next Data Center Boom AOL.com",
       "source": "AOL.com",
@@ -268,6 +288,16 @@
       "source": "The Conversation",
       "published_at": "2026-10-09T14:01:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFFPY0F0LV9uZmdid2FHcThIREZLakNJT1VHbGJWdTZOSm1tUUFTS1hhMGZlcXdBZl9jUC1sUXVaY19zZEljZDJ3N1JGdWJmZkhWVUIza09Qa2FPSy1mOTJZMXBXby1neFhVc0JtM2hIUGt0anprVXpMby1DcXJ3M1pCcVE1N0pXVUF3MWRtRGNKTGFOUFlwWA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Why do AI data centers need so much water? - Britannica",
+      "summary": "Why do AI data centers need so much water? Britannica",
+      "source": "Britannica",
+      "published_at": "2026-10-09T13:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUxlcnA2LS1acHBsVjdwUEl0S3Jjc3luTjBPV2tFVHhDaHhwTGExc0pUVWc0Rk9UXzJkeVpINlQwUFZ5Q2pUS3JOMG9tbkstdms0U0lCdDVWQi1hT1FLbzA2UkVrbTYxQ1pZVm5wSUhqWWo2VVBpeHpqSFFGRFdjRW5CVXk4dw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -302,12 +332,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "LiquidStack launches CDU 2.X for high-density AI liquid cooling - Refindustry",
-      "summary": "LiquidStack launches CDU 2.X for high-density AI liquid cooling Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-08T19:22:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVc0Sm1jTGlpeldMYWwtNWw3UUtRaEdYeEpQVkhPMTJpNml6Q3hCUHduVDFwS052elJfWGZwS1NXUGpMZzBHbEljYVBnX01vOWpFbFZVelM5MkJ3cHliZURTQTB3THJtNF9KdVRGY1YwMFZvcXo0eF9NbWljS1VNRWFyMkZrREFpWmJva3doX0tYSFpVUTZwYQ?oc=5",
+      "category": "資料中心",
+      "headline": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
+      "summary": "Clean Energy Resources to Meet Data Center Electricity Demand Department of Energy (.gov)",
+      "source": "Department of Energy (.gov)",
+      "published_at": "2026-10-08T21:13:59+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -328,36 +358,6 @@
       "source": "Chosunbiz",
       "published_at": "2026-10-08T09:02:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1aWFlR2tZTFh1cTU0RnhlSUdDR3VORTNFLVhBNzhqX3d5Sy0xUV9EbzNyWG40XzlFOExBNS00WGg4YlllVngxbGdMRGFlWFZQQl9QZC1OYkpidVo3SlpnN25IOEhuTzlGVmxyaURmRDdkRThQRmZpME930gGOAUFVX3lxTE1NMHNDd1BVQi14Q1dHVldBSV83QTBrUnp3SjFRaXNMc29rZERRdHJOM01LdVVCX242YVJrdXFyWi15UzZhY3J0YTEtdklHTUxzVWZJR0ZsZmQyTlpZRzlDWkY5bU1aT3c4Z183d0pBVzF0dDVKSHhLZkJsakpWVTVLQkQyUl9hWEdndzZOc2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Why Is Shell (LSE:SHEL) Showcasing Liquid Cooling For AI Data Centers? - Yahoo Finance",
-      "summary": "Why Is Shell (LSE:SHEL) Showcasing Liquid Cooling For AI Data Centers? Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-08T05:11:36+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUG5IY0poM1VqVGN0VmxaS2I0ZVRWRUxNRW5GY21KXy1ybVI1OUtvSmdCbjRaUlFndVc1Rlk1bjA2UFdJQ3NTR2tPeGpDNElwU3ZreVRFSDhnOTVBOF85UDI0TmZNdFRUTTVuZE9GdDZiV2VtMWRpYVVMc3NLYXFCRzY5WlFsX0prc2hWOEFIaw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Q&A: Ecolab bets on liquid cooling for AI data center growth - Electronics360",
-      "summary": "Q&A: Ecolab bets on liquid cooling for AI data center growth Electronics360",
-      "source": "Electronics360",
-      "published_at": "2026-10-07T23:04:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzg1TXRqQWt6em56MEg3V1Z2Q0dWQWwxdGM4ZFNsV25RcFpRU0gwQVZ0aEVXa00ybldqbWt5bXZnME1wSmRVX1c3N2gydFI3bEFKU0ZLTVBiVWlkNDVBNjRSR0c4bjNWczNGdTAwb3JOcHpGLW9nTF9FcThMODFRcU1JV3hpRzFQb0Uxc3ZOSktZbTA4UWV4ZURQY3VIRmY0TEk5OFRFRHdCWEFZOFdoZA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "3 AI Data Center Stocks to Watch as AMD Signals Strong Server Demand - Simply Wall Street",
-      "summary": "3 AI Data Center Stocks to Watch as AMD Signals Strong Server Demand Simply Wall Street",
-      "source": "Simply Wall Street",
-      "published_at": "2026-10-07T20:54:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkhJaDhoRTMweUU2dkV4NzV4NHhUdjJ2cWNWTkRuNWtUeXhxaEx3YmtuSjd2X0RYWFB5RmxpSzBRYURrMk9LVTVOaEhZb1BDM3pSZS1nR3JnWTAySTVja3hJREJkTmVaM2Q5TC1YR2ItRnhVQzhZRHNYNkpONUkxUFhKX2pGUHJneE1qSndKNmpLVHl5YnB4OGloN19QRl9JeDBSNmxidHZDSXc3TS1oTnJtMHBPQjE3cFQtVkVqRXlzNl9GalY4R1JYcXVORVNDUF9fMFZB0gHbAUFVX3lxTE1yTHlJY19GMGRhdXNSZlpuM3FvVW53LWhYbHQ0aVdhSHN3Q0xJNERaZGtyb3pxZ3dVcnBiYTBaSW4tT3hkNkl4NmNCTTN6UEczMlRKUV9vLUNXdGhORzRqLUJuSlVWN3RvUVpoY3RnSzQ5NTF1eWNJMmhOZjRiS21VN1djc0RBanJQUndmelpVY1UzMHgtNHl5OFN3alZfWHNkNWRtakdsMmt6RjFzakdFTURxa3pYbUt6enppc2dLUllkekhlY3lrX3N3eDkxQm9jTXZxM2RsUkptUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
