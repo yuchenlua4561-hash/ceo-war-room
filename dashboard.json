@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-11T09:25:00+08:00",
+  "updated_at": "2026-10-12T03:25:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-11T23:33:47+08:00",
+  "intel_updated_at": "2026-10-12T03:40:47+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/11 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/12 03:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-11 09:25 GMT+8",
+      "as_of": "2026-10-12 03:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-11 09:25 GMT+8",
+      "as_of": "2026-10-12 03:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-11 09:25 GMT+8",
+      "as_of": "2026-10-12 03:25 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -201,7 +201,7 @@
       "company": "Vertiv",
       "product": "資料中心",
       "move": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
-      "implication": "公開情報更新於 2026-10-10T05:03:35+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "implication": "公開情報更新於 2026-10-09T23:14:13+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5"
     },
     {
@@ -266,7 +266,7 @@
       "headline": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
       "summary": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling Stocktwits",
       "source": "Stocktwits",
-      "published_at": "2026-10-10T05:03:35+08:00",
+      "published_at": "2026-10-09T23:14:13+08:00",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -278,6 +278,16 @@
       "source": "ET Datacenters",
       "published_at": "2026-10-09T19:53:43+08:00",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU3BzaFN3V3FQQ0EtSWJzMURWMHBzWUFYd2pXTmw3YjhqQVJCNWQtUU5Sb1JRSHBHd0h6UDhnYmhOUW53eTNBMlE0blozWnVPYWJiTk5CQkhhczk3SjFtMlhjbGpROWc0WDJ1bGdzcUR1bGxscEoxZEpqQzg1bFRmc2pQcU50NHJmR1ZXRWxYNWV3T1RKaFU2SVI3WUpVYlZwcEpOU1BwczFLUlJUN3pXSFFTZ1VSZUZRS2tGdVoxc0xkR3FwaFJTc1g4QTZVN21iM0p0cVpfR1lZQkpVb0HSAeIBQVVfeXFMTk1DeFZ1OWt5RzZmNVA4X3RERDRCLUc4Si1aMGtqQ24xdmZNOHF4Y0dqQ3FxLUFtRnQyVlhiZVRzQjBqQXBqemF5WjFPeEhYbTZjTmN0SVZMVFptcXNnS282UTk0Z2x1TWQtTXZQTkl3UFdlZ2UySFMyRUtlbWJ2a0VxX1Itdm9lT2xrMDM4aTBTbkdYaGszOXMyWXNTQUx4MnZEODBrc2dmempRQWhyVXJFdW01MjEzSExUMFpwdklHbGo5ZThzblE5eEVrR3llUDJxTG1uRXBmLU5TUV9UZlI5dw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? - Nasscom",
+      "summary": "The Liquid Cooled AI Data Center Race Has Started – Where Does India Stand? Nasscom",
+      "source": "Nasscom",
+      "published_at": "2026-10-09T17:52:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "Department of Energy (.gov)",
       "published_at": "2026-10-08T21:13:59+08:00",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "LiquidStack launches CDU 2.X for high-density AI liquid cooling - Refindustry",
-      "summary": "LiquidStack launches CDU 2.X for high-density AI liquid cooling Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-08T19:22:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVc0Sm1jTGlpeldMYWwtNWw3UUtRaEdYeEpQVkhPMTJpNml6Q3hCUHduVDFwS052elJfWGZwS1NXUGpMZzBHbEljYVBnX01vOWpFbFZVelM5MkJ3cHliZURTQTB3THJtNF9KdVRGY1YwMFZvcXo0eF9NbWljS1VNRWFyMkZrREFpWmJva3doX0tYSFpVUTZwYQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
