@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-11T17:01:09+08:00",
+  "intel_updated_at": "2026-10-11T23:33:47+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Trane Technologies AI Data Center Cooling: $550 Target - https://tech-insider.org/",
+      "summary": "Trane Technologies AI Data Center Cooling: $550 Target https://tech-insider.org/",
+      "source": "https://tech-insider.org/",
+      "published_at": "2026-10-11T16:07:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zWUVoUVhXWkpxMnB0UVNScGlpMC1seTR2OWtreFZDSHFCQ2ZJZmVHU1JRRm1EX0xlUldxZzhnQmZoYTRZbnFLNVpjbW0yeGEzcV94TXdyQ0twSEZhZnR0NzJfNzdSd2NsbDhIZGRyY3dvMGFzNU81dTVHOWg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Why do liquid-cooled AI data centers require different backup power strategy? - Data Center Dynamics",
       "summary": "Why do liquid-cooled AI data centers require different backup power strategy? Data Center Dynamics",
       "source": "Data Center Dynamics",
@@ -258,16 +268,6 @@
       "source": "Stocktwits",
       "published_at": "2026-10-10T05:03:35+08:00",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nvidia’s Latest AI Breakthrough May Not Be a Chip, And It Could Fuel the Next Data Center Boom - AOL.com",
-      "summary": "Nvidia’s Latest AI Breakthrough May Not Be a Chip, And It Could Fuel the Next Data Center Boom AOL.com",
-      "source": "AOL.com",
-      "published_at": "2026-10-10T01:16:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUdLMUxpSUY1NF9icDUxdHJwX0RTRFJNTzRaOFViWmIwU1BJSGUzdlNneG5NdGJFeGRKMnQwZmFGNlVvSEVNWlRvalhnRDY1VjZLd0ExT2hZenBNaWh5ZThocmQxZnA0djZpZ3BCQVpyamFpNTR5QWlJenp6alNteTBSZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
