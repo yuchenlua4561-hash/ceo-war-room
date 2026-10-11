@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-11T10:14:41+08:00",
+  "intel_updated_at": "2026-10-11T17:01:09+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -273,6 +273,26 @@
     },
     {
       "category": "資料中心",
+      "headline": "ThisWay Global to convert RELLIS site into 73 MW AI hub - ET Datacenters",
+      "summary": "ThisWay Global to convert RELLIS site into 73 MW AI hub ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-09T19:53:43+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU3BzaFN3V3FQQ0EtSWJzMURWMHBzWUFYd2pXTmw3YjhqQVJCNWQtUU5Sb1JRSHBHd0h6UDhnYmhOUW53eTNBMlE0blozWnVPYWJiTk5CQkhhczk3SjFtMlhjbGpROWc0WDJ1bGdzcUR1bGxscEoxZEpqQzg1bFRmc2pQcU50NHJmR1ZXRWxYNWV3T1RKaFU2SVI3WUpVYlZwcEpOU1BwczFLUlJUN3pXSFFTZ1VSZUZRS2tGdVoxc0xkR3FwaFJTc1g4QTZVN21iM0p0cVpfR1lZQkpVb0HSAeIBQVVfeXFMTk1DeFZ1OWt5RzZmNVA4X3RERDRCLUc4Si1aMGtqQ24xdmZNOHF4Y0dqQ3FxLUFtRnQyVlhiZVRzQjBqQXBqemF5WjFPeEhYbTZjTmN0SVZMVFptcXNnS282UTk0Z2x1TWQtTXZQTkl3UFdlZ2UySFMyRUtlbWJ2a0VxX1Itdm9lT2xrMDM4aTBTbkdYaGszOXMyWXNTQUx4MnZEODBrc2dmempRQWhyVXJFdW01MjEzSExUMFpwdklHbGo5ZThzblE5eEVrR3llUDJxTG1uRXBmLU5TUV9UZlI5dw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "NVIDIA Qualifies Shell DLC Fluid for AI Liquid Cooling - Data Centre Magazine",
+      "summary": "NVIDIA Qualifies Shell DLC Fluid for AI Liquid Cooling Data Centre Magazine",
+      "source": "Data Centre Magazine",
+      "published_at": "2026-10-09T16:59:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU15cHJ2d056eEpyWVNDRzJZaWlUbl9NVXE1TXdqdngzbFF1bmk5NkxWLUR0MmNoa2tkY2ozUUk3TWt6WHpGR1NjcEt0UGNKamNsVHVPS2lJWll6QzJYZDJoZkVjX1prRVFNeDJvN3hxbEdfWHpHVFJsZlV6S0lGNzdTdm1lQk5EWERDMTFaUHNXOTlm?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Zankore’s AI Factory: Can Central Java afford the water cost? - The Conversation",
       "summary": "Zankore’s AI Factory: Can Central Java afford the water cost? The Conversation",
       "source": "The Conversation",
@@ -338,26 +358,6 @@
       "source": "Refindustry",
       "published_at": "2026-10-08T19:22:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVc0Sm1jTGlpeldMYWwtNWw3UUtRaEdYeEpQVkhPMTJpNml6Q3hCUHduVDFwS052elJfWGZwS1NXUGpMZzBHbEljYVBnX01vOWpFbFZVelM5MkJ3cHliZURTQTB3THJtNF9KdVRGY1YwMFZvcXo0eF9NbWljS1VNRWFyMkZrREFpWmJva3doX0tYSFpVUTZwYQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG expands AI data centre chiller production in US - DataCenterNews Asia Pacific",
-      "summary": "LG expands AI data centre chiller production in US DataCenterNews Asia Pacific",
-      "source": "DataCenterNews Asia Pacific",
-      "published_at": "2026-10-08T09:37:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1RfOG9qWVlDZFBKU1F3d0VwbzFHX01COTZuTkt5cVdMOF93NENkMmlMbU9rY1EyanF0TG5BSjBScW9LeEstaUk3X2IzTVBlR3VyQkthZzVuQ0NPOEVFZHhLV0VkaHhtNFM1Q3l1SEpZVldIalMtM2xFZTN3d2RqZldTSWUyaWY0YUh5OQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG subsidiary High-M Solutek expands AI data center cooling to liquid systems - CHOSUNBIZ - Chosunbiz",
-      "summary": "LG subsidiary High-M Solutek expands AI data center cooling to liquid systems - CHOSUNBIZ Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-10-08T09:02:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1aWFlR2tZTFh1cTU0RnhlSUdDR3VORTNFLVhBNzhqX3d5Sy0xUV9EbzNyWG40XzlFOExBNS00WGg4YlllVngxbGdMRGFlWFZQQl9QZC1OYkpidVo3SlpnN25IOEhuTzlGVmxyaURmRDdkRThQRmZpME930gGOAUFVX3lxTE1NMHNDd1BVQi14Q1dHVldBSV83QTBrUnp3SjFRaXNMc29rZERRdHJOM01LdVVCX242YVJrdXFyWi15UzZhY3J0YTEtdklHTUxzVWZJR0ZsZmQyTlpZRzlDWkY5bU1aT3c4Z183d0pBVzF0dDVKSHhLZkJsakpWVTVLQkQyUl9hWEdndzZOc2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
