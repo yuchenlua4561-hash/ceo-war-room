@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-12T17:37:00+08:00",
+  "updated_at": "2026-10-13T02:40:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-12T17:40:44+08:00",
+  "intel_updated_at": "2026-10-13T03:23:04+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/12 17:37；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/13 02:40；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-12 17:20 GMT+8",
+      "as_of": "2026-10-13 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.204,
+      "value": 0.2036,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-12 17:20 GMT+8",
+      "as_of": "2026-10-13 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.015,
+      "value": 35.895,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-12 17:20 GMT+8",
+      "as_of": "2026-10-13 02:40 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4309.0,
+      "value": 4304.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-12 17:37 GMT+8",
+      "as_of": "2026-10-12 19:33 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -201,7 +201,7 @@
       "company": "Vertiv",
       "product": "資料中心",
       "move": "Vertiv & CapitaLand India Trust Unveil India’s First High-Density Liquid-Cooled AI Data Center - CXOToday.com",
-      "implication": "公開情報更新於 2026-10-12T16:41:58+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "implication": "公開情報更新於 2026-10-12T22:10:28+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHlTcDd2bzNSeUJmblhFWWVWaXptZmZNUnUwd25CUmM3RllWR1doVGRjX1UwLUc5Wk4zSnZhcTRPMWc0V29IOTZzX0pSMVQtNDBMZmI2VHd0NlpmWGFlNGtkcjRSZ3ZpbExQbUw1REdlWmFrY3hINkIxYVRpM1E3bWdDOVY5Z0FnOXJxZTBkdWhVbGNWamtJT2o2RVdUaGREQ3JsdTJmMlZiU1A4Nm90Z215QzMxdUdOc2t6SGpxMnFRVjNacWM4?oc=5"
     },
     {
@@ -243,21 +243,71 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, tak",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-10-12T23:00:25+08:00",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+      "summary": "News Summary: Ultra-Dense Small Form Factor Pluggable (USFP) is designed to be the first module to support 400Gb/s-per-lane electrical signals, enabling capacity up to 12.8Tb/s so AI factory builders can scale Ethernet AI fabrics, while extending a proven depl",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-10-12T23:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Vertiv & CapitaLand India Trust Unveil India’s First High-Density Liquid-Cooled AI Data Center - CXOToday.com",
       "summary": "Vertiv & CapitaLand India Trust Unveil India’s First High-Density Liquid-Cooled AI Data Center CXOToday.com",
       "source": "CXOToday.com",
-      "published_at": "2026-10-12T16:41:58+08:00",
+      "published_at": "2026-10-12T22:10:28+08:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHlTcDd2bzNSeUJmblhFWWVWaXptZmZNUnUwd25CUmM3RllWR1doVGRjX1UwLUc5Wk4zSnZhcTRPMWc0V29IOTZzX0pSMVQtNDBMZmI2VHd0NlpmWGFlNGtkcjRSZ3ZpbExQbUw1REdlWmFrY3hINkIxYVRpM1E3bWdDOVY5Z0FnOXJxZTBkdWhVbGNWamtJT2o2RVdUaGREQ3JsdTJmMlZiU1A4Nm90Z215QzMxdUdOc2t6SGpxMnFRVjNacWM4?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv Deploys India’s First Liquid-Cooled AI Data Center for 30 MW Capacity - TimesTech",
-      "summary": "Vertiv Deploys India’s First Liquid-Cooled AI Data Center for 30 MW Capacity TimesTech",
-      "source": "TimesTech",
-      "published_at": "2026-10-12T15:08:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEpqYkJUbVFHV3Vhb2tfaWF4ZzBpNU5lWXhuQ0RWb19oQWlEUE5JdTJuUDRxSWk2RDNxdThtWlFIdDdJQnRFUk9pWnh1SDZxcWhsYW5aU01CY1JNU2F0aEtPcEg0WGJhdUdEbnFIdzJVZHhBUlItRGFrd0ZMNFpnMFVnbVNNM2ZDM1hVTVVjTkpCUVZoS3NnT0tOekZGZw?oc=5",
+      "headline": "Data Center Cooling Statistics You Need to Know (2026) - Sci-Tech Today",
+      "summary": "Data Center Cooling Statistics You Need to Know (2026) Sci-Tech Today",
+      "source": "Sci-Tech Today",
+      "published_at": "2026-10-12T20:13:36+08:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNFplMi13SjJwX2d3QU5peHFidTBhdjBGZWFseElqRnVZMC16cExrbWNLMFlWSGRpVm9LMTVubWZIcFVQWFg5TVFBTlFKUTNQTkRNZ0lKeGlIVVB2UmVnVmRQbm4zOTJHcjJaQk1VZllKLXdPSzZz?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "UBS: AI Trade's New Battleground Shifts to Power, Data Centers, and Scarce Resources - BigGo Finance",
+      "summary": "UBS: AI Trade's New Battleground Shifts to Power, Data Centers, and Scarce Resources BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-12T19:55:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3RzVsTkR2S1RNLW82QWwwS3JwLWZvUHRYMFloaFFzZ1N3dHZ4c3ZSYjBpV2doN3VURWhjRTNZU3VlM2NOZ0paTVVNOEVrQ05Cek1VaGNnd05DeFlXSG5xNTdFU0JWdERyd2pyelVCd282dzk1RHc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Vertiv Deploys Liquid Cooling System for 30 MW AI Data Centre in Navi Mumbai - Analytics India Magazine",
+      "summary": "Vertiv Deploys Liquid Cooling System for 30 MW AI Data Centre in Navi Mumbai Analytics India Magazine",
+      "source": "Analytics India Magazine",
+      "published_at": "2026-10-12T18:24:51+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTVxdndIdHU3Tmx6MERWOU9zZHZ1eVE2NmtzRERVVVVnMGM3OFlMVHZxTVBKUkFRU2M5cVg3VnRLSUlHWHl5cFN3Qld4TGh4T24wWWdvZjRpMGZnS3dTaE9DTWhUblc5bjRLN0w2RWhlMG43SWU2MTBuMXVVMlExVEIzd2hJTUtPRnE5Z1VFMnFmV0FOSWJKWlZOOEt1V2g4RHlYdGRkb29OY29EZW1tSjZ6REc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Vertiv Marks AI Infrastructure Milestone with India’s First Direct‑to‑Chip Liquid Cooling Deployment - Indianweb2.com",
+      "summary": "Vertiv Marks AI Infrastructure Milestone with India’s First Direct‑to‑Chip Liquid Cooling Deployment Indianweb2.com",
+      "source": "Indianweb2.com",
+      "published_at": "2026-10-12T15:37:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VOTNWT0ZoWF8yeEVyS2tEY0ZyOVNSNmYtaTdETWl0dURwaV9NdFFfZTZZSXd1UVpNS1gwYXpJeng4SUM5TlB6QlViYWJFS0t0d0dUYm56MXh3akd3RGF3MEJyMDd4TV95Q3c0YS05NkxKbDMzNDc5M09n?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -308,56 +358,6 @@
       "source": "Nasscom",
       "published_at": "2026-10-09T17:52:47+08:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUMzSjJjd216OEZMeUNTZ3FjelpiMG9CZkoxM1podWp2TGVLTEZpRGxNc2RTb2ZQUFBhWG51V1hjbVRwR0RTRmkyNzhVR1FYT3lUOVkzVkpESWNuai1uM2YyLUdrbjBMQUNzRE84WWgyRGhNRmNzemN0TlpESG0yZllnbDJqbHVpUXkxZ3BURzFjVDdNZTdsck9BLXhtTDFGRlcyc0wyOHJoNkRHY0hDQXNQcGRLQnItUU1EQWhR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "NVIDIA Qualifies Shell DLC Fluid for AI Liquid Cooling - Data Centre Magazine",
-      "summary": "NVIDIA Qualifies Shell DLC Fluid for AI Liquid Cooling Data Centre Magazine",
-      "source": "Data Centre Magazine",
-      "published_at": "2026-10-09T16:59:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU15cHJ2d056eEpyWVNDRzJZaWlUbl9NVXE1TXdqdngzbFF1bmk5NkxWLUR0MmNoa2tkY2ozUUk3TWt6WHpGR1NjcEt0UGNKamNsVHVPS2lJWll6QzJYZDJoZkVjX1prRVFNeDJvN3hxbEdfWHpHVFJsZlV6S0lGNzdTdm1lQk5EWERDMTFaUHNXOTlm?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Zankore’s AI Factory: Can Central Java afford the water cost? - The Conversation",
-      "summary": "Zankore’s AI Factory: Can Central Java afford the water cost? The Conversation",
-      "source": "The Conversation",
-      "published_at": "2026-10-09T14:01:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFFPY0F0LV9uZmdid2FHcThIREZLakNJT1VHbGJWdTZOSm1tUUFTS1hhMGZlcXdBZl9jUC1sUXVaY19zZEljZDJ3N1JGdWJmZkhWVUIza09Qa2FPSy1mOTJZMXBXby1neFhVc0JtM2hIUGt0anprVXpMby1DcXJ3M1pCcVE1N0pXVUF3MWRtRGNKTGFOUFlwWA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Why do AI data centers need so much water? - Britannica",
-      "summary": "Why do AI data centers need so much water? Britannica",
-      "source": "Britannica",
-      "published_at": "2026-10-09T13:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUxlcnA2LS1acHBsVjdwUEl0S3Jjc3luTjBPV2tFVHhDaHhwTGExc0pUVWc0Rk9UXzJkeVpINlQwUFZ5Q2pUS3JOMG9tbkstdms0U0lCdDVWQi1hT1FLbzA2UkVrbTYxQ1pZVm5wSUhqWWo2VVBpeHpqSFFGRFdjRW5CVXk4dw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Midea Introduces Cooling Technologies for High-Density AI Data Centers - Refindustry",
-      "summary": "Midea Introduces Cooling Technologies for High-Density AI Data Centers Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-09T05:55:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi1kTXVSbElETkZLbjh5NHNKN0xyXzlGT3c5ZkhVMlVGVUp2OVY4R0E0ZkgwelZ2djc3WWFuT2pMTW9nRjE2bklYWTA5aWNZcFRHYndpelVTNWp2TGZ2NWFSZ0VTOU1oaHY4akNFb24zOE5rdjFubHhPSTFEYVVjRFJXU05mRGZzeTE2MURkd0xfZG1kRUZNd0c3SmtvNG9lakE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Thermal Energy Storage for Data Center Heat Management: Lehigh University's Concrete Thermal Battery - Lehigh University News",
-      "summary": "Thermal Energy Storage for Data Center Heat Management: Lehigh University's Concrete Thermal Battery Lehigh University News",
-      "source": "Lehigh University News",
-      "published_at": "2026-10-09T04:44:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUldTOTZ3SnpvZDdMWVBvZ0JlTTZreF8wYXZYbGRMT0FpVVY1bldwTUxpZ182a2hFWEFaSFViSUhkVl8yM3ZLM3o5dUNKZGVYY0kxelBtRVlmQkY3YjBueWRuZ3YzWUxBbEZIVTNLYjdlMlNNNkRGQi1mLTRNZ1hTQTlKNW5SQ3MtdXdRNFJzeTVhTkF0SktRTFVxeFlCS0RVbWpydmdMbFhpd2VFeFBBSW9pZUxRTXZ5YlgwSFVkSQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
