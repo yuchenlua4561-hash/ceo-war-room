@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-13T09:34:00+08:00",
+  "updated_at": "2026-10-13T16:22:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-13T09:35:19+08:00",
+  "intel_updated_at": "2026-10-13T16:23:12+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/13 09:34；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/13 16:22；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.045,
+      "value": 32.155,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-13 09:30 GMT+8",
+      "as_of": "2026-10-13 16:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.204,
+      "value": 0.2055,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-13 09:30 GMT+8",
+      "as_of": "2026-10-13 16:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 35.94,
+      "value": 36.195,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-13 09:30 GMT+8",
+      "as_of": "2026-10-13 16:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4300.0,
+      "value": 4344.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-13 09:34 GMT+8",
+      "as_of": "2026-10-13 16:12 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -185,24 +185,24 @@
   "competitors": [
     {
       "company": "Schneider Electric／Motivair",
-      "product": "資料中心",
-      "move": "Powering Trust at Scale: UL 2755 Certification Elevates Schneider Electric’s Modular Data Center Performance",
-      "implication": "公開情報更新於 2026-09-25T22:43:04+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://blog.se.com/datacenter/2026/09/25/powering-trust-scale-ul-2755-certification-elevates-schneider-electrics-modular-data-center-performance/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign"
+      "product": "液冷散熱",
+      "move": "Vertiv vs CoolIT vs Motivair: Data Center Liquid Cooling - https://tech-insider.org/",
+      "implication": "公開情報更新於 2026-10-13T12:23:33+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX01SeFlEb2s3NHpvUVdJblRSbTZIcEVRaXc3dWxqSWVtUC1GRFFpVm1lUHV0Nk1nZlc1Nmh2UGd1eHVyUTRRVmU2QnZPNkxKMkRqX0dvYm80ZDJIUG9peEg1dWVDSUVGejZOZW9EdW5hYlVXN0JES0l0THp6Rm9jQ2hjWjRpclZyMFpTVDFYQQ?oc=5"
     },
     {
       "company": "CoolIT Systems",
       "product": "液冷散熱",
-      "move": "DCF Tours: Inside CoolIT, Where AI Liquid Cooling Goes to Scale - Data Center Frontier",
-      "implication": "公開情報更新於 2026-09-28T23:22:27+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV01BaEpBdXVVV3Vma1RZbng4cFBTdloyY1JsZk91d0U3T0pIc0JCTVgtQXEwTm5KV09CSWdlcVpueWZsM0FYRTg1Z1lIZVZYLVRrTWR2ZmRZZUxCV0ZFazQxQWpEOXF4Wk15OUdmNHBBMERMc1BRYUY5N2JkMFpZMUh3Q0RXNGRvay1BUkFxNTgzNmhDUllDRkhTMW0tTDM0UUlhSHlhVXhhQ1hsaE9QdEdGWlJRTmZoNXVoVUVB?oc=5"
+      "move": "Vertiv vs CoolIT vs Motivair: Data Center Liquid Cooling - https://tech-insider.org/",
+      "implication": "公開情報更新於 2026-10-13T12:23:33+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX01SeFlEb2s3NHpvUVdJblRSbTZIcEVRaXc3dWxqSWVtUC1GRFFpVm1lUHV0Nk1nZlc1Nmh2UGd1eHVyUTRRVmU2QnZPNkxKMkRqX0dvYm80ZDJIUG9peEg1dWVDSUVGejZOZW9EdW5hYlVXN0JES0l0THp6Rm9jQ2hjWjRpclZyMFpTVDFYQQ?oc=5"
     },
     {
       "company": "Vertiv",
-      "product": "資料中心",
-      "move": "Vertiv & CapitaLand India Trust Unveil India’s First High-Density Liquid-Cooled AI Data Center - CXOToday.com",
-      "implication": "公開情報更新於 2026-10-12T22:10:28+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHlTcDd2bzNSeUJmblhFWWVWaXptZmZNUnUwd25CUmM3RllWR1doVGRjX1UwLUc5Wk4zSnZhcTRPMWc0V29IOTZzX0pSMVQtNDBMZmI2VHd0NlpmWGFlNGtkcjRSZ3ZpbExQbUw1REdlWmFrY3hINkIxYVRpM1E3bWdDOVY5Z0FnOXJxZTBkdWhVbGNWamtJT2o2RVdUaGREQ3JsdTJmMlZiU1A4Nm90Z215QzMxdUdOc2t6SGpxMnFRVjNacWM4?oc=5"
+      "product": "液冷散熱",
+      "move": "Vertiv delivers India’s first direct-to-chip liquid cooling deployment - Manufacturing Today India",
+      "implication": "公開情報更新於 2026-10-13T13:32:50+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlcXU0WFlZb0JyYjNpX1d0TXlsZ21UMlNGS0xCZjJZX0lGRWIzRVVkdkszVzhjNVZYOVhrbjhmLUtqU0VtLTM3aEtnNDZ5Nm9qckVpUzhaZmw5LTBhVjU3OGg2MFpFcDk0eGsxdzkyZHh6SU5BZzg2eExJS1JFdw?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,6 +241,66 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "India’s AI Data Center Boom Driven by GPUs and Advanced Cooling - TimesTech",
+      "summary": "India’s AI Data Center Boom Driven by GPUs and Advanced Cooling TimesTech",
+      "source": "TimesTech",
+      "published_at": "2026-10-13T15:26:24+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjJTTHVjRUduUTZ0bFp5QUwwVXhZQWVkSVM0dGJzUXBNTHduaE1EQzdZVnctcGNHNEhMU3MxdFdSQzZIazFDZElkcy1hbFBWR2dHcTdkMDdwZ2tURTRmbHBrYzdLOVdOdjhyZHEwNWlqdFg3NjI1d0hSTzlqejJZS1BfVk9nRHNOS1oyOQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Data Center Cooling Market to Reach $106.72 Billion by 2035 as AI Drives Liquid Cooling Demand - TimesTech",
+      "summary": "Data Center Cooling Market to Reach $106.72 Billion by 2035 as AI Drives Liquid Cooling Demand TimesTech",
+      "source": "TimesTech",
+      "published_at": "2026-10-13T14:23:48+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlg3NG42ZUxTeHhvY1pac1JMZTBKOE96MUhVampyVDdUOUpqWUxkaXBPUHc2N3AwSnREeWd3LXk5eEhaVV9kSkYzRGhFNTBIRGJvNjdKQWl5eXVkU29oZ0lHc0xrRDdSQjlSUGhqSzk1S0poUGc4cGk5aHpDaW1KR3ZWMWlEeHN4Yl9QemV3Y0ViSFBXdmtldmYzdTJ5cktmaUdib2FuTk1uXzhaUzNabkFwSzQ1Zw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Vertiv delivers India’s first direct-to-chip liquid cooling deployment - Manufacturing Today India",
+      "summary": "Vertiv delivers India’s first direct-to-chip liquid cooling deployment Manufacturing Today India",
+      "source": "Manufacturing Today India",
+      "published_at": "2026-10-13T13:32:50+08:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlcXU0WFlZb0JyYjNpX1d0TXlsZ21UMlNGS0xCZjJZX0lGRWIzRVVkdkszVzhjNVZYOVhrbjhmLUtqU0VtLTM3aEtnNDZ5Nm9qckVpUzhaZmw5LTBhVjU3OGg2MFpFcDk0eGsxdzkyZHh6SU5BZzg2eExJS1JFdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Nvidia, AMD, Google, Meta Set Data Center Spec v0.7 [2026] - https://tech-insider.org/",
+      "summary": "Nvidia, AMD, Google, Meta Set Data Center Spec v0.7 [2026] https://tech-insider.org/",
+      "source": "https://tech-insider.org/",
+      "published_at": "2026-10-13T12:28:34+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdm5VdzJFT2hDRnNTalZMSEpsOHhwQ2ZwMEdGN014aUNiVE52Tk9oTS1GS242YTBoV19fTGxvTERqUUY5TWk5Y1Nkd211dnFDaU5CWmtHc0EzbG1mSmlma1FpRU91Q2ZNUjlRUHU3N2tvMVV5eVhMalZKLXRXbXA2cA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Vertiv vs CoolIT vs Motivair: Data Center Liquid Cooling - https://tech-insider.org/",
+      "summary": "Vertiv vs CoolIT vs Motivair: Data Center Liquid Cooling https://tech-insider.org/",
+      "source": "https://tech-insider.org/",
+      "published_at": "2026-10-13T12:23:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX01SeFlEb2s3NHpvUVdJblRSbTZIcEVRaXc3dWxqSWVtUC1GRFFpVm1lUHV0Nk1nZlc1Nmh2UGd1eHVyUTRRVmU2QnZPNkxKMkRqX0dvYm80ZDJIUG9peEg1dWVDSUVGejZOZW9EdW5hYlVXN0JES0l0THp6Rm9jQ2hjWjRpclZyMFpTVDFYQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Is Reshaping Data Center Cooling - Data Center Frontier",
+      "summary": "AI Is Reshaping Data Center Cooling Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-10-13T04:55:05+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkVUbDdRazRObm9naTdpdEpfdWFIZHlTalZpUFo4dFRqRnB5am5Uazk2cDZfWjFmYl94bVZDU1U2MGVEbFRHRlZ2aDYyOXB0QnFzQUlGSFB6d2RLczAzMUY0TWt4aFNiVW9MOGtXNlZmSGhmZFlfSUlaX0lCUXg0bjBoTVFLZWxxZ0trR21uQlhEWTZKQ0g2bmxMM1llb045bHc0Tnd3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
@@ -282,16 +342,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "UBS: AI Trade's New Battleground Shifts to Power, Data Centers, and Scarce Resources - BigGo Finance",
-      "summary": "UBS: AI Trade's New Battleground Shifts to Power, Data Centers, and Scarce Resources BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-12T19:55:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3RzVsTkR2S1RNLW82QWwwS3JwLWZvUHRYMFloaFFzZ1N3dHZ4c3ZSYjBpV2doN3VURWhjRTNZU3VlM2NOZ0paTVVNOEVrQ05Cek1VaGNnd05DeFlXSG5xNTdFU0JWdERyd2pyelVCd282dzk1RHc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "Vertiv delivers India’s first high-density liquid cooling deployment for 30 MW of AI-ready capacity - Express Computer",
       "summary": "Vertiv delivers India’s first high-density liquid cooling deployment for 30 MW of AI-ready capacity Express Computer",
@@ -308,56 +358,6 @@
       "source": "Analytics India Magazine",
       "published_at": "2026-10-12T18:24:51+08:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTVxdndIdHU3Tmx6MERWOU9zZHZ1eVE2NmtzRERVVVVnMGM3OFlMVHZxTVBKUkFRU2M5cVg3VnRLSUlHWHl5cFN3Qld4TGh4T24wWWdvZjRpMGZnS3dTaE9DTWhUblc5bjRLN0w2RWhlMG43SWU2MTBuMXVVMlExVEIzd2hJTUtPRnE5Z1VFMnFmV0FOSWJKWlZOOEt1V2g4RHlYdGRkb29OY29EZW1tSjZ6REc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Vertiv Marks AI Infrastructure Milestone with India’s First Direct‑to‑Chip Liquid Cooling Deployment - Indianweb2.com",
-      "summary": "Vertiv Marks AI Infrastructure Milestone with India’s First Direct‑to‑Chip Liquid Cooling Deployment Indianweb2.com",
-      "source": "Indianweb2.com",
-      "published_at": "2026-10-12T15:37:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VOTNWT0ZoWF8yeEVyS2tEY0ZyOVNSNmYtaTdETWl0dURwaV9NdFFfZTZZSXd1UVpNS1gwYXpJeng4SUM5TlB6QlViYWJFS0t0d0dUYm56MXh3akd3RGF3MEJyMDd4TV95Q3c0YS05NkxKbDMzNDc5M09n?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Vertiv 2.3MW CDU Meets NVIDIA DSX Ready Requirements - THE ELEC, Korea Electronics Industry Media",
-      "summary": "Vertiv 2.3MW CDU Meets NVIDIA DSX Ready Requirements THE ELEC, Korea Electronics Industry Media",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "published_at": "2026-10-12T07:41:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hSXhsZUxMUnNTRVhLQXhzNjVMVzV5WTZ6eVU2cWRZaGtYWnVTSzF6dzBvRDVNeFpEam1xMTQ0WmYtempkbXFFRUVERHMyZDc1Y3ZWUWk2VEhrUWd6THRDbndMN1M1ZlE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Trane Technologies AI Data Center Cooling: $550 Target - https://tech-insider.org/",
-      "summary": "Trane Technologies AI Data Center Cooling: $550 Target https://tech-insider.org/",
-      "source": "https://tech-insider.org/",
-      "published_at": "2026-10-11T16:07:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zWUVoUVhXWkpxMnB0UVNScGlpMC1seTR2OWtreFZDSHFCQ2ZJZmVHU1JRRm1EX0xlUldxZzhnQmZoYTRZbnFLNVpjbW0yeGEzcV94TXdyQ0twSEZhZnR0NzJfNzdSd2NsbDhIZGRyY3dvMGFzNU81dTVHOWg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Why do liquid-cooled AI data centers require different backup power strategy? - Data Center Dynamics",
-      "summary": "Why do liquid-cooled AI data centers require different backup power strategy? Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-10T23:25:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU09CdVBscmFyMnN3WUxwbEszOFFhbVRtSHVzYWkzVGhCY2k2YldyeUlZMHJJRmJVUjhjQ1QzUFpyUXlycWlSS0RUbUtWTkNkVW90Q0VXUy1XT2I3a3lPRmFLcklkTS04UlVObG1LakgwRnA1MFlROGM1Vnp0N0hQQWdRSTM2UlRoQ0pPWUVqMWRKVXdzUGNWV3ZaUTQtRGtWQzV2dkQyYmhMdVRMMUR0TnFKVWZidl90OUQxTnJHOGdsZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
-      "summary": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling Stocktwits",
-      "source": "Stocktwits",
-      "published_at": "2026-10-09T23:14:13+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
