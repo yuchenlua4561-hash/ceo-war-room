@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-15T03:21:00+08:00",
+  "updated_at": "2026-10-15T06:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-15T03:27:44+08:00",
+  "intel_updated_at": "2026-10-15T06:33:10+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/15 03:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/15 06:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 03:21 GMT+8",
+      "as_of": "2026-10-15 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2052,
+      "value": 0.2053,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 03:21 GMT+8",
+      "as_of": "2026-10-15 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.135,
+      "value": 36.115,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 03:21 GMT+8",
+      "as_of": "2026-10-15 06:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "3C And Datalec Merge To Create $400 Million-Plus Revenue AI Data Center Infrastructure Platform - Pulse 2.0",
+      "summary": "3C And Datalec Merge To Create $400 Million-Plus Revenue AI Data Center Infrastructure Platform Pulse 2.0",
+      "source": "Pulse 2.0",
+      "published_at": "2026-10-15T05:37:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN250TEJzWUVHNGl2SEc3aVBvbmxWYWVFSlpCbkNFRmNzSkpWSkhybmdhc0lhakRJa21WYnltSW4yR2hwek9NenFNbkpYaldfQXVoaTB1VVlZUEYxVURrVlRoLXZtVWpqaERpc2ZoQzlKNHJueHNqM2xjdk1IcXZkOVdpbGkzNV9FNTc5cDFQODduM2tURFpvbFgxdWw1TFRlM1liNmRnQVlIMWduZXBqM3d1Zkg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Why AI Data Center Cooling Needs to Get Smarter - Data Center Knowledge",
       "summary": "Why AI Data Center Cooling Needs to Get Smarter Data Center Knowledge",
       "source": "Data Center Knowledge",
@@ -288,16 +298,6 @@
       "source": "BigGo Finance",
       "published_at": "2026-10-14T10:35:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yampZTkp4ZkMyWE1ROXFreW5MeU9Ma1JpZUpDbEp6U1plSTNDbkEtYkhra2lPbFFYU2QtNVE2Yk5lQ3dOMHo0eUVraEtra3dQVV81REcyb255WG9NakQ2bWNsZTJRTjBocDJPZlZ2d0tqdjNua2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Jabil teams up with Adani Enterprises for AI and data center tech production in India - ET CIO",
-      "summary": "Jabil teams up with Adani Enterprises for AI and data center tech production in India ET CIO",
-      "source": "ET CIO",
-      "published_at": "2026-10-14T10:34:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUc4OThLQjFJV1phUGVxVG5WeWZTeVVzWDV6blo4RjQ1dXVIZU9IcmdaQUo4Tkg4MXZrQ0N4T1ZCWTJxQnRUY2pTWlYxRjktQmFsUnRQd0pYMGxzWVFLUmhzYkdkekY5U3I2WEtWay03ZEoweGdpV0VqR3NTSDctU2JqOUdKRU5aRW85cFk4eFJkWWQzbjIxS2VacnU5VWhidVZOc3pLalljWXJxUDNha2YxWUxzNGp2a2VWWUNGOWk0WVpEdS1QU3pNZG9RQjdWUkVvU1g2SmRRbTZHanUtZjc4b3I3QzVtM0lHZ3h4ekRabGdJNjFxU2U0V2ZOYV8zQnNLVU4xTDd5cTkxQmVjNjcyTjNYUjF4Zkp1QVBRQkRsSEU2Y1AxTTZtNXpRb3pE0gHuAUFVX3lxTFBIaVJseXA2dmE5bnVSWldxY0l1WGQtaEVMazBzbXNwa0w3NVdvNG5FRlZZclNmLUktQ1ZPeDhWRnFNbkhWdkhLdmFLVkdsRlRoMUlPLVU0UUZvT2N6ZEtIVGphcVhnSHBSanNvQlpxWGVPMGZMZWFmQjN3a09qM2NySmNuOWdKb2VhdzFpS3JNVkNmRWtLOXJpeTFiQmdvY3JESHFIakdZY1JUWjVnanYzZVdUZkVGeUNkbkl2X0JPNEdZcXhkYldpdGYzN3dQVUVHM3ZHVTRsdzZ0TFRWa04xaWhwam9COXlYQ2QxdlE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
