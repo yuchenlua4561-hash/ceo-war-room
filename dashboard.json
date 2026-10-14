@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-14T13:13:00+08:00",
+  "updated_at": "2026-10-14T18:15:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-14T13:17:35+08:00",
+  "intel_updated_at": "2026-10-14T18:18:31+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/14 13:13；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/14 18:15；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.26,
+      "value": 32.145,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-14 13:13 GMT+8",
+      "as_of": "2026-10-14 17:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2057,
+      "value": 0.205,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-14 13:13 GMT+8",
+      "as_of": "2026-10-14 17:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.31,
+      "value": 36.225,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-14 13:13 GMT+8",
+      "as_of": "2026-10-14 17:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4339.0,
+      "value": 4297.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-14 13:09 GMT+8",
+      "as_of": "2026-10-14 18:15 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -185,10 +185,10 @@
   "competitors": [
     {
       "company": "Schneider Electric／Motivair",
-      "product": "冷板／機櫃",
-      "move": "Vertiv vs CoolIT vs Motivair: 12-Rack Cooling Gap [2026] - https://tech-insider.org/",
-      "implication": "公開情報更新於 2026-10-13T12:23:33+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX01SeFlEb2s3NHpvUVdJblRSbTZIcEVRaXc3dWxqSWVtUC1GRFFpVm1lUHV0Nk1nZlc1Nmh2UGd1eHVyUTRRVmU2QnZPNkxKMkRqX0dvYm80ZDJIUG9peEg1dWVDSUVGejZOZW9EdW5hYlVXN0JES0l0THp6Rm9jQ2hjWjRpclZyMFpTVDFYQQ?oc=5"
+      "product": "CDU／幫浦",
+      "move": "Schneider Electric launches new Motivair coolant distribution unit for more flexible data center deployments - Business Review",
+      "implication": "公開情報更新於 2026-10-14T14:58:10+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeEZSQnlrSWtPaW00TGhZVVkxMGxlN2RnSTJnQnYyTlc2V01iVXN4d2dRYnBPdnJMYWpkNzdvXzdBVTJteHlqRHRUNUt1YXpuZzBaaktPel9FR1UzNERoQXFxZEZ5b0kyNU8tblFGZk5qNDA5OUZ2NUMyNHBkS3dYeWNobERqSVdGVkYtWm1SZ1plX3VpOFRpQWtyM0ROaWMwZUpPaFptU05oZUxSOEw3WVZSMWdBMWduRDJPVUhsVmdyeWtDWVFocWNOQjdZUUZsU013TURxZDVycFBXY1pTMGtNTzc?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -241,6 +241,36 @@
     }
   ],
   "news": [
+    {
+      "category": "CDU／幫浦",
+      "headline": "Schneider Electric launches new Motivair coolant distribution unit for more flexible data center deployments - Business Review",
+      "summary": "Schneider Electric launches new Motivair coolant distribution unit for more flexible data center deployments Business Review",
+      "source": "Business Review",
+      "published_at": "2026-10-14T14:58:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeEZSQnlrSWtPaW00TGhZVVkxMGxlN2RnSTJnQnYyTlc2V01iVXN4d2dRYnBPdnJMYWpkNzdvXzdBVTJteHlqRHRUNUt1YXpuZzBaaktPel9FR1UzNERoQXFxZEZ5b0kyNU8tblFGZk5qNDA5OUZ2NUMyNHBkS3dYeWNobERqSVdGVkYtWm1SZ1plX3VpOFRpQWtyM0ROaWMwZUpPaFptU05oZUxSOEw3WVZSMWdBMWduRDJPVUhsVmdyeWtDWVFocWNOQjdZUUZsU013TURxZDVycFBXY1pTMGtNTzc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Aeroflex Industries Plans ₹202-Crore Capacity Expansion Across Hose And Liquid Cooling Divisions - Sahi",
+      "summary": "Aeroflex Industries Plans ₹202-Crore Capacity Expansion Across Hose And Liquid Cooling Divisions Sahi",
+      "source": "Sahi",
+      "published_at": "2026-10-14T14:16:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV25wemNOeXdsZWJXUm1QQkF2c21tOFF0QnYwX00zWk93a1otZFBfblNXVzBlWkJQYmJ3dmtZdlVfN1VrczFUb3BoaDlyTW9ENlZKMk5SeDd1ZlFuekJaMXY4YnpNSE56M2w1XzgtZ1B4RkpSdnFSWTJlU3RvM0RhWi1NeHNaUWIxNzRENHo5MVVibjczbFRXODd0NFFDWTdrY21vWDZXRXVTTGNlSUZPc2twb3BpUjdLMVRvbnJB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "South Korea's Otech Carrier Named Preferred Bidder for Cooling Systems at 200MW AI Data Center in Gumi - BigGo Finance",
+      "summary": "South Korea's Otech Carrier Named Preferred Bidder for Cooling Systems at 200MW AI Data Center in Gumi BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-14T10:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yampZTkp4ZkMyWE1ROXFreW5MeU9Ma1JpZUpDbEp6U1plSTNDbkEtYkhra2lPbFFYU2QtNVE2Yk5lQ3dOMHo0eUVraEtra3dQVV81REcyb255WG9NakQ2bWNsZTJRTjBocDJPZlZ2d0tqdjNua2c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "Adani and Jabil plan 50:50 JV to make AI data center hardware in India - digitimes",
@@ -302,6 +332,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Adani Enterprises Signs MOU With Jabil For AI And Data Center Equipment JV - Sahi",
+      "summary": "Adani Enterprises Signs MOU With Jabil For AI And Data Center Equipment JV Sahi",
+      "source": "Sahi",
+      "published_at": "2026-10-13T22:58:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUlmbmlBQWg0REphcjVpVUgzTGlZanBzbWhnX0dkdHhmeWNwbTExUndvcU9VX1FzNTZqMXhxQzNlMllnVG1Tc3VTaHNkdmU1cWxEYnNxMkpGMDZDLTVtOGxSQkUzT1E3bWhyVFdMTTlsZFJGQUJpYi1DaEtpZlQtdjBqRWk2X0RNVHdEd1hnU21sYmRDc1RfVWlRWVBqUGFTVlE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Rika Water Quality Sensors Support Faster Liquid Cooling Commissioning for High-Density AI Data Centers - The Malaysian Reserve",
       "summary": "Rika Water Quality Sensors Support Faster Liquid Cooling Commissioning for High-Density AI Data Centers The Malaysian Reserve",
@@ -318,46 +358,6 @@
       "source": "StreetInsider",
       "published_at": "2026-10-13T21:57:45+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUdEVVAwbDZNS0VEMENsQzI4T3YyQ1B3c2hhQUhZSFZKV1dqRzZZVE4zV0tZTEhsVmJ5OTc1RmlWRE1tRU9jZ21BN2NNMmRZdlMwdklza3piREdENnU3OHZzWElxUTFzbG11ZG9GRkpnX2NnT0FyZDEzWHdjV3VwOHpnMGlMVFdrdk5PVDF2MFgwT2RXcUxhVmtBVVRNaVk0RjJibndQMUtyeWdIZjgxU1FkeTFMMDZRNHFEV3FYQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Supermicro Expands Integrated Open Compute Project Portfolio to Accelerate Rack-Scale AI Data Center Deployments - The Malaysian Reserve",
-      "summary": "Supermicro Expands Integrated Open Compute Project Portfolio to Accelerate Rack-Scale AI Data Center Deployments The Malaysian Reserve",
-      "source": "The Malaysian Reserve",
-      "published_at": "2026-10-13T21:35:49+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORHZUQ2Y0d0ViQ3lEUG5NZlowUkdUclB6OWZzekZpOGptUi1oVUJ1RUZXYzZQRTF0eEZBQnVlcld1TjdzR3FWaS1xS2l2cFVYTnd1U0ZCeTVxWF96UG5pVUJwX3hiVlRVWXVwZnl6cVVJZnVBQ1V0WVpPVnZKazZJSkRNTlZpbTNyQ2hxWEFOTlZuQmlCZVZFZi1HSFZIandaSmhRRjZjZEw2VVhINTVMTWhNRDQ1RmxlSDIxLXlqalBZaUZoZW9iRDRMN182SmYwWnhUdHI1YXFmTTcxUmpUTUNDb0E3bDBPR0R3Xw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Adani Enterprises, Jabil Sign MoU for 50:50 Data Center Hardware Joint Venture - Morningstar",
-      "summary": "Adani Enterprises, Jabil Sign MoU for 50:50 Data Center Hardware Joint Venture Morningstar",
-      "source": "Morningstar",
-      "published_at": "2026-10-13T20:20:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa0RzLTR6NEpSdE45NHVjYTNQNUx1aV9wRVZuTC1kLXFIWUhHUnd6YmV2Y0ZqWU1aaThfMXoxbjhPU1dmS0paVE4zYU5KRkE2UVNBUmRfMTY0Wmw4emJFZXRwTVZMUzBXSW1OYjduemJSSnNpNlYyamdGYU43cGpRRlJiX2w3VVJjYUJmX1gweC1rS2NFY1RvaE1wRUp5ZmdhcHYyQUgzTkJhcEozVk56TnRGRnJUS1ZuZXFoVGJGM0djMmF2MGpWU0dRRlhvUWhOQnd6QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Vertiv Deploys 30 MW Liquid Cooling System for AI Data Centre in Navi Mumbai - Konsulteer",
-      "summary": "Vertiv Deploys 30 MW Liquid Cooling System for AI Data Centre in Navi Mumbai Konsulteer",
-      "source": "Konsulteer",
-      "published_at": "2026-10-13T19:30:05+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGRfRi1SOWhHY1NaMElKLXRVWWhrNDh1bGlRLTN3QnBrNXFvSEtiVWo1UWcxcG8tSGZNM0d5aVpZNEZselk5NEhBeUtuaU1HYzlsMkVWQnVuU1A4aDJtVllEYlVSQVpsMjBWNGlJN0diUmdncmh5NFRGZ1FGbG5Rd0hNQVZzUzJFVkpxekF2S3BvajRmcUlsZHFPbTNINlJNdWtOdHVvVkJRSjRIWkRvRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Vertiv delivers high-density liquid cooling data centre deployment for CapitaLand India Trust - tele.net.in",
-      "summary": "Vertiv delivers high-density liquid cooling data centre deployment for CapitaLand India Trust tele.net.in",
-      "source": "tele.net.in",
-      "published_at": "2026-10-13T18:23:08+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNi02RFBBSi14cDRoSXhiQWVKSHVHMmpVTkVMTWNGZ3ZVcWdKOTVqMnRnN1lQYWpCR044SG9Kd016Zkxvai1RRHdaOFM2M1FhRXJmZnpCeEs2N3JzYzNuMVNvVWVzcEFGZ2dRdHFPakxlOVpvaHNPbUNZN0xRY3BHM05PaTk1SHBsemN1UHN1UFdQQUhFT0w2WDFmSk1MbFdrTll4ajQ2MndCNkU1eWxEMVBRTkhxWXc1cUItd01FU2c2emxMS2JlNWdVYVJYUER3SUE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
