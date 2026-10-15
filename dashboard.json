@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-15T06:31:00+08:00",
+  "updated_at": "2026-10-15T08:39:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-15T06:33:10+08:00",
+  "intel_updated_at": "2026-10-15T08:47:44+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/15 06:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/15 08:39；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 06:31 GMT+8",
+      "as_of": "2026-10-15 07:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2053,
+      "value": 0.2056,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 06:31 GMT+8",
+      "as_of": "2026-10-15 07:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.115,
+      "value": 36.215,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 06:31 GMT+8",
+      "as_of": "2026-10-15 07:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4293.0,
+      "value": 4294.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-14 19:51 GMT+8",
+      "as_of": "2026-10-15 08:39 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,26 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Supermicro bets on open hardware to speed AI data center construction - Fierce Network",
+      "summary": "Supermicro bets on open hardware to speed AI data center construction Fierce Network",
+      "source": "Fierce Network",
+      "published_at": "2026-10-15T07:57:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzJDV2dDX0hzS0tmcjFmTGpQLXJQZmE1d1pvUjRaQ204M3ExcHlxM3dNcU50ejhaZUQ1SFc4QjlZaFpTRzVpTGRRZFo2emduNURjdlFGUWNQZEd1NG9Cd0d5VEhUSUl2aGpWZ1lTc1NCcmZRaDFzNHdYWVRldS03TWNkTFZMQ1NoMTRmcG5pZk5MRDZwSXBwUE9qRnV6aGhIbkE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "How Chiplets Could Transform Server Design – And Data Centers - Data Center Knowledge",
+      "summary": "How Chiplets Could Transform Server Design – And Data Centers Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "published_at": "2026-10-15T07:46:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWdaM1FvQW9pUTRaal9qdi1TcFVtdnlZQWdxSjVPZU1CR2hPOU9lSlA2clR2NXNncUN6ZWxvWnozaEpBQmdyeDRCTmgydncwU3N3OUxxdUl1aXdQN21oQWhfT1ZtUng1bS1TNFBvMzcxMnZ5VmtlU0d3NlRCVW1FWlRpeWU4TFVsLTBLaGdIWWFyUDV0T0xaN2ttR1JYUlBFUE5kUnBFOUt6cFdJSjBlTEpOSQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "3C And Datalec Merge To Create $400 Million-Plus Revenue AI Data Center Infrastructure Platform - Pulse 2.0",
       "summary": "3C And Datalec Merge To Create $400 Million-Plus Revenue AI Data Center Infrastructure Platform Pulse 2.0",
       "source": "Pulse 2.0",
@@ -282,12 +302,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "Aeroflex Industries Plans ₹202-Crore Capacity Expansion Across Hose And Liquid Cooling Divisions - Sahi",
-      "summary": "Aeroflex Industries Plans ₹202-Crore Capacity Expansion Across Hose And Liquid Cooling Divisions Sahi",
-      "source": "Sahi",
-      "published_at": "2026-10-14T14:17:21+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV25wemNOeXdsZWJXUm1QQkF2c21tOFF0QnYwX00zWk93a1otZFBfblNXVzBlWkJQYmJ3dmtZdlVfN1VrczFUb3BoaDlyTW9ENlZKMk5SeDd1ZlFuekJaMXY4YnpNSE56M2w1XzgtZ1B4RkpSdnFSWTJlU3RvM0RhWi1NeHNaUWIxNzRENHo5MVVibjczbFRXODd0NFFDWTdrY21vWDZXRXVTTGNlSUZPc2twb3BpUjdLMVRvbnJB?oc=5",
+      "category": "資料中心",
+      "headline": "Autech Carrier seeks to supply cooling systems for Gumi AI data center - 헤럴드경제",
+      "summary": "Autech Carrier seeks to supply cooling systems for Gumi AI data center 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-10-14T13:12:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5peDlYUU1BQkRjdEdKQXp4SkFmNmprNmxzSDZTN1NXUnctc3Z4UmNqVWpHemtRVlFGS1kxOE83NjQ2UHNRQThGMzVwTElFNGl5UEFFbnNfbw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -338,26 +358,6 @@
       "source": "Austin American-Statesman",
       "published_at": "2026-10-14T03:50:46+08:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXkyczhiaWhZeGVVRndGSXFaSzJBUjBLZWxfYkVGT3NBQ1R2SUE0MWFiWkJKXzFGZUd4eFMtS0tSc2RFVzNJNll4YnVhYS16M0RvM21YRXlWSF9ENTQxVUNmUHdLVEZaeE1WZjF6VXk5VUk5MUpfTDNlbVJEUWJzZ1hjWXF6bXBfQWZrX0ZzVHpSTGlyME5GRkVnclB3MkVGWENYdEV5MEFUUnJoMVE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "UfiSpace Demonstrates 1.6T AI Fabric Thermal Feasibility with Live Liquid Cooling Platform at OCP Global Summit 2026 - The Manila Times",
-      "summary": "UfiSpace Demonstrates 1.6T AI Fabric Thermal Feasibility with Live Liquid Cooling Platform at OCP Global Summit 2026 The Manila Times",
-      "source": "The Manila Times",
-      "published_at": "2026-10-14T03:47:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONHRlVmRYY0dPVlRDRzU4cjRBdXdtZnRDZDRtXzRTaUVpb0UzQ0NjTHdFT1pGb3BrNWQ2Q2xfSThzRVlYV0dBUHVCNDFTdEhvWVhubWZTbFN3bkxSQWk2TnRTTTBtY3hOUVFWN1ZCQzZlQWpjRFZNd0RNV2VEaWxINVJIZkhMcl9BclhjZWJLU21pT1R6cmo5REhra0U2eUlWQ09COVA4N2trSFlSLWJGSVc2OUN1YWR3MU5qLWRrbnN4TnI2NEU3VHBtTVp2QmVVWEQtR21uUVpkQ05mTWZ2ck8wVzJQRm9zRGcxOUIxX2RUTnE3NUZrNVo4b1hYcGRJWENuN2V6cmdYbnRjNjNFTGFQcFhVWjBlX2tF0gGbAkFVX3lxTE40dGVWZFhjR09WVENHNThyNEF1d21mdENkNG1fNFNpRWlvRTNDQ2NMd0VPWkZvcGs1ZDZDbF9JOHNFWVhXR0FQdUI0MVN0SG9ZWG5tZlNsU3duTFJBaTZOdFNNMG1jeE5RUVY3VkJDNmVBamNEVk13RE1XZURpbEg1UkhmSExyX0FyWGNlYktTbWlPVHpyajlESGtrRTZ5SVZDT0I5UDg3a2tIWVItYkZJVzY5Q3VhZHcxTmotZGtuc3hOcjY0RTdUcG1NWnZCZVVYRC1HbW5RWmRDTmZNZnZyTzBXMlBGb3NEZzE5QjFfZFROcTc1Rms1WjhvWFhwZElYQ243ZXpyZ1hudGM2M0VMYVBwWFVaMGVfa0U?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "DeepCtr Secures Hundreds of Millions of Yuan in Series B+ Funding Led by CATL, Betting on AI Data Center Energy Management - BigGo Finance",
-      "summary": "DeepCtr Secures Hundreds of Millions of Yuan in Series B+ Funding Led by CATL, Betting on AI Data Center Energy Management BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-14T03:05:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05a3piYzRpSmp0UW5tMGJBRlBYWjAyOTZrUEpreFJNR3VqZFk3NUptcXRLOWFocDZONzMtb0FTWXdlRDZZXzJFNHZzM203Z0NVeDlJbjFUanBsd1dRRDg0VFpQYlpHNFNTd003cFJWVDl0RUhMZlE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
