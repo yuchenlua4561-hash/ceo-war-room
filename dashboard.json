@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-16T02:42:00+08:00",
+  "updated_at": "2026-10-16T05:51:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-16T03:02:14+08:00",
+  "intel_updated_at": "2026-10-16T06:08:08+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/16 02:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/16 05:51；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-16 02:42 GMT+8",
+      "as_of": "2026-10-16 05:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2068,
+      "value": 0.2069,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-16 02:42 GMT+8",
+      "as_of": "2026-10-16 05:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-16 02:42 GMT+8",
+      "as_of": "2026-10-16 05:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -227,10 +227,10 @@
     },
     {
       "company": "nVent",
-      "product": "液冷散熱",
-      "move": "Bernstein reiterates nVent Electric stock rating on liquid cooling growth - Investing.com",
-      "implication": "公開情報更新於 2026-10-02T20:41:15+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGhRSFFVZkhSNXNmSklhU1dIaFoybkh3NFo5SlVFMzFQeWlBaXR3aFZLWXliNzc4RkpNSUVhVm1RQ3c5QWlidUhoUGpUZ0VjcHJnemt2SVlGLXZ2d0N5a1J4NXMya2k4VE1URkNGa0lTYzFrTWVnRjhUelhDZ3VTdGp5SXFsdkotb1JqbjdMVFNySVhuQ0RmVkFiOHh0aG8wT2JWb0tFaTRiQjhqOFV2aWxZTXpkaXJKaF82Zk5DWXhsbUZVSENXd1hvS0FPdw?oc=5"
+      "product": "資料中心",
+      "move": "nVent and AMD collaborate on cooling for AMD Helios rackscale solution - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-10-15T22:41:21+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2pSVWRZbEdJaFI3YjJManJ6TllSeENNekdYT3BoQUZSWUlfeUJIeU1TQXhENVFPRkNSMFlTaDlmZkhQZEk1bXVJaHV6SjRoM2ktMTVUY2ZpZFJnLTRUVnVqb0tfdndzSWc3TERBendsNDM2Y21aNTA5cGlXb1VYSUJNcEd4STFaVXdVOEZYaWJWV3Mwb2JOQ1M4RDhkT0JsNFVDaWpja0pMcXcyc3dGVWw3ZnJkR0NZbENuQ0dXNA?oc=5"
     },
     {
       "company": "Johnson Controls",
@@ -268,6 +268,16 @@
       "source": "Dealroom",
       "published_at": "2026-10-15T22:47:16+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN4TV9IZFF3YTF4azJIdDI2YTF6ZWx1TmU4OTlpWnctdmZ5WUpRSm13WDR6WmVoQ1d2S2xZUTJQWXJWM3dCd205QmJLVkcxSDEwaW5QTWlfMkpKb0tPZDVsZC1JSFRPT3NiQzA2WVlHTWJyQ01iX3dza2pzaURhNEdPMVhEN2Z2Z29MNEV3bkFyUXRiQmdoQ3JxdHNtR0U?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "nVent and AMD collaborate on cooling for AMD Helios rackscale solution - Data Center Dynamics",
+      "summary": "nVent and AMD collaborate on cooling for AMD Helios rackscale solution Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-10-15T22:41:21+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2pSVWRZbEdJaFI3YjJManJ6TllSeENNekdYT3BoQUZSWUlfeUJIeU1TQXhENVFPRkNSMFlTaDlmZkhQZEk1bXVJaHV6SjRoM2ktMTVUY2ZpZFJnLTRUVnVqb0tfdndzSWc3TERBendsNDM2Y21aNTA5cGlXb1VYSUJNcEd4STFaVXdVOEZYaWJWV3Mwb2JOQ1M4RDhkT0JsNFVDaWpja0pMcXcyc3dGVWw3ZnJkR0NZbENuQ0dXNA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -337,7 +347,7 @@
       "summary": "Supermicro bets on open hardware to speed AI data center construction Fierce Network",
       "source": "Fierce Network",
       "published_at": "2026-10-15T07:57:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0gxN3o1anA5b2l4MDNLRXhyQTE3Um0xZFFfYW5EOHRmaUN0UE5zTlNFX2pnSWl1NUlNNVRYVUtHNmRJQlBYUlZ5aFUwTko2OEpKS1NTLTBXRllRcUhyT2toS2VVOEpWdjRPRUlZQldncHBxS0VBaDQ3SVdVQm1KYU45aHFFSGlwbnBZTjRYUG9ISUVfWUZiMUF2eGcwRWV2cUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzJDV2dDX0hzS0tmcjFmTGpQLXJQZmE1d1pvUjRaQ204M3ExcHlxM3dNcU50ejhaZUQ1SFc4QjlZaFpTRzVpTGRRZFo2emduNURjdlFGUWNQZEd1NG9Cd0d5VEhUSUl2aGpWZ1lTc1NCcmZRaDFzNHdYWVRldS03TWNkTFZMQ1NoMTRmcG5pZk5MRDZwSXBwUE9qRnV6aGhIbkE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "Pulse 2.0",
       "published_at": "2026-10-15T05:37:39+08:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN250TEJzWUVHNGl2SEc3aVBvbmxWYWVFSlpCbkNFRmNzSkpWSkhybmdhc0lhakRJa21WYnltSW4yR2hwek9NenFNbkpYaldfQXVoaTB1VVlZUEYxVURrVlRoLXZtVWpqaERpc2ZoQzlKNHJueHNqM2xjdk1IcXZkOVdpbGkzNV9FNTc5cDFQODduM2tURFpvbFgxdWw1TFRlM1liNmRnQVlIMWduZXBqM3d1Zkg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "High Voltage Returns: Navitas Rewires AI Data Centers - The Globe and Mail",
-      "summary": "High Voltage Returns: Navitas Rewires AI Data Centers The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-10-14T22:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUW5ScmFYTGZUQWppdGp4STJKQWJwNEhCdTVDY2hUbDhnYnZLTVlua09QenFlc0RlOWprZDNpbjFEbUNJNjcwdFlQR0FQQmZoZWhRMHpYNkFJdS1MYjQyZmk3RlRoQzhhOU1YaEVWMTVoUF9YbGdQQXhxc19XN1hSVHlqcDFyZUNuX0Yya3o0NWhTVVlWNG5wWmRIMU42NWNwejJvRUZWWUc5cFE3eUhIWTZuWHFlN01EeHZNaFRVZ01yalNTNnJnZ3pMSjAwS0NqYkRNYmJn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
