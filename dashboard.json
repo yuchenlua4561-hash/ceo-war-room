@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-15T13:00:00+08:00",
+  "updated_at": "2026-10-15T18:02:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-15T13:18:52+08:00",
+  "intel_updated_at": "2026-10-15T18:03:26+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/15 13:00；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/15 18:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.35,
+      "value": 32.34,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 13:00 GMT+8",
+      "as_of": "2026-10-15 18:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2065,
+      "value": 0.2072,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 13:00 GMT+8",
+      "as_of": "2026-10-15 18:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.43,
+      "value": 36.505,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-15 13:00 GMT+8",
+      "as_of": "2026-10-15 18:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4329.0,
+      "value": 4337.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-15 12:49 GMT+8",
+      "as_of": "2026-10-15 17:48 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -186,9 +186,9 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "CDU／幫浦",
-      "move": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments (P) - The Diplomat Bucharest",
-      "implication": "公開情報更新於 2026-10-14T14:18:56+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZk5wOThxbGFzWnQzUTFxRk9hNHdsdUs4NlI1dmF0aVVEN0xlSDFIdGxmNkw3Wl8yVGFvWWFfSE93VXF4OGtQVnVzQlVsVlN4LTRKSmZtTHJHTk5icUhCTUJPTkV2dTBydEd3NXlPOThnNU9Fdm5iTjV0TmplLW5qeTBBcF9NWDNZd1B5VXo3WG9IUjJ4dEQ1VVFIN3JKc1RhOWhvcmZQWFhORklfalNTY1ZIdjF5ekxZcFhmU2JYT0k4cGRmdzVPOVRYMEJCaTFsWkUxaGotVjVKOFd1VmQ1MXFKWGFsLTJmWWFVVkUzVFo2V1dFVkRVMzI0NG4tckgtRzZRbnFEV0hKMkxuM2xLamVn?oc=5"
+      "move": "Schneider Electric launches new Motivair coolant distribution unit for more flexible data center deployments - Business Review",
+      "implication": "公開情報更新於 2026-10-14T14:58:10+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeEZSQnlrSWtPaW00TGhZVVkxMGxlN2RnSTJnQnYyTlc2V01iVXN4d2dRYnBPdnJMYWpkNzdvXzdBVTJteHlqRHRUNUt1YXpuZzBaaktPel9FR1UzNERoQXFxZEZ5b0kyNU8tblFGZk5qNDA5OUZ2NUMyNHBkS3dYeWNobERqSVdGVkYtWm1SZ1plX3VpOFRpQWtyM0ROaWMwZUpPaFptU05oZUxSOEw3WVZSMWdBMWduRDJPVUhsVmdyeWtDWVFocWNOQjdZUUZsU013TURxZDVycFBXY1pTMGtNTzc?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -243,6 +243,46 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management - BigGo Finance",
+      "summary": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-15T16:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0waTFJMHFYRk1YWDAzVHNXSXc0WlY2REF0Sm04OUc2UnNkSmFKNmw5UXg5TjJnTldPQ2RtMzU2eXN5WHBlc1BweTR1dTNmakJPVmQwWmxMVENZWWowREVCLXp6RE1yM1M3bVVLWGFyZFlMa2lsb0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Submer India, BTCL to explore AI data center infrastructure - ET Datacenters",
+      "summary": "Submer India, BTCL to explore AI data center infrastructure ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-15T15:48:15+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSEtZV29oMVNvekJucXBFdW9JWWVFRmN4WU9iUTlFM2daRFNLNENxcE5KYXZQQzRTd21tbkVVOWdFUGN3NFNVdUpDeUoyejhqQk9vUmw5UEotRmp0ZFdMMXBCekpfelFMZjhEaER2YXNWU0pjSjkxSXJsZkwza1NHYnpXb3JyUVlJV3VTXzAzN0RHUTdHT0djQnZGZXludHpNME8tSW5VeVNTMk1QbjRJS1NpR3J5Y1EzVGg0ekZza0FLRWxveGJsRVM5bE1NY0lKcm81ZWpOZGNKMExXNGh4c1k2SUcwX2VqbU5fcnNWeVRmdzNtV3BaOUNpWnJkanJtUmV3OGpNQ3JTSThRdG04cmptSmtnSFnSAeYBQVVfeXFMTnFaQ2I3X3RtOHY0VWZSVV9mZk9FWkRyMl9oZU9hcUdhX05IU1phei1pTmRpSnJoVzNQZnFlSkMxVWJzZVQ4RjZ5ZlpFeVFYUGxaYkQ4YUJfOGxQckVOSldMc2VUTU9mNTlBUzdWRTQ2QlNpRVlkbjJVVXNXZWY3M1BqVVQ2TTh2TGNrdmRLSndJNEhnWUdYNE1Vb0tMa0NVRkJvS0pMUVN4ZmFWQU8zcExTckw2TWlpUlhpM2hfMEMyYUVuMy1VY2tWdzRUazZlaHRLMnZUdVI3Skx4Q2E0R2NXSGpXbGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Renkeer Water Quality Sensors Support Efficient Operation of AI Liquid Cooling Systems - PRLog",
+      "summary": "Renkeer Water Quality Sensors Support Efficient Operation of AI Liquid Cooling Systems PRLog",
+      "source": "PRLog",
+      "published_at": "2026-10-15T15:10:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkNvYnY0OFdoNEFBMzJHWmYzQ1NmZy12eTd6MzhpMjN0ZmxkcmRuQVNSNmdNV3ZsTnhxMmNqRDZkeVlZM2VUOWxweGcyOWxUZUp3TldWYXp3elotT2l5VC1TSE03UHVDQnQ0djZmd3JVTFdOcUtBUHhHR2dHbFk0UDk4SXVSb1F2ZVZNVXRYZXN0SzZTamZTWUdlek1idzYtZ1pNOHNHR0ZFTm5CLWszYk12REFuMGlxM2pnR3RhRQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions - 머니투데이",
+      "summary": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-10-15T13:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tajJnZjEzdGt2ZWhGdmtXM1FEUDRUUlBCTUdTNGNnRlBMOVNvemd0bFg4OUphNWVSRldnN1dtbmlSZHhBR2NWRkYwU3RQSjJJQ3RYQ0M0eEdoeWVGRjJQUzVhXzRUUnBGSW5sUDJsOVU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "Liquid cooling aside, AI memory and storage are the bottleneck - SiliconANGLE",
       "summary": "Liquid cooling aside, AI memory and storage are the bottleneck SiliconANGLE",
       "source": "SiliconANGLE",
@@ -257,17 +297,7 @@
       "summary": "Supermicro bets on open hardware to speed AI data center construction Fierce Network",
       "source": "Fierce Network",
       "published_at": "2026-10-15T07:57:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzJDV2dDX0hzS0tmcjFmTGpQLXJQZmE1d1pvUjRaQ204M3ExcHlxM3dNcU50ejhaZUQ1SFc4QjlZaFpTRzVpTGRRZFo2emduNURjdlFGUWNQZEd1NG9Cd0d5VEhUSUl2aGpWZ1lTc1NCcmZRaDFzNHdYWVRldS03TWNkTFZMQ1NoMTRmcG5pZk5MRDZwSXBwUE9qRnV6aGhIbkE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "How Chiplets Could Transform Server Design – And Data Centers - Data Center Knowledge",
-      "summary": "How Chiplets Could Transform Server Design – And Data Centers Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-10-15T07:46:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWdaM1FvQW9pUTRaal9qdi1TcFVtdnlZQWdxSjVPZU1CR2hPOU9lSlA2clR2NXNncUN6ZWxvWnozaEpBQmdyeDRCTmgydncwU3N3OUxxdUl1aXdQN21oQWhfT1ZtUng1bS1TNFBvMzcxMnZ5VmtlU0d3NlRCVW1FWlRpeWU4TFVsLTBLaGdIWWFyUDV0T0xaN2ttR1JYUlBFUE5kUnBFOUt6cFdJSjBlTEpOSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0gxN3o1anA5b2l4MDNLRXhyQTE3Um0xZFFfYW5EOHRmaUN0UE5zTlNFX2pnSWl1NUlNNVRYVUtHNmRJQlBYUlZ5aFUwTko2OEpKS1NTLTBXRllRcUhyT2toS2VVOEpWdjRPRUlZQldncHBxS0VBaDQ3SVdVQm1KYU45aHFFSGlwbnBZTjRYUG9ISUVfWUZiMUF2eGcwRWV2cUE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -303,11 +333,11 @@
     },
     {
       "category": "CDU／幫浦",
-      "headline": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments (P) - The Diplomat Bucharest",
-      "summary": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data center deployments (P) The Diplomat Bucharest",
-      "source": "The Diplomat Bucharest",
-      "published_at": "2026-10-14T14:18:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZk5wOThxbGFzWnQzUTFxRk9hNHdsdUs4NlI1dmF0aVVEN0xlSDFIdGxmNkw3Wl8yVGFvWWFfSE93VXF4OGtQVnVzQlVsVlN4LTRKSmZtTHJHTk5icUhCTUJPTkV2dTBydEd3NXlPOThnNU9Fdm5iTjV0TmplLW5qeTBBcF9NWDNZd1B5VXo3WG9IUjJ4dEQ1VVFIN3JKc1RhOWhvcmZQWFhORklfalNTY1ZIdjF5ekxZcFhmU2JYT0k4cGRmdzVPOVRYMEJCaTFsWkUxaGotVjVKOFd1VmQ1MXFKWGFsLTJmWWFVVkUzVFo2V1dFVkRVMzI0NG4tckgtRzZRbnFEV0hKMkxuM2xLamVn?oc=5",
+      "headline": "Schneider Electric launches new Motivair coolant distribution unit for more flexible data center deployments - Business Review",
+      "summary": "Schneider Electric launches new Motivair coolant distribution unit for more flexible data center deployments Business Review",
+      "source": "Business Review",
+      "published_at": "2026-10-14T14:58:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeEZSQnlrSWtPaW00TGhZVVkxMGxlN2RnSTJnQnYyTlc2V01iVXN4d2dRYnBPdnJMYWpkNzdvXzdBVTJteHlqRHRUNUt1YXpuZzBaaktPel9FR1UzNERoQXFxZEZ5b0kyNU8tblFGZk5qNDA5OUZ2NUMyNHBkS3dYeWNobERqSVdGVkYtWm1SZ1plX3VpOFRpQWtyM0ROaWMwZUpPaFptU05oZUxSOEw3WVZSMWdBMWduRDJPVUhsVmdyeWtDWVFocWNOQjdZUUZsU013TURxZDVycFBXY1pTMGtNTzc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -323,41 +353,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "South Korea's Otech Carrier Named Preferred Bidder for Cooling Systems at 200MW AI Data Center in Gumi - BigGo Finance",
-      "summary": "South Korea's Otech Carrier Named Preferred Bidder for Cooling Systems at 200MW AI Data Center in Gumi BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-14T10:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yampZTkp4ZkMyWE1ROXFreW5MeU9Ma1JpZUpDbEp6U1plSTNDbkEtYkhra2lPbFFYU2QtNVE2Yk5lQ3dOMHo0eUVraEtra3dQVV81REcyb255WG9NakQ2bWNsZTJRTjBocDJPZlZ2d0tqdjNua2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Jabil teams up with Adani Enterprises for AI and data center tech production in India - ET CIO",
-      "summary": "Jabil teams up with Adani Enterprises for AI and data center tech production in India ET CIO",
-      "source": "ET CIO",
-      "published_at": "2026-10-14T10:34:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUc4OThLQjFJV1phUGVxVG5WeWZTeVVzWDV6blo4RjQ1dXVIZU9IcmdaQUo4Tkg4MXZrQ0N4T1ZCWTJxQnRUY2pTWlYxRjktQmFsUnRQd0pYMGxzWVFLUmhzYkdkekY5U3I2WEtWay03ZEoweGdpV0VqR3NTSDctU2JqOUdKRU5aRW85cFk4eFJkWWQzbjIxS2VacnU5VWhidVZOc3pLalljWXJxUDNha2YxWUxzNGp2a2VWWUNGOWk0WVpEdS1QU3pNZG9RQjdWUkVvU1g2SmRRbTZHanUtZjc4b3I3QzVtM0lHZ3h4ekRabGdJNjFxU2U0V2ZOYV8zQnNLVU4xTDd5cTkxQmVjNjcyTjNYUjF4Zkp1QVBRQkRsSEU2Y1AxTTZtNXpRb3pE0gHuAUFVX3lxTFBIaVJseXA2dmE5bnVSWldxY0l1WGQtaEVMazBzbXNwa0w3NVdvNG5FRlZZclNmLUktQ1ZPeDhWRnFNbkhWdkhLdmFLVkdsRlRoMUlPLVU0UUZvT2N6ZEtIVGphcVhnSHBSanNvQlpxWGVPMGZMZWFmQjN3a09qM2NySmNuOWdKb2VhdzFpS3JNVkNmRWtLOXJpeTFiQmdvY3JESHFIakdZY1JUWjVnanYzZVdUZkVGeUNkbkl2X0JPNEdZcXhkYldpdGYzN3dQVUVHM3ZHVTRsdzZ0TFRWa04xaWhwam9COXlYQ2QxdlE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Adani and Jabil plan 50:50 JV to make AI data center hardware in India - digitimes",
-      "summary": "Adani and Jabil plan 50:50 JV to make AI data center hardware in India digitimes",
-      "source": "digitimes",
-      "published_at": "2026-10-14T10:13:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHphMUI3UHByakM3RXJPYm1JUTJYNEpMTXJxWUpsLTdGOVBRdWUxRlpRMmdfY29xSFRiaEQ2VG1lSkx0ZUo2Sk0xWFI5cUdiVzNpN3FFcC1LdWtHa3FLNlRNQkx1ZVBpaS0ycG9QN3BjWWtZWk12XzhBX1h6Z0ttWVRPaWluOWNkUl9nT3lOandkcjFqREpjSWt4bWlRemVN?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Adani, Jabil ink pact to form 50:50 AI, data center gear JV in India - ET Telecom",
-      "summary": "Adani, Jabil ink pact to form 50:50 AI, data center gear JV in India ET Telecom",
-      "source": "ET Telecom",
-      "published_at": "2026-10-14T10:13:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnlBZE91OV9NanFVNGp1dzM3LXdfZHNGejlDLVdsMkNmajdNZV9mYTNCc0ZRNGptdWdMOENnRmpOU25ZWEF1bHRfaHh5aW5mWTR0dEl2WXNOTjV2RGtrZWdLU0hGVmZxR3dqOFE3Y0p1LURpUVJwVl9FQ3VGN3JNdi1YR2gzN3IwVHBiTnpORWlXdmIwdDdlUW1KWHFkV00ySExKMnBMempxcUxrQmhFUmQ0NEYtOVptZkVsRDUxUVZCYVl3Nzk1ek9ZQkwwUzDSAdQBQVVfeXFMT3RjQkRid3owN0tPNkozWkxNYmw4bWl6N3lPUThpZ1JBT2o5c21vZ09tb2pSc1Z5aDdiZGwyZ3VvdElGajZGVkFiajllYU5yczczTk83YlV1TEtfdkNoR0NXQUpsTjhyeEh1TGRrVUJXLV9hUUFxWEFic09TN0ZnM0IybDVVYXR1ZFdaYllCUUZWeHFFZzRxdmdEVHJVd3p5Z0l2TE1WSGJWVGVwaUowejRpMjdJazBqYXNLdGhlOVJjZFp1UWRZTFhtOV9rejJNcVVOYm4?oc=5",
+      "headline": "Autech Carrier seeks to supply cooling systems for Gumi AI data center - 헤럴드경제",
+      "summary": "Autech Carrier seeks to supply cooling systems for Gumi AI data center 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-10-14T13:12:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5peDlYUU1BQkRjdEdKQXp4SkFmNmprNmxzSDZTN1NXUnctc3Z4UmNqVWpHemtRVlFGS1kxOE83NjQ2UHNRQThGMzVwTElFNGl5UEFFbnNfbw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
