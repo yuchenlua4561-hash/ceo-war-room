@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-16T22:01:00+08:00",
+  "updated_at": "2026-10-17T02:01:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-16T22:20:20+08:00",
+  "intel_updated_at": "2026-10-17T02:10:49+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/16 22:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/17 02:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-16 22:01 GMT+8",
+      "as_of": "2026-10-17 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2076,
+      "value": 0.2071,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-16 22:01 GMT+8",
+      "as_of": "2026-10-17 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.705,
+      "value": 36.585,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-16 22:01 GMT+8",
+      "as_of": "2026-10-17 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -242,6 +242,26 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
+      "summary": "How NVIDIA is Navigating the Next Phase of the AI Boom Data Center Richness | Substack",
+      "source": "Data Center Richness | Substack",
+      "published_at": "2026-10-16T23:15:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Inside an AI Factory – Power, Cooling, and GPUs Explained - Howl.link",
+      "summary": "Inside an AI Factory – Power, Cooling, and GPUs Explained Howl.link",
+      "source": "Howl.link",
+      "published_at": "2026-10-16T19:53:48+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBQV3oxOHhtNTRZdUp6SWFCWUVXQi1UdUI3Qlk0RXB2djlHYlBBZU85cE80ZS1pU29BMmww?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Vertiv deploys 30 MW liquid cooling system at Mumbai data center - TNGlobal",
       "summary": "Vertiv deploys 30 MW liquid cooling system at Mumbai data center TNGlobal",
@@ -257,7 +277,7 @@
       "summary": "[Click e-Stock] \"Otec's AI Data Center Business Gains Momentum with Expanded NVIDIA-Certified CDU Lineup\" 아시아경제",
       "source": "아시아경제",
       "published_at": "2026-10-16T06:47:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ja2RKY2owbzZqZDhESDdCS2hPd2pNVzlOTHB6TlRGblFWTG9aUVctd2szZTRhRW95Z1FNOWdUa29jSGlPSms5VnNiV2ZQeE1INnRZOVhQbGhDTkFFdzRWNVE5d2ZJQjZqUzFDN2lvWi1FMXpCTkVsWjZRQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rY3F0aE55Y04zckdVc1A3akQ2QVlzOHVKUEsyeHhSM2NVLTNpOEhrT3hucGhCdU1DY3YzY1VydUV3ZlpJT3IzLWQ0Zk9yTW9qSHZ2YUZ1Vlo4WXVGYTN3RHJJNkU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -322,42 +342,22 @@
       "data_label": "公開情報"
     },
     {
+      "category": "CDU／幫浦",
+      "headline": "From operator expertise to autonomous operations: Connecting intelligence across assets, processes, and operations",
+      "summary": "Behind every industrial operation are people who know how the plant behaves. Every day, operators make hundreds, sometimes thousands, of decisions to keep complex processes running safely, reliably, and efficiently. They recognize when a pump sounds different,",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-10-15T19:54:00+08:00",
+      "url": "https://blog.se.com/services/2026/10/15/from-operator-expertise-to-autonomous-operations-connecting-intelligence-across-assets-processes-and-operations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management - BigGo Finance",
       "summary": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management BigGo Finance",
       "source": "BigGo Finance",
       "published_at": "2026-10-15T16:35:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0waTFJMHFYRk1YWDAzVHNXSXc0WlY2REF0Sm04OUc2UnNkSmFKNmw5UXg5TjJnTldPQ2RtMzU2eXN5WHBlc1BweTR1dTNmakJPVmQwWmxMVENZWWowREVCLXp6RE1yM1M3bVVLWGFyZFlMa2lsb0E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Renkeer Water Quality Sensors Support Efficient Operation of AI Liquid Cooling Systems - PRLog",
-      "summary": "Renkeer Water Quality Sensors Support Efficient Operation of AI Liquid Cooling Systems PRLog",
-      "source": "PRLog",
-      "published_at": "2026-10-15T15:10:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkNvYnY0OFdoNEFBMzJHWmYzQ1NmZy12eTd6MzhpMjN0ZmxkcmRuQVNSNmdNV3ZsTnhxMmNqRDZkeVlZM2VUOWxweGcyOWxUZUp3TldWYXp3elotT2l5VC1TSE03UHVDQnQ0djZmd3JVTFdOcUtBUHhHR2dHbFk0UDk4SXVSb1F2ZVZNVXRYZXN0SzZTamZTWUdlek1idzYtZ1pNOHNHR0ZFTm5CLWszYk12REFuMGlxM2pnR3RhRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions - 머니투데이",
-      "summary": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions 머니투데이",
-      "source": "머니투데이",
-      "published_at": "2026-10-15T13:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tajJnZjEzdGt2ZWhGdmtXM1FEUDRUUlBCTUdTNGNnRlBMOVNvemd0bFg4OUphNWVSRldnN1dtbmlSZHhBR2NWRkYwU3RQSjJJQ3RYQ0M0eEdoeWVGRjJQUzVhXzRUUnBGSW5sUDJsOVU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid cooling aside, AI memory and storage are the bottleneck - SiliconANGLE",
-      "summary": "Liquid cooling aside, AI memory and storage are the bottleneck SiliconANGLE",
-      "source": "SiliconANGLE",
-      "published_at": "2026-10-15T11:41:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVZYNmc1UVVuVEpjbEMtM01lNmlVTlNnYm0wbGw0dERablduN212ZGFGSXBCaGZNYTdocklfV0pTa0JYSnF2MUlXbkQ2clJULXRRM1JuYnlLZkF4b0pfOXpXUHZhYUZYZEhQOUQwSW5IaHVjZ1RlbzFJMk1mbmY2VnhqcmE1eVRZYkxoLVRJOFN3NGFTWXB3aERLM0Jfd2UxOS1CdXoyRmdiQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
