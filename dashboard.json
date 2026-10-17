@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-18T01:00:23+08:00",
+  "intel_updated_at": "2026-10-18T03:13:09+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -201,7 +201,7 @@
       "company": "Vertiv",
       "product": "資料中心",
       "move": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
-      "implication": "公開情報更新於 2026-10-16T23:52:46+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "implication": "公開情報更新於 2026-10-17T21:28:10+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5"
     },
     {
@@ -243,21 +243,21 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "The $700B AI Data Center Problem Nobody's Talking About Rally Isle Of Man (orc00z2w0N) - Unisba Media",
-      "summary": "The $700B AI Data Center Problem Nobody's Talking About Rally Isle Of Man (orc00z2w0N) Unisba Media",
-      "source": "Unisba Media",
-      "published_at": "2026-10-17T05:11:14+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVk9udmdodHkwQzB1UENVeFRYenZkQ1VvSGVwWXJPMFAwY1h1UWtKMlVNNEREVGRYU0phcklxSm85SF9XUTFYNWl3Ujhhek9ZdEl6cEZhOXNpQVRYakF3d2FPancxQQ?oc=5",
+      "headline": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
+      "summary": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling Stocktwits",
+      "source": "Stocktwits",
+      "published_at": "2026-10-17T21:28:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
-      "summary": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling Stocktwits",
-      "source": "Stocktwits",
-      "published_at": "2026-10-16T23:52:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5",
+      "headline": "The $700B AI Data Center Problem Nobody's Talking About Rally Isle Of Man (orc00z2w0N) - Unisba Media",
+      "summary": "The $700B AI Data Center Problem Nobody's Talking About Rally Isle Of Man (orc00z2w0N) Unisba Media",
+      "source": "Unisba Media",
+      "published_at": "2026-10-17T05:11:14+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVk9udmdodHkwQzB1UENVeFRYenZkQ1VvSGVwWXJPMFAwY1h1UWtKMlVNNEREVGRYU0phcklxSm85SF9XUTFYNWl3Ujhhek9ZdEl6cEZhOXNpQVRYakF3d2FPancxQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -313,6 +313,16 @@
     },
     {
       "category": "液冷散熱",
+      "headline": "Vertiv buys Europe's KES to expand AI data centre liquid cooling - Dealroom",
+      "summary": "Vertiv buys Europe's KES to expand AI data centre liquid cooling Dealroom",
+      "source": "Dealroom",
+      "published_at": "2026-10-15T22:47:16+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN4TV9IZFF3YTF4azJIdDI2YTF6ZWx1TmU4OTlpWnctdmZ5WUpRSm13WDR6WmVoQ1d2S2xZUTJQWXJWM3dCd205QmJLVkcxSDEwaW5QTWlfMkpKb0tPZDVsZC1JSFRPT3NiQzA2WVlHTWJyQ01iX3dza2pzaURhNEdPMVhEN2Z2Z29MNEV3bkFyUXRiQmdoQ3JxdHNtR0U?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "IREN Expands Liquid Cooling Across AI Data Centers: Can Returns Rise? - Yahoo Finance",
       "summary": "IREN Expands Liquid Cooling Across AI Data Centers: Can Returns Rise? Yahoo Finance",
       "source": "Yahoo Finance",
@@ -348,16 +358,6 @@
       "source": "머니투데이",
       "published_at": "2026-10-15T13:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tajJnZjEzdGt2ZWhGdmtXM1FEUDRUUlBCTUdTNGNnRlBMOVNvemd0bFg4OUphNWVSRldnN1dtbmlSZHhBR2NWRkYwU3RQSjJJQ3RYQ0M0eEdoeWVGRjJQUzVhXzRUUnBGSW5sUDJsOVU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid cooling aside, AI memory and storage are the bottleneck - SiliconANGLE",
-      "summary": "Liquid cooling aside, AI memory and storage are the bottleneck SiliconANGLE",
-      "source": "SiliconANGLE",
-      "published_at": "2026-10-15T11:41:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVZYNmc1UVVuVEpjbEMtM01lNmlVTlNnYm0wbGw0dERablduN212ZGFGSXBCaGZNYTdocklfV0pTa0JYSnF2MUlXbkQ2clJULXRRM1JuYnlLZkF4b0pfOXpXUHZhYUZYZEhQOUQwSW5IaHVjZ1RlbzFJMk1mbmY2VnhqcmE1eVRZYkxoLVRJOFN3NGFTWXB3aERLM0Jfd2UxOS1CdXoyRmdiQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
