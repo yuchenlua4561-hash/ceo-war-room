@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-17T21:53:28+08:00",
+  "intel_updated_at": "2026-10-18T01:00:23+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -293,16 +293,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "Submer India, BTCL to explore AI data center infrastructure - ET Datacenters",
-      "summary": "Submer India, BTCL to explore AI data center infrastructure ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-10-16T05:26:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUNBQ0RpY2pyQnUxNFpoM2Qya3UwcHFkbE1KblVKWnRZQjkydlNaT2RPRWR6LVB0LXA5OG95UThVSUNRaGMwbVQ0dEZweVIxYUJDdlM4TXdQcG8yUEM4RUlkQnU3RlY3LUg2R01kOUpWbmVFdUVSOGRxRWFRa3N3cXVMUFZHT3FGbkpVczRfQVZlQnBpN0NGNTktU3g0ODNvT2NIUUkxa1U2c1d1TXRRMUlPOFV0RXRjejVxNnpwTThnMUktNzg2QkdGTHVESG9aU2duUVBxQkJDV3hwc3RCTtIB5gFBVV95cUxOcVpDYjdfdG04djRVZlJVX2ZmT0VaRHIyX2hlT2FxR2FfTkhTWmF6LWlOZGlKcmhXM1BmcWVKQzFVYnNlVDhGNnlmWkV5UVhQbFpiRDhhQl84bFByRU5KV0xzZVRNT2Y1OUFTN1ZFNDZCU2lFWWRuMlVVc1dlZjczUGpVVDZNOHZMY2t2ZEtKd0k0SGdZR1g0TVVvS0xrQ1VGQm9LSkxRU3hmYVZBTzNwTFNyTDZNaWlSWGkzaF8wQzJhRW4zLVVja1Z3NFRrNmVodEsydlR1UjdKTHhDYTRHY1dIaldsZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Data Center Precision Air Conditioning Market to Reach USD 10.00 Billion by 2035 as Fan Walls and Retrofit Services Gain Ground - DC Market Insights - PR Newswire UK",
       "summary": "Data Center Precision Air Conditioning Market to Reach USD 10.00 Billion by 2035 as Fan Walls and Retrofit Services Gain Ground - DC Market Insights PR Newswire UK",
       "source": "PR Newswire UK",
@@ -332,16 +322,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "CDU／幫浦",
-      "headline": "From operator expertise to autonomous operations: Connecting intelligence across assets, processes, and operations",
-      "summary": "Behind every industrial operation are people who know how the plant behaves. Every day, operators make hundreds, sometimes thousands, of decisions to keep complex processes running safely, reliably, and efficiently. They recognize when a pump sounds different,",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-15T19:54:00+08:00",
-      "url": "https://blog.se.com/services/2026/10/15/from-operator-expertise-to-autonomous-operations-connecting-intelligence-across-assets-processes-and-operations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management - BigGo Finance",
       "summary": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management BigGo Finance",
@@ -358,6 +338,26 @@
       "source": "PRLog",
       "published_at": "2026-10-15T15:10:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkNvYnY0OFdoNEFBMzJHWmYzQ1NmZy12eTd6MzhpMjN0ZmxkcmRuQVNSNmdNV3ZsTnhxMmNqRDZkeVlZM2VUOWxweGcyOWxUZUp3TldWYXp3elotT2l5VC1TSE03UHVDQnQ0djZmd3JVTFdOcUtBUHhHR2dHbFk0UDk4SXVSb1F2ZVZNVXRYZXN0SzZTamZTWUdlek1idzYtZ1pNOHNHR0ZFTm5CLWszYk12REFuMGlxM2pnR3RhRQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions - 머니투데이",
+      "summary": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-10-15T13:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tajJnZjEzdGt2ZWhGdmtXM1FEUDRUUlBCTUdTNGNnRlBMOVNvemd0bFg4OUphNWVSRldnN1dtbmlSZHhBR2NWRkYwU3RQSjJJQ3RYQ0M0eEdoeWVGRjJQUzVhXzRUUnBGSW5sUDJsOVU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Liquid cooling aside, AI memory and storage are the bottleneck - SiliconANGLE",
+      "summary": "Liquid cooling aside, AI memory and storage are the bottleneck SiliconANGLE",
+      "source": "SiliconANGLE",
+      "published_at": "2026-10-15T11:41:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVZYNmc1UVVuVEpjbEMtM01lNmlVTlNnYm0wbGw0dERablduN212ZGFGSXBCaGZNYTdocklfV0pTa0JYSnF2MUlXbkQ2clJULXRRM1JuYnlLZkF4b0pfOXpXUHZhYUZYZEhQOUQwSW5IaHVjZ1RlbzFJMk1mbmY2VnhqcmE1eVRZYkxoLVRJOFN3NGFTWXB3aERLM0Jfd2UxOS1CdXoyRmdiQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
