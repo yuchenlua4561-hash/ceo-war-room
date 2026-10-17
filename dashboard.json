@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-17T18:34:20+08:00",
+  "intel_updated_at": "2026-10-17T21:53:28+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -199,10 +199,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "液冷散熱",
-      "move": "Vertiv deploys 30 MW liquid cooling system at Mumbai data center - TNGlobal",
-      "implication": "公開情報更新於 2026-10-16T16:21:14+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNy11VWR1LVhTMFhlbmJwSlBwUHJzbDZUS1g3VWVkSzB6SnJ6WEVrenhRTlQ3YUVsdnlBaXF3U0tMbV9CZS1ock1yRzNLZGlkWjB4cW9hbmZEaXpKcjZZREJxRVZwckFBQ2RDeWl2WnUyZkw0SUQ0QThJcEM4NkFoTA?oc=5"
+      "product": "資料中心",
+      "move": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
+      "implication": "公開情報更新於 2026-10-16T23:52:46+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,6 +241,26 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "The $700B AI Data Center Problem Nobody's Talking About Rally Isle Of Man (orc00z2w0N) - Unisba Media",
+      "summary": "The $700B AI Data Center Problem Nobody's Talking About Rally Isle Of Man (orc00z2w0N) Unisba Media",
+      "source": "Unisba Media",
+      "published_at": "2026-10-17T05:11:14+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVk9udmdodHkwQzB1UENVeFRYenZkQ1VvSGVwWXJPMFAwY1h1UWtKMlVNNEREVGRYU0phcklxSm85SF9XUTFYNWl3Ujhhek9ZdEl6cEZhOXNpQVRYakF3d2FPancxQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
+      "summary": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling Stocktwits",
+      "source": "Stocktwits",
+      "published_at": "2026-10-16T23:52:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
@@ -302,22 +322,22 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "nVent and AMD collaborate on cooling for AMD Helios rackscale solution - Data Center Dynamics",
-      "summary": "nVent and AMD collaborate on cooling for AMD Helios rackscale solution Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-15T22:41:21+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2pSVWRZbEdJaFI3YjJManJ6TllSeENNekdYT3BoQUZSWUlfeUJIeU1TQXhENVFPRkNSMFlTaDlmZkhQZEk1bXVJaHV6SjRoM2ktMTVUY2ZpZFJnLTRUVnVqb0tfdndzSWc3TERBendsNDM2Y21aNTA5cGlXb1VYSUJNcEd4STFaVXdVOEZYaWJWV3Mwb2JOQ1M4RDhkT0JsNFVDaWpja0pMcXcyc3dGVWw3ZnJkR0NZbENuQ0dXNA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "IREN Expands Liquid Cooling Across AI Data Centers: Can Returns Rise? - Yahoo Finance",
       "summary": "IREN Expands Liquid Cooling Across AI Data Centers: Can Returns Rise? Yahoo Finance",
       "source": "Yahoo Finance",
       "published_at": "2026-10-15T20:48:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0ZkWllfa1JnY2oxOFZDYm5aWkh1SnpqOVV0b3pQQ3BEVTVnZ1E1dEs0SlQ4aGRCWjJFSEtvM01odEhTdGxDY05OV2RCOXFpQ21ZNGREMzlkS3RsOHpuamljeDZCQXNBQU15MVhOZGFZR1pFRmsyWlkzTThDY2lwN00tajlLd2RWYVV1QlJPR04zMC0tWDZTSWNuZ1ZKWUk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "From operator expertise to autonomous operations: Connecting intelligence across assets, processes, and operations",
+      "summary": "Behind every industrial operation are people who know how the plant behaves. Every day, operators make hundreds, sometimes thousands, of decisions to keep complex processes running safely, reliably, and efficiently. They recognize when a pump sounds different,",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-10-15T19:54:00+08:00",
+      "url": "https://blog.se.com/services/2026/10/15/from-operator-expertise-to-autonomous-operations-connecting-intelligence-across-assets-processes-and-operations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -338,26 +358,6 @@
       "source": "PRLog",
       "published_at": "2026-10-15T15:10:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkNvYnY0OFdoNEFBMzJHWmYzQ1NmZy12eTd6MzhpMjN0ZmxkcmRuQVNSNmdNV3ZsTnhxMmNqRDZkeVlZM2VUOWxweGcyOWxUZUp3TldWYXp3elotT2l5VC1TSE03UHVDQnQ0djZmd3JVTFdOcUtBUHhHR2dHbFk0UDk4SXVSb1F2ZVZNVXRYZXN0SzZTamZTWUdlek1idzYtZ1pNOHNHR0ZFTm5CLWszYk12REFuMGlxM2pnR3RhRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions - 머니투데이",
-      "summary": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions 머니투데이",
-      "source": "머니투데이",
-      "published_at": "2026-10-15T13:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tajJnZjEzdGt2ZWhGdmtXM1FEUDRUUlBCTUdTNGNnRlBMOVNvemd0bFg4OUphNWVSRldnN1dtbmlSZHhBR2NWRkYwU3RQSjJJQ3RYQ0M0eEdoeWVGRjJQUzVhXzRUUnBGSW5sUDJsOVU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid cooling aside, AI memory and storage are the bottleneck - SiliconANGLE",
-      "summary": "Liquid cooling aside, AI memory and storage are the bottleneck SiliconANGLE",
-      "source": "SiliconANGLE",
-      "published_at": "2026-10-15T11:41:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVZYNmc1UVVuVEpjbEMtM01lNmlVTlNnYm0wbGw0dERablduN212ZGFGSXBCaGZNYTdocklfV0pTa0JYSnF2MUlXbkQ2clJULXRRM1JuYnlLZkF4b0pfOXpXUHZhYUZYZEhQOUQwSW5IaHVjZ1RlbzFJMk1mbmY2VnhqcmE1eVRZYkxoLVRJOFN3NGFTWXB3aERLM0Jfd2UxOS1CdXoyRmdiQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
