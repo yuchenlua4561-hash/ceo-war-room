@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-18T03:13:09+08:00",
+  "intel_updated_at": "2026-10-18T05:30:15+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -273,6 +273,16 @@
     },
     {
       "category": "液冷散熱",
+      "headline": "Vertiv Deploys India’s First Direct-to-Chip Liquid Cooling - Passionate In Marketing",
+      "summary": "Vertiv Deploys India’s First Direct-to-Chip Liquid Cooling Passionate In Marketing",
+      "source": "Passionate In Marketing",
+      "published_at": "2026-10-16T18:47:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNnVOWVJOb2pOVHRxRjljTXF1RmNQLVg5M0JfZjA0OS1OWEdiOUpFUXhXaG0yVGsxbFNnY3l4T0RYbzlKQlBmYkd5ZUdKMUZBR0Jpa0FlNXU0Q0ItSVgzRWpReVNpNWNQV3F3OWtHM2htR3RwMnFCR0hkVUVrbm81V0lEWVhOY1M3S2F4OWc0QWV6WTBpUENZUnVnTWFuXzZoZFFTLVZwR241bWhFQ2JucFBtNHJRNTljTTNHR21aZ1BHSW5CNkl5OVZNLVpRT2NncUotZ3lrbFpkWTdOQ2hQNmVFM3JwWmlFLVpWZ1JITmVnY1hlcTBiRDdjelNveG9CcTN2VDNYQ3JmWGNOdmc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "Vertiv deploys 30 MW liquid cooling system at Mumbai data center - TNGlobal",
       "summary": "Vertiv deploys 30 MW liquid cooling system at Mumbai data center TNGlobal",
       "source": "TNGlobal",
@@ -288,6 +298,26 @@
       "source": "아시아경제",
       "published_at": "2026-10-16T06:47:52+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rY3F0aE55Y04zckdVc1A3akQ2QVlzOHVKUEsyeHhSM2NVLTNpOEhrT3hucGhCdU1DY3YzY1VydUV3ZlpJT3IzLWQ0Zk9yTW9qSHZ2YUZ1Vlo4WXVGYTN3RHJJNkU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Submer India, BTCL to explore AI data center infrastructure - ET Datacenters",
+      "summary": "Submer India, BTCL to explore AI data center infrastructure ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-16T05:26:07+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUNBQ0RpY2pyQnUxNFpoM2Qya3UwcHFkbE1KblVKWnRZQjkydlNaT2RPRWR6LVB0LXA5OG95UThVSUNRaGMwbVQ0dEZweVIxYUJDdlM4TXdQcG8yUEM4RUlkQnU3RlY3LUg2R01kOUpWbmVFdUVSOGRxRWFRa3N3cXVMUFZHT3FGbkpVczRfQVZlQnBpN0NGNTktU3g0ODNvT2NIUUkxa1U2c1d1TXRRMUlPOFV0RXRjejVxNnpwTThnMUktNzg2QkdGTHVESG9aU2duUVBxQkJDV3hwc3RCTtIB5gFBVV95cUxOcVpDYjdfdG04djRVZlJVX2ZmT0VaRHIyX2hlT2FxR2FfTkhTWmF6LWlOZGlKcmhXM1BmcWVKQzFVYnNlVDhGNnlmWkV5UVhQbFpiRDhhQl84bFByRU5KV0xzZVRNT2Y1OUFTN1ZFNDZCU2lFWWRuMlVVc1dlZjczUGpVVDZNOHZMY2t2ZEtKd0k0SGdZR1g0TVVvS0xrQ1VGQm9LSkxRU3hmYVZBTzNwTFNyTDZNaWlSWGkzaF8wQzJhRW4zLVVja1Z3NFRrNmVodEsydlR1UjdKTHhDYTRHY1dIaldsZw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The AI Data Center Stock Boom: How To Invest Wisely - Forbes",
+      "summary": "The AI Data Center Stock Boom: How To Invest Wisely Forbes",
+      "source": "Forbes",
+      "published_at": "2026-10-16T05:25:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXBndlFqR0pIYU1oTFBIMG56eWs0alN5eUlHZVdGejFxYUlONXBvLXdGbTVvN2hpcnRmQWxHQmxfcnltaUtUZS1xcC1ySmxibFNYWnFqNkZBUVlmWWoyazB5RjU3ZUN3bjV0ekpWVV9FVWtsZnVma0ZlcS1tamg1Q0p1VUdwb2lNeXdxekdnWTFxTmdr?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -328,36 +358,6 @@
       "source": "Yahoo Finance",
       "published_at": "2026-10-15T20:48:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0ZkWllfa1JnY2oxOFZDYm5aWkh1SnpqOVV0b3pQQ3BEVTVnZ1E1dEs0SlQ4aGRCWjJFSEtvM01odEhTdGxDY05OV2RCOXFpQ21ZNGREMzlkS3RsOHpuamljeDZCQXNBQU15MVhOZGFZR1pFRmsyWlkzTThDY2lwN00tajlLd2RWYVV1QlJPR04zMC0tWDZTSWNuZ1ZKWUk?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management - BigGo Finance",
-      "summary": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-15T16:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0waTFJMHFYRk1YWDAzVHNXSXc0WlY2REF0Sm04OUc2UnNkSmFKNmw5UXg5TjJnTldPQ2RtMzU2eXN5WHBlc1BweTR1dTNmakJPVmQwWmxMVENZWWowREVCLXp6RE1yM1M3bVVLWGFyZFlMa2lsb0E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Renkeer Water Quality Sensors Support Efficient Operation of AI Liquid Cooling Systems - PRLog",
-      "summary": "Renkeer Water Quality Sensors Support Efficient Operation of AI Liquid Cooling Systems PRLog",
-      "source": "PRLog",
-      "published_at": "2026-10-15T15:10:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkNvYnY0OFdoNEFBMzJHWmYzQ1NmZy12eTd6MzhpMjN0ZmxkcmRuQVNSNmdNV3ZsTnhxMmNqRDZkeVlZM2VUOWxweGcyOWxUZUp3TldWYXp3elotT2l5VC1TSE03UHVDQnQ0djZmd3JVTFdOcUtBUHhHR2dHbFk0UDk4SXVSb1F2ZVZNVXRYZXN0SzZTamZTWUdlek1idzYtZ1pNOHNHR0ZFTm5CLWszYk12REFuMGlxM2pnR3RhRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions - 머니투데이",
-      "summary": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions 머니투데이",
-      "source": "머니투데이",
-      "published_at": "2026-10-15T13:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tajJnZjEzdGt2ZWhGdmtXM1FEUDRUUlBCTUdTNGNnRlBMOVNvemd0bFg4OUphNWVSRldnN1dtbmlSZHhBR2NWRkYwU3RQSjJJQ3RYQ0M0eEdoeWVGRjJQUzVhXzRUUnBGSW5sUDJsOVU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
