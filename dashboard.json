@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-18T07:20:39+08:00",
+  "intel_updated_at": "2026-10-18T09:12:57+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -352,12 +352,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "CDU／幫浦",
-      "headline": "From operator expertise to autonomous operations: Connecting intelligence across assets, processes, and operations",
-      "summary": "Behind every industrial operation are people who know how the plant behaves. Every day, operators make hundreds, sometimes thousands, of decisions to keep complex processes running safely, reliably, and efficiently. They recognize when a pump sounds different,",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-15T19:54:00+08:00",
-      "url": "https://blog.se.com/services/2026/10/15/from-operator-expertise-to-autonomous-operations-connecting-intelligence-across-assets-processes-and-operations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "category": "液冷散熱",
+      "headline": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management - BigGo Finance",
+      "summary": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-15T16:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0waTFJMHFYRk1YWDAzVHNXSXc0WlY2REF0Sm04OUc2UnNkSmFKNmw5UXg5TjJnTldPQ2RtMzU2eXN5WHBlc1BweTR1dTNmakJPVmQwWmxMVENZWWowREVCLXp6RE1yM1M3bVVLWGFyZFlMa2lsb0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
