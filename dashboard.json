@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-18T22:29:16+08:00",
+  "intel_updated_at": "2026-10-19T01:30:07+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -263,31 +263,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "From power to AI readiness: The architecture decisions behind TeraWulf’s AI & High-Performance Computing Campus",
-      "summary": "Author: Andrew Whitmore, Vice President of Sales at Motivair by Schneider Electric In the AI race, securing power is only the starting point. Available megawatts do not automatically translate into AI data center capacity. The competitive advantage lies in how",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-17T00:57:51+08:00",
-      "url": "https://blog.se.com/datacenter/2026/10/16/from-power-ai-readines-architecture-decisions-terawulfs-ai-high-performance-computing-campus/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
       "summary": "How NVIDIA is Navigating the Next Phase of the AI Boom Data Center Richness | Substack",
       "source": "Data Center Richness | Substack",
       "published_at": "2026-10-16T23:15:53+08:00",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Why AI changes everything about power infrastructure?",
-      "summary": "It’s tempting to treat AI data centers as just very large versions of the data centers we already know. Same racks, same cooling, same power draw, only more of it. That assumption is comfortable, widely held, and wrong. AI doesn’t just demand more power. It...",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-16T19:37:14+08:00",
-      "url": "https://blog.se.com/energy-management-energy-efficiency/2026/10/16/why-ai-changes-everything-about-power-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -358,6 +338,26 @@
       "source": "Yahoo Finance",
       "published_at": "2026-10-15T20:48:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0ZkWllfa1JnY2oxOFZDYm5aWkh1SnpqOVV0b3pQQ3BEVTVnZ1E1dEs0SlQ4aGRCWjJFSEtvM01odEhTdGxDY05OV2RCOXFpQ21ZNGREMzlkS3RsOHpuamljeDZCQXNBQU15MVhOZGFZR1pFRmsyWlkzTThDY2lwN00tajlLd2RWYVV1QlJPR04zMC0tWDZTSWNuZ1ZKWUk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management - BigGo Finance",
+      "summary": "Midea joins Nvidia's MGX ecosystem, seizing early lead in AI factory thermal management BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-15T16:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0waTFJMHFYRk1YWDAzVHNXSXc0WlY2REF0Sm04OUc2UnNkSmFKNmw5UXg5TjJnTldPQ2RtMzU2eXN5WHBlc1BweTR1dTNmakJPVmQwWmxMVENZWWowREVCLXp6RE1yM1M3bVVLWGFyZFlMa2lsb0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions - 머니투데이",
+      "summary": "LG Electronics, an Nvidia partner, showcases its AI data center cooling solutions 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-10-15T13:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tajJnZjEzdGt2ZWhGdmtXM1FEUDRUUlBCTUdTNGNnRlBMOVNvemd0bFg4OUphNWVSRldnN1dtbmlSZHhBR2NWRkYwU3RQSjJJQ3RYQ0M0eEdoeWVGRjJQUzVhXzRUUnBGSW5sUDJsOVU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
