@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-19T22:22:00+08:00",
+  "updated_at": "2026-10-20T04:02:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-19T22:35:00+08:00",
+  "intel_updated_at": "2026-10-20T04:08:48+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/19 22:22；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/20 04:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-19 22:22 GMT+8",
+      "as_of": "2026-10-20 04:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2074,
+      "value": 0.2073,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-19 22:22 GMT+8",
+      "as_of": "2026-10-20 04:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.695,
+      "value": 36.685,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-19 22:22 GMT+8",
+      "as_of": "2026-10-20 04:02 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -242,6 +242,26 @@
   ],
   "news": [
     {
+      "category": "冷板／機櫃",
+      "headline": "Inside OCP Global Summit 2026: Cold Plates, 800 Vdc Sidecars, and a Buildout at Full Steam - Dell'Oro Group",
+      "summary": "Inside OCP Global Summit 2026: Cold Plates, 800 Vdc Sidecars, and a Buildout at Full Steam Dell'Oro Group",
+      "source": "Dell'Oro Group",
+      "published_at": "2026-10-20T00:48:22+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGdTc2JCVTROU09QTEFLSmk4NXB3YllGZE9FZldvS2hDb0F6OFRsQ1RPTVlIay1ORTgyQUdJblBjZWZ0WlZDci1aWVdyNHphaWFveTJQeDF5b2FXMWtTTkgzb3ExTUNTaDN2Qnp6ZFNLTmNTS082a1NsMWM5X1pTbXRIS3pBbnZCY2lENjBmVmRPdlNKd0RfazhKOFRrQzZRZGNsWGVRQXJKNEVPaWpSSlN3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Are We Looking in the Wrong Place to Solve the AI Data Center Sustainability Challenge? - Unite.AI",
+      "summary": "Are We Looking in the Wrong Place to Solve the AI Data Center Sustainability Challenge? Unite.AI",
+      "source": "Unite.AI",
+      "published_at": "2026-10-19T23:43:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lS3pzNEdqUjgzMmFxaDUwRms5TlJrT2hTQU51NnNQdDhlcWdKeGVDdUNNd2R0ejFoWlRWSXVRUDlGQ3VZRERCaEszRU1zTkJVN21IYkpIdDV5ckRDNmFwRUNRZzBORlYtazdkbk1xVVBYQXhEX0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Will NVT's Blaine 2 Expansion Boost Its AI Data Center Growth? - TradingView",
       "summary": "Will NVT's Blaine 2 Expansion Boost Its AI Data Center Growth? TradingView",
@@ -283,6 +303,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "TeraWulf transforms coal plant into 500 MW AI campus - ET Datacenters",
+      "summary": "TeraWulf transforms coal plant into 500 MW AI campus ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-18T00:08:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQNWV4MFNlQkRvUjdIamstNHV5QjRVOVNvZEstdFVFdVZPRWZETTlKWGVsNlc4d2xWSGtOUmp3QkVwN083eG5PakpXLVpUNUdsWlVVX1FuTnRjZmt0aW1oeHI0eW1Wd29WeDJTMHp1Zi1ZUk44bmpuVHAwMU9EV0tRYzFmUGNXYnVtcGVkeU9oUHNBMzZ0dHRXQ1NsNmlzVXJ1M20wYlliMDBrUzhUbFY1V2k1SUJlUXZVODR2am1iLXNocFV3TENiZUhDVjQzbnFUUS0tS2FlZmdSaU8xTlBfbDBEVXN2MkgyUFhZbnJSUE8tSE9XUmRQSjBZUHk1b0FjMXlQbUppb29DRkxidmRWYmd0SzDSAeMBQVVfeXFMUE85U1FrNjQ0SERmc3BMR1RKcFFFSTJGazVHaTA1WS1FZm9fMFBoT1JlQi1iQkN3X1FnWU4ySDFoOWNfQW4wMVZzZjlEcGVScWg4NkFpbmdfLTk4dkxiMTg2WmRjRVp6STNyQ25wdE5vREtaQVpWVk5aWUhYODNiV0RnVFRxNkUtNTh0Z2F0R09ERW5nc2pBb1NuZjFOeGFzM250WnFubUc2eTBnMUhtTFhncHdFX0ZJWmNMV3ZyZTdvblhSWlZZN0pxMzk3ZlZFdXpsRUdSY0JySEw4T19zWnRsN2c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
       "summary": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling Stocktwits",
       "source": "Stocktwits",
@@ -303,31 +333,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "From power to AI readiness: The architecture decisions behind TeraWulf’s AI & High-Performance Computing Campus",
-      "summary": "Author: Andrew Whitmore, Vice President of Sales at Motivair by Schneider Electric In the AI race, securing power is only the starting point. Available megawatts do not automatically translate into AI data center capacity. The competitive advantage lies in how",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-17T00:57:51+08:00",
-      "url": "https://blog.se.com/datacenter/2026/10/16/from-power-ai-readines-architecture-decisions-terawulfs-ai-high-performance-computing-campus/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
       "summary": "How NVIDIA is Navigating the Next Phase of the AI Boom Data Center Richness | Substack",
       "source": "Data Center Richness | Substack",
       "published_at": "2026-10-16T23:15:53+08:00",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Why AI changes everything about power infrastructure?",
-      "summary": "It’s tempting to treat AI data centers as just very large versions of the data centers we already know. Same racks, same cooling, same power draw, only more of it. That assumption is comfortable, widely held, and wrong. AI doesn’t just demand more power. It...",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-16T19:37:14+08:00",
-      "url": "https://blog.se.com/energy-management-energy-efficiency/2026/10/16/why-ai-changes-everything-about-power-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "아시아경제",
       "published_at": "2026-10-16T06:47:52+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rY3F0aE55Y04zckdVc1A3akQ2QVlzOHVKUEsyeHhSM2NVLTNpOEhrT3hucGhCdU1DY3YzY1VydUV3ZlpJT3IzLWQ0Zk9yTW9qSHZ2YUZ1Vlo4WXVGYTN3RHJJNkU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Submer India, BTCL to explore AI data center infrastructure - ET Datacenters",
-      "summary": "Submer India, BTCL to explore AI data center infrastructure ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-10-16T05:26:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUNBQ0RpY2pyQnUxNFpoM2Qya3UwcHFkbE1KblVKWnRZQjkydlNaT2RPRWR6LVB0LXA5OG95UThVSUNRaGMwbVQ0dEZweVIxYUJDdlM4TXdQcG8yUEM4RUlkQnU3RlY3LUg2R01kOUpWbmVFdUVSOGRxRWFRa3N3cXVMUFZHT3FGbkpVczRfQVZlQnBpN0NGNTktU3g0ODNvT2NIUUkxa1U2c1d1TXRRMUlPOFV0RXRjejVxNnpwTThnMUktNzg2QkdGTHVESG9aU2duUVBxQkJDV3hwc3RCTtIB5gFBVV95cUxOcVpDYjdfdG04djRVZlJVX2ZmT0VaRHIyX2hlT2FxR2FfTkhTWmF6LWlOZGlKcmhXM1BmcWVKQzFVYnNlVDhGNnlmWkV5UVhQbFpiRDhhQl84bFByRU5KV0xzZVRNT2Y1OUFTN1ZFNDZCU2lFWWRuMlVVc1dlZjczUGpVVDZNOHZMY2t2ZEtKd0k0SGdZR1g0TVVvS0xrQ1VGQm9LSkxRU3hmYVZBTzNwTFNyTDZNaWlSWGkzaF8wQzJhRW4zLVVja1Z3NFRrNmVodEsydlR1UjdKTHhDYTRHY1dIaldsZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
