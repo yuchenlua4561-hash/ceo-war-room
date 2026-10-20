@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-21T01:37:00+08:00",
+  "updated_at": "2026-10-21T04:37:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-21T01:55:20+08:00",
+  "intel_updated_at": "2026-10-21T05:31:22+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/21 01:37；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/21 04:37；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-21 01:37 GMT+8",
+      "as_of": "2026-10-21 04:37 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2089,
+      "value": 0.2088,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-21 01:37 GMT+8",
+      "as_of": "2026-10-21 04:37 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-21 01:37 GMT+8",
+      "as_of": "2026-10-21 04:37 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "As AI Racks Get Hotter, Vertiv Expands The Business Around Data Center Cooling - Stocktwits",
-      "implication": "公開情報更新於 2026-10-20T07:30:02+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa09LR2Q4azd0dmQ0cDZveXZLRVBTYktvbURqd0IzSmE4b2FCeGtpWEpvX1NPRHFmODNkYS1RQ3hfcEtNZ0pCa2tqWDROdHY3X3dIaWlOWXQ2cXEzYU9vdEFqdjh3eTNmNDViMUtqdkhyM3dDVzl3UElsWFlkbGF4SG9Yemx5Z0JFOUdvTzJaV2xmVnBSNVVEOUMzSW9leFREdnoyWjBXX0ZCRW9pQ3BoX21USWppUDE1dk8zcUZPM1BzMjBkZUhBZmRMc25YQlZuQnh2TUVYREpTUlBPbXEySHln?oc=5"
+      "move": "Vertiv Holdings Co (VRT) Could Be 54% Undervalued Following AI Data Center Financing Fears - Simply Wall Street",
+      "implication": "公開情報更新於 2026-10-20T22:31:26+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZldqamtRbUdIbkhNN3VfSW9mS19TRElIdXl1aDBFaEZ6dG1pQ1VvUUYyYUs1Wl9pV0RnR3R6emY3T21Vb25TYU5XT3ZKbzA0RXBmcHRVYlp5SmJYTnBQYUFCbzFBbElKUVplUWtJOFpjSnF0Nko1Zl9nRG1CLWRjMG1ZRHZRVnVFS3ZrMWE3bVNJTTREMHJNZzM0RWZ6UVdNZnZGMkFrN3ZJcl9KTE9FZXktQmtTWGZtN0FfcV92dmVBN01lRXhGN1RZX0hZZVpPcWZGcdIB2gFBVV95cUxObmlLbFZJQzJyWVhBeTJTenE2b1FQXzZYSVhiMHNLdDUtMGUtTjI2M2FwRFNFcFgya21SVWxlTDBwOGxqX2Mtb18weXgtX1B5QmRiQ3BaYnJFWkhPUkNEMlR0LW1YcXpPdGdUeVc5eTVLWkxjR1lpRmozd1pfMjFycFMzVnRaUGxyRTdTUjdWZl9xMV9LaUdwd0RzZHZ0aENTbUVNZnBRbzVYMnAydkZ2aEFMODhldzZoc2lwdDBEb0VTSHAwb0dHX0kwUGIwODFtdW5sNG1teXhTUQ?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,6 +241,16 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Holdings Co (VRT) Could Be 54% Undervalued Following AI Data Center Financing Fears - Simply Wall Street",
+      "summary": "Vertiv Holdings Co (VRT) Could Be 54% Undervalued Following AI Data Center Financing Fears Simply Wall Street",
+      "source": "Simply Wall Street",
+      "published_at": "2026-10-20T22:31:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZldqamtRbUdIbkhNN3VfSW9mS19TRElIdXl1aDBFaEZ6dG1pQ1VvUUYyYUs1Wl9pV0RnR3R6emY3T21Vb25TYU5XT3ZKbzA0RXBmcHRVYlp5SmJYTnBQYUFCbzFBbElKUVplUWtJOFpjSnF0Nko1Zl9nRG1CLWRjMG1ZRHZRVnVFS3ZrMWE3bVNJTTREMHJNZzM0RWZ6UVdNZnZGMkFrN3ZJcl9KTE9FZXktQmtTWGZtN0FfcV92dmVBN01lRXhGN1RZX0hZZVpPcWZGcdIB2gFBVV95cUxObmlLbFZJQzJyWVhBeTJTenE2b1FQXzZYSVhiMHNLdDUtMGUtTjI2M2FwRFNFcFgya21SVWxlTDBwOGxqX2Mtb18weXgtX1B5QmRiQ3BaYnJFWkhPUkNEMlR0LW1YcXpPdGdUeVc5eTVLWkxjR1lpRmozd1pfMjFycFMzVnRaUGxyRTdTUjdWZl9xMV9LaUdwd0RzZHZ0aENTbUVNZnBRbzVYMnAydkZ2aEFMODhldzZoc2lwdDBEb0VTSHAwb0dHX0kwUGIwODFtdW5sNG1teXhTUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "Green Data Center Market worth $197.02 billion by 2031 - Report by MarketsandMarkets™ - Yahoo Finance",
@@ -348,16 +358,6 @@
       "source": "TradingView",
       "published_at": "2026-10-19T19:29:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeW11YmdNRlF3b1ZtZlpzbWxlMUpYNGVFOXI3VXB2YXltWUF3VTItcWZhc3NJR1JpeklGdUdOSnQzdTFWTDk1UzMtWGk2TWJVdHItVkFCZE02OVRwWDE2QW93UHRzOUpENmstcHh2UDdGUU1aZFZvTUlVRTVHaUhncU1LZUpzUExQcFdPaFdwSnZKQ25Cak5jUkxIY21rbXU5QlJJeTVUdlJjd0xWbnQ1UkpjMUR6US1h?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "A-Root Subsidiary NSRC to Supply Lithography Equipment to Taiwanese Power Semiconductor Maker, Entering AI Data Center Supply Chain - BigGo Finance",
-      "summary": "A-Root Subsidiary NSRC to Supply Lithography Equipment to Taiwanese Power Semiconductor Maker, Entering AI Data Center Supply Chain BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-19T15:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sSjIyanFneHYwQnd2Yk9INTc5RDY3eGgxZ0ZFR1RZVXR6ZlZwVGdpMFdwSWREUHh5cUFVRGJDa2dQLU96UWN1RlA5dGY1ZGRtTU4wWDJvRVpYUkZSRHZqV3pxcUFRd01NSGw5eGx1QzBwanB0T1E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
