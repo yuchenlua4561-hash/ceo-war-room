@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-22T02:02:00+08:00",
+  "updated_at": "2026-10-22T06:11:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-22T02:53:15+08:00",
+  "intel_updated_at": "2026-10-22T06:15:21+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/22 02:02；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/22 06:11；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-22 02:02 GMT+8",
+      "as_of": "2026-10-22 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-22 02:02 GMT+8",
+      "as_of": "2026-10-22 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.785,
+      "value": 36.765,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-22 02:02 GMT+8",
+      "as_of": "2026-10-22 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -283,16 +283,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv Holdings Co. (VRT) Unveils AI Factory Approach Targeting Faster Deployment, Higher Output - TradingView",
-      "summary": "Vertiv Holdings Co. (VRT) Unveils AI Factory Approach Targeting Faster Deployment, Higher Output TradingView",
-      "source": "TradingView",
-      "published_at": "2026-10-21T19:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONXJQX3ZGdWRvRldzZHdTbnBENFZVTHZleFpXamdLc0swUlRMOUp1aFFKXzFCQ3FEV2otWFM4VjNsd3M3Yk5LMkx3LUMtVlJKWjRVaDZKdVdtcEpWTUlGSGtudWRsYnNLRjhVNnFJX1gtbjVrYk8wZUxUR3BvNjZiS012bGhDdThudTMtWDFsLVQ2NE9LREd6T3hfb0V3U2hyYzVfSUhKUk9hamVHeWR6WU80WDVIeVhQYUVzX3JUMjlZWmtuQUxPc0laVlhjOW5FSGd1T3ZESkJSQW1kNWxMeWNYTm1TRWZYbGc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
       "summary": "News Summary: Substrate agreements with IBIDEN, Samsung Electro-Mechanics and Unimicron Technology Corporation will, in aggregate, drive a 2.5x increase in capacity over the next three years. Amkor plans to increase its advanced packaging capacity by more than",
       "source": "NVIDIA Newsroom",
@@ -304,7 +294,7 @@
     {
       "category": "資料中心",
       "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
-      "summary": "News Summary: Agile Robots announces Agile ONE SN, a humanoid reference platform built on NVIDIA Isaac GR00T and NVIDIA Jetson Thor with planned integration of the NVIDIA Halos safety stack, giving developers and researchers a complete platform for frontier hu",
+      "summary": "News Summary: Agile Robots announces Agile ONE SN , a humanoid reference platform built on NVIDIA Isaac GR00T and NVIDIA Jetson Thor with planned integration of the NVIDIA Halos safety stack, giving developers and researchers a complete platform for frontier h",
       "source": "NVIDIA Newsroom",
       "published_at": "2026-10-21T18:20:00+08:00",
       "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
@@ -358,6 +348,16 @@
       "source": "조선일보",
       "published_at": "2026-10-21T16:05:58+08:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkk1bmhuMnhnejBjVTR0T0luN0FBbnd0NVM3dHJhanJULUxablM0T1ljVXhCek9UZUNWa1JScFVxdjJNSWhQMVY3UTJQVFktUW8wVS1tMDVLcFotSEgwbnRYTzh6YjdwSVFBdlB4ekFmdWJYLVFjeVFJWkhOLTJYY1RLTHpnbGUt?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Hitachi's \"U-Shaped Tunnel Channel\" for GPU Cooling to Cut Data Center Cooling Power by 30% - BigGo Finance",
+      "summary": "Hitachi's \"U-Shaped Tunnel Channel\" for GPU Cooling to Cut Data Center Cooling Power by 30% BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-21T15:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wQ1F0MTdpY00teHgzcW5ocHpzQ0lLUzNxYnBxRFVRYVhfR2p2LUhnS3FqT3VsZFhHYkUyUzFIemcyZHViTmFZMGY0ajhpWWhFeU5HeGRsYlQyZzljeFRiUTBaYzBoMnV1TVB1bEhVdldMSjBVdlE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
