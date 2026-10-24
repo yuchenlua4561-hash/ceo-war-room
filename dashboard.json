@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-25T01:38:59+08:00",
+  "intel_updated_at": "2026-10-25T03:50:57+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -332,32 +332,32 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal? - Yahoo Finance",
+      "summary": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-23T06:15:35+08:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmpzOHJTdzhLaG0xVmVTa1B3QlZtdDNreS1fbmVxM05Wa3FnSjlFRl9uVF9DWjc1UnFUQlhMdTVsYndOTldvOGUzT2FBZkVoajhwalNNcXlkMjRoOGRvR2Y0M0hNdmRvSFFNc2FOdE1vM2lGcUdWaFprYTNSRjJqQVk3X2ktbm0xOVFFZ0dIT0J2N1ZKdWlpbWJydGdRbjFD?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center - EE Times",
+      "summary": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center EE Times",
+      "source": "EE Times",
+      "published_at": "2026-10-23T02:35:25+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajkxd2VlRjZBME1WLThpeWgxSjBpVGpVb2xjTXREeWtRa3BMUEVHcFY5ODFtZEFRWUsxVl9kbktaS04yYXVpbUFXSElFSFB4dFExVDYyLTNIaHQtR3EyWDY5Q0Y3TmwwRDZEQnR4ZWJ2bmVUY0kySkx4cERhcXMxd25UV3pBY056eXVxc2Y4a0dJbm5PWjAzRjVtSHdMd25wMVo4N1UxalRPSnM?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Data Center Auxiliary Equipment Market To 2035: AI and Liquid Cooling Demand Drive Expansion - News and Statistics - IndexBox",
       "summary": "Data Center Auxiliary Equipment Market To 2035: AI and Liquid Cooling Demand Drive Expansion - News and Statistics IndexBox",
       "source": "IndexBox",
       "published_at": "2026-10-23T02:11:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTldDb0RWZ2dXNXFyQ0dHOFppbEphMHZPY2ZDQnJLZTVreF96dS13V0ZzcnhYWkgwVEE1d3B2SzlHVk9yOGpVQmUxaHI5WnBXRndXcTJfNlg3dVV3SXVOTWJvVU5SbU85Vm0xRDRjVzlBOS1TV1hoUTRZLTl1bGtsM3ZQSzlzbUhrdWtkb1dxTHc4Y29rM2pMUHhNUDA3Z3VnOG1QckJqZ1VWY2U5M2RCQ3ZHcHgyYTBTbm9oZlI2dUpxSlgwcE9pTkZR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "AI data centres in Australia: How liquid cooling can stretch a capped grid connection",
-      "summary": "Author: Mark Deguara, Technology Innovation Leader Building an AI data centre in Australia increasingly requires close attention to grid capacity. At the end of Q2 2026, AEMO was tracking 9.0 GW of maximum data-centre connection capacity in the formal transmis",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-23T00:08:51+08:00",
-      "url": "https://blog.se.com/datacenter/2026/10/22/ai-data-centres-in-australia-how-liquid-cooling-can-stretch-a-capped-grid-connection/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "STULZ offers full-stack cooling for high-density AI data centers - ET Datacenters",
-      "summary": "STULZ offers full-stack cooling for high-density AI data centers ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-10-22T20:00:51+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaXZoU3VUanJQQlBLYjFsVmRWSDM4blpFcHNNUk5DMlJmdVlqRnR6UnVfZE5SUnpVRXV6YkZjenloMzVONllha2xQS285aHU3d0dmMmhoNFhrREJ0dTU1U0ltTFhnSktJOVZBTVl4WnV6eEN1MUh1VU1rZXNJa1J2b0VhWW10NTVoZ0VkTE1HcDVLb0RzY1hMRlFUbTctRGtLN0xZTFhEQmZwQWpoLTNSWW9mUUgtZGJnXzVIT2FvOHN1bmpqeFNucExIWHlsbUNWc3BVb0p0bjBITTdMZnlUZFhuTjRWQnF1dzEteTJZWWFuZzDSAfMBQVVfeXFMTml2aFN1VGpyUEJQS2IxbFZkVkgzOG5aRXBzTVJOQzJSZnVZakZ0elJ1X2ROUlJ6VUV1emJGY3p5aDM1TjZZYWtsUEtvOWh1N3dHZjJoaDRYa0RCdHU1NVNJbUxYZ0pLSTlWQU1ZeFp1enhDdTFIdVVNa2VzSWtSdm9FYVltdDU1aGdFZExNR3A1S29Ec2NYTEZRVG03LURrSzdMWUxYREJmcEFqaC0zUllvZlFILWRiZ181SE9hbzhzdW5qanhTbnBMSFh5bG1DVnNwVW9KdG4wSE03TGZ5VGRYbk40VkJxdXcxLXkyWVlhbmcw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
