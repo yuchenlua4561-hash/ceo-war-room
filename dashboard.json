@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-25T12:53:18+08:00",
+  "intel_updated_at": "2026-10-25T17:43:37+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "7 Best Data Center Stocks, ETFs and REITs | Investing - U.S. News - Money",
+      "summary": "7 Best Data Center Stocks, ETFs and REITs | Investing U.S. News - Money",
+      "source": "U.S. News - Money",
+      "published_at": "2026-10-24T02:46:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Schneider Electric Teams Up with Nvidia to Build AI Data Center Power Gear in as Little as 6 Months - BigGo Finance",
       "summary": "Schneider Electric Teams Up with Nvidia to Build AI Data Center Power Gear in as Little as 6 Months BigGo Finance",
       "source": "BigGo Finance",
@@ -348,16 +358,6 @@
       "source": "THE ELEC, Korea Electronics Industry Media",
       "published_at": "2026-10-23T07:59:46+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50bWpoWGo5ODREbGpTSzRKT1c0OUdxcVp4SGduUlFWQUl5WUNuX1Qtc3lscUk2MDJMUmhlZ0o5cFBwOWM2bUtzTTZlb1FGczJFU0NnTXBkT19WT1ZTQmwtcGxWSmE2bVU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal? - Yahoo Finance",
-      "summary": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal? Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-23T06:15:35+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmpzOHJTdzhLaG0xVmVTa1B3QlZtdDNreS1fbmVxM05Wa3FnSjlFRl9uVF9DWjc1UnFUQlhMdTVsYndOTldvOGUzT2FBZkVoajhwalNNcXlkMjRoOGRvR2Y0M0hNdmRvSFFNc2FOdE1vM2lGcUdWaFprYTNSRjJqQVk3X2ktbm0xOVFFZ0dIT0J2N1ZKdWlpbWJydGdRbjFD?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
