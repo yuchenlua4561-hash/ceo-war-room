@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-25T21:57:13+08:00",
+  "intel_updated_at": "2026-10-26T01:35:07+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -273,6 +273,26 @@
     },
     {
       "category": "資料中心",
+      "headline": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
+      "summary": "Clean Energy Resources to Meet Data Center Electricity Demand Department of Energy (.gov)",
+      "source": "Department of Energy (.gov)",
+      "published_at": "2026-10-23T22:00:32+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Graphene Composite Sheet Material Market To 2035: Growth Driven by Thermal Management in Electronics and Evs - News and Statistics - IndexBox",
+      "summary": "Graphene Composite Sheet Material Market To 2035: Growth Driven by Thermal Management in Electronics and Evs - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-10-23T21:31:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOR3FWMXZWWlI1UDZIRkpvMEhVcjdOcEEyTXZfVEFFZHpJU01PZnZzWm5SM1pabXNyUWE0Q3N1d1YtUkpKdmZQdnpUQ25ycmd5WjVhZlJSN3JPWW5EWnVXOHFEN2lfM0xkWmJXZURheldPREQ5SlBiRGhqRUJkWFoxVWd5Y3NFalJtN1dqMFZXRVpwY1ZETEk0N2syZEZmNWhSTDVLM256T3gySkV4NDg1SFRfXzNoNG1UVk1IUlFwS0xCaEZLZHZLN2IzbXdTZTh5d1BVQWlvOVpQc2RzWURqOXZQM0NPbFJLUHVTOE5Ic3dKZndLaEVVZWFsSWhjT2M?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Schneider Electric unveils modular data center design for NVIDIA Vera Rubin AI infrastructure - Data Centre Solutions",
       "summary": "Schneider Electric unveils modular data center design for NVIDIA Vera Rubin AI infrastructure Data Centre Solutions",
       "source": "Data Centre Solutions",
@@ -338,26 +358,6 @@
       "source": "IndexBox",
       "published_at": "2026-10-23T12:51:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeFhzdFFOekk1SlV4YWpwNy10TVRsM1hRYVVYTkpLV2pmbndlMmNBbEZNTUFvQ2oyWjNwakhSTGZFblYyaWpPWXFaRGhRYkJ5UGtwd2ZBSXJHejRCbWk0cHNiR19kTnkwanY3TENDbXdTZjMxeUMwZEpab1RrRHItOVBhUm84RmE0MVhJT1l4MG56dHRXTnpZNzEwTWRoLUR5UWF0VDdaeU4yWGExZ1BsLXpSV1Zvd1pDRWxObE5yVEd3dmstRk8yVkNXZGR1V3NGQWtNdDV1QzBPN0FyZzF0LXB3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Analysis: Nvidia's DSX POD reshapes AI factory supply chains - digitimes",
-      "summary": "Analysis: Nvidia's DSX POD reshapes AI factory supply chains digitimes",
-      "source": "digitimes",
-      "published_at": "2026-10-23T11:02:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc21seHRqeFBYTGZmWUl0SVdRTHBfRzluSG9wdnd4R2tjNkdJM0I2bG9KZnlKdU1QcC1CaGRrdW5XTGYyclVvQWlCVFpoUEw5V1I5NnE0ODJ0Mmp6V2k0ZGh2Z2NGb0FhcG9qZ0JHcDdVTEI3cHVvZkFWQV9ZSjQ1WUg0QVNkV2RrdHhjQW9B?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT Cloud Breaks Ground on 50MW AI Data Center in Ansan - THE ELEC, Korea Electronics Industry Media",
-      "summary": "KT Cloud Breaks Ground on 50MW AI Data Center in Ansan THE ELEC, Korea Electronics Industry Media",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "published_at": "2026-10-23T07:59:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50bWpoWGo5ODREbGpTSzRKT1c0OUdxcVp4SGduUlFWQUl5WUNuX1Qtc3lscUk2MDJMUmhlZ0o5cFBwOWM2bUtzTTZlb1FGczJFU0NnTXBkT19WT1ZTQmwtcGxWSmE2bVU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
