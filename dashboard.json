@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-28T02:01:00+08:00",
+  "updated_at": "2026-10-28T06:11:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-28T02:11:56+08:00",
+  "intel_updated_at": "2026-10-28T06:22:36+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: TimeoutError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/28 02:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/28 06:11；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-28 02:01 GMT+8",
+      "as_of": "2026-10-28 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-28 02:01 GMT+8",
+      "as_of": "2026-10-28 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.445,
+      "value": 36.425,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-28 02:01 GMT+8",
+      "as_of": "2026-10-28 06:11 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -202,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "What Equinix, KLA, and Vertiv Earnings Could Signal About Data Center Demand - 24/7 Wall St.",
-      "implication": "公開情報更新於 2026-10-27T20:50:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG1YbEp1Vk9GcGtISVU2TVhRYlZvRTVkNVdUajNWMjV6VEwxVi1fTGljUTJJN25RaVEzTjI2b0FSSXhIbUNnYnJPZlJCNWQ0ZnlxTDhVamk0R2hhckNOOG5WYkFocG5Kb3lXNHdhY09GNzZjdklPWXNzZ3lrcEFQZ0ZkeHFDSnpaQlVLUWk2QXNLVmM3NjU0SmNWMFYxUkZKNkZJbGRjUWd3Ykg0R0xnUFRDMzFRWFR5dHc?oc=5"
+      "move": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? - TradingView",
+      "implication": "公開情報更新於 2026-10-28T01:23:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzBNTmhPaDV3SjNnYWQ2T0ZZNXBHdWVDaDc5YjR3NTNKVnNzWDE5ck05aGNpRlVSU1NzcDBSdS0wRjBWM01CN191VDZUSk1HaFVzVEMyYWNMSE1XLTUzRGdfWWxwZDFVWWtWdmxFX1V5cmlSelNvbXFYYjhpbDB6cFVjdXdQMW1YcHlySENsNm1PRy1GZ0hoeFhWZVJSZUZ5UVFKOWljU3J0MkZMWFEtYVlYSXoxNmloZHZXSg?oc=5"
     },
     {
       "company": "Boyd",
@@ -245,6 +243,46 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Global Data Center Spending to Double by 2028 - ایراسین",
+      "summary": "Global Data Center Spending to Double by 2028 ایراسین",
+      "source": "ایراسین",
+      "published_at": "2026-10-28T03:31:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT19KUlRQLUJXTm1XVGlQYkktTkZteDdCSWRraW84Q3pjNUhMV3ZZZnA0VldlV3lvbEZPNjhNT0VXRGU5X1ZYaFM3Ni1HLWNJclhvMEpiWnZkZnY4b0lVSWxPaHZnbEJZenJUX0h1VXd3blFVRHlUb3ZXT01TdjNlYllENkc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Cooling requirements emerging for sovereign GPU data centres in India",
+      "summary": "Author: Sumati Sahgal, VP, Data Centre & Secure Power, Greater India India’s sovereign-compute procurement does not explicitly mandate liquid cooling. However, cooling is increasingly tied to bid readiness for data centre operators and the partners designing t",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-10-28T02:43:57+08:00",
+      "url": "https://blog.se.com/datacenter/2026/10/27/cooling-requirements-emerging-for-sovereign-gpu-data-centres-in-india/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? - TradingView",
+      "summary": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? TradingView",
+      "source": "TradingView",
+      "published_at": "2026-10-28T01:23:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzBNTmhPaDV3SjNnYWQ2T0ZZNXBHdWVDaDc5YjR3NTNKVnNzWDE5ck05aGNpRlVSU1NzcDBSdS0wRjBWM01CN191VDZUSk1HaFVzVEMyYWNMSE1XLTUzRGdfWWxwZDFVWWtWdmxFX1V5cmlSelNvbXFYYjhpbDB6cFVjdXdQMW1YcHlySENsNm1PRy1GZ0hoeFhWZVJSZUZ5UVFKOWljU3J0MkZMWFEtYVlYSXoxNmloZHZXSg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Nidec anounces 3.2MW in-row CDU - Data Center Dynamics",
+      "summary": "Nidec anounces 3.2MW in-row CDU Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-10-28T00:09:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UXVVTmlEZGhMZWhueEZZU2NZMTNvb3J6a3YybXVfWFlHXzlRQ0J5Qm5vcUlFalZwSnRSQU1rZHFLQURDOU1IQzc4RXZoMGxrM1k1RVZoUUhjWERQLWxIVk54d2FWNDh0bWRrd3o1UEVzRFpUU19pN3dvYjhTWDg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
       "summary": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications. Oracle and N",
       "source": "NVIDIA Newsroom",
@@ -254,22 +292,22 @@
       "data_label": "公開情報"
     },
     {
-      "category": "CDU／幫浦",
-      "headline": "Nidec anounces 3.2MW in-row CDU - Data Center Dynamics",
-      "summary": "Nidec anounces 3.2MW in-row CDU Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-27T23:42:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UXVVTmlEZGhMZWhueEZZU2NZMTNvb3J6a3YybXVfWFlHXzlRQ0J5Qm5vcUlFalZwSnRSQU1rZHFLQURDOU1IQzc4RXZoMGxrM1k1RVZoUUhjWERQLWxIVk54d2FWNDh0bWRrd3o1UEVzRFpUU19pN3dvYjhTWDg?oc=5",
+      "category": "液冷散熱",
+      "headline": "Data Center Liquid Cooling Valves Market Companies, Size & Trends 2027-2036 - Precedence Research",
+      "summary": "Data Center Liquid Cooling Valves Market Companies, Size & Trends 2027-2036 Precedence Research",
+      "source": "Precedence Research",
+      "published_at": "2026-10-27T23:00:45+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWFEeGRWSWJGOU0ycVprM1VIaVM3TWZKQ1p4Y3otekZMQXd5TnY5NklVQzZlbTRlZmxtTWFkWFdVMzZpcl96TFVwYzNvTXBXOG91ZmRHaElDbkxWdUtCYV9uY3dWQ0otX0lUWndjcGpLUHJVT21KeXNWdHlyTFFodQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Valves Market Companies, Size & Trends 2027-2036 - Precedence Research",
-      "summary": "Data Center Liquid Cooling Valves Market Companies, Size & Trends 2027-2036 Precedence Research",
+      "headline": "Data Center Liquid Cooling Fluids Market Companies, Size & Trends 2027-2036 - Precedence Research",
+      "summary": "Data Center Liquid Cooling Fluids Market Companies, Size & Trends 2027-2036 Precedence Research",
       "source": "Precedence Research",
-      "published_at": "2026-10-27T21:02:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWFEeGRWSWJGOU0ycVprM1VIaVM3TWZKQ1p4Y3otekZMQXd5TnY5NklVQzZlbTRlZmxtTWFkWFdVMzZpcl96TFVwYzNvTXBXOG91ZmRHaElDbkxWdUtCYV9uY3dWQ0otX0lUWndjcGpLUHJVT21KeXNWdHlyTFFodQ?oc=5",
+      "published_at": "2026-10-27T21:01:52+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclZNVUhPVjZWTE1WeXB6c3RJSVZDTGlXQVBST2gwaGZxbFRzaV9URURvNjBQbjlvRmZrZFVQZ2VpZHlVNFVDSzVHTzBXUDVDUHladG10akRJZXVnSjhXbE1SWHBYd1RtaERpZ0JyblIwZDlaSlpycVZPRlNzZHJyUg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -280,6 +318,16 @@
       "source": "24/7 Wall St.",
       "published_at": "2026-10-27T20:50:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG1YbEp1Vk9GcGtISVU2TVhRYlZvRTVkNVdUajNWMjV6VEwxVi1fTGljUTJJN25RaVEzTjI2b0FSSXhIbUNnYnJPZlJCNWQ0ZnlxTDhVamk0R2hhckNOOG5WYkFocG5Kb3lXNHdhY09GNzZjdklPWXNzZ3lrcEFQZ0ZkeHFDSnpaQlVLUWk2QXNLVmM3NjU0SmNWMFYxUkZKNkZJbGRjUWd3Ykg0R0xnUFRDMzFRWFR5dHc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Acquires Ireland-Based KES to Expand Data Center Cooling Services - Refindustry",
+      "summary": "Vertiv Acquires Ireland-Based KES to Expand Data Center Cooling Services Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-10-27T20:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0NIekpKSU5GOWlYajBEWU5vWkNXOS1uSTJHZGNBcjFwUjdta0pjTUFWNjRLMFluaUJQZm85VmFyQmF6Z2Z2VjY2T1FGaFY4Qi1kRkl4XzdYRW05b2xmRl8tYlFDcUFvVmctRzhNVG1PZW5sSHpERk80SkVUSG9MY053WGVwVnRxRFRacUh1X2dsVWh6ZFhEenFVUHRTbWpISlVmbw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -305,61 +353,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv Simplifies High-Density AI Infrastructure Deployment Across Data Center Environments - Chinook Observer",
-      "summary": "Vertiv Simplifies High-Density AI Infrastructure Deployment Across Data Center Environments Chinook Observer",
-      "source": "Chinook Observer",
-      "published_at": "2026-10-27T05:40:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ0lIR1ZqOUhOMnNuMTNHb094TmRNX2IyZ2ZNQlFfUWpQT3pFdi1JM2pzSi1mOEUtTzdyM3JyRTdRYkFPM1VTYlFoWUg0SUl6NVlYSXd0YUxnaU0xMV8xWjV6SnEzbUFhUXV3LTRrVi1UTVNONDRzS0tDZlVVZnJNU3NMWTFfSU4wbFdyb1djSXNEbkhENDNPZEJ0YVB6cFdYcE1HTGNBek1uakVJNUZyb0JDd01OMm5yRWg0cVpxQ1FERWNVdVQ5bUtSZjZyOUsxYTFCb3lVQVVKaW54bWZUUU1UQnJaRGJFcHRF?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Vertiv Acquires King Environmental Services to Expand Data Center Cooling Services Across EMEA - citybiz",
       "summary": "Vertiv Acquires King Environmental Services to Expand Data Center Cooling Services Across EMEA citybiz",
       "source": "citybiz",
       "published_at": "2026-10-27T03:43:14+08:00",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHNybjJ5TFlhNXBjTjI0Qm4zUWxsMFNzOXNIQXpuNTVoOFVtZTdfbm04cm1pSVdJZmh2dmw4dFkxOGlKd25QbEd6akJ6SjJoc3hXa01JS1MwRE0ySkZ6cVR2VE44dFl3OG5nTGNHNktpcENNaWt4S2Jud0dhZmU4NndlTGVfa1FMTThIUHdUVjNpVDR3cFdYV2cybk5GVVBxVjE1OGtSRHRqa29TbTVBYjVSdXJXRjhhWEphTGlqM2tBSk44WGEwNGRIbHJadw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Cooler Master announces 2.5MW in-row CDU - Data Center Dynamics",
-      "summary": "Cooler Master announces 2.5MW in-row CDU Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-27T00:01:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORS1mdzVYVDQxbE9uYzVQWmYyVy1zYUs0QkxPZ2swU3FTaC10YXdkeWZFZTVPbHg5YmRGOVNQYmszbnNDMWItaE5CVTlhRDFiRDItTTMyb1dLcGF6cWFvdFBpLW5nWTJocERFM1NvamU0RWRxWFZuU0I1NTJjZWYzV056U3hoMFF0eVJv?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "DCD Studio: The future of data centers with Jim Simonelli, Schneider Electric - Data Center Dynamics",
-      "summary": "DCD Studio: The future of data centers with Jim Simonelli, Schneider Electric Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-26T22:41:38+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUl2cFBORUJSbWk3NUZ0T0Uwa2JsWmdnLVhDRlNkNGxVYWtmc3VDajNlcmttNUEyWFg3OGNVMjBHQ09IZTUzcVl3MVJjMFd5WHFuaHR4RjhPakRRVlduWGhWaURXRG1DUFdRa3dPVjUzdGMwSE9OaHlPUDRqLWxZbUoxd3BuR0swaXphbkt3VmM2OS1LTHFoZDBVREU4SWVJNHgySXBkZWJwVkNzNk9ldl96ZUxjcmc1M3hkRHdR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "NVIDIA's DSX POD Pushes AI Factory Construction Toward the Assembly Line - Data Center Frontier",
-      "summary": "NVIDIA's DSX POD Pushes AI Factory Construction Toward the Assembly Line Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-10-26T22:35:14+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUFhFdzVMdUZnZ2Z2WThSZmU4alJqLTFFQmJ0TEJENW5vX1BJdS1qMl9wMWczWHBLbGs1UEYyT3pfbzlYdzNQT2RzQkZTV1hRMkFBU1VPQjdzQ01ZaTJOZ2h6S1BQUXlVMTluV1dscU5VSjhFOGI3dF9tTTlIVHdHWXlkYl9xYkYxdDVsMk0zeC02MkVzTURTVmhvN0xHeXl3c09Td2d4MnNuemxjMk0wVWE1MmJBTF9tSXJRN1ZMUi1KbHl4anlxVjdhamlicUtmTklCekFldw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Flex Expands Modular Data Center Portfolio with Liquid Cooling for AI - Refindustry",
-      "summary": "Flex Expands Modular Data Center Portfolio with Liquid Cooling for AI Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-26T20:10:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMU1IQzVBTEpJT1I3ak9kTUdoZUdvRVJkbVZrOWx0d1BEWUNBNG5acDZQd253WS1qdmRvRVlHdHlGVmtsckRZdTBBaHBydW1tUlZVT3VvQWR6XzJBTFgzam0yekZQNW5MQ0E3RXBWS3p2NVdxcUx2VDVUd0ZXYmtxa0pKQUlWLU9wSnZCbXVNVDl5VVlMU2IwbEJ0RmJRa1hw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
