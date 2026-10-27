@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-27T20:21:00+08:00",
+  "updated_at": "2026-10-28T02:01:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-27T20:23:47+08:00",
+  "intel_updated_at": "2026-10-28T02:11:56+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: TimeoutError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/27 20:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/28 02:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +55,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-27 20:21 GMT+8",
+      "as_of": "2026-10-28 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2084,
+      "value": 0.2081,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +70,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-27 20:21 GMT+8",
+      "as_of": "2026-10-28 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.495,
+      "value": 36.445,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +85,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-27 20:21 GMT+8",
+      "as_of": "2026-10-28 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -186,9 +188,9 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "資料中心",
-      "move": "Schneider Electric Teams Up with Nvidia to Build AI Data Center Power Gear in as Little as 6 Months - BigGo Finance",
-      "implication": "公開情報更新於 2026-10-24T02:26:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xU0xRTElNYldOcF9ETlVEX0ZuNXZsSnNhdVhEQ2RLSDB6Q1FOTl8zNm5sN3E3UjhhSlZBeWhMNHFXN1IzSTB3ZXJRSGozTDV3ekpUMjhfQVFxQnp0V1JWMno0QTVnYmduMUJkOWNvZ1pkQTMyNmc?oc=5"
+      "move": "DCD Studio: The future of data centers with Jim Simonelli, Schneider Electric - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-10-26T22:41:38+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUl2cFBORUJSbWk3NUZ0T0Uwa2JsWmdnLVhDRlNkNGxVYWtmc3VDajNlcmttNUEyWFg3OGNVMjBHQ09IZTUzcVl3MVJjMFd5WHFuaHR4RjhPakRRVlduWGhWaURXRG1DUFdRa3dPVjUzdGMwSE9OaHlPUDRqLWxZbUoxd3BuR0swaXphbkt3VmM2OS1LTHFoZDBVREU4SWVJNHgySXBkZWJwVkNzNk9ldl96ZUxjcmc1M3hkRHdR?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -201,7 +203,7 @@
       "company": "Vertiv",
       "product": "資料中心",
       "move": "What Equinix, KLA, and Vertiv Earnings Could Signal About Data Center Demand - 24/7 Wall St.",
-      "implication": "公開情報更新於 2026-10-27T20:22:04+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "implication": "公開情報更新於 2026-10-27T20:50:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG1YbEp1Vk9GcGtISVU2TVhRYlZvRTVkNVdUajNWMjV6VEwxVi1fTGljUTJJN25RaVEzTjI2b0FSSXhIbUNnYnJPZlJCNWQ0ZnlxTDhVamk0R2hhckNOOG5WYkFocG5Kb3lXNHdhY09GNzZjdklPWXNzZ3lrcEFQZ0ZkeHFDSnpaQlVLUWk2QXNLVmM3NjU0SmNWMFYxUkZKNkZJbGRjUWd3Ykg0R0xnUFRDMzFRWFR5dHc?oc=5"
     },
     {
@@ -243,11 +245,61 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+      "summary": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications. Oracle and N",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-10-28T00:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Nidec anounces 3.2MW in-row CDU - Data Center Dynamics",
+      "summary": "Nidec anounces 3.2MW in-row CDU Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-10-27T23:42:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UXVVTmlEZGhMZWhueEZZU2NZMTNvb3J6a3YybXVfWFlHXzlRQ0J5Qm5vcUlFalZwSnRSQU1rZHFLQURDOU1IQzc4RXZoMGxrM1k1RVZoUUhjWERQLWxIVk54d2FWNDh0bWRrd3o1UEVzRFpUU19pN3dvYjhTWDg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Data Center Liquid Cooling Valves Market Companies, Size & Trends 2027-2036 - Precedence Research",
+      "summary": "Data Center Liquid Cooling Valves Market Companies, Size & Trends 2027-2036 Precedence Research",
+      "source": "Precedence Research",
+      "published_at": "2026-10-27T21:02:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWFEeGRWSWJGOU0ycVprM1VIaVM3TWZKQ1p4Y3otekZMQXd5TnY5NklVQzZlbTRlZmxtTWFkWFdVMzZpcl96TFVwYzNvTXBXOG91ZmRHaElDbkxWdUtCYV9uY3dWQ0otX0lUWndjcGpLUHJVT21KeXNWdHlyTFFodQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "What Equinix, KLA, and Vertiv Earnings Could Signal About Data Center Demand - 24/7 Wall St.",
       "summary": "What Equinix, KLA, and Vertiv Earnings Could Signal About Data Center Demand 24/7 Wall St.",
       "source": "24/7 Wall St.",
-      "published_at": "2026-10-27T20:22:04+08:00",
+      "published_at": "2026-10-27T20:50:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG1YbEp1Vk9GcGtISVU2TVhRYlZvRTVkNVdUajNWMjV6VEwxVi1fTGljUTJJN25RaVEzTjI2b0FSSXhIbUNnYnJPZlJCNWQ0ZnlxTDhVamk0R2hhckNOOG5WYkFocG5Kb3lXNHdhY09GNzZjdklPWXNzZ3lrcEFQZ0ZkeHFDSnpaQlVLUWk2QXNLVmM3NjU0SmNWMFYxUkZKNkZJbGRjUWd3Ykg0R0xnUFRDMzFRWFR5dHc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "ARC Cloud and Compal ink MOU for 100 MW AI data center capacity - ET Datacenters",
+      "summary": "ARC Cloud and Compal ink MOU for 100 MW AI data center capacity ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-27T20:08:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnRuU1NWUHpZa1ZWeU1odU1GSlpDeHo4NS1nTE4yX01HbUpweGZoVlN4RjI5OFQ2dmhrcVJtaVhhblY4TEhQR2hiaFpzM2pTUHJmOGgyUjF0REtBOUhBLVZrOVNRM0pyTV9nMzAzV1dxR2RyMnM5S0gzOV9yNlZEb3NzRHlOSjJJOE90N1BzS1ZEX2owQkRibHpxVmhvbTM2Mk9PbmsyTlhsMklBNllrMW01MWN3cmlTY0xUbUhMMUJxR0hNWmcyaGVSdEJqajExVlJQZ0dob1owaU00WHhVOUd4S3VtaHdj?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Siemens and Nvidia advance industrial AI for data center optimisation - ET Datacenters",
+      "summary": "Siemens and Nvidia advance industrial AI for data center optimisation ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-27T13:58:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbTcyVzZMcDhvOXB2U1Y3QXNPemc4dExiOTh1d0VxR2o0MXlTdlNVc3VGTExrNUk3SUV4SEJMaUxXbmlWZVJSYkRGcmRVR3B2N0ZKYXVpRGYtazlHeGJIMzFpck5QbS1vN3hiRHZCRHVyNEJqbjR4dzczbWNTTDc4Mm9FdHd6MXNNT3MxSXdjaDN6WDFJZ0cwRmZIU2pRd1Z0WDQyaHpPUXFsaXBUTHhFSHhjVkFpZUVlNTlmTWtGaUhiOWo3cnRaRVJ6eFNJMVhXQ3NrYm1aX3J0NDZMaE9BalM3Z3BvNzkwT05RcmhUYTXSAfQBQVVfeXFMUFZHSFpwbUxWOGJqWjZKZVZ2dnFjWlk5WHJIdTdXbE1LeVMwUTNhTWo0Q1lfWEhyZXFIQ3YtaXdwSVNpUllYSkNQWWgxdk5jbm9xUk9DZHRKOUthLTlFd2tEeDRCWnB4VlNmUThtdUdibE5HN0h5YmcyR1FQb0ptYVdCMzR3anF2WVpNbjYxc2ZaWHRYLXh2amZYeTBVd2pOUlZoYTQtcDJTRHVDTE1QMnN1TTdsUXN0SXY5ZDQtMmo4N0sxUmhrR0RrcldWak1BNDBtVVNsM2xDRXV6TEwxUHAzWHZWc3JCN2NjVFptTzVvVzBCYQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -283,6 +335,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "DCD Studio: The future of data centers with Jim Simonelli, Schneider Electric - Data Center Dynamics",
+      "summary": "DCD Studio: The future of data centers with Jim Simonelli, Schneider Electric Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-10-26T22:41:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUl2cFBORUJSbWk3NUZ0T0Uwa2JsWmdnLVhDRlNkNGxVYWtmc3VDajNlcmttNUEyWFg3OGNVMjBHQ09IZTUzcVl3MVJjMFd5WHFuaHR4RjhPakRRVlduWGhWaURXRG1DUFdRa3dPVjUzdGMwSE9OaHlPUDRqLWxZbUoxd3BuR0swaXphbkt3VmM2OS1LTHFoZDBVREU4SWVJNHgySXBkZWJwVkNzNk9ldl96ZUxjcmc1M3hkRHdR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "NVIDIA's DSX POD Pushes AI Factory Construction Toward the Assembly Line - Data Center Frontier",
       "summary": "NVIDIA's DSX POD Pushes AI Factory Construction Toward the Assembly Line Data Center Frontier",
       "source": "Data Center Frontier",
@@ -298,66 +360,6 @@
       "source": "Refindustry",
       "published_at": "2026-10-26T20:10:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMU1IQzVBTEpJT1I3ak9kTUdoZUdvRVJkbVZrOWx0d1BEWUNBNG5acDZQd253WS1qdmRvRVlHdHlGVmtsckRZdTBBaHBydW1tUlZVT3VvQWR6XzJBTFgzam0yekZQNW5MQ0E3RXBWS3p2NVdxcUx2VDVUd0ZXYmtxa0pKQUlWLU9wSnZCbXVNVDl5VVlMU2IwbEJ0RmJRa1hw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "What Six Months of Fluid Data Says About Aluminum in Liquid Cooling - Data Center Frontier",
-      "summary": "What Six Months of Fluid Data Says About Aluminum in Liquid Cooling Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-10-26T18:04:21+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0pQUU5HOE00X1NhRmdzSHpvcVRtdHA5UEZRbTBsM1MydzdreWhNNTYxekFTNDRlVlo0WWhnX2Ryd2VDclVFU0Z4cm1hNnpKTWRySlJPYmRwYzBlOFM0SDVqM2dfdFBuREhIYjR3Zk1ZaVROQ2dCQnJ5Z29LcW5xTGVCaG9DTks3X0hVR1MtUGZxTjlTNWpCSV9mYWtYQk9lS1NEc1EtNEVyd3cycnNjX01sbkdaNDVMQ1RfbkQyQzZRc29jZUF1eg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Boom Keeps Data Center Supply Chains Stretched To The Breaking Point - Bisnow",
-      "summary": "AI Boom Keeps Data Center Supply Chains Stretched To The Breaking Point Bisnow",
-      "source": "Bisnow",
-      "published_at": "2026-10-26T06:30:32+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWl3RHZvYUNnRDVNRXFiYTV6c3RpSFhNc1EwZVg1OHlrRTVwenhaRXBLU0JudnlHR0lwb2NpbEJZVkJIWVRTcWpLcXJPUEV0UUZqREZLbk5qTTJsSzNxNDdScjM0OGRjNExmVldMQklwNlhsOWNqS2R4SUZRZUdqeFd6VHJXd1JQbXJ4STVEUldnMnQzX2JBZFluMVM0cnNsZDZZWGo4ZG9hZWc4WjZIUUdYQ3ZZVHdYbjc4V1NETnNJVDJnaVllLWVpR2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency - Data Center Dynamics",
-      "summary": "GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-24T15:04:11+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSEVPeFFXcHF3NWk1UXR2eXE1TG83UE5DaVhTcTVtLS1uMGRwUy00Y0JtdFhRTmRuelNodTZQbGlYQVhDRHRFWm1sczh0NmRQam9tNHVvRDJZMzJtQlhWQjU5MmZMRUNkdTc5N1R1dVBnSGFTb1h3ME5sMTlaZ0FKbmsxTXNxRWczOGtYN0M2ZW96VFRkLThvc0V4MVBGMEdoM1Z3VzlXZGFsZXhnTHVERV9qZHlwSUU2bVpURVBpVTlGSk1QNFFsU0d5NGRtMXZEczY0cW5jeGxvNlZVLUZ6UHdCYk01T1F2TkdycTJmeEFGTWxtTkpVcXNVOA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "7 Best Data Center Stocks, ETFs and REITs | Investing - U.S. News - Money",
-      "summary": "7 Best Data Center Stocks, ETFs and REITs | Investing U.S. News - Money",
-      "source": "U.S. News - Money",
-      "published_at": "2026-10-24T02:46:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Schneider Electric Teams Up with Nvidia to Build AI Data Center Power Gear in as Little as 6 Months - BigGo Finance",
-      "summary": "Schneider Electric Teams Up with Nvidia to Build AI Data Center Power Gear in as Little as 6 Months BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-24T02:26:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xU0xRTElNYldOcF9ETlVEX0ZuNXZsSnNhdVhEQ2RLSDB6Q1FOTl8zNm5sN3E3UjhhSlZBeWhMNHFXN1IzSTB3ZXJRSGozTDV3ekpUMjhfQVFxQnp0V1JWMno0QTVnYmduMUJkOWNvZ1pkQTMyNmc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The AI ecosystem: How partnerships power AI infrastructure",
-      "summary": "In the not-too-distant past, data center infrastructure decisions largely centered on individual components such as racks, servers, power management, and cooling. But AI and high-performance compute (HPC) have changed that model. As compute becomes more powerf",
-      "source": "Schneider Electric Blog",
-      "published_at": "2026-10-24T02:21:40+08:00",
-      "url": "https://blog.se.com/datacenter/2026/10/23/the-ai-ecosystem-how-partnerships-power-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     }
