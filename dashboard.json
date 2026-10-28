@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-28T09:35:00+08:00",
+  "updated_at": "2026-10-28T15:19:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-28T09:36:48+08:00",
+  "intel_updated_at": "2026-10-28T15:21:27+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/28 09:35；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/10/28 15:19；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -46,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.465,
+      "value": 32.485,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -55,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-28 09:35 GMT+8",
+      "as_of": "2026-10-28 15:16 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2073,
+      "value": 0.2074,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-28 09:35 GMT+8",
+      "as_of": "2026-10-28 15:16 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.27,
+      "value": 36.26,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-28 09:35 GMT+8",
+      "as_of": "2026-10-28 15:16 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4263.0,
+      "value": 4235.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -100,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-28 09:09 GMT+8",
+      "as_of": "2026-10-28 15:19 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -202,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? - TradingView",
-      "implication": "公開情報更新於 2026-10-28T01:23:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzBNTmhPaDV3SjNnYWQ2T0ZZNXBHdWVDaDc5YjR3NTNKVnNzWDE5ck05aGNpRlVSU1NzcDBSdS0wRjBWM01CN191VDZUSk1HaFVzVEMyYWNMSE1XLTUzRGdfWWxwZDFVWWtWdmxFX1V5cmlSelNvbXFYYjhpbDB6cFVjdXdQMW1YcHlySENsNm1PRy1GZ0hoeFhWZVJSZUZ5UVFKOWljU3J0MkZMWFEtYVlYSXoxNmloZHZXSg?oc=5"
+      "move": "South Korea's KT Cloud Partners with Vertiv to Bring Modular Power and Cooling Infrastructure to Gunsan AI Data Center - BigGo Finance",
+      "implication": "公開情報更新於 2026-10-28T10:56:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hQ3lBTmVFOVg5anJQYld4cVBYMHVoT05qVGF4QklJSjJYTHFDd1I1Vko4YWQ3T24xUXNjamV4azZoVnVzY29zQWt2Rmk1Z0QyVmJEYkpCU2NzRDdoRGl0ZXBPQW8xUmhlR2dmeUFSQXdwYVd0RkE?oc=5"
     },
     {
       "company": "Boyd",
@@ -244,6 +242,36 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "South Korea's KT Cloud Partners with Vertiv to Bring Modular Power and Cooling Infrastructure to Gunsan AI Data Center - BigGo Finance",
+      "summary": "South Korea's KT Cloud Partners with Vertiv to Bring Modular Power and Cooling Infrastructure to Gunsan AI Data Center BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-28T10:56:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hQ3lBTmVFOVg5anJQYld4cVBYMHVoT05qVGF4QklJSjJYTHFDd1I1Vko4YWQ3T24xUXNjamV4azZoVnVzY29zQWt2Rmk1Z0QyVmJEYkpCU2NzRDdoRGl0ZXBPQW8xUmhlR2dmeUFSQXdwYVd0RkE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG Uplus, Ecolab Korea team up to set AI data center cooling standards - The Korea Times",
+      "summary": "LG Uplus, Ecolab Korea team up to set AI data center cooling standards The Korea Times",
+      "source": "The Korea Times",
+      "published_at": "2026-10-28T10:36:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2FNalZHcUQ1Y1FRUXgwNl9QWXMwbzB5ejJNV2w0OHE3RWhVMXN2MHo5ZFhDZm5Dc0pUbUdCSVJQcUR6S0RJTnJid1BfX2Y0TldDX0lfYXRTT1pHcHhlbFhjMmtvdUExYVVFWEYtZmNZNG9GMGxqWk5KbXY0R1g0QV9ISDlrbks3R0w1a1ljS2JuQWJHbEI5XzRQRWxOZjFJeElyVmtqNlRkVnB1SXVXY3FVVnc4aUJsSmwtLVJqOC1fV3FvSFh5anJn0gHKAUFVX3lxTE5XYU1qVkdxRDVjUVFReDA2X1BZczBvMHl6Mk1XbDQ4cTdFaFUxc3YwejlkWENmbkNzSlRtR0JJUlBxRHpLRElOcmJ3UF9fZjROV0NfSV9hdFNPWkdweGVsWGMya291QTFhVUVYRi1mY1k0b0YwbGpaTkptdjRHWDRBX0hIOWtuSzdHTDVrWWNLYm5BYkdsQjlfNFBFbE5mMUl4SXJWa2o2VGRWcHVJdVdjcVVWdzhpQmxKbC0tUmo4LV9XcW9IWHlqcmc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Setting 'liquid cooling' operating standards to keep AIDCs cool... LG Uplus Corp. teams up with Ecolab - 파이낸셜뉴스",
+      "summary": "Setting 'liquid cooling' operating standards to keep AIDCs cool... LG Uplus Corp. teams up with Ecolab 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "published_at": "2026-10-28T08:42:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiMGR4ejJZdDZlOHNFS0cxLXRFdGFHbU9WOF9fTE54TDg4RjlfOHNCaW9YTG9qb2FMMjdpZ25rSlJGS3JFTVNnVzU3R2JMcWJXV2RqOXBMYzM?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "LG Uplus to Set Liquid Cooling Standards for AI Data Centers - Seoul Economic Daily",
       "summary": "LG Uplus to Set Liquid Cooling Standards for AI Data Centers Seoul Economic Daily",
@@ -264,22 +292,22 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "LUVE Joins COLLINS Project to Develop Digital Twin for AI Data Center Cooling - Refindustry",
+      "summary": "LUVE Joins COLLINS Project to Develop Digital Twin for AI Data Center Cooling Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-10-28T07:10:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnVITUVOcXRsMEF2WElKQ0VMeFRGM0RIMExNd1NkNU12QmhPRXVQTWoxVlhOcUtxdm5nbzI5WUxiSkh0b1QzT0o5WTg5SlkxTU13cVBHUmxuMTZGWWlNSWZIZi1WZHc3MTRDVEhQdzJQVzlrX0FMY1VadTIxQVAxRkd3dEVaQ1NvY0VHVjcwLUY1S3pEUllJNWxnUFlpU1VQYnI5ZUREa3g2MGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Cooling requirements emerging for sovereign GPU data centres in India",
       "summary": "Author: Sumati Sahgal, VP, Data Centre & Secure Power, Greater India India’s sovereign-compute procurement does not explicitly mandate liquid cooling. However, cooling is increasingly tied to bid readiness for data centre operators and the partners designing t",
       "source": "Schneider Electric Blog",
       "published_at": "2026-10-28T02:43:57+08:00",
       "url": "https://blog.se.com/datacenter/2026/10/27/cooling-requirements-emerging-for-sovereign-gpu-data-centres-in-india/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? - TradingView",
-      "summary": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI? TradingView",
-      "source": "TradingView",
-      "published_at": "2026-10-28T01:23:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzBNTmhPaDV3SjNnYWQ2T0ZZNXBHdWVDaDc5YjR3NTNKVnNzWDE5ck05aGNpRlVSU1NzcDBSdS0wRjBWM01CN191VDZUSk1HaFVzVEMyYWNMSE1XLTUzRGdfWWxwZDFVWWtWdmxFX1V5cmlSelNvbXFYYjhpbDB6cFVjdXdQMW1YcHlySENsNm1PRy1GZ0hoeFhWZVJSZUZ5UVFKOWljU3J0MkZMWFEtYVlYSXoxNmloZHZXSg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -330,36 +358,6 @@
       "source": "24/7 Wall St.",
       "published_at": "2026-10-27T20:50:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG1YbEp1Vk9GcGtISVU2TVhRYlZvRTVkNVdUajNWMjV6VEwxVi1fTGljUTJJN25RaVEzTjI2b0FSSXhIbUNnYnJPZlJCNWQ0ZnlxTDhVamk0R2hhckNOOG5WYkFocG5Kb3lXNHdhY09GNzZjdklPWXNzZ3lrcEFQZ0ZkeHFDSnpaQlVLUWk2QXNLVmM3NjU0SmNWMFYxUkZKNkZJbGRjUWd3Ykg0R0xnUFRDMzFRWFR5dHc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv Acquires Ireland-Based KES to Expand Data Center Cooling Services - Refindustry",
-      "summary": "Vertiv Acquires Ireland-Based KES to Expand Data Center Cooling Services Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-27T20:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0NIekpKSU5GOWlYajBEWU5vWkNXOS1uSTJHZGNBcjFwUjdta0pjTUFWNjRLMFluaUJQZm85VmFyQmF6Z2Z2VjY2T1FGaFY4Qi1kRkl4XzdYRW05b2xmRl8tYlFDcUFvVmctRzhNVG1PZW5sSHpERk80SkVUSG9MY053WGVwVnRxRFRacUh1X2dsVWh6ZFhEenFVUHRTbWpISlVmbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv Acquires King Environmental Services to Expand Data Center Cooling Services Across EMEA - citybiz",
-      "summary": "Vertiv Acquires King Environmental Services to Expand Data Center Cooling Services Across EMEA citybiz",
-      "source": "citybiz",
-      "published_at": "2026-10-27T03:43:14+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHNybjJ5TFlhNXBjTjI0Qm4zUWxsMFNzOXNIQXpuNTVoOFVtZTdfbm04cm1pSVdJZmh2dmw4dFkxOGlKd25QbEd6akJ6SjJoc3hXa01JS1MwRE0ySkZ6cVR2VE44dFl3OG5nTGNHNktpcENNaWt4S2Jud0dhZmU4NndlTGVfa1FMTThIUHdUVjNpVDR3cFdYV2cybk5GVVBxVjE1OGtSRHRqa29TbTVBYjVSdXJXRjhhWEphTGlqM2tBSk44WGEwNGRIbHJadw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Cooler Master announces 2.5MW in-row CDU - Data Center Dynamics",
-      "summary": "Cooler Master announces 2.5MW in-row CDU Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-10-27T00:01:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORS1mdzVYVDQxbE9uYzVQWmYyVy1zYUs0QkxPZ2swU3FTaC10YXdkeWZFZTVPbHg5YmRGOVNQYmszbnNDMWItaE5CVTlhRDFiRDItTTMyb1dLcGF6cWFvdFBpLW5nWTJocERFM1NvamU0RWRxWFZuU0I1NTJjZWYzV056U3hoMFF0eVJv?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
