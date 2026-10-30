@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-30T22:17:34+08:00",
+  "intel_updated_at": "2026-10-31T03:27:58+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -279,7 +279,7 @@
       "headline": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders - BigGo Finance",
       "summary": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders BigGo Finance",
       "source": "BigGo Finance",
-      "published_at": "2026-10-30T14:41:03+08:00",
+      "published_at": "2026-10-30T14:35:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KYkZVS0YwUWF0OFg5VkdQZm1hNnJ0dDVJR0FRX01JNkhfSWFtMnpXSmhmenM0NGdPaFplVzU4LXJwMkNBNmtFU1BJdFRkcnFUSl9jMWpRZXlsZlJ6b05Rc2pfcjhoVWZwVnc4QWFmc0wtMkpBUVE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -345,22 +345,22 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Data Center Server Market Size & Forecasts Report 2025-2034 - Global Market Insights Inc.",
+      "summary": "Data Center Server Market Size & Forecasts Report 2025-2034 Global Market Insights Inc.",
+      "source": "Global Market Insights Inc.",
+      "published_at": "2026-10-29T08:33:07+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNUhiSm16TzhpdXczYU1oZEo4LUhjR0cwc1FaOHJmX1JSTDlrTm5YZTVIQkZvQzYzNVd6d2NvWmppZ0tyczJqSjVVMW9FNF9QeEZOVWtyUWxmMzZQQzJtWklSRWJqNDNKN2tRdXlNckVDNUl6OWpBSXpn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships - Refindustry",
       "summary": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships Refindustry",
       "source": "Refindustry",
       "published_at": "2026-10-29T07:15:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWlrN1UxZUw0TTBmVHhuUWlaRHY3QTRaM25sR0lHZGFEcFkzdFhyT0JtSmdrUC1MTVVIajBNTDBsNlJfRjJXd3ZoRXpWTmlWV3FWc21ZLXZJeHdsemNWREsxU3Fqdko5clJtc0pUQ05Jdl9PUjJyQTd4SU8xOE1CNXlUNHJoWHBSYUlHNFhiMm9zbjNiQ2RsM0RXMEpyaEFhM3BfTzNPcw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "L&T's Vyoma AI Builds 52 MW Data Center Near Chennai - Rediff MoneyWiz",
-      "summary": "L&T's Vyoma AI Builds 52 MW Data Center Near Chennai Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "published_at": "2026-10-29T01:31:54+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm5xQUJYZ18tRms1TFlVb0VOcWhKTkJBeXNic0p4WWZSSkpuVHlGUFFWdzFiZVNTR0tHYldVLVRmRi1EZXdBSTNRbFJBb0psT2U3RVNyWGxRTHk3YjBkQ2diU0ZFUnZLNGNxQ1hpa01YUXh0ZTdhNmdoaldZaGNQbW42RmJqRnhWbHpWMjVWVF9NemJlUElyMTlTYk1zcDczZE5HMFU4UdIBrAFBVV95cUxNRk9Ya2l5MXFGUkw5cWdPMUF2MVF0eTBkSGEySlZsRDVONXozMGpvbm5WVUIwcWcyMWh1czdCS2xlVHI0U09CclNaV2IxcEF4Snk4TExCWFBWT2NVQnlndlhXbVlpaGMyaVF0Vlc1Qm1PYy1oWHEwU2hTdFU3bUJZRk0xWnVwSWNNX0dIUUxQRXJBWGNqVzN2NzlRcmIyaUZ4X2V0eVNOekVvYllm?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
