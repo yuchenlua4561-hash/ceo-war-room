@@ -2,12 +2,15 @@
   "schema_version": "1.0",
   "updated_at": "2026-10-30T15:12:00+08:00",
   "market_status": {
-    "state": "ok",
-    "updated_sources": 2,
-    "source_failures": [],
+    "state": "fallback",
+    "updated_sources": 0,
+    "source_failures": [
+      "BOT FX: RuntimeError: Bank of Taiwan anti-bot challenge",
+      "BOT gold: RuntimeError: Bank of Taiwan anti-bot challenge"
+    ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-30T15:14:57+08:00",
+  "intel_updated_at": "2026-10-30T22:17:34+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,11 +246,61 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "‘French Door’ Cooling Comes to AI Racks - Data Center Richness | Substack",
+      "summary": "‘French Door’ Cooling Comes to AI Racks Data Center Richness | Substack",
+      "source": "Data Center Richness | Substack",
+      "published_at": "2026-10-30T19:31:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUW9XbTdWQjQwczNXV2w0S2VQUE5WM2VvX1Z0T2xqb2E0ZTVVTEc5NE9nVkg0aDBuZVU0Q3VoRS1xUEl5T19pYkhMeHM0NTVxUWxtY01oV0lNYW1XQkdES05YdnRiWGw3NG00blFMSkp3ZzU2eWZqRlpEdDl3eU1TemRtVEMzZw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Beyond Hyperscalers: Here’s the Next $1 Trillion AI Infrastructure Opportunity - I/O Fund",
+      "summary": "Beyond Hyperscalers: Here’s the Next $1 Trillion AI Infrastructure Opportunity I/O Fund",
+      "source": "I/O Fund",
+      "published_at": "2026-10-30T19:10:13+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemhlbWlfeHFIZUtnTWpWZXJDSC1JM0Q1OXhDM1BSd0Z6SlJVQ1p6OWxoam44QjI1SXNMMzZlcXVDQ0dHU2drb2xCamFqYnRDUGh6QWJJUzE5YVRwQWduY0JXeDZXRTZldlY1blV3Y3MwUVR1dXpYUWQ5RHU5QWNPRFlpVGpTeW1yNXRQZHhkMWk5UGkw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Designing Cooling for the AI Data Center - Data Center Frontier",
+      "summary": "Designing Cooling for the AI Data Center Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-10-30T18:51:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUJMNk0yaV9DeXBzcFlLU1FVY3RadllzVG10WEw0bnExSWxxX3lTUlVlQklJLUpKRDI4VnZ2cTc5aTJNYjNicHo2Y2pReUoyTlRqYVNZWVh5cER4bFh4TlVEZ2ljWlpCQTJIYzI3WEpFbVZ0TjRUNl92WGEtVzZWdUtUa1B5REl3amVnNmtRc0wtb3I5WUV6bE40bmFNXzBPYkV3dTNaVE5GbGF6?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders - BigGo Finance",
+      "summary": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-30T14:41:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KYkZVS0YwUWF0OFg5VkdQZm1hNnJ0dDVJR0FRX01JNkhfSWFtMnpXSmhmenM0NGdPaFplVzU4LXJwMkNBNmtFU1BJdFRkcnFUSl9jMWpRZXlsZlJ6b05Rc2pfcjhoVWZwVnc4QWFmc0wtMkpBUVE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Vertiv Completes $1.45 Billion Acquisition to Expand Data Center Power Solutions - Refindustry",
       "summary": "Vertiv Completes $1.45 Billion Acquisition to Expand Data Center Power Solutions Refindustry",
       "source": "Refindustry",
       "published_at": "2026-10-30T06:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzFlT1JCOUVJNVlUeXhwbkptb1k3ZnFiR29sY0JEZ1ZzMGtMM3ZzR2x0U1JpZUxnUlptM0RqanBOYktITy16TjNVaVdQeWlVVTZGZ0M4NUdMaUhiaGtkU3llWkpyY1dBNEdublgtZWx3Q3NUd0g0M2c2MHlTRHRxS0NIbGdmNkFqYnVONjg5dzkwMU1BQ3Q1WXdleTl0RmhnUlFlSUs0NUlHZXZ3Y3c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "The new data center resilience playbook - TechTarget",
+      "summary": "The new data center resilience playbook TechTarget",
+      "source": "TechTarget",
+      "published_at": "2026-10-30T05:52:24+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGdPQVFrOU80cEFkbjlBbE9aR01PRnZuZTlFU3U1QmJTblV5ZlA1ZDd2Vmh1Y25zVFVwVkFhZG5HMFZOTG5pMU9YNEJ5bFpaRXRrQTg1ai1WbE5TakRHV05hZXNCQjVQUW1Lei1hUUFqN2Z4cG9ZUDIzYUV0ZS1aRGFTcFFGQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -292,16 +345,6 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Data Center Server Market Size & Forecasts Report 2025-2034 - Global Market Insights Inc.",
-      "summary": "Data Center Server Market Size & Forecasts Report 2025-2034 Global Market Insights Inc.",
-      "source": "Global Market Insights Inc.",
-      "published_at": "2026-10-29T08:33:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNUhiSm16TzhpdXczYU1oZEo4LUhjR0cwc1FaOHJmX1JSTDlrTm5YZTVIQkZvQzYzNVd6d2NvWmppZ0tyczJqSjVVMW9FNF9QeEZOVWtyUWxmMzZQQzJtWklSRWJqNDNKN2tRdXlNckVDNUl6OWpBSXpn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships - Refindustry",
       "summary": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships Refindustry",
@@ -318,46 +361,6 @@
       "source": "Rediff MoneyWiz",
       "published_at": "2026-10-29T01:31:54+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm5xQUJYZ18tRms1TFlVb0VOcWhKTkJBeXNic0p4WWZSSkpuVHlGUFFWdzFiZVNTR0tHYldVLVRmRi1EZXdBSTNRbFJBb0psT2U3RVNyWGxRTHk3YjBkQ2diU0ZFUnZLNGNxQ1hpa01YUXh0ZTdhNmdoaldZaGNQbW42RmJqRnhWbHpWMjVWVF9NemJlUElyMTlTYk1zcDczZE5HMFU4UdIBrAFBVV95cUxNRk9Ya2l5MXFGUkw5cWdPMUF2MVF0eTBkSGEySlZsRDVONXozMGpvbm5WVUIwcWcyMWh1czdCS2xlVHI0U09CclNaV2IxcEF4Snk4TExCWFBWT2NVQnlndlhXbVlpaGMyaVF0Vlc1Qm1PYy1oWHEwU2hTdFU3bUJZRk0xWnVwSWNNX0dIUUxQRXJBWGNqVzN2NzlRcmIyaUZ4X2V0eVNOekVvYllm?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Why Is Vertiv Holdings Co (VRT) Expanding Into Grid And Liquid Cooling? - Yahoo Finance",
-      "summary": "Why Is Vertiv Holdings Co (VRT) Expanding Into Grid And Liquid Cooling? Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T23:11:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUpUSExPMGZNbGNlZFRpalFUV3Fsa1lDdVRISHhhQ1RTZTBwZmdPaXVUR2NpX05md1BEYTlhLWM4U19yWUhhcFhkakhnUjh0Y25JeFl3VENtQ29obk9sR0gza2JFVGlxQjJFWjBpTGNuOHkydllHMXI1a01wRlBtcVFTM1lfbk5JcVRpMXJScjU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "$Vertiv Holdings (VRT.US)$ data center cooling bellweather +14% pre-market, reports strong EPS --> - Moomoo",
-      "summary": "$Vertiv Holdings (VRT.US)$ data center cooling bellweather +14% pre-market, reports strong EPS --> Moomoo",
-      "source": "Moomoo",
-      "published_at": "2026-10-28T19:27:58+08:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHFuZXZsaHE0UUpueHRjU2x1SUxxUENySTBUVXpEY0ZMeFVKTkRhdkJLX3NjUmctS0JyZkVLZXNkNV9WWkNvSlFUczZBb2VZX3dhM0lvZEkyVWlNMXVxUjlqMVFxSEVaZkNhUWxNaEI0UzdGOEhxVTJRNDE0SUFTRWR3RTNYemNhNmNBOTJGT0hZQjFENU5uRGg4eEpJSW1sdGZmal9Uc0JzUUlvQjczdmNVYjBCdw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "AI Data Center Liquid Cooling System Market to Reach USD 17.79 - openPR.com",
-      "summary": "AI Data Center Liquid Cooling System Market to Reach USD 17.79 openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-10-28T19:22:28+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2huaUpxaE5XRlNCdGFXVWE4T1NmZVdjYWRUd1VadElxRVF5MnlTbmtlZzAwZWlwdGYwM0lIRXc4bGtaS3cxWk1ua0dtdmNWU3QzbXF6VVI3R2E1UVVtWUFlMjdINzhqWEo1Q1QwaW91ejlWRi01dmlBX3lFR0ZOVE5ocWE3eEtqaUV5blZrZzZScFJNcXlTLWxTU3VCeTA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics AI Data Center Cooling Orders Top 3 Trillion Won; $164.5 Million Poured Into U.S., South Korean Capacity Expansion - BigGo Finance",
-      "summary": "LG Electronics AI Data Center Cooling Orders Top 3 Trillion Won; $164.5 Million Poured Into U.S., South Korean Capacity Expansion BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-28T16:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vVTBfLUdfUG1vRGY5OEdUZEhLejd3VFFHY1htaGNXdjN3T0JiWkRFSkJxU1hmLTBQV3p4Q29HQTFHRENwM3hhLUhfQW1HNXRuNUZtMWpMNHFEOUdmRjdxUVlUSmMta3NGLTdLTlRPM2VNX3E2N2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
