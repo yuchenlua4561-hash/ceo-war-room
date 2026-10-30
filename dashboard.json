@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-31T03:27:58+08:00",
+  "intel_updated_at": "2026-10-31T07:08:22+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -276,6 +276,26 @@
     },
     {
       "category": "資料中心",
+      "headline": "【Lite-On Technology FY2026 Q3 Earnings Call】AI Data Center Demand Surges; Lite-On's Q3 EPS Hits Record NT$3.27, Up 60% Year-on-Year - finance.biggo.com",
+      "summary": "【Lite-On Technology FY2026 Q3 Earnings Call】AI Data Center Demand Surges; Lite-On's Q3 EPS Hits Record NT$3.27, Up 60% Year-on-Year finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-10-30T18:24:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14X0hBaHVaUFdYRmRPZHVkQU9HNjRLOGRsZVdZZTVObk5waWMzM1BZelVqYlpNRDNndkRYZFNpbWNfVE42Q0tZOFBVMU5XcTRWTzFkaUdrOFhBaWhGSFk1R2RB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG's AI Data Center Cooling Solutions Orders Surpass $2.5bn, Driven by Major North American Deal - Shanghai Metals Market",
+      "summary": "LG's AI Data Center Cooling Solutions Orders Surpass $2.5bn, Driven by Major North American Deal Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "published_at": "2026-10-30T15:29:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWFKWGNsNU5GUHd6WE9YSWZhc2k2b1lXNmxJaUpSNnRBdkdKY1daMnNLYlhyMnBNb1QxZGhjelhfWUNTUGxjNGxqd2htRkJZaUhnUnFyQ3ZEcE03NUFBZVJ6MHNsS3BSVWY0V2hhMFRRZ0FJRUlIaG1CUXdqZ09TNktJcG1jSnhHYldadEx3V3M1U0RQZnhSeEtwOG9hb0xmYjk1aE5EdXBYMGRKeENpLS16bFRGVi1xSnB5VXRDMHk3d3hvTkJBak9VUEF2N0FlWjVUM0lISQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders - BigGo Finance",
       "summary": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders BigGo Finance",
       "source": "BigGo Finance",
@@ -335,32 +355,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience - The Fast Mode",
-      "summary": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience The Fast Mode",
-      "source": "The Fast Mode",
-      "published_at": "2026-10-29T11:17:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZtcXI1YmluQ3N5SG5XX2x5ZTdjaDBKSnlRc2VpRkRrcXIzeURHVUlsbFJTM2dBX3RSOEdSd19UNEpkQXJPVFprWXVzYlBKUW0wRXI4Mm9oejE4WHVxWWZqY3B4bk5wYWhzV0hvVlpCQWZyY1dFcnRrQXZkMjctNFBxb3BEYkVlRWdlOGR3MmRrLUJaODZTYVJCX2FXdlNULXBDODB0RWVoUTNMNHhPSG5jb1dQdEtRenc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Server Market Size & Forecasts Report 2025-2034 - Global Market Insights Inc.",
-      "summary": "Data Center Server Market Size & Forecasts Report 2025-2034 Global Market Insights Inc.",
-      "source": "Global Market Insights Inc.",
-      "published_at": "2026-10-29T08:33:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNUhiSm16TzhpdXczYU1oZEo4LUhjR0cwc1FaOHJmX1JSTDlrTm5YZTVIQkZvQzYzNVd6d2NvWmppZ0tyczJqSjVVMW9FNF9QeEZOVWtyUWxmMzZQQzJtWklSRWJqNDNKN2tRdXlNckVDNUl6OWpBSXpn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
-      "headline": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships - Refindustry",
-      "summary": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-29T07:15:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWlrN1UxZUw0TTBmVHhuUWlaRHY3QTRaM25sR0lHZGFEcFkzdFhyT0JtSmdrUC1MTVVIajBNTDBsNlJfRjJXd3ZoRXpWTmlWV3FWc21ZLXZJeHdsemNWREsxU3Fqdko5clJtc0pUQ05Jdl9PUjJyQTd4SU8xOE1CNXlUNHJoWHBSYUlHNFhiMm9zbjNiQ2RsM0RXMEpyaEFhM3BfTzNPcw?oc=5",
+      "headline": "Aeroflex Q2 FY27 slides: liquid cooling drives record growth - Investing.com",
+      "summary": "Aeroflex Q2 FY27 slides: liquid cooling drives record growth Investing.com",
+      "source": "Investing.com",
+      "published_at": "2026-10-29T15:22:16+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMDFwZTk0S1JsS2FfYTlTVnBNLVhuaEQ1dTg0eThkbVgycFFraTF3YmZBcmpvWV9McVpabGREbmJGd29FaVpaUUJsNnlyMVg0YVVGTjN6UGVaQmROS1RRa0lpYWo2cUJFbnhSWXVYVmVzRk1mYnl1ZUdBM0hReHltOHg0dUl1a0w4UjM3V2FPd0JtNFVhandIM01GTk1sdk9LbGUzb1ZWSW9kOHNldUItYlpmZ2YwWTg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
