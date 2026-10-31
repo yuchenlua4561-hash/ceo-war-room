@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-01T02:51:40+08:00",
+  "intel_updated_at": "2026-11-01T05:57:09+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,6 +246,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "LG Electronics expands AI push, winning Korea–US data center cooling deals - Chosunbiz",
+      "summary": "LG Electronics expands AI push, winning Korea–US data center cooling deals Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-11-01T05:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydUJ1ZXh2empKU1FhM3ltQ09QTU9PalpabWNjcjE3ZFhvY1BmalVWQnUydE1KWFZPOVlvNUdQZFdkcDNGWTdGN1lQaUFDOEUyQ3Q1Wms4SGZ1VlZPSVVxSGlrbkRDanpRd0FXUlh4LWR5bDQxNmJmMW1B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "AI Data Centers Grapple with Energy Issues, Community Pressure - Design News",
       "summary": "AI Data Centers Grapple with Energy Issues, Community Pressure Design News",
       "source": "Design News",
@@ -351,16 +361,6 @@
       "source": "조선일보",
       "published_at": "2026-10-30T00:00:18+08:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRk8teTFzUmY4TXUwWmpWYXM3S2MxbVRtWUxyRVR2Z1NiTExpQ1hVLXI1QzQ3M0pCTlEzRTdwQl9UYXVGQkVHZEExNWhSZlI0TVJTNVNQUUlINzlNTDkxcWd4QklJcXA3d1IzTUsxVE9vYU1uZ0pfLURlSVpOQldMM2p0YWJydzN5?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "FläktGroup Produces First 2.5 MW DX CDU for US Data Centre - Refindustry",
-      "summary": "FläktGroup Produces First 2.5 MW DX CDU for US Data Centre Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-29T20:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHhzWjhCSTRwWDRXYl8zMVdUdEdWUXExakRLMmxnSDYxeVVJenN5cndsejVBTGZDeGZDajR3TkxhSjBQSDdFblNFQVdqWEM1VWo0eEI2WE90NmVET2pwNGhfWElCcTFCNTlBUktVVE92bWFRNElqM1dBZ2NNSDhJdmR0R3VWSGh4a1BQQjgtMkRjUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
