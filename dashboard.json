@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-31T10:28:57+08:00",
+  "intel_updated_at": "2026-10-31T16:47:11+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,6 +246,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "KAPSTO Highlights Protective Solutions for AI Data Center Cooling Components - openPR.com",
+      "summary": "KAPSTO Highlights Protective Solutions for AI Data Center Cooling Components openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-10-31T13:22:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHhGSUd2SWhyRmQ0bmJFRS0wUGNnWTRtU1lMbWZYOFJwMXhNbjczT1VidV83WTJEMS1WY3g5NDRvd3ZmUktGSER4Q2FUeVJpQTFlUlJZdzdkajY3T0tkTUc1TUlTcVZjdlYtUGpVSFVSQS1NekFidmhIQjZaMUxpd3ZOSi1EbV9aZm1NYUdUX0tOSk1vVm40eA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "‘French Door’ Cooling Comes to AI Racks - Data Center Richness | Substack",
       "summary": "‘French Door’ Cooling Comes to AI Racks Data Center Richness | Substack",
       "source": "Data Center Richness | Substack",
@@ -351,16 +361,6 @@
       "source": "Global Market Insights Inc.",
       "published_at": "2026-10-29T08:33:07+08:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNUhiSm16TzhpdXczYU1oZEo4LUhjR0cwc1FaOHJmX1JSTDlrTm5YZTVIQkZvQzYzNVd6d2NvWmppZ0tyczJqSjVVMW9FNF9QeEZOVWtyUWxmMzZQQzJtWklSRWJqNDNKN2tRdXlNckVDNUl6OWpBSXpn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships - Refindustry",
-      "summary": "Vertiv Expands Liquid Cooling Management with Dow and Solenis Partnerships Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-29T07:15:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWlrN1UxZUw0TTBmVHhuUWlaRHY3QTRaM25sR0lHZGFEcFkzdFhyT0JtSmdrUC1MTVVIajBNTDBsNlJfRjJXd3ZoRXpWTmlWV3FWc21ZLXZJeHdsemNWREsxU3Fqdko5clJtc0pUQ05Jdl9PUjJyQTd4SU8xOE1CNXlUNHJoWHBSYUlHNFhiMm9zbjNiQ2RsM0RXMEpyaEFhM3BfTzNPcw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
