@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-10-31T16:47:11+08:00",
+  "intel_updated_at": "2026-10-31T22:49:35+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,11 +246,21 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "KAPSTO Highlights Protective Solutions for AI Data Center Cooling Components - openPR.com",
-      "summary": "KAPSTO Highlights Protective Solutions for AI Data Center Cooling Components openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-10-31T13:22:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHhGSUd2SWhyRmQ0bmJFRS0wUGNnWTRtU1lMbWZYOFJwMXhNbjczT1VidV83WTJEMS1WY3g5NDRvd3ZmUktGSER4Q2FUeVJpQTFlUlJZdzdkajY3T0tkTUc1TUlTcVZjdlYtUGpVSFVSQS1NekFidmhIQjZaMUxpd3ZOSi1EbV9aZm1NYUdUX0tOSk1vVm40eA?oc=5",
+      "headline": "AI Data Centers Grapple with Energy Issues, Community Pressure - Design News",
+      "summary": "AI Data Centers Grapple with Energy Issues, Community Pressure Design News",
+      "source": "Design News",
+      "published_at": "2026-10-31T03:46:36+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjI3N1hrS2JwSE1MODRHYm1NZzV1YUlObjkzTEc0QjMyQjg5YTRsOTZLNFNSYzFNWEExaGJwMFBfSndsSnptY1c2eUswN3dyWV8teGxNTnFwakkxeS1UcWcwRHkwcVZVMGRodi1VdkN1UXMtRTZFMExRS3hoRXJIZEJYNzhhNktqb1YwUTdmOE5MWjhvSVR0ZjJjUDYyMHgxelZUczZ2eTFta09BZWt5dE1BSzNnaGNqYzBr?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "PowerBank partner leases 2 MW Ontario modular data center - ET Datacenters",
+      "summary": "PowerBank partner leases 2 MW Ontario modular data center ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-10-31T00:34:05+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUTBvWndQSmNtZDRQVll5bmFYSnhJMFJQZTdoMW9qZmxUamZRcXQ5OXM5WUYtNUtKRjM4UDBPbEQ1dEwxdWxOa0RVeFd2VWVFQ0g1ZVp4aC1DeTNtR2Vjck9IdE82cWpRVUVWY1c2NjR0aV9Zc3RTQ1lMdUwxNmRqMGk4bC1faXdDb3o3WVJKNzZ3cmN0VW9TQ3dTLUoxU3ZXN2RZWEwyQWtHTmdUWWpsQ1VtclVUekJlUU1yUllwOWFvY1JkZ1k2elc4SnF0RHp0dDU2OVNuTkpoZlBBYnRZU3o4X1BFUdIB6gFBVV95cUxQeFJyeV9qNG5SZjFVenVjS1FKazZiR3k0c3RFZjd1OFhjQWt4Mm1zSW5VT2l3eWdmWTUxb2tGdHlnQS13WnVILU50b1kteXRSR2l3Vkp1Y2NfNHNmRFhKZEVHRjBfMUgxbWctemFUOFZmajE4ME0zNXRNVUN0ZnFyUXJjd3dOeEFWemlYOF9tN0NCV0c2M1lmeTEwcGxnTHZBWDh0T0I3ZlZqYXZtQTR6Mjk1SDJSc0RuQkpvNHVWSzc3OC1TU2lya29pQ0p4NFQ0MzF3amNWSnpRblkzQTZGZjJwRlZVY3B5QWc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -281,6 +291,26 @@
       "source": "Data Center Frontier",
       "published_at": "2026-10-30T18:51:47+08:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUJMNk0yaV9DeXBzcFlLU1FVY3RadllzVG10WEw0bnExSWxxX3lTUlVlQklJLUpKRDI4VnZ2cTc5aTJNYjNicHo2Y2pReUoyTlRqYVNZWVh5cER4bFh4TlVEZ2ljWlpCQTJIYzI3WEpFbVZ0TjRUNl92WGEtVzZWdUtUa1B5REl3amVnNmtRc0wtb3I5WUV6bE40bmFNXzBPYkV3dTNaVE5GbGF6?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "【Lite-On Technology FY2026 Q3 Earnings Call】AI Data Center Demand Surges; Lite-On's Q3 EPS Hits Record NT$3.27, Up 60% Year-on-Year - finance.biggo.com",
+      "summary": "【Lite-On Technology FY2026 Q3 Earnings Call】AI Data Center Demand Surges; Lite-On's Q3 EPS Hits Record NT$3.27, Up 60% Year-on-Year finance.biggo.com",
+      "source": "finance.biggo.com",
+      "published_at": "2026-10-30T18:24:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14X0hBaHVaUFdYRmRPZHVkQU9HNjRLOGRsZVdZZTVObk5waWMzM1BZelVqYlpNRDNndkRYZFNpbWNfVE42Q0tZOFBVMU5XcTRWTzFkaUdrOFhBaWhGSFk1R2RB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG's AI Data Center Cooling Solutions Orders Surpass $2.5bn, Driven by Major North American Deal - Shanghai Metals Market",
+      "summary": "LG's AI Data Center Cooling Solutions Orders Surpass $2.5bn, Driven by Major North American Deal Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "published_at": "2026-10-30T15:29:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWFKWGNsNU5GUHd6WE9YSWZhc2k2b1lXNmxJaUpSNnRBdkdKY1daMnNLYlhyMnBNb1QxZGhjelhfWUNTUGxjNGxqd2htRkJZaUhnUnFyQ3ZEcE03NUFBZVJ6MHNsS3BSVWY0V2hhMFRRZ0FJRUlIaG1CUXdqZ09TNktJcG1jSnhHYldadEx3V3M1U0RQZnhSeEtwOG9hb0xmYjk1aE5EdXBYMGRKeENpLS16bFRGVi1xSnB5VXRDMHk3d3hvTkJBak9VUEF2N0FlWjVUM0lISQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -331,36 +361,6 @@
       "source": "Refindustry",
       "published_at": "2026-10-29T20:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHhzWjhCSTRwWDRXYl8zMVdUdEdWUXExakRLMmxnSDYxeVVJenN5cndsejVBTGZDeGZDajR3TkxhSjBQSDdFblNFQVdqWEM1VWo0eEI2WE90NmVET2pwNGhfWElCcTFCNTlBUktVVE92bWFRNElqM1dBZ2NNSDhJdmR0R3VWSGh4a1BQQjgtMkRjUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Keeping servers cool: selecting a motor for liquid cooling pump systems - Engineers Ireland",
-      "summary": "Keeping servers cool: selecting a motor for liquid cooling pump systems Engineers Ireland",
-      "source": "Engineers Ireland",
-      "published_at": "2026-10-29T19:51:17+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXdaVlZ2bjZZbFdGNk1aeExXa2hWdnV2dXJNMTNNY1hHckt1S29QemdyVF9aX3lhMEozcXI1RUlqb0NDRG1jNTFuUm1JeDByNTQ2LVBjQ3hCMF8zZk5mVFMzNkpqeXJ0UnBBekRzSEl4Zm5Rc3lRV29TNjVSRTZzM0M2NnJ5Z292Rm9jYk1QODJoUTQ1Si1DZkZsMlFQTGZWQzFoT1ZiYjRqd2dBQWFpbndpSXZJdDlrdmc4OTFycGl4VFpPaXJnLXJTVC1rbWxO?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience - The Fast Mode",
-      "summary": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience The Fast Mode",
-      "source": "The Fast Mode",
-      "published_at": "2026-10-29T11:17:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZtcXI1YmluQ3N5SG5XX2x5ZTdjaDBKSnlRc2VpRkRrcXIzeURHVUlsbFJTM2dBX3RSOEdSd19UNEpkQXJPVFprWXVzYlBKUW0wRXI4Mm9oejE4WHVxWWZqY3B4bk5wYWhzV0hvVlpCQWZyY1dFcnRrQXZkMjctNFBxb3BEYkVlRWdlOGR3MmRrLUJaODZTYVJCX2FXdlNULXBDODB0RWVoUTNMNHhPSG5jb1dQdEtRenc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Server Market Size & Forecasts Report 2025-2034 - Global Market Insights Inc.",
-      "summary": "Data Center Server Market Size & Forecasts Report 2025-2034 Global Market Insights Inc.",
-      "source": "Global Market Insights Inc.",
-      "published_at": "2026-10-29T08:33:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNUhiSm16TzhpdXczYU1oZEo4LUhjR0cwc1FaOHJmX1JSTDlrTm5YZTVIQkZvQzYzNVd6d2NvWmppZ0tyczJqSjVVMW9FNF9QeEZOVWtyUWxmMzZQQzJtWklSRWJqNDNKN2tRdXlNckVDNUl6OWpBSXpn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
