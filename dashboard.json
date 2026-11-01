@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-01T22:27:30+08:00",
+  "intel_updated_at": "2026-11-02T03:07:29+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -325,19 +325,9 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "The new data center resilience playbook - TechTarget",
-      "summary": "The new data center resilience playbook TechTarget",
-      "source": "TechTarget",
-      "published_at": "2026-10-30T05:52:24+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGdPQVFrOU80cEFkbjlBbE9aR01PRnZuZTlFU3U1QmJTblV5ZlA1ZDd2Vmh1Y25zVFVwVkFhZG5HMFZOTG5pMU9YNEJ5bFpaRXRrQTg1ai1WbE5TakRHV05hZXNCQjVQUW1Lei1hUUFqN2Z4cG9ZUDIzYUV0ZS1aRGFTcFFGQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
-      "headline": "LG CNS Builds AI Data Centers With Next-Gen Liquid Cooling - 조선일보",
-      "summary": "LG CNS Builds AI Data Centers With Next-Gen Liquid Cooling 조선일보",
+      "headline": "LG CNS Advances AI Infrastructure with Next-Gen Liquid Cooling - 조선일보",
+      "summary": "LG CNS Advances AI Infrastructure with Next-Gen Liquid Cooling 조선일보",
       "source": "조선일보",
       "published_at": "2026-10-30T00:00:18+08:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRk8teTFzUmY4TXUwWmpWYXM3S2MxbVRtWUxyRVR2Z1NiTExpQ1hVLXI1QzQ3M0pCTlEzRTdwQl9UYXVGQkVHZEExNWhSZlI0TVJTNVNQUUlINzlNTDkxcWd4QklJcXA3d1IzTUsxVE9vYU1uZ0pfLURlSVpOQldMM2p0YWJydzN5?oc=5",
@@ -361,6 +351,16 @@
       "source": "Engineers Ireland",
       "published_at": "2026-10-29T19:51:17+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXdaVlZ2bjZZbFdGNk1aeExXa2hWdnV2dXJNMTNNY1hHckt1S29QemdyVF9aX3lhMEozcXI1RUlqb0NDRG1jNTFuUm1JeDByNTQ2LVBjQ3hCMF8zZk5mVFMzNkpqeXJ0UnBBekRzSEl4Zm5Rc3lRV29TNjVSRTZzM0M2NnJ5Z292Rm9jYk1QODJoUTQ1Si1DZkZsMlFQTGZWQzFoT1ZiYjRqd2dBQWFpbndpSXZJdDlrdmc4OTFycGl4VFpPaXJnLXJTVC1rbWxO?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Kiturami drives Korea industrial cooling from AI data centers to nuclear and waste heat - Chosunbiz",
+      "summary": "Kiturami drives Korea industrial cooling from AI data centers to nuclear and waste heat Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-10-29T16:29:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdXZWSVBjSHAtakpmQnZmcmN2YTBWSDI2OTlVdmxqb0Q3QmxlMXhPMFhOUTRMY3h2RW1xTkZEbjMtcTg2Y2cwOEdvSFBsNnZ4UnhIUnZQMTlLTkpHaDJ0QTUtc3NLWHEyUVVlRnQtcVdVVjU2eGozN1lRZzdaaUUzN2JB0gGWAUFVX3lxTE9RTVhCNW4wQkNuWU5yRTY4bjlFeTZETTRrYWZ5ZFp5QjhxTVpNeTdkMFZCaHkzRm83T3c4R0RQV0dFWEp6QkRBZHlWNG9iZmVGWDBKc09MNzZreEl2R1VfQVNmRXc3WVgxc2oyYzUzRndsbTFUSmZsMlVMQ1Y0NWlyQWtvMTNxcmNlYXBUN0VSRnlnNTdXdw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
