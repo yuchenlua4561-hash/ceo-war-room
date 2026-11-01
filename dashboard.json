@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-01T05:57:09+08:00",
+  "intel_updated_at": "2026-11-01T08:58:16+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -250,7 +250,17 @@
       "summary": "LG Electronics expands AI push, winning Korea–US data center cooling deals Chosunbiz",
       "source": "Chosunbiz",
       "published_at": "2026-11-01T05:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydUJ1ZXh2empKU1FhM3ltQ09QTU9PalpabWNjcjE3ZFhvY1BmalVWQnUydE1KWFZPOVlvNUdQZFdkcDNGWTdGN1lQaUFDOEUyQ3Q1Wms4SGZ1VlZPSVVxSGlrbkRDanpRd0FXUlh4LWR5bDQxNmJmMW1B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmsxbC00cFl5R2RKeXV3M2VxWHhnS0FkVUtNb2pBTUl6NDVJSUxpSFNWaFJzcnlpV3FTS1pjT20zRHRDSGlLNlkwLVp4V1hCUnZ4VnRHdjZkSW9YZVU1bHUyb3dTOFc3Wl9FbG13S2Jtb09rekVHekNlSmlaMml6cE42X3h5Z3A0NFF0WV9B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KAPSTO Highlights Protective Solutions for AI Data Center Cooling Components - openPR.com",
+      "summary": "KAPSTO Highlights Protective Solutions for AI Data Center Cooling Components openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-10-31T13:22:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHhGSUd2SWhyRmQ0bmJFRS0wUGNnWTRtU1lMbWZYOFJwMXhNbjczT1VidV83WTJEMS1WY3g5NDRvd3ZmUktGSER4Q2FUeVJpQTFlUlJZdzdkajY3T0tkTUc1TUlTcVZjdlYtUGpVSFVSQS1NekFidmhIQjZaMUxpd3ZOSi1EbV9aZm1NYUdUX0tOSk1vVm40eA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -266,16 +276,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "PowerBank partner leases 2 MW Ontario modular data center - ET Datacenters",
-      "summary": "PowerBank partner leases 2 MW Ontario modular data center ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-10-31T00:34:05+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUTBvWndQSmNtZDRQVll5bmFYSnhJMFJQZTdoMW9qZmxUamZRcXQ5OXM5WUYtNUtKRjM4UDBPbEQ1dEwxdWxOa0RVeFd2VWVFQ0g1ZVp4aC1DeTNtR2Vjck9IdE82cWpRVUVWY1c2NjR0aV9Zc3RTQ1lMdUwxNmRqMGk4bC1faXdDb3o3WVJKNzZ3cmN0VW9TQ3dTLUoxU3ZXN2RZWEwyQWtHTmdUWWpsQ1VtclVUekJlUU1yUllwOWFvY1JkZ1k2elc4SnF0RHp0dDU2OVNuTkpoZlBBYnRZU3o4X1BFUdIB6gFBVV95cUxQeFJyeV9qNG5SZjFVenVjS1FKazZiR3k0c3RFZjd1OFhjQWt4Mm1zSW5VT2l3eWdmWTUxb2tGdHlnQS13WnVILU50b1kteXRSR2l3Vkp1Y2NfNHNmRFhKZEVHRjBfMUgxbWctemFUOFZmajE4ME0zNXRNVUN0ZnFyUXJjd3dOeEFWemlYOF9tN0NCV0c2M1lmeTEwcGxnTHZBWDh0T0I3ZlZqYXZtQTR6Mjk1SDJSc0RuQkpvNHVWSzc3OC1TU2lya29pQ0p4NFQ0MzF3amNWSnpRblkzQTZGZjJwRlZVY3B5QWc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "‘French Door’ Cooling Comes to AI Racks - Data Center Richness | Substack",
       "summary": "‘French Door’ Cooling Comes to AI Racks Data Center Richness | Substack",
       "source": "Data Center Richness | Substack",
@@ -286,8 +286,8 @@
     },
     {
       "category": "資料中心",
-      "headline": "Beyond Hyperscalers: Here’s the Next $1 Trillion AI Infrastructure Opportunity - I/O Fund",
-      "summary": "Beyond Hyperscalers: Here’s the Next $1 Trillion AI Infrastructure Opportunity I/O Fund",
+      "headline": "Beyond Hyperscalers: The Next $1 Trillion AI Infrastructure Opportunity - I/O Fund",
+      "summary": "Beyond Hyperscalers: The Next $1 Trillion AI Infrastructure Opportunity I/O Fund",
       "source": "I/O Fund",
       "published_at": "2026-10-30T19:10:13+08:00",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemhlbWlfeHFIZUtnTWpWZXJDSC1JM0Q1OXhDM1BSd0Z6SlJVQ1p6OWxoam44QjI1SXNMMzZlcXVDQ0dHU2drb2xCamFqYnRDUGh6QWJJUzE5YVRwQWduY0JXeDZXRTZldlY1blV3Y3MwUVR1dXpYUWQ5RHU5QWNPRFlpVGpTeW1yNXRQZHhkMWk5UGkw?oc=5",
