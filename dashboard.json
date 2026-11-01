@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-02T03:07:29+08:00",
+  "intel_updated_at": "2026-11-02T06:53:42+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -296,16 +296,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "LG's AI Data Center Cooling Solutions Orders Surpass $2.5bn, Driven by Major North American Deal - Shanghai Metals Market",
-      "summary": "LG's AI Data Center Cooling Solutions Orders Surpass $2.5bn, Driven by Major North American Deal Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "published_at": "2026-10-30T15:29:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWFKWGNsNU5GUHd6WE9YSWZhc2k2b1lXNmxJaUpSNnRBdkdKY1daMnNLYlhyMnBNb1QxZGhjelhfWUNTUGxjNGxqd2htRkJZaUhnUnFyQ3ZEcE03NUFBZVJ6MHNsS3BSVWY0V2hhMFRRZ0FJRUlIaG1CUXdqZ09TNktJcG1jSnhHYldadEx3V3M1U0RQZnhSeEtwOG9hb0xmYjk1aE5EdXBYMGRKeENpLS16bFRGVi1xSnB5VXRDMHk3d3hvTkJBak9VUEF2N0FlWjVUM0lISQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders - BigGo Finance",
       "summary": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders BigGo Finance",
       "source": "BigGo Finance",
@@ -361,6 +351,16 @@
       "source": "Chosunbiz",
       "published_at": "2026-10-29T16:29:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdXZWSVBjSHAtakpmQnZmcmN2YTBWSDI2OTlVdmxqb0Q3QmxlMXhPMFhOUTRMY3h2RW1xTkZEbjMtcTg2Y2cwOEdvSFBsNnZ4UnhIUnZQMTlLTkpHaDJ0QTUtc3NLWHEyUVVlRnQtcVdVVjU2eGozN1lRZzdaaUUzN2JB0gGWAUFVX3lxTE9RTVhCNW4wQkNuWU5yRTY4bjlFeTZETTRrYWZ5ZFp5QjhxTVpNeTdkMFZCaHkzRm83T3c4R0RQV0dFWEp6QkRBZHlWNG9iZmVGWDBKc09MNzZreEl2R1VfQVNmRXc3WVgxc2oyYzUzRndsbTFUSmZsMlVMQ1Y0NWlyQWtvMTNxcmNlYXBUN0VSRnlnNTdXdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience - The Fast Mode",
+      "summary": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience The Fast Mode",
+      "source": "The Fast Mode",
+      "published_at": "2026-10-29T11:17:22+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZtcXI1YmluQ3N5SG5XX2x5ZTdjaDBKSnlRc2VpRkRrcXIzeURHVUlsbFJTM2dBX3RSOEdSd19UNEpkQXJPVFprWXVzYlBKUW0wRXI4Mm9oejE4WHVxWWZqY3B4bk5wYWhzV0hvVlpCQWZyY1dFcnRrQXZkMjctNFBxb3BEYkVlRWdlOGR3MmRrLUJaODZTYVJCX2FXdlNULXBDODB0RWVoUTNMNHhPSG5jb1dQdEtRenc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
