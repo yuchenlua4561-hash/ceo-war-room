@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-02T06:53:42+08:00",
+  "intel_updated_at": "2026-11-02T10:21:00+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -202,10 +202,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "資料中心",
-      "move": "Vertiv Completes $1.45 Billion Acquisition to Expand Data Center Power Solutions - Refindustry",
-      "implication": "公開情報更新於 2026-10-30T06:30:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzFlT1JCOUVJNVlUeXhwbkptb1k3ZnFiR29sY0JEZ1ZzMGtMM3ZzR2x0U1JpZUxnUlptM0RqanBOYktITy16TjNVaVdQeWlVVTZGZ0M4NUdMaUhiaGtkU3llWkpyY1dBNEdublgtZWx3Q3NUd0g0M2c2MHlTRHRxS0NIbGdmNkFqYnVONjg5dzkwMU1BQ3Q1WXdleTl0RmhnUlFlSUs0NUlHZXZ3Y3c?oc=5"
+      "product": "液冷散熱",
+      "move": "Vertiv Introduces SmartIT Platform with Liquid Cooling for AI Data Centers - Refindustry",
+      "implication": "公開情報更新於 2026-11-02T06:50:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONm9GU2JjdVd2ZUpNQlRZSHZvdnV4eE40YWRNeVBUd1B0a1JlVUs0MUl0VE9EU2IyVExQRzROLWJjVUdlTmszcG1NeVFUdkZYWmJreVhLNzlFekJCREpDZmxVT0ZpZ01sb2dKWVlEYWphTWdMLXJiSUJ2OUFpQ2dEUHNPaUoyVlpGNUhMMXNqd3BkaTVLUEZBU0VGS3N6RHpDU2lNZWxsbw?oc=5"
     },
     {
       "company": "Boyd",
@@ -246,11 +246,51 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "LG CNS completes 30-MW AI data center in Indonesia - The Korea Times",
+      "summary": "LG CNS completes 30-MW AI data center in Indonesia The Korea Times",
+      "source": "The Korea Times",
+      "published_at": "2026-11-02T09:26:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGV3bUp5MVFISWZLZGZmTTZrbHAzb2dIeDZGbm43WjR0aVB3Smw3UzJhUnFlTG9jdzhuV3hDbFNNX2NYblVoRkFqVUNKOVhna2FfTkZta0U4dkxOSTAwSVRnZmlfUjUyWGxzT1hjQTA5bVpWbFFPX2wxV3Z3eGM1OVUyalRHTU8wZGxUU3Q0X1N2b0Nucy1icTFpUzJKd2xyTmdOaDRlWWxXcFHSAbABQVVfeXFMTWw2N0NzcWxnNkhVMVlfQ05EWUNuUFRMV1MwNUdycjRhRm56R3liWHBSTHhhd3k1YjhwQlhMVi0wR1dublV4UXg3MEZ4NHNqc3pmdW8zRjZrQVdJcXJFelFxNzRDYnNJaTVNZ1pZazNLX1BHSzVXYTZnUmlMOWRpNWMzb2YwRmk4RVJxT29xckY2dW9GZmFwVVhjVFh4eWptQmxyWlBPcURCQVFfZFpSalk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG CNS completes AI data center in Indonesia, marking first overseas build by a Korean company - 파이낸셜뉴스",
+      "summary": "LG CNS completes AI data center in Indonesia, marking first overseas build by a Korean company 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "published_at": "2026-11-02T09:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xbEZUVGpHUVRFajBnNVpnT2xHZnB0dlJvMktUME9pYmRDZHMwcGhFRXJ0VjViWlRfMmhmckpwbk94em9ROFN4aTFlckdrYzFfd2JDZ2hSS3Y?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Daikin Introduces Coolant Distribution Unit for AI Data Center Cooling - Refindustry",
+      "summary": "Daikin Introduces Coolant Distribution Unit for AI Data Center Cooling Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-11-02T07:20:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnhzdUVfcmlIWkhaZHVZMXZxcHhfUjNWUFBJdnM4cnVSNk01ZE1NZjdRUmNSdURsVHh2ZGNYcFgzSUpEb3V4YkVoOVI1MEIyR3AyUnFqbXdzNWlUaTFFUEFHaWpBSHU0NFpCYmU3UU9iRzk5dm9ONDZkb3lMUXlJdnZDanhfclJVczU4MWVJNmFmdk9IUHdXX2psUzhxS2VzdlE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Vertiv Introduces SmartIT Platform with Liquid Cooling for AI Data Centers - Refindustry",
+      "summary": "Vertiv Introduces SmartIT Platform with Liquid Cooling for AI Data Centers Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-11-02T06:50:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONm9GU2JjdVd2ZUpNQlRZSHZvdnV4eE40YWRNeVBUd1B0a1JlVUs0MUl0VE9EU2IyVExQRzROLWJjVUdlTmszcG1NeVFUdkZYWmJreVhLNzlFekJCREpDZmxVT0ZpZ01sb2dKWVlEYWphTWdMLXJiSUJ2OUFpQ2dEUHNPaUoyVlpGNUhMMXNqd3BkaTVLUEZBU0VGS3N6RHpDU2lNZWxsbw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "LG Electronics expands AI push, winning Korea–US data center cooling deals - Chosunbiz",
       "summary": "LG Electronics expands AI push, winning Korea–US data center cooling deals Chosunbiz",
       "source": "Chosunbiz",
       "published_at": "2026-11-01T05:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydUJ1ZXh2empKU1FhM3ltQ09QTU9PalpabWNjcjE3ZFhvY1BmalVWQnUydE1KWFZPOVlvNUdQZFdkcDNGWTdGN1lQaUFDOEUyQ3Q1Wms4SGZ1VlZPSVVxSGlrbkRDanpRd0FXUlh4LWR5bDQxNmJmMW1B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmsxbC00cFl5R2RKeXV3M2VxWHhnS0FkVUtNb2pBTUl6NDVJSUxpSFNWaFJzcnlpV3FTS1pjT20zRHRDSGlLNlkwLVp4V1hCUnZ4VnRHdjZkSW9YZVU1bHUyb3dTOFc3Wl9FbG13S2Jtb09rekVHekNlSmlaMml6cE42X3h5Z3A0NFF0WV9B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -296,6 +336,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Why 800V DC Is Reshaping AI Data Center Power - Environmental Leader",
+      "summary": "Why 800V DC Is Reshaping AI Data Center Power Environmental Leader",
+      "source": "Environmental Leader",
+      "published_at": "2026-10-30T15:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3JxQkdmakdDSDZBYUpZY0V3Z3lNMUMtYTMtSlduMlRwVGdLRW9KY0R3YnVBT3pBeDhrLUlrVHRYamNnQi1fb1YySXo3MDFZb0RIY0FCR0t1VHc5RWJsTGhRbHNjQUdWd091bnJXbE9XV0dTVlJUbndwN2lnSnRGZWZSaHU1UnFjd0M4Ukw2cUU4RnZ6WWs2WDJsVXp2UDNTaGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders - BigGo Finance",
       "summary": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders BigGo Finance",
       "source": "BigGo Finance",
@@ -311,56 +361,6 @@
       "source": "Refindustry",
       "published_at": "2026-10-30T06:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzFlT1JCOUVJNVlUeXhwbkptb1k3ZnFiR29sY0JEZ1ZzMGtMM3ZzR2x0U1JpZUxnUlptM0RqanBOYktITy16TjNVaVdQeWlVVTZGZ0M4NUdMaUhiaGtkU3llWkpyY1dBNEdublgtZWx3Q3NUd0g0M2c2MHlTRHRxS0NIbGdmNkFqYnVONjg5dzkwMU1BQ3Q1WXdleTl0RmhnUlFlSUs0NUlHZXZ3Y3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "LG CNS Advances AI Infrastructure with Next-Gen Liquid Cooling - 조선일보",
-      "summary": "LG CNS Advances AI Infrastructure with Next-Gen Liquid Cooling 조선일보",
-      "source": "조선일보",
-      "published_at": "2026-10-30T00:00:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRk8teTFzUmY4TXUwWmpWYXM3S2MxbVRtWUxyRVR2Z1NiTExpQ1hVLXI1QzQ3M0pCTlEzRTdwQl9UYXVGQkVHZEExNWhSZlI0TVJTNVNQUUlINzlNTDkxcWd4QklJcXA3d1IzTUsxVE9vYU1uZ0pfLURlSVpOQldMM2p0YWJydzN5?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "FläktGroup Produces First 2.5 MW DX CDU for US Data Centre - Refindustry",
-      "summary": "FläktGroup Produces First 2.5 MW DX CDU for US Data Centre Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-29T20:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHhzWjhCSTRwWDRXYl8zMVdUdEdWUXExakRLMmxnSDYxeVVJenN5cndsejVBTGZDeGZDajR3TkxhSjBQSDdFblNFQVdqWEM1VWo0eEI2WE90NmVET2pwNGhfWElCcTFCNTlBUktVVE92bWFRNElqM1dBZ2NNSDhJdmR0R3VWSGh4a1BQQjgtMkRjUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Keeping servers cool: selecting a motor for liquid cooling pump systems - Engineers Ireland",
-      "summary": "Keeping servers cool: selecting a motor for liquid cooling pump systems Engineers Ireland",
-      "source": "Engineers Ireland",
-      "published_at": "2026-10-29T19:51:17+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXdaVlZ2bjZZbFdGNk1aeExXa2hWdnV2dXJNMTNNY1hHckt1S29QemdyVF9aX3lhMEozcXI1RUlqb0NDRG1jNTFuUm1JeDByNTQ2LVBjQ3hCMF8zZk5mVFMzNkpqeXJ0UnBBekRzSEl4Zm5Rc3lRV29TNjVSRTZzM0M2NnJ5Z292Rm9jYk1QODJoUTQ1Si1DZkZsMlFQTGZWQzFoT1ZiYjRqd2dBQWFpbndpSXZJdDlrdmc4OTFycGl4VFpPaXJnLXJTVC1rbWxO?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Kiturami drives Korea industrial cooling from AI data centers to nuclear and waste heat - Chosunbiz",
-      "summary": "Kiturami drives Korea industrial cooling from AI data centers to nuclear and waste heat Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-10-29T16:29:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdXZWSVBjSHAtakpmQnZmcmN2YTBWSDI2OTlVdmxqb0Q3QmxlMXhPMFhOUTRMY3h2RW1xTkZEbjMtcTg2Y2cwOEdvSFBsNnZ4UnhIUnZQMTlLTkpHaDJ0QTUtc3NLWHEyUVVlRnQtcVdVVjU2eGozN1lRZzdaaUUzN2JB0gGWAUFVX3lxTE9RTVhCNW4wQkNuWU5yRTY4bjlFeTZETTRrYWZ5ZFp5QjhxTVpNeTdkMFZCaHkzRm83T3c4R0RQV0dFWEp6QkRBZHlWNG9iZmVGWDBKc09MNzZreEl2R1VfQVNmRXc3WVgxc2oyYzUzRndsbTFUSmZsMlVMQ1Y0NWlyQWtvMTNxcmNlYXBUN0VSRnlnNTdXdw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience - The Fast Mode",
-      "summary": "Seeing Heat: Why Thermal Imaging Is Critical to Data Center Resilience The Fast Mode",
-      "source": "The Fast Mode",
-      "published_at": "2026-10-29T11:17:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZtcXI1YmluQ3N5SG5XX2x5ZTdjaDBKSnlRc2VpRkRrcXIzeURHVUlsbFJTM2dBX3RSOEdSd19UNEpkQXJPVFprWXVzYlBKUW0wRXI4Mm9oejE4WHVxWWZqY3B4bk5wYWhzV0hvVlpCQWZyY1dFcnRrQXZkMjctNFBxb3BEYkVlRWdlOGR3MmRrLUJaODZTYVJCX2FXdlNULXBDODB0RWVoUTNMNHhPSG5jb1dQdEtRenc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
