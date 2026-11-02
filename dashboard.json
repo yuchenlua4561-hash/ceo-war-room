@@ -10,11 +10,13 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-02T17:39:37+08:00",
+  "intel_updated_at": "2026-11-03T03:49:09+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -245,6 +247,56 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "OCP 2026: Cooler Master Scales Liquid Cooling from Cold Plates to 2.5 MW CDUs - Data Center Frontier",
+      "summary": "OCP 2026: Cooler Master Scales Liquid Cooling from Cold Plates to 2.5 MW CDUs Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-11-03T01:07:59+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd2FBZkQwcUY2M2hrZGZmY0xZNWJ4eDdXMjhxbUtIN3ZLRERSZnRSb0EwekZBYjFUVkN5LXdjUmk3cE1GRzJlb1RWX3hqTDJsdXMxN1QyX25pcTAyVkJsaHFmMl9zbEJUM01GTUYzblZreUVuNng3ejY3STZsWE5GNW1kSlFKR25BQjJJVzFhV09EellaYnB5d2dVTEl0T0V2S2ZvX0NIbWFBQ2pwRDc0YllaRmFCbFNydDc5VFdvLWFiWjRUM1g3Rzh6Y3NhRzJI?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Liquid Cooling Retrofits: Hard, but Sometimes Worth It - Data Center Knowledge",
+      "summary": "Liquid Cooling Retrofits: Hard, but Sometimes Worth It Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "published_at": "2026-11-03T00:55:26+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU21ObEZjVjg5a2VmNm15NXBZMG91eDYtN05BbDlDVEQ0akxEV0RrUjlEdzFQTVplb3JnNGw4N25VS3czcE5ZSmplZ3pDbDVTVDRLOFhYUDZRc01KeXpMcFpwVXFBYnR2N1FiYmFBSmQ2NlFIbGNITDVicHdsTkZvZHUyQW1JeVdnTURDNXhxaGZxQ0VfZ1FsQW9WNzc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Franklin Electric upgraded at D.A. Davidson on AI data center, rare-earths growth - TradingView",
+      "summary": "Franklin Electric upgraded at D.A. Davidson on AI data center, rare-earths growth TradingView",
+      "source": "TradingView",
+      "published_at": "2026-11-02T23:44:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX1ljTnAzVHhUempkNkpJSW5kdTZ2UTBxSE1iVFFRZGc5RzByYnhWUHIwLWhWOElncTZiZjBabXVTQzNFVkV6MlFKcEFod3dhdF9zM3ZERkJsQXJIbE9ZbXVhbk55VzZHNGRLejJlTU4tOFF6MjZFSFVjZmM2OHJycGZwX25oQTN3ZXNOSGtrcjdIVExXUmFiRlplSzl3dnJIRWFBZDJxQmlnMmJGRVlNY1BCYWNfTUF5aDBvZFVpZnFLTVlYYTN4VDNTTFphVGVwRWdEY2VNWUd6Zw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Can FLEX's EPC Power Deal Deepen Its AI Data Center Growth Advantage? - TradingView",
+      "summary": "Can FLEX's EPC Power Deal Deepen Its AI Data Center Growth Advantage? TradingView",
+      "source": "TradingView",
+      "published_at": "2026-11-02T23:33:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3hoYlA2NUhSTFczUFV3Q29OdGJ3WTdJakNvTjk2Rmxxak1hTUwxU2RSQXhudXo3amppUVVkUjlLNndJbGdxbHVXTF9LTEdOWUVrYmFZMkh1MVB5R1ZhZk5xRk5KZ2c5a1hDVm41MFFselVzXzhfWENQV3djbTR4Umt4QWpmWjN6RUxHRU9QTXNZUGNQTUdYSXMyQjlFR1BMd1NGblE5ZUlCV01wZVU3NjdmR3JPLTQtOTlCZHoyckp3Zw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Why Is 3M (NYSE:MMM) Becoming An AI Data Center Player? - Kalkine Media",
+      "summary": "Why Is 3M (NYSE:MMM) Becoming An AI Data Center Player? Kalkine Media",
+      "source": "Kalkine Media",
+      "published_at": "2026-11-02T20:28:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeGRBM25hVWpZbHMzZE1kanpFQUJLY2JreFlmNFFwbHlJVEFPR0sxRDZReG8zYllwRnJlTU9XQXFuS3hJZXg2dDNWWnd5NEh0UTZidkxRWjJBaGFsSVktaWFEX1VULXdaSWlhNjhTOWFpZ0xDYmlxOGFhcU9sMmJqSXlpNW5YYWRSUDgtb3BCNmNWMTQzOG9tUjVYWkliUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Can Vertiv (NYSE:VRT) Keep Its Data Center Surge Going? - Kalkine Media",
       "summary": "Can Vertiv (NYSE:VRT) Keep Its Data Center Surge Going? Kalkine Media",
@@ -276,21 +328,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "LG CNS Completes 30MW AI Data Center in Jakarta, Indonesia — First Overseas Build by a South Korean Company - BigGo Finance",
-      "summary": "LG CNS Completes 30MW AI Data Center in Jakarta, Indonesia — First Overseas Build by a South Korean Company BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-11-02T09:26:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ld1lsT0U0MHlKNXdPdG5PRjNiTVlhS1JmaGJPaVZfT0M4YnlURUlvLWozVWVQZkJoM3h6NXlxLUE2VklIa0UzaVUxTWM1dlhxVWJqeG9TczdiX25sNkF4MVkzV3cweFI3bERFajlJNjAxWlRfQ3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG CNS completes AI data center in Indonesia, marking first overseas build by a Korean company - 파이낸셜뉴스",
-      "summary": "LG CNS completes AI data center in Indonesia, marking first overseas build by a Korean company 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
-      "published_at": "2026-11-02T09:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xbEZUVGpHUVRFajBnNVpnT2xHZnB0dlJvMktUME9pYmRDZHMwcGhFRXJ0VjViWlRfMmhmckpwbk94em9ROFN4aTFlckdrYzFfd2JDZ2hSS3Y?oc=5",
+      "headline": "K Data Centers Hit the Export Trail... LG CNS Takes First Step in Indonesia - 아시아경제",
+      "summary": "K Data Centers Hit the Export Trail... LG CNS Takes First Step in Indonesia 아시아경제",
+      "source": "아시아경제",
+      "published_at": "2026-11-02T09:00:36+08:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TTW15UnVsTFExYzF4dy11cGpVeGRRcHAxZEwwWjlpbUU5LWctVW9TVXNQS0ZTYXFPUFFtV19lbnRiLTN0M0NWVkpEMnRmbHpYOU45eFFDMzZocmlFSWhaV1RyTzl3a0VaZEFubU56aw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -321,46 +363,6 @@
       "source": "Chosunbiz",
       "published_at": "2026-11-01T05:00:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydUJ1ZXh2empKU1FhM3ltQ09QTU9PalpabWNjcjE3ZFhvY1BmalVWQnUydE1KWFZPOVlvNUdQZFdkcDNGWTdGN1lQaUFDOEUyQ3Q1Wms4SGZ1VlZPSVVxSGlrbkRDanpRd0FXUlh4LWR5bDQxNmJmMW1B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Accelerator Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
-      "summary": "Data Center Accelerator Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.",
-      "source": "Global Market Insights Inc.",
-      "published_at": "2026-10-31T15:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWp6dmlHN2UtSGh6TFA0dWdfQ084UDJtd0Frc1lTYW5kOXdja25tc1ptNmluSE9QWUVQRjRlZFRHbC0zc2ZpazZLM29FckpiNGlCd2lyZkNqNk9rNW5mOXpJeWgyMkxtcTV5UGpEekhYOXpLMnZOdWZVY053T3JETw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Centers Grapple with Energy Issues, Community Pressure - Design News",
-      "summary": "AI Data Centers Grapple with Energy Issues, Community Pressure Design News",
-      "source": "Design News",
-      "published_at": "2026-10-31T03:46:36+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjI3N1hrS2JwSE1MODRHYm1NZzV1YUlObjkzTEc0QjMyQjg5YTRsOTZLNFNSYzFNWEExaGJwMFBfSndsSnptY1c2eUswN3dyWV8teGxNTnFwakkxeS1UcWcwRHkwcVZVMGRodi1VdkN1UXMtRTZFMExRS3hoRXJIZEJYNzhhNktqb1YwUTdmOE5MWjhvSVR0ZjJjUDYyMHgxelZUczZ2eTFta09BZWt5dE1BSzNnaGNqYzBr?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "‘French Door’ Cooling Comes to AI Racks - Data Center Richness | Substack",
-      "summary": "‘French Door’ Cooling Comes to AI Racks Data Center Richness | Substack",
-      "source": "Data Center Richness | Substack",
-      "published_at": "2026-10-30T19:31:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUW9XbTdWQjQwczNXV2w0S2VQUE5WM2VvX1Z0T2xqb2E0ZTVVTEc5NE9nVkg0aDBuZVU0Q3VoRS1xUEl5T19pYkhMeHM0NTVxUWxtY01oV0lNYW1XQkdES05YdnRiWGw3NG00blFMSkp3ZzU2eWZqRlpEdDl3eU1TemRtVEMzZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Beyond Hyperscalers: The Next $1 Trillion AI Infrastructure Opportunity - I/O Fund",
-      "summary": "Beyond Hyperscalers: The Next $1 Trillion AI Infrastructure Opportunity I/O Fund",
-      "source": "I/O Fund",
-      "published_at": "2026-10-30T19:10:13+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemhlbWlfeHFIZUtnTWpWZXJDSC1JM0Q1OXhDM1BSd0Z6SlJVQ1p6OWxoam44QjI1SXNMMzZlcXVDQ0dHU2drb2xCamFqYnRDUGh6QWJJUzE5YVRwQWduY0JXeDZXRTZldlY1blV3Y3MwUVR1dXpYUWQ5RHU5QWNPRFlpVGpTeW1yNXRQZHhkMWk5UGkw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
