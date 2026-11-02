@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-02T10:21:00+08:00",
+  "intel_updated_at": "2026-11-02T17:39:37+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -202,10 +202,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "液冷散熱",
-      "move": "Vertiv Introduces SmartIT Platform with Liquid Cooling for AI Data Centers - Refindustry",
-      "implication": "公開情報更新於 2026-11-02T06:50:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONm9GU2JjdVd2ZUpNQlRZSHZvdnV4eE40YWRNeVBUd1B0a1JlVUs0MUl0VE9EU2IyVExQRzROLWJjVUdlTmszcG1NeVFUdkZYWmJreVhLNzlFekJCREpDZmxVT0ZpZ01sb2dKWVlEYWphTWdMLXJiSUJ2OUFpQ2dEUHNPaUoyVlpGNUhMMXNqd3BkaTVLUEZBU0VGS3N6RHpDU2lNZWxsbw?oc=5"
+      "product": "資料中心",
+      "move": "Can Vertiv (NYSE:VRT) Keep Its Data Center Surge Going? - Kalkine Media",
+      "implication": "公開情報更新於 2026-11-02T12:40:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0dsSUs4LUR1RjJSbVU4Mzc5b3k5Y2c0dWExVHg4THd6a1Z2QTBQYUZxUDFqYjdkei1QRE1mVW9HNUt0RlJRZEYtSXNsa2JIa2lpRHg2U3BmUzdCQzlhaE4zaFoxOGxGVHh1SHh1dG04T1doUVFEZ0xxU2IwVXJKM1VlSXNrQ3FIWWkxOURKaUNzQWVIVmdnYmpuYWMzU2dNV0hIT0VQQzd6U2g2QWlN?oc=5"
     },
     {
       "company": "Boyd",
@@ -246,11 +246,41 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Can Vertiv (NYSE:VRT) Keep Its Data Center Surge Going? - Kalkine Media",
+      "summary": "Can Vertiv (NYSE:VRT) Keep Its Data Center Surge Going? Kalkine Media",
+      "source": "Kalkine Media",
+      "published_at": "2026-11-02T12:40:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0dsSUs4LUR1RjJSbVU4Mzc5b3k5Y2c0dWExVHg4THd6a1Z2QTBQYUZxUDFqYjdkei1QRE1mVW9HNUt0RlJRZEYtSXNsa2JIa2lpRHg2U3BmUzdCQzlhaE4zaFoxOGxGVHh1SHh1dG04T1doUVFEZ0xxU2IwVXJKM1VlSXNrQ3FIWWkxOURKaUNzQWVIVmdnYmpuYWMzU2dNV0hIT0VQQzd6U2g2QWlN?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG CNS Completes Jakarta AI Data Center - Businesskorea",
+      "summary": "LG CNS Completes Jakarta AI Data Center Businesskorea",
+      "source": "Businesskorea",
+      "published_at": "2026-11-02T10:01:36+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85TGtWNFdiOWhxRmZOcHk0ZzBjZjNzS29kV09fRmZnUlBjdTJFaTBScmRrZ1RneWRJRkVpNDFqcFhNWmQyeUtEdG5zelNuZ0VIS0tjdUtNX3NPYzN2WHUybDZ1LWo0dWxKZzhVYkFZTlZRZ3ly?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "LG CNS completes 30-MW AI data center in Indonesia - The Korea Times",
       "summary": "LG CNS completes 30-MW AI data center in Indonesia The Korea Times",
       "source": "The Korea Times",
       "published_at": "2026-11-02T09:26:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGV3bUp5MVFISWZLZGZmTTZrbHAzb2dIeDZGbm43WjR0aVB3Smw3UzJhUnFlTG9jdzhuV3hDbFNNX2NYblVoRkFqVUNKOVhna2FfTkZta0U4dkxOSTAwSVRnZmlfUjUyWGxzT1hjQTA5bVpWbFFPX2wxV3Z3eGM1OVUyalRHTU8wZGxUU3Q0X1N2b0Nucy1icTFpUzJKd2xyTmdOaDRlWWxXcFHSAbABQVVfeXFMTWw2N0NzcWxnNkhVMVlfQ05EWUNuUFRMV1MwNUdycjRhRm56R3liWHBSTHhhd3k1YjhwQlhMVi0wR1dublV4UXg3MEZ4NHNqc3pmdW8zRjZrQVdJcXJFelFxNzRDYnNJaTVNZ1pZazNLX1BHSzVXYTZnUmlMOWRpNWMzb2YwRmk4RVJxT29xckY2dW9GZmFwVVhjVFh4eWptQmxyWlBPcURCQVFfZFpSalk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDY3Q3NxbGc2SFUxWV9DTkRZQ25QVExXUzA1R3JyNGFGbnpHeWJYcFJMeGF3eTViOHBCWExWLTBHV25uVXhReDcwRng0c2pzemZ1bzNGNmtBV0lxckV6UXE3NENic0lpNU1nWllrM0tfUEdLNVdhNmdSaUw5ZGk1YzNvZjBGaThFUnFPb3FyRjZ1b0ZmYXBVWGNUWHh5am1CbHJaUE9xREJBUV9kWlJqWdIBsAFBVV95cUxNbDY3Q3NxbGc2SFUxWV9DTkRZQ25QVExXUzA1R3JyNGFGbnpHeWJYcFJMeGF3eTViOHBCWExWLTBHV25uVXhReDcwRng0c2pzemZ1bzNGNmtBV0lxckV6UXE3NENic0lpNU1nWllrM0tfUEdLNVdhNmdSaUw5ZGk1YzNvZjBGaThFUnFPb3FyRjZ1b0ZmYXBVWGNUWHh5am1CbHJaUE9xREJBUV9kWlJqWQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG CNS Completes 30MW AI Data Center in Jakarta, Indonesia — First Overseas Build by a South Korean Company - BigGo Finance",
+      "summary": "LG CNS Completes 30MW AI Data Center in Jakarta, Indonesia — First Overseas Build by a South Korean Company BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-11-02T09:26:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ld1lsT0U0MHlKNXdPdG5PRjNiTVlhS1JmaGJPaVZfT0M4YnlURUlvLWozVWVQZkJoM3h6NXlxLUE2VklIa0UzaVUxTWM1dlhxVWJqeG9TczdiX25sNkF4MVkzV3cweFI3bERFajlJNjAxWlRfQ3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -290,7 +320,17 @@
       "summary": "LG Electronics expands AI push, winning Korea–US data center cooling deals Chosunbiz",
       "source": "Chosunbiz",
       "published_at": "2026-11-01T05:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmsxbC00cFl5R2RKeXV3M2VxWHhnS0FkVUtNb2pBTUl6NDVJSUxpSFNWaFJzcnlpV3FTS1pjT20zRHRDSGlLNlkwLVp4V1hCUnZ4VnRHdjZkSW9YZVU1bHUyb3dTOFc3Wl9FbG13S2Jtb09rekVHekNlSmlaMml6cE42X3h5Z3A0NFF0WV9B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydUJ1ZXh2empKU1FhM3ltQ09QTU9PalpabWNjcjE3ZFhvY1BmalVWQnUydE1KWFZPOVlvNUdQZFdkcDNGWTdGN1lQaUFDOEUyQ3Q1Wms4SGZ1VlZPSVVxSGlrbkRDanpRd0FXUlh4LWR5bDQxNmJmMW1B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data Center Accelerator Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
+      "summary": "Data Center Accelerator Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.",
+      "source": "Global Market Insights Inc.",
+      "published_at": "2026-10-31T15:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWp6dmlHN2UtSGh6TFA0dWdfQ084UDJtd0Frc1lTYW5kOXdja25tc1ptNmluSE9QWUVQRjRlZFRHbC0zc2ZpazZLM29FckpiNGlCd2lyZkNqNk9rNW5mOXpJeWgyMkxtcTV5UGpEekhYOXpLMnZOdWZVY053T3JETw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -321,46 +361,6 @@
       "source": "I/O Fund",
       "published_at": "2026-10-30T19:10:13+08:00",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemhlbWlfeHFIZUtnTWpWZXJDSC1JM0Q1OXhDM1BSd0Z6SlJVQ1p6OWxoam44QjI1SXNMMzZlcXVDQ0dHU2drb2xCamFqYnRDUGh6QWJJUzE5YVRwQWduY0JXeDZXRTZldlY1blV3Y3MwUVR1dXpYUWQ5RHU5QWNPRFlpVGpTeW1yNXRQZHhkMWk5UGkw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Designing Cooling for the AI Data Center - Data Center Frontier",
-      "summary": "Designing Cooling for the AI Data Center Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-10-30T18:51:47+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUJMNk0yaV9DeXBzcFlLU1FVY3RadllzVG10WEw0bnExSWxxX3lTUlVlQklJLUpKRDI4VnZ2cTc5aTJNYjNicHo2Y2pReUoyTlRqYVNZWVh5cER4bFh4TlVEZ2ljWlpCQTJIYzI3WEpFbVZ0TjRUNl92WGEtVzZWdUtUa1B5REl3amVnNmtRc0wtb3I5WUV6bE40bmFNXzBPYkV3dTNaVE5GbGF6?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Why 800V DC Is Reshaping AI Data Center Power - Environmental Leader",
-      "summary": "Why 800V DC Is Reshaping AI Data Center Power Environmental Leader",
-      "source": "Environmental Leader",
-      "published_at": "2026-10-30T15:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3JxQkdmakdDSDZBYUpZY0V3Z3lNMUMtYTMtSlduMlRwVGdLRW9KY0R3YnVBT3pBeDhrLUlrVHRYamNnQi1fb1YySXo3MDFZb0RIY0FCR0t1VHc5RWJsTGhRbHNjQUdWd091bnJXbE9XV0dTVlJUbndwN2lnSnRGZWZSaHU1UnFjd0M4Ukw2cUU4RnZ6WWs2WDJsVXp2UDNTaGc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders - BigGo Finance",
-      "summary": "TECO Makes Second Appearance at Hon Hai Tech Day, Pitches 40-Foot Container Modular Data Center for AI Infrastructure Orders BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-10-30T14:35:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KYkZVS0YwUWF0OFg5VkdQZm1hNnJ0dDVJR0FRX01JNkhfSWFtMnpXSmhmenM0NGdPaFplVzU4LXJwMkNBNmtFU1BJdFRkcnFUSl9jMWpRZXlsZlJ6b05Rc2pfcjhoVWZwVnc4QWFmc0wtMkpBUVE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv Completes $1.45 Billion Acquisition to Expand Data Center Power Solutions - Refindustry",
-      "summary": "Vertiv Completes $1.45 Billion Acquisition to Expand Data Center Power Solutions Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-10-30T06:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzFlT1JCOUVJNVlUeXhwbkptb1k3ZnFiR29sY0JEZ1ZzMGtMM3ZzR2x0U1JpZUxnUlptM0RqanBOYktITy16TjNVaVdQeWlVVTZGZ0M4NUdMaUhiaGtkU3llWkpyY1dBNEdublgtZWx3Q3NUd0g0M2c2MHlTRHRxS0NIbGdmNkFqYnVONjg5dzkwMU1BQ3Q1WXdleTl0RmhnUlFlSUs0NUlHZXZ3Y3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
