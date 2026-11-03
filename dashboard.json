@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-04T00:38:09+08:00",
+  "intel_updated_at": "2026-11-04T06:03:49+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -203,9 +203,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Can Vertiv (NYSE:VRT) Keep Its Data Center Surge Going? - Kalkine Media",
-      "implication": "公開情報更新於 2026-11-02T12:40:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0dsSUs4LUR1RjJSbVU4Mzc5b3k5Y2c0dWExVHg4THd6a1Z2QTBQYUZxUDFqYjdkei1QRE1mVW9HNUt0RlJRZEYtSXNsa2JIa2lpRHg2U3BmUzdCQzlhaE4zaFoxOGxGVHh1SHh1dG04T1doUVFEZ0xxU2IwVXJKM1VlSXNrQ3FIWWkxOURKaUNzQWVIVmdnYmpuYWMzU2dNV0hIT0VQQzd6U2g2QWlN?oc=5"
+      "move": "Vertiv simplifies high-density AI infrastructure deployment across data center environments - Business Review",
+      "implication": "公開情報更新於 2026-11-03T19:59:18+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXZLb3phay1CVW9qbFZ6N2l0V3BFbkczVWJRbzI5aEZQS0FTandMWS1DZ2tzSHNVU0RDNzV4SFVlV1hHT3A3ZEVLcGVKeGdyanhtY1NKN3V5Z3VIMnRRSW10Sy1kRDNWRHNmUlhuZ1F6VkZUamJXNFp5dUJOcUh3Y0d4Q2NDa2JydS0xeUl1dVdKZnR1VndtU0pGUk1UUDg1OU1vLTBlQnl4SmFmQ0JxWG1pM2M1bVViU2lBT3F3YnlZTmxPUGh2X0tuNHp6QQ?oc=5"
     },
     {
       "company": "Boyd",
@@ -245,6 +245,26 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Trump Onsite Power Push Meets AI Data Center Reality - Data Center Knowledge",
+      "summary": "Trump Onsite Power Push Meets AI Data Center Reality Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "published_at": "2026-11-04T01:33:40+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzhMZm1DU190NjBZWDltQ2stU3RNX1RuOXFfWFZ4TDcxTHRjaEhpZ2llMlVCd0Y3TlZBY2I2ekFnS1ZNYklTQjM0bkRuUGV5NGUtOTUzT01aS0lZcU9YV0VSdEZDdFFhRm1VVXRacm5zVjFPTnQtY2RMTVZIY0xUbFlXNExKaVRlQUFTZmdiVWJ4bVVIQkZiYzItZ2h6eXpiQWc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Samsung SDS breaks ground on Gumi AI Data Center in South Korea - Data Center Dynamics",
+      "summary": "Samsung SDS breaks ground on Gumi AI Data Center in South Korea Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-11-04T01:28:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1hIaDV6T3lsRFYwbzBubl9VX09WeHB5TVRiX1lqWVZDeWlvd0ZKc3JlUWx5NHBuQ0JhLXdvVnNkNERTU09qWWpTNHB5OUtrZ1YxVHpzVGVuRXAycG9ORXdjV3FQNHJLYjd6bFozRmt2dzRtUEptRXBidnFqdlJxV0lHSktqcmhhUDk5UVU2S3poZ0ZXMFp5OHZoU1hSUG5oMjZtWXl0ZGFJSDA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers - CSRwire",
       "summary": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers CSRwire",
@@ -256,11 +276,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "Korea Space Data Center: 100 kg by 2028 [2026 Update] - tech-insider.org",
-      "summary": "Korea Space Data Center: 100 kg by 2028 [2026 Update] tech-insider.org",
-      "source": "tech-insider.org",
+      "headline": "Korea Space Data Center: 100 kg by 2028 [2026 Update] - https://tech-insider.org/",
+      "summary": "Korea Space Data Center: 100 kg by 2028 [2026 Update] https://tech-insider.org/",
+      "source": "https://tech-insider.org/",
       "published_at": "2026-11-03T20:09:19+08:00",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXVGS3BNeHgzdzA3YXkxR3JYY1NOU0hLQkIxekNtb05nU1dUVTJXU1lmaFhSRnViUi1DcXI5Q0JBaEFpS3JvOTRxTE9QRE9SYUNVVEtvMmgtSXNueC1ObERfZ1J4X3gwamY0NVVTN1FfY0F6QlZ1Y284akRvZjFhUWNoWWVVX2xSU3c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv simplifies high-density AI infrastructure deployment across data center environments - Business Review",
+      "summary": "Vertiv simplifies high-density AI infrastructure deployment across data center environments Business Review",
+      "source": "Business Review",
+      "published_at": "2026-11-03T19:59:18+08:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXZLb3phay1CVW9qbFZ6N2l0V3BFbkczVWJRbzI5aEZQS0FTandMWS1DZ2tzSHNVU0RDNzV4SFVlV1hHT3A3ZEVLcGVKeGdyanhtY1NKN3V5Z3VIMnRRSW10Sy1kRDNWRHNmUlhuZ1F6VkZUamJXNFp5dUJOcUh3Y0d4Q2NDa2JydS0xeUl1dVdKZnR1VndtU0pGUk1UUDg1OU1vLTBlQnl4SmFmQ0JxWG1pM2M1bVViU2lBT3F3YnlZTmxPUGh2X0tuNHp6QQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -331,36 +361,6 @@
       "source": "IndexBox",
       "published_at": "2026-11-03T05:51:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0hRbjMxVXd2OHVlclBnRVNwVldWMEk1b1A5WWFKUk12NUlLWXhNUkRkckpwZTBSYngtTEZNeUhjb245X0J0dVlTckExQXNoUi0zd2dyVHdZeUpwRTNrdkZVdG9Pa19UalIwSUoyd245dHkxS1FZZEtMSlItbUoxeXM2VnZ6cXc3cEpGLTZodkNOVU1CVUJRbWJoYWRrZGJDNVJMV0ZyMm9TLW5jeWxWZ2tURDV5QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers - Yahoo Finance",
-      "summary": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T05:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHRMWjh2X3N5WHNGczBLN0g3cU5vY2VNUnZkLU1lNHFtZG0yeXhYeFYyYkNzX284eGxqMXg5MHBHTkl4cDNjTDBuOVlQeExCY3Z1NWdVdUdQajhUVjNlU0swZDRvcTBya2xWaTlINXpyOVltamFIenlQaTR0XzFKRVdmSW9uckF4cHZZeXFwVDZqMy1IOVRLdGhiRWNTeVZj?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "OCP 2026: Cooler Master Scales Liquid Cooling from Cold Plates to 2.5 MW CDUs - Data Center Frontier",
-      "summary": "OCP 2026: Cooler Master Scales Liquid Cooling from Cold Plates to 2.5 MW CDUs Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-11-03T05:23:31+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd2FBZkQwcUY2M2hrZGZmY0xZNWJ4eDdXMjhxbUtIN3ZLRERSZnRSb0EwekZBYjFUVkN5LXdjUmk3cE1GRzJlb1RWX3hqTDJsdXMxN1QyX25pcTAyVkJsaHFmMl9zbEJUM01GTUYzblZreUVuNng3ejY3STZsWE5GNW1kSlFKR25BQjJJVzFhV09EellaYnB5d2dVTEl0T0V2S2ZvX0NIbWFBQ2pwRDc0YllaRmFCbFNydDc5VFdvLWFiWjRUM1g3Rzh6Y3NhRzJI?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "As AI Chips Near 4,000 Watts, Liquid Cooling Becomes the Backbone of Data Center Design - MarketScale",
-      "summary": "As AI Chips Near 4,000 Watts, Liquid Cooling Becomes the Backbone of Data Center Design MarketScale",
-      "source": "MarketScale",
-      "published_at": "2026-11-03T04:50:24+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjl1cE15TU9oQlFYOXlISTJMUS1lY3pHSHlGcXZUbzJMTHFELWtxQ0xoeUJXdEMxZ05HUzl1YTc2UG8xUHppcGEzQ01TTlBPUzFLcVd0djFTYU9RWnN2ejIzdEoxbXZqeHlINTNOWVZYMjhlbUlGQTlPX3owWWdvdkxoRjE0c2Q3UHBMT0w5MVBSdFVfbVdsV0Fxcl9ZOE5Obzk4cFByMFhpdkln?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
