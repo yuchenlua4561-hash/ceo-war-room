@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-03T16:40:26+08:00",
+  "intel_updated_at": "2026-11-04T00:38:09+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,11 +246,41 @@
   "news": [
     {
       "category": "液冷散熱",
-      "headline": "Nidec Liquid Cooling: Fan-Motor Know-How, Nov. 2 [2026] - tech-insider.org",
-      "summary": "Nidec Liquid Cooling: Fan-Motor Know-How, Nov. 2 [2026] tech-insider.org",
+      "headline": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers - CSRwire",
+      "summary": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers CSRwire",
+      "source": "CSRwire",
+      "published_at": "2026-11-03T22:05:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkRqdndGMi1PWExPei1fZDRQWE5OOFlucVB1TXdVbUt3R25CTUZTbFRWdG1mbVEyaGJBT29oMnVvYmNYai01Slp2SU1YekRZeXlRZjZwbmlEOHVGNjVOWVZOWGRWdnVBSjJnUTdBN2R4dGFlckRwUUVrdDhCTE9HcjByUmFmc2dDWTB6Tkc4dWx0MnhNbDRQMTRUM2tNVDBiZ0NhbDVvSS00R0lpckg0YVVKWQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Korea Space Data Center: 100 kg by 2028 [2026 Update] - tech-insider.org",
+      "summary": "Korea Space Data Center: 100 kg by 2028 [2026 Update] tech-insider.org",
       "source": "tech-insider.org",
-      "published_at": "2026-11-03T16:24:20+08:00",
+      "published_at": "2026-11-03T20:09:19+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXVGS3BNeHgzdzA3YXkxR3JYY1NOU0hLQkIxekNtb05nU1dUVTJXU1lmaFhSRnViUi1DcXI5Q0JBaEFpS3JvOTRxTE9QRE9SYUNVVEtvMmgtSXNueC1ObERfZ1J4X3gwamY0NVVTN1FfY0F6QlZ1Y284akRvZjFhUWNoWWVVX2xSU3c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Nidec Takes Fan Know-How to Liquid Cooling, Nov. 2 [2026] - https://tech-insider.org/",
+      "summary": "Nidec Takes Fan Know-How to Liquid Cooling, Nov. 2 [2026] https://tech-insider.org/",
+      "source": "https://tech-insider.org/",
+      "published_at": "2026-11-03T17:40:21+08:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0R2YUY0TUp0OTVPNmExQUhpeHNBX3VCNkhzVVpqOTQwZHl2eU1oT1hTVGkyOC1tRkstdzIzTzJ5TmJ4WWZ4U00yc0taYjd6SW1iYllVTm00TDlZVFU0NGdJZlk4STd2amsxejBuMUkwVVcwbnY0SGJrc0podVZyNzRoTElVdzEtTVFIbjFyTGR2SEk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG CNS completes 30 MW AI data center in Jakarta - ET Datacenters",
+      "summary": "LG CNS completes 30 MW AI data center in Jakarta ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-11-03T14:34:21+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSENwSEx4U1A1aXpILVdnWkpoUFpJTDFjeTBYWUV1M09xeDZQVDIxMzBRVVdmMUVxd3lNU1FjdnpiTUNJczNCWWgtUDBkTTh2VElkRDluSXRqcTVkcGdCdjZNek5fRXM1TERsZkh5eHNTZzJxaVVITmJUSTdWZkR4UGhGQXBWRkZPZWo5RDIyME1NS0EtSXBQWUV2d1Y4ZHRmR3NISG0wci1QN0RNTW8zbG1wLU1jemlwNTJvclF5MDZBZ3hnblVoT3d0UmE2UVdxNVhN0gHYAUFVX3lxTE13V09ybTZiS0dleFg4TlNvbUJqZU1EVmRUSjlud1VlMXE0VXlxVm9rU1k2UUFybFhLLWloNFJwaDV0VWdjOGZiN1l3aHFiRUktV0hnZlpjUmxQZmp4UTZQeHhQWXI0UTNlbWhaTWtQdExKbm91NE1uQy1Oamw5c2Nxc1hQS24zYTJHNWdJdGJFeWtoRm5VaTFYZkIxem9lMWxVNzVZb1dGZEZUc3o5ZTdhVGJZbzVBVmo3Q1c1NHJYM1Brd0RMR1NucHd4Z2tqTDNvWXFqRGk5dA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -285,12 +315,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "液冷散熱",
-      "headline": "Chemours Introduces Faizeon Two-Phase Liquid Cooling Fluids for Data Centers - Refindustry",
-      "summary": "Chemours Introduces Faizeon Two-Phase Liquid Cooling Fluids for Data Centers Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-11-03T07:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVVZXzlxNGNjeVlvVERTZmh1ZEVURTNTeXNDT055Mm5Ma3M0c0JlVDJPT2hMamtzVlhpNzhjZV9uT3A2TnhEWXIxekdMNDNwaWFsZzN6TDU0aXVoY1ptTlpiempjUENVWnE0TmdjVUJOZWNhMXFSVWtuVHg0M2hjRGptUXY3T0RHRldHbTF1X3pPZ1QxQ3RVZm9lemdhSHgyWURqWms5aXNWdw?oc=5",
+      "category": "資料中心",
+      "headline": "Samsung SDS Begins Construction of Gumi AI Data Center, Plans Expansion to 120MW - THE ELEC, Korea Electronics Industry Media",
+      "summary": "Samsung SDS Begins Construction of Gumi AI Data Center, Plans Expansion to 120MW THE ELEC, Korea Electronics Industry Media",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "published_at": "2026-11-03T09:18:30+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51bGdVdFlpU2doVkNXSXhjbVhtVWVucUszRWlsYTd6UzBNaHNpZUNIdUtLZWtXYk52SmFlMFV4VFdudmdOS2pfdDBEMHcxSE1qTlNvekg2VjdEcnV4eUNXRzZHeE53YUE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -331,36 +361,6 @@
       "source": "MarketScale",
       "published_at": "2026-11-03T04:50:24+08:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjl1cE15TU9oQlFYOXlISTJMUS1lY3pHSHlGcXZUbzJMTHFELWtxQ0xoeUJXdEMxZ05HUzl1YTc2UG8xUHppcGEzQ01TTlBPUzFLcVd0djFTYU9RWnN2ejIzdEoxbXZqeHlINTNOWVZYMjhlbUlGQTlPX3owWWdvdkxoRjE0c2Q3UHBMT0w5MVBSdFVfbVdsV0Fxcl9ZOE5Obzk4cFByMFhpdkln?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Security: Managing Foreign-Adversary Risk in Critical Systems - JD Supra",
-      "summary": "Data Center Security: Managing Foreign-Adversary Risk in Critical Systems JD Supra",
-      "source": "JD Supra",
-      "published_at": "2026-11-03T03:38:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWxFZmJRQ3Q0U1JMeks1aDNhS1dob2xhMFJvMVVBRmIxNzhtR0dFTW1QTGFUdlVQNGRtY1gxTzU4X2pPWU9PYkU3aU93YzRPVEQ2SHAxemdmcS1KbmZuclBER1paSHI3RlJELXpxa2pkZVo3RmV4bUJqRmdkQ0xIeFNtd2N6TkE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling Retrofits: Hard, but Sometimes Worth It - Data Center Knowledge",
-      "summary": "Liquid Cooling Retrofits: Hard, but Sometimes Worth It Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-11-03T00:55:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU21ObEZjVjg5a2VmNm15NXBZMG91eDYtN05BbDlDVEQ0akxEV0RrUjlEdzFQTVplb3JnNGw4N25VS3czcE5ZSmplZ3pDbDVTVDRLOFhYUDZRc01KeXpMcFpwVXFBYnR2N1FiYmFBSmQ2NlFIbGNITDVicHdsTkZvZHUyQW1JeVdnTURDNXhxaGZxQ0VfZ1FsQW9WNzc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Franklin Electric upgraded at D.A. Davidson on AI data center, rare-earths growth - TradingView",
-      "summary": "Franklin Electric upgraded at D.A. Davidson on AI data center, rare-earths growth TradingView",
-      "source": "TradingView",
-      "published_at": "2026-11-02T23:44:08+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX1ljTnAzVHhUempkNkpJSW5kdTZ2UTBxSE1iVFFRZGc5RzByYnhWUHIwLWhWOElncTZiZjBabXVTQzNFVkV6MlFKcEFod3dhdF9zM3ZERkJsQXJIbE9ZbXVhbk55VzZHNGRLejJlTU4tOFF6MjZFSFVjZmM2OHJycGZwX25oQTN3ZXNOSGtrcjdIVExXUmFiRlplSzl3dnJIRWFBZDJxQmlnMmJGRVlNY1BCYWNfTUF5aDBvZFVpZnFLTVlYYTN4VDNTTFphVGVwRWdEY2VNWUd6Zw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
