@@ -10,13 +10,11 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-03T03:49:09+08:00",
+  "intel_updated_at": "2026-11-03T09:51:41+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -247,12 +245,52 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "LG CNS Completes 30MW AI Data Center in Indonesia - www.thelec.net",
+      "summary": "LG CNS Completes 30MW AI Data Center in Indonesia www.thelec.net",
+      "source": "www.thelec.net",
+      "published_at": "2026-11-03T09:18:30+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hbmRTSHQ5cXpibzlBdDcxOXh5cDJnR05vdXdadzZZdkdHYURQX05JWGFEWDRORUhVNUx6M3dQbklUbEgtTVlMTEJST00tSDdXeHUzOFhoWXVPMkFaZmJrZWJWTzdvOTQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Samsung SDS Begins Construction of Gumi AI Data Center, Plans Expansion to 120MW - THE ELEC, Korea Electronics Industry Media",
+      "summary": "Samsung SDS Begins Construction of Gumi AI Data Center, Plans Expansion to 120MW THE ELEC, Korea Electronics Industry Media",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "published_at": "2026-11-03T09:18:30+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51bGdVdFlpU2doVkNXSXhjbVhtVWVucUszRWlsYTd6UzBNaHNpZUNIdUtLZWtXYk52SmFlMFV4VFdudmdOS2pfdDBEMHcxSE1qTlNvekg2VjdEcnV4eUNXRzZHeE53YUE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Heat Spreaders Market To 2035: Data Center Server Power Density Drives Growth - News and Statistics - IndexBox",
+      "summary": "Heat Spreaders Market To 2035: Data Center Server Power Density Drives Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-11-03T05:51:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0hRbjMxVXd2OHVlclBnRVNwVldWMEk1b1A5WWFKUk12NUlLWXhNUkRkckpwZTBSYngtTEZNeUhjb245X0J0dVlTckExQXNoUi0zd2dyVHdZeUpwRTNrdkZVdG9Pa19UalIwSUoyd245dHkxS1FZZEtMSlItbUoxeXM2VnZ6cXc3cEpGLTZodkNOVU1CVUJRbWJoYWRrZGJDNVJMV0ZyMm9TLW5jeWxWZ2tURDV5QQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "OCP 2026: Cooler Master Scales Liquid Cooling from Cold Plates to 2.5 MW CDUs - Data Center Frontier",
       "summary": "OCP 2026: Cooler Master Scales Liquid Cooling from Cold Plates to 2.5 MW CDUs Data Center Frontier",
       "source": "Data Center Frontier",
-      "published_at": "2026-11-03T01:07:59+08:00",
+      "published_at": "2026-11-03T05:23:31+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd2FBZkQwcUY2M2hrZGZmY0xZNWJ4eDdXMjhxbUtIN3ZLRERSZnRSb0EwekZBYjFUVkN5LXdjUmk3cE1GRzJlb1RWX3hqTDJsdXMxN1QyX25pcTAyVkJsaHFmMl9zbEJUM01GTUYzblZreUVuNng3ejY3STZsWE5GNW1kSlFKR25BQjJJVzFhV09EellaYnB5d2dVTEl0T0V2S2ZvX0NIbWFBQ2pwRDc0YllaRmFCbFNydDc5VFdvLWFiWjRUM1g3Rzh6Y3NhRzJI?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "As AI Chips Near 4,000 Watts, Liquid Cooling Becomes the Backbone of Data Center Design - MarketScale",
+      "summary": "As AI Chips Near 4,000 Watts, Liquid Cooling Becomes the Backbone of Data Center Design MarketScale",
+      "source": "MarketScale",
+      "published_at": "2026-11-03T04:50:24+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjl1cE15TU9oQlFYOXlISTJMUS1lY3pHSHlGcXZUbzJMTHFELWtxQ0xoeUJXdEMxZ05HUzl1YTc2UG8xUHppcGEzQ01TTlBPUzFLcVd0djFTYU9RWnN2ejIzdEoxbXZqeHlINTNOWVZYMjhlbUlGQTlPX3owWWdvdkxoRjE0c2Q3UHBMT0w5MVBSdFVfbVdsV0Fxcl9ZOE5Obzk4cFByMFhpdkln?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -288,11 +326,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Why Is 3M (NYSE:MMM) Becoming An AI Data Center Player? - Kalkine Media",
-      "summary": "Why Is 3M (NYSE:MMM) Becoming An AI Data Center Player? Kalkine Media",
-      "source": "Kalkine Media",
-      "published_at": "2026-11-02T20:28:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeGRBM25hVWpZbHMzZE1kanpFQUJLY2JreFlmNFFwbHlJVEFPR0sxRDZReG8zYllwRnJlTU9XQXFuS3hJZXg2dDNWWnd5NEh0UTZidkxRWjJBaGFsSVktaWFEX1VULXdaSWlhNjhTOWFpZ0xDYmlxOGFhcU9sMmJqSXlpNW5YYWRSUDgtb3BCNmNWMTQzOG9tUjVYWkliUQ?oc=5",
+      "headline": "LG CNS completes 30 MW AI data center in Jakarta - ET Datacenters",
+      "summary": "LG CNS completes 30 MW AI data center in Jakarta ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-11-02T20:08:22+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWXMzOS1VTXlyb3VXYzExRUxGcWdJaUVIZHVLcWVoeENrZTh5dnhCbVNTc0JqbnRmZ3VWSTBHTjM1eWdYalJjVGZjaGxOSVVhVVYyckwyelQ5TkVTcXNHY1NUSUhzOVc2dktEYzNYZmlDeHhCVkp5cmJUZm5hd3ZEQVc1clhnRTdJc29UOFN0Z0w4MUFXV2hEd1QtQmVZQjFuWFoyOHY3MlB5cUFXQ1hBc2swdkxfN0JDdmZpRmRVR3liaGc3cHNRM0J5Vmg0QktzNVRGY0w4QUVRSWpQbGs1d2pJNDNfZlo3OXh4ejI5dXZpWGNILTNzaWJBOFQ4NmliaEs5Q3QtSk82Z9IB2AFBVV95cUxNd1dPcm02YktHZXhYOE5Tb21CamVNRFZkVEo5bndVZTFxNFV5cVZva1NZNlFBcmxYSy1paDRScGg1dFVnYzhmYjdZd2hxYkVJLVdIZ2ZaY1JsUGZqeFE2UHh4UFlyNFEzZW1oWk1rUHRMSm5vdTRNbkMtTmpsOXNjcXNYUEtuM2EyRzVnSXRiRXlraEZuVWkxWGZCMXpvZTFsVTc1WW9XRmRGVHN6OWU3YVRiWW81QVZqN0NXNTRyWDNQa3dETEdTbnB3eGdrakwzb1lxakRpOXQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -323,46 +361,6 @@
       "source": "The Korea Times",
       "published_at": "2026-11-02T09:26:03+08:00",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDY3Q3NxbGc2SFUxWV9DTkRZQ25QVExXUzA1R3JyNGFGbnpHeWJYcFJMeGF3eTViOHBCWExWLTBHV25uVXhReDcwRng0c2pzemZ1bzNGNmtBV0lxckV6UXE3NENic0lpNU1nWllrM0tfUEdLNVdhNmdSaUw5ZGk1YzNvZjBGaThFUnFPb3FyRjZ1b0ZmYXBVWGNUWHh5am1CbHJaUE9xREJBUV9kWlJqWdIBsAFBVV95cUxNbDY3Q3NxbGc2SFUxWV9DTkRZQ25QVExXUzA1R3JyNGFGbnpHeWJYcFJMeGF3eTViOHBCWExWLTBHV25uVXhReDcwRng0c2pzemZ1bzNGNmtBV0lxckV6UXE3NENic0lpNU1nWllrM0tfUEdLNVdhNmdSaUw5ZGk1YzNvZjBGaThFUnFPb3FyRjZ1b0ZmYXBVWGNUWHh5am1CbHJaUE9xREJBUV9kWlJqWQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "K Data Centers Hit the Export Trail... LG CNS Takes First Step in Indonesia - 아시아경제",
-      "summary": "K Data Centers Hit the Export Trail... LG CNS Takes First Step in Indonesia 아시아경제",
-      "source": "아시아경제",
-      "published_at": "2026-11-02T09:00:36+08:00",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TTW15UnVsTFExYzF4dy11cGpVeGRRcHAxZEwwWjlpbUU5LWctVW9TVXNQS0ZTYXFPUFFtV19lbnRiLTN0M0NWVkpEMnRmbHpYOU45eFFDMzZocmlFSWhaV1RyTzl3a0VaZEFubU56aw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Daikin Introduces Coolant Distribution Unit for AI Data Center Cooling - Refindustry",
-      "summary": "Daikin Introduces Coolant Distribution Unit for AI Data Center Cooling Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-11-02T07:20:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnhzdUVfcmlIWkhaZHVZMXZxcHhfUjNWUFBJdnM4cnVSNk01ZE1NZjdRUmNSdURsVHh2ZGNYcFgzSUpEb3V4YkVoOVI1MEIyR3AyUnFqbXdzNWlUaTFFUEFHaWpBSHU0NFpCYmU3UU9iRzk5dm9ONDZkb3lMUXlJdnZDanhfclJVczU4MWVJNmFmdk9IUHdXX2psUzhxS2VzdlE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Vertiv Introduces SmartIT Platform with Liquid Cooling for AI Data Centers - Refindustry",
-      "summary": "Vertiv Introduces SmartIT Platform with Liquid Cooling for AI Data Centers Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-11-02T06:50:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONm9GU2JjdVd2ZUpNQlRZSHZvdnV4eE40YWRNeVBUd1B0a1JlVUs0MUl0VE9EU2IyVExQRzROLWJjVUdlTmszcG1NeVFUdkZYWmJreVhLNzlFekJCREpDZmxVT0ZpZ01sb2dKWVlEYWphTWdMLXJiSUJ2OUFpQ2dEUHNPaUoyVlpGNUhMMXNqd3BkaTVLUEZBU0VGS3N6RHpDU2lNZWxsbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics expands AI push, winning Korea–US data center cooling deals - Chosunbiz",
-      "summary": "LG Electronics expands AI push, winning Korea–US data center cooling deals Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-11-01T05:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydUJ1ZXh2empKU1FhM3ltQ09QTU9PalpabWNjcjE3ZFhvY1BmalVWQnUydE1KWFZPOVlvNUdQZFdkcDNGWTdGN1lQaUFDOEUyQ3Q1Wms4SGZ1VlZPSVVxSGlrbkRDanpRd0FXUlh4LWR5bDQxNmJmMW1B0gGOAUFVX3lxTE1GazFsLTRwWXlHZEp5dXczZXFYeGdLQWRVS01vakFNSXo0NUlJTGlIU1ZoUnNyeWlXcVNLWmNPbTNEdENIaUs2WTAtWnhXWEJSdnhWdEd2NmRJb1hlVTVsdTJvd1M4VzdaX0VsbXdLYm1vT2t6RUd6Q2VKaVoyaXpwTjZfeHlncDQ0UXRZX0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
