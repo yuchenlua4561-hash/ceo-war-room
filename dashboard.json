@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-05T01:27:17+08:00",
+  "intel_updated_at": "2026-11-05T06:49:09+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -246,11 +246,21 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Heat Sinks Market Forecast to 2035: Growth Driven by Data Center Cooling Demand and Electrification - IndexBox",
-      "summary": "Heat Sinks Market Forecast to 2035: Growth Driven by Data Center Cooling Demand and Electrification IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-11-04T20:11:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXcxZjNhYTliSlJOMHBfeDBSb2d4TUNiNXlXaHg3cjVuX09CYWdwSFpyMEd2UW1oMEdvb0xOTGJEUkVlaC1pb2JxY2d5NFd5cHJZc0RmNlItYWVMUlJ1SU9XYVd6UXhNYWpKMTFucmlVNDRQNnE5SThEb2t2aVlsMHlfRC1TS2NQN1RMN2VrV1Uza1NrOW8ycWIzb25ncFIzdUxEOFNDeDZWOXlwQUtjRXVzSGc2bGZoY2hpem1zYUZJMFFDV0Rv?oc=5",
+      "headline": "Beyond Hyperscalers: Here’s The Next $1 Trillion AI Infrastructure Opportunity - Seeking Alpha",
+      "summary": "Beyond Hyperscalers: Here’s The Next $1 Trillion AI Infrastructure Opportunity Seeking Alpha",
+      "source": "Seeking Alpha",
+      "published_at": "2026-11-05T06:16:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzBmSnhUeEdDLVY4UVQtQUlReUphdnpJR01hVzd1YnZFa09YcnVfaEVENUpsY0hYRHA4Q1Z1blJwSV9OOHdKNmN4MWxnT1V1TUhkUmRRSFhHYlRxWl9KdzZ3cmpDMEVxYWRwWEhpY1NUZmZZN0VYNWNrWmZvV2JCRzdOOGs0ZXNZSGlsZF9abE1yczRDYmtsU2YxQWpGSllYMGxmX2pNR0RmalhhVnBCVEJR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "10 Cheapest AI Data Center Stocks to Buy According to Billionaires - Insider Monkey",
+      "summary": "10 Cheapest AI Data Center Stocks to Buy According to Billionaires Insider Monkey",
+      "source": "Insider Monkey",
+      "published_at": "2026-11-05T02:46:07+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUThfUUFYa2hQWG5lVUJZdVdEYTBncmV2bENPcEc0QW5nRWVBaDZYZmx3T3lWdGx1S2ZuX0szbGxET0dRMW8yanVtT1FqU1kyQThiSzREbmxiVDFVT1lJOGc2M093TFZtNks3azV2TnV5RVp1MUNFeDA3OVpmZWVOZXFMdWs3eGpKbWtWVWdOOEVUTWRwTXpwTndmdGI1MzhvSkxqU0VaOFV5TDhKTzYw0gG3AUFVX3lxTE5CVjBLa0tod0hSTUNTWWpCalVWNllTcWJPU0ZTQkowaTdKYlU4WHFFYkZReXF6bWgtRUMxX0VHWlZFRFppQnpvbE9UaFBFanU3OGtYMzBSWWN6REJ3VjhVbGpBV0laVEhRQ2RpZTN3YXVlM0tqSVZTZEpGazA3LWd4SWhPZ2I3eTg5dVA3WXJra3AyWEhfZy00bGFzRndidWk2VlNORlEyUW5rN0NueFZ6ZnNwcHkwUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -259,8 +269,18 @@
       "headline": "Data Center Cooling in 2026: Why the Future Isn't Air vs. Liquid, It's Air and Liquid - Data Center Frontier",
       "summary": "Data Center Cooling in 2026: Why the Future Isn't Air vs. Liquid, It's Air and Liquid Data Center Frontier",
       "source": "Data Center Frontier",
-      "published_at": "2026-11-04T20:04:23+08:00",
+      "published_at": "2026-11-04T21:26:06+08:00",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGV3Z2dSUDN4TnBiYlc3a3RMUWdaRHFxdm9CV09tRmc5MVNUaEZuRUF6Q044TngzTWtDN0NzZS04Vzc2eGFyR0FGQk9RbDVMd19KcGFFMDBmMlNaa2dTc0FsR0JyaGYzRVRQY1ZNdkprOFlKODNMd3VLZkw4Yk02OGdEOVJ4ZzgwSmpidFo0bEtTRkVxVTVWdHhEYkZiVTVESS05Z0Y5dERrR290Smo3bk0yejdkQmdOWlBPeUhjWUhodUhPMEJiUFJBUVlZNkFBSDFnOGRnR2pvdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Heat Sinks Market To 2035: Data Center Cooling and Electrification Drive Growth - News and Statistics - IndexBox",
+      "summary": "Heat Sinks Market To 2035: Data Center Cooling and Electrification Drive Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-11-04T20:11:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXcxZjNhYTliSlJOMHBfeDBSb2d4TUNiNXlXaHg3cjVuX09CYWdwSFpyMEd2UW1oMEdvb0xOTGJEUkVlaC1pb2JxY2d5NFd5cHJZc0RmNlItYWVMUlJ1SU9XYVd6UXhNYWpKMTFucmlVNDRQNnE5SThEb2t2aVlsMHlfRC1TS2NQN1RMN2VrV1Uza1NrOW8ycWIzb25ncFIzdUxEOFNDeDZWOXlwQUtjRXVzSGc2bGZoY2hpem1zYUZJMFFDV0Rv?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -330,7 +350,7 @@
       "summary": "Otec Carrier to Target Market with NVIDIA-Certified CDU at 'Data Center Korea 2026' 아시아경제",
       "source": "아시아경제",
       "published_at": "2026-11-04T07:38:19+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwa2IzeHJ6MmMyU2hISm01SFluSXhtd3c5YTVDVFI2RHF5MHBSQWE4ZjVKYTNMdVE3d3pvUW5Jc2pYV1ZCRUIyUzRGazg5T3dQVDVTLS1UbTRIYWxQNWJYX3MxNUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ELWg5Snc4OWpkME91Qm9aOTVMd195X0liZllWSjhIdFZVWV80MkF1ZGJUZFd0Z0NZa3VzUDd4WWtQZHMxQmNjY0NobXROU0xUWDgwOHdzMHRodkRoTWg0R0dQcjltY2FiVTY1RGFyalMtbFFVcEVicXNSWQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -341,26 +361,6 @@
       "source": "Data Center Knowledge",
       "published_at": "2026-11-04T01:33:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzhMZm1DU190NjBZWDltQ2stU3RNX1RuOXFfWFZ4TDcxTHRjaEhpZ2llMlVCd0Y3TlZBY2I2ekFnS1ZNYklTQjM0bkRuUGV5NGUtOTUzT01aS0lZcU9YV0VSdEZDdFFhRm1VVXRacm5zVjFPTnQtY2RMTVZIY0xUbFlXNExKaVRlQUFTZmdiVWJ4bVVIQkZiYzItZ2h6eXpiQWc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers - CSRwire",
-      "summary": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers CSRwire",
-      "source": "CSRwire",
-      "published_at": "2026-11-03T22:05:06+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkRqdndGMi1PWExPei1fZDRQWE5OOFlucVB1TXdVbUt3R25CTUZTbFRWdG1mbVEyaGJBT29oMnVvYmNYai01Slp2SU1YekRZeXlRZjZwbmlEOHVGNjVOWVZOWGRWdnVBSjJnUTdBN2R4dGFlckRwUUVrdDhCTE9HcjByUmFmc2dDWTB6Tkc4dWx0MnhNbDRQMTRUM2tNVDBiZ0NhbDVvSS00R0lpckg0YVVKWQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Korea Space Data Center: 100 kg by 2028 [2026 Update] - https://tech-insider.org/",
-      "summary": "Korea Space Data Center: 100 kg by 2028 [2026 Update] https://tech-insider.org/",
-      "source": "https://tech-insider.org/",
-      "published_at": "2026-11-03T20:09:19+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXVGS3BNeHgzdzA3YXkxR3JYY1NOU0hLQkIxekNtb05nU1dUVTJXU1lmaFhSRnViUi1DcXI5Q0JBaEFpS3JvOTRxTE9QRE9SYUNVVEtvMmgtSXNueC1ObERfZ1J4X3gwamY0NVVTN1FfY0F6QlZ1Y284akRvZjFhUWNoWWVVX2xSU3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
