@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-04T17:26:50+08:00",
+  "intel_updated_at": "2026-11-05T01:27:17+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -189,9 +189,9 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "資料中心",
-      "move": "DCD Studio: The future of data centers with Jim Simonelli, Schneider Electric - Data Center Dynamics",
-      "implication": "公開情報更新於 2026-10-26T22:41:38+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUl2cFBORUJSbWk3NUZ0T0Uwa2JsWmdnLVhDRlNkNGxVYWtmc3VDajNlcmttNUEyWFg3OGNVMjBHQ09IZTUzcVl3MVJjMFd5WHFuaHR4RjhPakRRVlduWGhWaURXRG1DUFdRa3dPVjUzdGMwSE9OaHlPUDRqLWxZbUoxd3BuR0swaXphbkt3VmM2OS1LTHFoZDBVREU4SWVJNHgySXBkZWJwVkNzNk9ldl96ZUxjcmc1M3hkRHdR?oc=5"
+      "move": "Schneider Electric Unveils Integrated AI Data Center Solutions - Seoul Economic Daily",
+      "implication": "公開情報更新於 2026-11-04T17:25:07+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWw0OEhnWVhYMWRnR3pzXy1lSVZoTm5yTVB3RjlqRTdCUk9tbjNVcU9Dd1BiUENGQWJOR2dqVmRLRGJVd1JiaEVTZzVMS3BvVjdheUVCeUdvVXFqelo4MThNUGVNQmhTLVVzQVF4TGE4aTZXYVE4UkZIbjZ3RjdTakJZM2hRUjg3dHVvY2VtZ2NmRHRDTVRxWmc0RFFlQQ?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -203,9 +203,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv simplifies high-density AI infrastructure deployment across data center environments - Business Review",
-      "implication": "公開情報更新於 2026-11-03T19:59:18+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXZLb3phay1CVW9qbFZ6N2l0V3BFbkczVWJRbzI5aEZQS0FTandMWS1DZ2tzSHNVU0RDNzV4SFVlV1hHT3A3ZEVLcGVKeGdyanhtY1NKN3V5Z3VIMnRRSW10Sy1kRDNWRHNmUlhuZ1F6VkZUamJXNFp5dUJOcUh3Y0d4Q2NDa2JydS0xeUl1dVdKZnR1VndtU0pGUk1UUDg1OU1vLTBlQnl4SmFmQ0JxWG1pM2M1bVViU2lBT3F3YnlZTmxPUGh2X0tuNHp6QQ?oc=5"
+      "move": "Vertiv opens Singapore experience centre for AI systems - DataCenterNews Asia Pacific",
+      "implication": "公開情報更新於 2026-11-04T08:15:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHhoM3ZNSUp2NFMwREpjajBxd0o5UXU1M18yNDBleXVXYUUtRTE0eVlBTlk2dkJweGZ1cFQzaW1VbDZmWEJocFNOczZUMkxwTVp2cGxCT1NZLVFKcUpVY2dLeUpIcjVDNVhOU2lRTUZvWmxadUcxQ2swYTJ0QVpNd0IxS215N21XYlluMTVqa2VUNEU?oc=5"
     },
     {
       "company": "Boyd",
@@ -246,11 +246,81 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Samsung SDS begins 60 MW AI data center construction in Gumi - ET Datacenters",
-      "summary": "Samsung SDS begins 60 MW AI data center construction in Gumi ET Datacenters",
+      "headline": "Heat Sinks Market Forecast to 2035: Growth Driven by Data Center Cooling Demand and Electrification - IndexBox",
+      "summary": "Heat Sinks Market Forecast to 2035: Growth Driven by Data Center Cooling Demand and Electrification IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-11-04T20:11:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXcxZjNhYTliSlJOMHBfeDBSb2d4TUNiNXlXaHg3cjVuX09CYWdwSFpyMEd2UW1oMEdvb0xOTGJEUkVlaC1pb2JxY2d5NFd5cHJZc0RmNlItYWVMUlJ1SU9XYVd6UXhNYWpKMTFucmlVNDRQNnE5SThEb2t2aVlsMHlfRC1TS2NQN1RMN2VrV1Uza1NrOW8ycWIzb25ncFIzdUxEOFNDeDZWOXlwQUtjRXVzSGc2bGZoY2hpem1zYUZJMFFDV0Rv?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data Center Cooling in 2026: Why the Future Isn't Air vs. Liquid, It's Air and Liquid - Data Center Frontier",
+      "summary": "Data Center Cooling in 2026: Why the Future Isn't Air vs. Liquid, It's Air and Liquid Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-11-04T20:04:23+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGV3Z2dSUDN4TnBiYlc3a3RMUWdaRHFxdm9CV09tRmc5MVNUaEZuRUF6Q044TngzTWtDN0NzZS04Vzc2eGFyR0FGQk9RbDVMd19KcGFFMDBmMlNaa2dTc0FsR0JyaGYzRVRQY1ZNdkprOFlKODNMd3VLZkw4Yk02OGdEOVJ4ZzgwSmpidFo0bEtTRkVxVTVWdHhEYkZiVTVESS05Z0Y5dERrR290Smo3bk0yejdkQmdOWlBPeUhjWUhodUhPMEJiUFJBUVlZNkFBSDFnOGRnR2pvdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Data Center Cooling CDU Pumps Market to Reach USD 6.6 Billion in 2032 - openPR.com",
+      "summary": "Data Center Cooling CDU Pumps Market to Reach USD 6.6 Billion in 2032 openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-04T18:28:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1JGLTV5ZGx3WVFsdlRLdWhFOU1xOW5VaWNZVDBMUDFWeW1UNDBLMjJELU1VS1N2U1lyYXBlUnVieHRsLU5rdXJuSjNoRlhUeHExbHBiT2xfeTBUMklqb2FvY2l3YVFCcG5OcGpRYjdmbzcyWUtmOXNTX0hPREN1Z1oyMDFVNE5Dd3pQMkprWUxUTUJiN0hDbXVrYTJidw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Schneider Electric Unveils Integrated AI Data Center Solutions - Seoul Economic Daily",
+      "summary": "Schneider Electric Unveils Integrated AI Data Center Solutions Seoul Economic Daily",
+      "source": "Seoul Economic Daily",
+      "published_at": "2026-11-04T17:25:07+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWw0OEhnWVhYMWRnR3pzXy1lSVZoTm5yTVB3RjlqRTdCUk9tbjNVcU9Dd1BiUENGQWJOR2dqVmRLRGJVd1JiaEVTZzVMS3BvVjdheUVCeUdvVXFqelo4MThNUGVNQmhTLVVzQVF4TGE4aTZXYVE4UkZIbjZ3RjdTakJZM2hRUjg3dHVvY2VtZ2NmRHRDTVRxWmc0RFFlQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "LG CNS Completes 30-MW AI Data Center in Indonesia - Telecom Review Asia",
+      "summary": "LG CNS Completes 30-MW AI Data Center in Indonesia Telecom Review Asia",
+      "source": "Telecom Review Asia",
+      "published_at": "2026-11-04T17:15:46+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzh3VWZuOTRGQmFZUkxDTmJEVTRVU1lKUmd1ZGlZZDdqNDFHNnpyc0FON0ptcUFvRlNVZnVpTXdKLVlLSFFNVFd4UEZLVXV1VWdOTkhYcnhRVWpUMlN1LTdFUi1iaVFrYzVmdndNcnFBWUNzOTF2cXVHczlxVFQzMGtreVlPTzhPT2s0WFRRSGZ1TWdDcWJUWk05NkdsU3NTN0tpajNTT21QQ0dBWGhzZ1J3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "Hyosung to Supply Cooling Pumps for SKT’s Ulsan AI Data Center - THE ELEC, Korea Electronics Industry Media",
+      "summary": "Hyosung to Supply Cooling Pumps for SKT’s Ulsan AI Data Center THE ELEC, Korea Electronics Industry Media",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "published_at": "2026-11-04T16:31:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hY2EtN1A3UHVnVm43SjdiZWRrUWRoYWUtdFJVOXlOU2RIUlBnWEgyNjVpNE56NVJwdDhGUlVielM3cm9JeTJEdnJNejR6WUdNSnZoZjljZzZhODRnLW96M09hXzQ0ejA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "National Grid acquires land for Teesside AI data center substation - ET Datacenters",
+      "summary": "National Grid acquires land for Teesside AI data center substation ET Datacenters",
       "source": "ET Datacenters",
-      "published_at": "2026-11-04T16:25:34+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQcl9aQVVWb0lhZlZqa3JZZExjUzZ3OHNkVGlvRUZGNGZBVVhyMS1Db05tdm1iNlVBVnBTamswZlNQSGNreGdqVF9MZFBSY3ZBazZqMURnNlVURGZybDA4WFB2Zzk2dExnRnMzS0g0N290YzVmVXpMV3lwS0REUUJaQ29jRjRrRDVRc051SjU0VkhRM0hkbWpzMU42MWh4UjhYWmJJdXgzSXBXWFo2bE0zZS15Q1dlbThUWW85cGpxV2xlYkhEVTRRN3hjR3JjMVlWRjNWZXFDcnBieHFKTWtacEZVTHJGMTZ4UFloQXJmZFd1Tk1uSTZ2SlZKNkluNjRkM3lFZ0ZhWTU1OGFMNDFDckc4LW5UVG9hWlHSAegBQVVfeXFMUDNBS0tWazFROFl1UkktMkR4WERESVJjM285RGZlZHJ3Yk1SUy04SlgtVzdOUVpkQmVZa0NLcjNLMTNxSkFJT1Z1WFg5QzFBalE0bVBHTWRsRTlPYWthbWtybjFhY1VNYnh1dXluRGhSWUdNcGUyb28zOW8tN1I2VzZhcTRGYi1zbEdKSUNOSnZiNXQ1cEJ0U2xaRHZ0S3lZWmdhLXNPUnRWSWJLaEFvS1lFSjJvQmYyeGR6N1hRb3lFZm5ENVplbUlEWWVJaW1kNXJwSF9Mdkw4RDFXTlBuQ2hTenl5R19CWg?oc=5",
+      "published_at": "2026-11-04T10:59:43+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObndPMG5iNEIxd0Rpem96T19CSzRlUFZ5aGdzQWd5a1ZfTUpUdGwyUFQzcVZNb3RLaDdRZm1oMm40OUF0M09hRWkxNW1GQ2N1X0RMeWdPb3g5akFmdUJWMlRQYlprUUJTT015Zjh1bUxITU9HLU1remNxa0FodFBXZVN0eGFpeTh6R0hSNDZBMmFKdXZKUXpPVUJUaWc0S1ZXN0U5akc4TWZKUTctbUVLYUh0SXdrRDJvaWpydkVLaHNRTHVMSG5jRWVteU96S1YxYkw3R183elhIWDJZRkZsVDBZVmpMSEgyMWFVeDZRd2hqRndUemdRTXUtV25nNkxFZmhnaE9hOFc1ay01QzRvVEJtajRhUTBnc3h3ckxQT216dnl5b1FV0gH2AUFVX3lxTE1lYzNvNWROYU5zajFGenNJZVNkSEtSTXlIX1hYcTZFVFlnWDZEek1HNFN6aWFMdWxZOW5iSGhCd3hUUTBHR1IxVXFlT1VEemhRbjRSeGFWSEV1U2p1SmJwYnlYeEQxRm5XMDQ3Z09NanB5WXFxY3I3M21HU0RQSDBITTFMSjJRZ3lNRXNvRkM5WVNzZnRPaTVDbTUxNlcwWDNSeGJtVm9oQUozZkNzUThwNDR3T2JCellUeUJCWWpnOUk1LVJjMHRRM1RnWjExRVRiRHhnTjYwYXZhNXZISFlwYVdmZnEwOUJ1RXU1TFgwM0hpLVg2Zw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv opens Singapore experience centre for AI systems - DataCenterNews Asia Pacific",
+      "summary": "Vertiv opens Singapore experience centre for AI systems DataCenterNews Asia Pacific",
+      "source": "DataCenterNews Asia Pacific",
+      "published_at": "2026-11-04T08:15:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHhoM3ZNSUp2NFMwREpjajBxd0o5UXU1M18yNDBleXVXYUUtRTE0eVlBTlk2dkJweGZ1cFQzaW1VbDZmWEJocFNOczZUMkxwTVp2cGxCT1NZLVFKcUpVY2dLeUpIcjVDNVhOU2lRTUZvWmxadUcxQ2swYTJ0QVpNd0IxS215N21XYlluMTVqa2VUNEU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -260,7 +330,7 @@
       "summary": "Otec Carrier to Target Market with NVIDIA-Certified CDU at 'Data Center Korea 2026' 아시아경제",
       "source": "아시아경제",
       "published_at": "2026-11-04T07:38:19+08:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ELWg5Snc4OWpkME91Qm9aOTVMd195X0liZllWSjhIdFZVWV80MkF1ZGJUZFd0Z0NZa3VzUDd4WWtQZHMxQmNjY0NobXROU0xUWDgwOHdzMHRodkRoTWg0R0dQcjltY2FiVTY1RGFyalMtbFFVcEVicXNSWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwa2IzeHJ6MmMyU2hISm01SFluSXhtd3c5YTVDVFI2RHF5MHBSQWE4ZjVKYTNMdVE3d3pvUW5Jc2pYV1ZCRUIyUzRGazg5T3dQVDVTLS1UbTRIYWxQNWJYX3MxNUU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -271,16 +341,6 @@
       "source": "Data Center Knowledge",
       "published_at": "2026-11-04T01:33:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzhMZm1DU190NjBZWDltQ2stU3RNX1RuOXFfWFZ4TDcxTHRjaEhpZ2llMlVCd0Y3TlZBY2I2ekFnS1ZNYklTQjM0bkRuUGV5NGUtOTUzT01aS0lZcU9YV0VSdEZDdFFhRm1VVXRacm5zVjFPTnQtY2RMTVZIY0xUbFlXNExKaVRlQUFTZmdiVWJ4bVVIQkZiYzItZ2h6eXpiQWc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Honeywell Aerospace Brings Aerospace-Grade Thermal Resilience to Equinix AI Data Center - Deccan Chronicle",
-      "summary": "Honeywell Aerospace Brings Aerospace-Grade Thermal Resilience to Equinix AI Data Center Deccan Chronicle",
-      "source": "Deccan Chronicle",
-      "published_at": "2026-11-03T22:35:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLTlLX1hKWWR3UjBKQkU2dDlTU3Y4dENUVGFNRkNzNzV5NXlMRWI3NkZrc3gzeGJQMGUxYlk1SXg4dkN2S1RWLUFmRXNuN2lZTGdjMm5aSFZoY0VEdkppMS1WYnNNM3FwXzVBWXJxdXJqdVBaREFVNWdDQ0hpQzA4X0FRakhrRkR5MXg3X09JRW1vVFEydzlLYVNFX2lTNmhXQ1VVQkFaZmxiRnNrLWlPMFhNbm9LeVFsa0hNT0ZJYTBaLUtfV2M4U3FmRDNLdG5TdmRRS21TRC05eGpReGpVSjRraUZHRl9VS1diZNIB7AFBVV95cUxQLTlLX1hKWWR3UjBKQkU2dDlTU3Y4dENUVGFNRkNzNzV5NXlMRWI3NkZrc3gzeGJQMGUxYlk1SXg4dkN2S1RWLUFmRXNuN2lZTGdjMm5aSFZoY0VEdkppMS1WYnNNM3FwXzVBWXJxdXJqdVBaREFVNWdDQ0hpQzA4X0FRakhrRkR5MXg3X09JRW1vVFEydzlLYVNFX2lTNmhXQ1VVQkFaZmxiRnNrLWlPMFhNbm9LeVFsa0hNT0ZJYTBaLUtfV2M4U3FmRDNLdG5TdmRRS21TRC05eGpReGpVSjRraUZHRl9VS1diZA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -301,66 +361,6 @@
       "source": "https://tech-insider.org/",
       "published_at": "2026-11-03T20:09:19+08:00",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXVGS3BNeHgzdzA3YXkxR3JYY1NOU0hLQkIxekNtb05nU1dUVTJXU1lmaFhSRnViUi1DcXI5Q0JBaEFpS3JvOTRxTE9QRE9SYUNVVEtvMmgtSXNueC1ObERfZ1J4X3gwamY0NVVTN1FfY0F6QlZ1Y284akRvZjFhUWNoWWVVX2xSU3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Nidec Takes Fan Know-How to Liquid Cooling, Nov. 2 [2026] - https://tech-insider.org/",
-      "summary": "Nidec Takes Fan Know-How to Liquid Cooling, Nov. 2 [2026] https://tech-insider.org/",
-      "source": "https://tech-insider.org/",
-      "published_at": "2026-11-03T17:40:21+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0R2YUY0TUp0OTVPNmExQUhpeHNBX3VCNkhzVVpqOTQwZHl2eU1oT1hTVGkyOC1tRkstdzIzTzJ5TmJ4WWZ4U00yc0taYjd6SW1iYllVTm00TDlZVFU0NGdJZlk4STd2amsxejBuMUkwVVcwbnY0SGJrc0podVZyNzRoTElVdzEtTVFIbjFyTGR2SEk?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "We will provide integrated solutions ranging from high-efficiency refrigerators to liquid cooling a.. - 매일경제",
-      "summary": "We will provide integrated solutions ranging from high-efficiency refrigerators to liquid cooling a.. 매일경제",
-      "source": "매일경제",
-      "published_at": "2026-11-03T13:53:43+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5ZTNuc0RVZzFqUld3dXduMmdIWndrQVV3cjlZSzlxQnFSeGZ4WE53ZmdyMWZvaXdwQ0JZc2tpY2hZcnFoaEJ3SGZ4T2hQLTQzZGhn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Liquid Cooling Plates Market To 2035: Data Center Demand Drives Growth - News and Statistics - IndexBox",
-      "summary": "Liquid Cooling Plates Market To 2035: Data Center Demand Drives Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-11-03T12:56:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnpSTmVBR04wWlZ4YUZDcVZWdkMwWUpXN3k3akpkeE9yR0d4V0ZRT2NvZWJ4bXBCdmd6Qmg0Z0lVUEFGZWRmcHV2Tkx1V19BRFVWNk5WUWxrVjlVcE4yLUptdlE1LWRQdnVVa3dtQVRHMEl3dWpaSW1faWVVbjZvWWRVWVJaaDIxN3NKM1FpV3hkeG56cXZieEVqa0I5X2VsMTFSTW5QZ1hGa09CQ256MFVFcDY3T2VDbUE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG CNS Completes 30MW AI Data Center in Indonesia - THE ELEC, Korea Electronics Industry Media",
-      "summary": "LG CNS Completes 30MW AI Data Center in Indonesia THE ELEC, Korea Electronics Industry Media",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "published_at": "2026-11-03T09:18:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hbmRTSHQ5cXpibzlBdDcxOXh5cDJnR05vdXdadzZZdkdHYURQX05JWGFEWDRORUhVNUx6M3dQbklUbEgtTVlMTEJST00tSDdXeHUzOFhoWXVPMkFaZmJrZWJWTzdvOTQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Samsung SDS Begins Construction of Gumi AI Data Center, Plans Expansion to 120MW - THE ELEC, Korea Electronics Industry Media",
-      "summary": "Samsung SDS Begins Construction of Gumi AI Data Center, Plans Expansion to 120MW THE ELEC, Korea Electronics Industry Media",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "published_at": "2026-11-03T09:18:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51bGdVdFlpU2doVkNXSXhjbVhtVWVucUszRWlsYTd6UzBNaHNpZUNIdUtLZWtXYk52SmFlMFV4VFdudmdOS2pfdDBEMHcxSE1qTlNvekg2VjdEcnV4eUNXRzZHeE53YUE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Chemours Introduces Faizeon Two-Phase Liquid Cooling Fluids for Data Centers - Refindustry",
-      "summary": "Chemours Introduces Faizeon Two-Phase Liquid Cooling Fluids for Data Centers Refindustry",
-      "source": "Refindustry",
-      "published_at": "2026-11-03T07:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVVZXzlxNGNjeVlvVERTZmh1ZEVURTNTeXNDT055Mm5Ma3M0c0JlVDJPT2hMamtzVlhpNzhjZV9uT3A2TnhEWXIxekdMNDNwaWFsZzN6TDU0aXVoY1ptTlpiempjUENVWnE0TmdjVUJOZWNhMXFSVWtuVHg0M2hjRGptUXY3T0RHRldHbTF1X3pPZ1QxQ3RVZm9lemdhSHgyWURqWms5aXNWdw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
