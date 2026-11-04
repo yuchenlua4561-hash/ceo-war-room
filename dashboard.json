@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-04T10:10:17+08:00",
+  "intel_updated_at": "2026-11-04T17:26:50+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -245,6 +245,16 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Samsung SDS begins 60 MW AI data center construction in Gumi - ET Datacenters",
+      "summary": "Samsung SDS begins 60 MW AI data center construction in Gumi ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-11-04T16:25:34+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQcl9aQVVWb0lhZlZqa3JZZExjUzZ3OHNkVGlvRUZGNGZBVVhyMS1Db05tdm1iNlVBVnBTamswZlNQSGNreGdqVF9MZFBSY3ZBazZqMURnNlVURGZybDA4WFB2Zzk2dExnRnMzS0g0N290YzVmVXpMV3lwS0REUUJaQ29jRjRrRDVRc051SjU0VkhRM0hkbWpzMU42MWh4UjhYWmJJdXgzSXBXWFo2bE0zZS15Q1dlbThUWW85cGpxV2xlYkhEVTRRN3hjR3JjMVlWRjNWZXFDcnBieHFKTWtacEZVTHJGMTZ4UFloQXJmZFd1Tk1uSTZ2SlZKNkluNjRkM3lFZ0ZhWTU1OGFMNDFDckc4LW5UVG9hWlHSAegBQVVfeXFMUDNBS0tWazFROFl1UkktMkR4WERESVJjM285RGZlZHJ3Yk1SUy04SlgtVzdOUVpkQmVZa0NLcjNLMTNxSkFJT1Z1WFg5QzFBalE0bVBHTWRsRTlPYWthbWtybjFhY1VNYnh1dXluRGhSWUdNcGUyb28zOW8tN1I2VzZhcTRGYi1zbEdKSUNOSnZiNXQ1cEJ0U2xaRHZ0S3lZWmdhLXNPUnRWSWJLaEFvS1lFSjJvQmYyeGR6N1hRb3lFZm5ENVplbUlEWWVJaW1kNXJwSF9Mdkw4RDFXTlBuQ2hTenl5R19CWg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "CDU／幫浦",
       "headline": "Otec Carrier to Target Market with NVIDIA-Certified CDU at 'Data Center Korea 2026' - 아시아경제",
       "summary": "Otec Carrier to Target Market with NVIDIA-Certified CDU at 'Data Center Korea 2026' 아시아경제",
@@ -261,6 +271,16 @@
       "source": "Data Center Knowledge",
       "published_at": "2026-11-04T01:33:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzhMZm1DU190NjBZWDltQ2stU3RNX1RuOXFfWFZ4TDcxTHRjaEhpZ2llMlVCd0Y3TlZBY2I2ekFnS1ZNYklTQjM0bkRuUGV5NGUtOTUzT01aS0lZcU9YV0VSdEZDdFFhRm1VVXRacm5zVjFPTnQtY2RMTVZIY0xUbFlXNExKaVRlQUFTZmdiVWJ4bVVIQkZiYzItZ2h6eXpiQWc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Honeywell Aerospace Brings Aerospace-Grade Thermal Resilience to Equinix AI Data Center - Deccan Chronicle",
+      "summary": "Honeywell Aerospace Brings Aerospace-Grade Thermal Resilience to Equinix AI Data Center Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "published_at": "2026-11-03T22:35:48+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLTlLX1hKWWR3UjBKQkU2dDlTU3Y4dENUVGFNRkNzNzV5NXlMRWI3NkZrc3gzeGJQMGUxYlk1SXg4dkN2S1RWLUFmRXNuN2lZTGdjMm5aSFZoY0VEdkppMS1WYnNNM3FwXzVBWXJxdXJqdVBaREFVNWdDQ0hpQzA4X0FRakhrRkR5MXg3X09JRW1vVFEydzlLYVNFX2lTNmhXQ1VVQkFaZmxiRnNrLWlPMFhNbm9LeVFsa0hNT0ZJYTBaLUtfV2M4U3FmRDNLdG5TdmRRS21TRC05eGpReGpVSjRraUZHRl9VS1diZNIB7AFBVV95cUxQLTlLX1hKWWR3UjBKQkU2dDlTU3Y4dENUVGFNRkNzNzV5NXlMRWI3NkZrc3gzeGJQMGUxYlk1SXg4dkN2S1RWLUFmRXNuN2lZTGdjMm5aSFZoY0VEdkppMS1WYnNNM3FwXzVBWXJxdXJqdVBaREFVNWdDQ0hpQzA4X0FRakhrRkR5MXg3X09JRW1vVFEydzlLYVNFX2lTNmhXQ1VVQkFaZmxiRnNrLWlPMFhNbm9LeVFsa0hNT0ZJYTBaLUtfV2M4U3FmRDNLdG5TdmRRS21TRC05eGpReGpVSjRraUZHRl9VS1diZA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -285,32 +305,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Vertiv simplifies high-density AI infrastructure deployment across data center environments - Business Review",
-      "summary": "Vertiv simplifies high-density AI infrastructure deployment across data center environments Business Review",
-      "source": "Business Review",
-      "published_at": "2026-11-03T19:59:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXZLb3phay1CVW9qbFZ6N2l0V3BFbkczVWJRbzI5aEZQS0FTandMWS1DZ2tzSHNVU0RDNzV4SFVlV1hHT3A3ZEVLcGVKeGdyanhtY1NKN3V5Z3VIMnRRSW10Sy1kRDNWRHNmUlhuZ1F6VkZUamJXNFp5dUJOcUh3Y0d4Q2NDa2JydS0xeUl1dVdKZnR1VndtU0pGUk1UUDg1OU1vLTBlQnl4SmFmQ0JxWG1pM2M1bVViU2lBT3F3YnlZTmxPUGh2X0tuNHp6QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
       "category": "液冷散熱",
       "headline": "Nidec Takes Fan Know-How to Liquid Cooling, Nov. 2 [2026] - https://tech-insider.org/",
       "summary": "Nidec Takes Fan Know-How to Liquid Cooling, Nov. 2 [2026] https://tech-insider.org/",
       "source": "https://tech-insider.org/",
       "published_at": "2026-11-03T17:40:21+08:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0R2YUY0TUp0OTVPNmExQUhpeHNBX3VCNkhzVVpqOTQwZHl2eU1oT1hTVGkyOC1tRkstdzIzTzJ5TmJ4WWZ4U00yc0taYjd6SW1iYllVTm00TDlZVFU0NGdJZlk4STd2amsxejBuMUkwVVcwbnY0SGJrc0podVZyNzRoTElVdzEtTVFIbjFyTGR2SEk?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG CNS completes 30 MW AI data center in Jakarta - ET Datacenters",
-      "summary": "LG CNS completes 30 MW AI data center in Jakarta ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-11-03T14:34:21+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSENwSEx4U1A1aXpILVdnWkpoUFpJTDFjeTBYWUV1M09xeDZQVDIxMzBRVVdmMUVxd3lNU1FjdnpiTUNJczNCWWgtUDBkTTh2VElkRDluSXRqcTVkcGdCdjZNek5fRXM1TERsZkh5eHNTZzJxaVVITmJUSTdWZkR4UGhGQXBWRkZPZWo5RDIyME1NS0EtSXBQWUV2d1Y4ZHRmR3NISG0wci1QN0RNTW8zbG1wLU1jemlwNTJvclF5MDZBZ3hnblVoT3d0UmE2UVdxNVhN0gHYAUFVX3lxTE13V09ybTZiS0dleFg4TlNvbUJqZU1EVmRUSjlud1VlMXE0VXlxVm9rU1k2UUFybFhLLWloNFJwaDV0VWdjOGZiN1l3aHFiRUktV0hnZlpjUmxQZmp4UTZQeHhQWXI0UTNlbWhaTWtQdExKbm91NE1uQy1Oamw5c2Nxc1hQS24zYTJHNWdJdGJFeWtoRm5VaTFYZkIxem9lMWxVNzVZb1dGZEZUc3o5ZTdhVGJZbzVBVmo3Q1c1NHJYM1Brd0RMR1NucHd4Z2tqTDNvWXFqRGk5dA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
