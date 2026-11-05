@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-05T06:49:09+08:00",
+  "intel_updated_at": "2026-11-05T10:53:24+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -245,12 +245,22 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Vyoma.AI Breaks Ground on 52 MW Data Center with Liquid Cooling in India - Refindustry",
+      "summary": "Vyoma.AI Breaks Ground on 52 MW Data Center with Liquid Cooling in India Refindustry",
+      "source": "Refindustry",
+      "published_at": "2026-11-05T06:45:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGVhUXdVaHBSVjhEeTMyN0RUaHpBYXRoTjM0RTUtUzVjVks3cjMyNWpJV2FMRmU3Yzl4b1lPRGQwWnk1OWR1NzJZLTFvWVA5NEV1Zmg2eUNVUjZ2XzFiUkJhTjlnYlRFYnRQRFdJd2JLbUk1bEpsX0Y4Mk8zaUFzcjAtVHBhaDkyUlZRZHBObExBTDJjQWdEeENtMnd1TWdKQWg5dA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
-      "headline": "Beyond Hyperscalers: Here’s The Next $1 Trillion AI Infrastructure Opportunity - Seeking Alpha",
-      "summary": "Beyond Hyperscalers: Here’s The Next $1 Trillion AI Infrastructure Opportunity Seeking Alpha",
-      "source": "Seeking Alpha",
-      "published_at": "2026-11-05T06:16:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzBmSnhUeEdDLVY4UVQtQUlReUphdnpJR01hVzd1YnZFa09YcnVfaEVENUpsY0hYRHA4Q1Z1blJwSV9OOHdKNmN4MWxnT1V1TUhkUmRRSFhHYlRxWl9KdzZ3cmpDMEVxYWRwWEhpY1NUZmZZN0VYNWNrWmZvV2JCRzdOOGs0ZXNZSGlsZF9abE1yczRDYmtsU2YxQWpGSllYMGxmX2pNR0RmalhhVnBCVEJR?oc=5",
+      "headline": "Beyond Hyperscalers: Here’s the Next $1 Trillion AI Infrastructure Opportunity - Beth Kindig – Medium",
+      "summary": "Beyond Hyperscalers: Here’s the Next $1 Trillion AI Infrastructure Opportunity Beth Kindig – Medium",
+      "source": "Beth Kindig – Medium",
+      "published_at": "2026-11-05T03:00:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJxbUxTelo5RGpVdENpWV9jZWpkM0pHS3ByR1QyREcxVVVhcE5rbkx6VmtMbTRZaTYtSU5rV0pfaFBMRF95bW4zbzhnd3I1M3MtMDRBRUpmTnNZREVVY1podjlSMVlpNWdwMmtrOWFIc05VampoOHpYa09wQkJTay1HdXR5TGdGU3pmQ2VFZDZmYUNUSl9EdFp6V1pDN01GRWhpS2w3c1Rzc2l6N2wyOFdxcw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -301,16 +311,6 @@
       "source": "Seoul Economic Daily",
       "published_at": "2026-11-04T17:25:07+08:00",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWw0OEhnWVhYMWRnR3pzXy1lSVZoTm5yTVB3RjlqRTdCUk9tbjNVcU9Dd1BiUENGQWJOR2dqVmRLRGJVd1JiaEVTZzVMS3BvVjdheUVCeUdvVXFqelo4MThNUGVNQmhTLVVzQVF4TGE4aTZXYVE4UkZIbjZ3RjdTakJZM2hRUjg3dHVvY2VtZ2NmRHRDTVRxWmc0RFFlQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG CNS Completes 30-MW AI Data Center in Indonesia - Telecom Review Asia",
-      "summary": "LG CNS Completes 30-MW AI Data Center in Indonesia Telecom Review Asia",
-      "source": "Telecom Review Asia",
-      "published_at": "2026-11-04T17:15:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzh3VWZuOTRGQmFZUkxDTmJEVTRVU1lKUmd1ZGlZZDdqNDFHNnpyc0FON0ptcUFvRlNVZnVpTXdKLVlLSFFNVFd4UEZLVXV1VWdOTkhYcnhRVWpUMlN1LTdFUi1iaVFrYzVmdndNcnFBWUNzOTF2cXVHczlxVFQzMGtreVlPTzhPT2s0WFRRSGZ1TWdDcWJUWk05NkdsU3NTN0tpajNTT21QQ0dBWGhzZ1J3?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
