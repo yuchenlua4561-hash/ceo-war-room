@@ -10,7 +10,7 @@
     ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-05T10:53:24+08:00",
+  "intel_updated_at": "2026-11-05T18:42:39+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -189,9 +189,9 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "資料中心",
-      "move": "Schneider Electric Unveils Integrated AI Data Center Solutions - Seoul Economic Daily",
-      "implication": "公開情報更新於 2026-11-04T17:25:07+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWw0OEhnWVhYMWRnR3pzXy1lSVZoTm5yTVB3RjlqRTdCUk9tbjNVcU9Dd1BiUENGQWJOR2dqVmRLRGJVd1JiaEVTZzVMS3BvVjdheUVCeUdvVXFqelo4MThNUGVNQmhTLVVzQVF4TGE4aTZXYVE4UkZIbjZ3RjdTakJZM2hRUjg3dHVvY2VtZ2NmRHRDTVRxWmc0RFFlQQ?oc=5"
+      "move": "Schneider Electric Targets AI Data Centers With Intelligent Power Distribution - THE ELEC, Korea Electronics Industry Media",
+      "implication": "公開情報更新於 2026-11-05T17:50:29+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMTVRYk9nYUhPMXJOLXVQendhcDU1NkNwRjFWalA2R04zRHpGRTRENlo2OFduWGRJc2Zqemd1OXFQYl9sZVRKU2NMZWNWVUQ5MkprVkdiUk55QlpDTzVpOWtEc09YTlU?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -246,6 +246,36 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "AI Data Center Liquid Cooling Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
+      "summary": "AI Data Center Liquid Cooling Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.",
+      "source": "Global Market Insights Inc.",
+      "published_at": "2026-11-05T18:20:42+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnZTaUpRTjhUUkxheG9Cd1pRRWNvWFhUbTU1VnQ0V2trcHNIN0w0ZUlKNXlUalRZUEVDczFmNlpOYjdzWkxKZy1QalRXYzFxZXJadTR5MlBqT09DMUY2ZGljWHgtZmd5UEg5WXNXSWVxSGFYZVBvRG9pNndtS0ltNlVQSU1tZW5h?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Schneider Electric Targets AI Data Centers With Intelligent Power Distribution - THE ELEC, Korea Electronics Industry Media",
+      "summary": "Schneider Electric Targets AI Data Centers With Intelligent Power Distribution THE ELEC, Korea Electronics Industry Media",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "published_at": "2026-11-05T17:50:29+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMTVRYk9nYUhPMXJOLXVQendhcDU1NkNwRjFWalA2R04zRHpGRTRENlo2OFduWGRJc2Zqemd1OXFQYl9sZVRKU2NMZWNWVUQ5MkprVkdiUk55QlpDTzVpOWtEc09YTlU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research - PR Newswire",
+      "summary": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research PR Newswire",
+      "source": "PR Newswire",
+      "published_at": "2026-11-05T14:27:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObmFScXYybXR6UHdDYTU1NTdzZ1F0Q0VkNUF1RmxobVJyTEFpX2JvV2ZkbnM3VWdWb2t3Z1NoYTZUWWFpY2VKTVhaQlItdUthV1MteTJZRkZDZThYUklLV2I5eHlseFVQTnN5aHdqdVMwQ2ZGT2xOZ1hUbllFRFNLSUZSRVVvYW41WWduU29WVTAwOTZXUnhyU0FPYUpjOVZfcDZtYXczN3M4U0hEMng0czRuR2VidUxMeV9LS0lFUjRvN18wWXh4MUdDY0xEcGF5UktSZWNqX3pmaVdEdFJvMlBnVmthaDZ5WmNnWjVCa19rQXhJMzZwSU5BN2w2aVNtRUhBSVdBZmtzVXIzbF9j?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "Vyoma.AI Breaks Ground on 52 MW Data Center with Liquid Cooling in India - Refindustry",
       "summary": "Vyoma.AI Breaks Ground on 52 MW Data Center with Liquid Cooling in India Refindustry",
       "source": "Refindustry",
@@ -261,16 +291,6 @@
       "source": "Beth Kindig – Medium",
       "published_at": "2026-11-05T03:00:09+08:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJxbUxTelo5RGpVdENpWV9jZWpkM0pHS3ByR1QyREcxVVVhcE5rbkx6VmtMbTRZaTYtSU5rV0pfaFBMRF95bW4zbzhnd3I1M3MtMDRBRUpmTnNZREVVY1podjlSMVlpNWdwMmtrOWFIc05VampoOHpYa09wQkJTay1HdXR5TGdGU3pmQ2VFZDZmYUNUSl9EdFp6V1pDN01GRWhpS2w3c1Rzc2l6N2wyOFdxcw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "10 Cheapest AI Data Center Stocks to Buy According to Billionaires - Insider Monkey",
-      "summary": "10 Cheapest AI Data Center Stocks to Buy According to Billionaires Insider Monkey",
-      "source": "Insider Monkey",
-      "published_at": "2026-11-05T02:46:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUThfUUFYa2hQWG5lVUJZdVdEYTBncmV2bENPcEc0QW5nRWVBaDZYZmx3T3lWdGx1S2ZuX0szbGxET0dRMW8yanVtT1FqU1kyQThiSzREbmxiVDFVT1lJOGc2M093TFZtNks3azV2TnV5RVp1MUNFeDA3OVpmZWVOZXFMdWs3eGpKbWtWVWdOOEVUTWRwTXpwTndmdGI1MzhvSkxqU0VaOFV5TDhKTzYw0gG3AUFVX3lxTE5CVjBLa0tod0hSTUNTWWpCalVWNllTcWJPU0ZTQkowaTdKYlU4WHFFYkZReXF6bWgtRUMxX0VHWlZFRFppQnpvbE9UaFBFanU3OGtYMzBSWWN6REJ3VjhVbGpBV0laVEhRQ2RpZTN3YXVlM0tqSVZTZEpGazA3LWd4SWhPZ2I3eTg5dVA3WXJra3AyWEhfZy00bGFzRndidWk2VlNORlEyUW5rN0NueFZ6ZnNwcHkwUQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -326,41 +346,21 @@
     },
     {
       "category": "資料中心",
+      "headline": "The AI Data Center Is Becoming a $49 Billion Machine - The Dark Side Of The Boom",
+      "summary": "The AI Data Center Is Becoming a $49 Billion Machine The Dark Side Of The Boom",
+      "source": "The Dark Side Of The Boom",
+      "published_at": "2026-11-04T13:15:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmQ1cFNUTkdSSElkSHJpakNpdFpjazJiSWhlV29nQVBqeXROeG9oVEt3QWFEaE1KQnFHeHoxMUpXaHRlUWNxYkc2b19iNTFBYkJDNllHbW1PaktHZklPcTNvME5uNU5GdHZaVXNiNTJST2RYeXlhc2prMFNxQkJiaXN3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "National Grid acquires land for Teesside AI data center substation - ET Datacenters",
       "summary": "National Grid acquires land for Teesside AI data center substation ET Datacenters",
       "source": "ET Datacenters",
       "published_at": "2026-11-04T10:59:43+08:00",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObndPMG5iNEIxd0Rpem96T19CSzRlUFZ5aGdzQWd5a1ZfTUpUdGwyUFQzcVZNb3RLaDdRZm1oMm40OUF0M09hRWkxNW1GQ2N1X0RMeWdPb3g5akFmdUJWMlRQYlprUUJTT015Zjh1bUxITU9HLU1remNxa0FodFBXZVN0eGFpeTh6R0hSNDZBMmFKdXZKUXpPVUJUaWc0S1ZXN0U5akc4TWZKUTctbUVLYUh0SXdrRDJvaWpydkVLaHNRTHVMSG5jRWVteU96S1YxYkw3R183elhIWDJZRkZsVDBZVmpMSEgyMWFVeDZRd2hqRndUemdRTXUtV25nNkxFZmhnaE9hOFc1ay01QzRvVEJtajRhUTBnc3h3ckxQT216dnl5b1FV0gH2AUFVX3lxTE1lYzNvNWROYU5zajFGenNJZVNkSEtSTXlIX1hYcTZFVFlnWDZEek1HNFN6aWFMdWxZOW5iSGhCd3hUUTBHR1IxVXFlT1VEemhRbjRSeGFWSEV1U2p1SmJwYnlYeEQxRm5XMDQ3Z09NanB5WXFxY3I3M21HU0RQSDBITTFMSjJRZ3lNRXNvRkM5WVNzZnRPaTVDbTUxNlcwWDNSeGJtVm9oQUozZkNzUThwNDR3T2JCellUeUJCWWpnOUk1LVJjMHRRM1RnWjExRVRiRHhnTjYwYXZhNXZISFlwYVdmZnEwOUJ1RXU1TFgwM0hpLVg2Zw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Vertiv opens Singapore experience centre for AI systems - DataCenterNews Asia Pacific",
-      "summary": "Vertiv opens Singapore experience centre for AI systems DataCenterNews Asia Pacific",
-      "source": "DataCenterNews Asia Pacific",
-      "published_at": "2026-11-04T08:15:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHhoM3ZNSUp2NFMwREpjajBxd0o5UXU1M18yNDBleXVXYUUtRTE0eVlBTlk2dkJweGZ1cFQzaW1VbDZmWEJocFNOczZUMkxwTVp2cGxCT1NZLVFKcUpVY2dLeUpIcjVDNVhOU2lRTUZvWmxadUcxQ2swYTJ0QVpNd0IxS215N21XYlluMTVqa2VUNEU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Otec Carrier to Target Market with NVIDIA-Certified CDU at 'Data Center Korea 2026' - 아시아경제",
-      "summary": "Otec Carrier to Target Market with NVIDIA-Certified CDU at 'Data Center Korea 2026' 아시아경제",
-      "source": "아시아경제",
-      "published_at": "2026-11-04T07:38:19+08:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ELWg5Snc4OWpkME91Qm9aOTVMd195X0liZllWSjhIdFZVWV80MkF1ZGJUZFd0Z0NZa3VzUDd4WWtQZHMxQmNjY0NobXROU0xUWDgwOHdzMHRodkRoTWg0R0dQcjltY2FiVTY1RGFyalMtbFFVcEVicXNSWQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Trump Onsite Power Push Meets AI Data Center Reality - Data Center Knowledge",
-      "summary": "Trump Onsite Power Push Meets AI Data Center Reality Data Center Knowledge",
-      "source": "Data Center Knowledge",
-      "published_at": "2026-11-04T01:33:40+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzhMZm1DU190NjBZWDltQ2stU3RNX1RuOXFfWFZ4TDcxTHRjaEhpZ2llMlVCd0Y3TlZBY2I2ekFnS1ZNYklTQjM0bkRuUGV5NGUtOTUzT01aS0lZcU9YV0VSdEZDdFFhRm1VVXRacm5zVjFPTnQtY2RMTVZIY0xUbFlXNExKaVRlQUFTZmdiVWJ4bVVIQkZiYzItZ2h6eXpiQWc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
