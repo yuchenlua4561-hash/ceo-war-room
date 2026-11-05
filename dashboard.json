@@ -1,16 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-30T15:12:00+08:00",
+  "updated_at": "2026-11-06T02:01:00+08:00",
   "market_status": {
-    "state": "fallback",
-    "updated_sources": 0,
-    "source_failures": [
-      "BOT FX: RuntimeError: Bank of Taiwan anti-bot challenge",
-      "BOT gold: RuntimeError: Bank of Taiwan anti-bot challenge"
-    ],
+    "state": "ok",
+    "updated_sources": 2,
+    "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-05T18:42:39+08:00",
+  "intel_updated_at": "2026-11-06T02:18:52+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -18,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/10/30 15:12；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/06 02:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -47,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.66,
+      "value": 32.95,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -56,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-30 15:12 GMT+8",
+      "as_of": "2026-11-06 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2089,
+      "value": 0.2112,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -71,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-30 15:12 GMT+8",
+      "as_of": "2026-11-06 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.68,
+      "value": 37.265,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -86,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-10-30 15:12 GMT+8",
+      "as_of": "2026-11-06 02:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4201.0,
+      "value": 4392.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -101,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-10-30 14:54 GMT+8",
+      "as_of": "2026-11-05 19:55 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -245,11 +242,21 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Data Center Market to Reach USD 1,103.70 Billion by 2035 as - GlobeNewswire",
+      "summary": "Data Center Market to Reach USD 1,103.70 Billion by 2035 as GlobeNewswire",
+      "source": "GlobeNewswire",
+      "published_at": "2026-11-05T23:12:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNk9IY3Q5bUhEUEtWSUNxaDNHNWtsTUZha3V3R0ZmdlpaOTlfU0dKSktVWHV5MTAtZEpyQmdNcU1TaERXMGZSdVBVLUdJUE55TEJ6TzZwVkJ5VGxVOFFMSEViQVd5QlQ0MUVyT0cxSjlwZldmTFdacnVFbS1MTDlQZURHbmwxNjIzSlNJMGVMTy05cWNaSWxYLXNTWU5KSEVVR2F1YWZ3MDB6d0phbkNnTXlvX004NzdxbUV0bUR2cEpmcXZaTGZHcW1fSnJ3YnpZV01CcDZFbTc1Z19xeTczUi0yQktBU1YtTXZ1ckFPUE04eHZ6NURWbVVvVjlVSm9Ld0hWVHNKZ2lBOVFSazVTOWd3Unl1RG0taTN0S1ZvYm44VVJHOHhZWDh3emFBcmE2?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "AI Data Center Liquid Cooling Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
       "summary": "AI Data Center Liquid Cooling Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.",
       "source": "Global Market Insights Inc.",
-      "published_at": "2026-11-05T18:20:42+08:00",
+      "published_at": "2026-11-05T18:19:56+08:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnZTaUpRTjhUUkxheG9Cd1pRRWNvWFhUbTU1VnQ0V2trcHNIN0w0ZUlKNXlUalRZUEVDczFmNlpOYjdzWkxKZy1QalRXYzFxZXJadTR5MlBqT09DMUY2ZGljWHgtZmd5UEg5WXNXSWVxSGFYZVBvRG9pNndtS0ltNlVQSU1tZW5h?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -261,6 +268,16 @@
       "source": "THE ELEC, Korea Electronics Industry Media",
       "published_at": "2026-11-05T17:50:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMTVRYk9nYUhPMXJOLXVQendhcDU1NkNwRjFWalA2R04zRHpGRTRENlo2OFduWGRJc2Zqemd1OXFQYl9sZVRKU2NMZWNWVUQ5MkprVkdiUk55QlpDTzVpOWtEc09YTlU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Infineon teams with Korea firms to drive 800V AI data center power shift - Chosunbiz",
+      "summary": "Infineon teams with Korea firms to drive 800V AI data center power shift Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-11-05T15:17:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16aVBBemhkLVRsUndpd3F0MExTRVZIdkN2T2toei1VbGF5UU5keU8zRTl5VTUzbWRSZG1wdVVYZWlyc2JoTTkwenJ3Mm5HdUdpZ3FZcHRBQS1FcHdWX1RFQ2czcEhscjVURzBWQzRJZGRxWXNTcUxldFRn0gGOAUFVX3lxTFAwYlYwbGR2QTh4NFF2TFN4SUptVXBsbkNWdERRdGx4YzQtYVR2anRkVUY1NXp2RWNLTHpQYzlSZWk1S2ttTmRmYUJXQTZsVHNBWGROcjFDWW43Wmt5aFpkRjNaN2JNcjFtb0U1Vk9odndnX2JTejZkQjhvZEkwUi1mTGpDX1E4MkYyTnRoS2c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -341,26 +358,6 @@
       "source": "THE ELEC, Korea Electronics Industry Media",
       "published_at": "2026-11-04T16:31:06+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hY2EtN1A3UHVnVm43SjdiZWRrUWRoYWUtdFJVOXlOU2RIUlBnWEgyNjVpNE56NVJwdDhGUlVielM3cm9JeTJEdnJNejR6WUdNSnZoZjljZzZhODRnLW96M09hXzQ0ejA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The AI Data Center Is Becoming a $49 Billion Machine - The Dark Side Of The Boom",
-      "summary": "The AI Data Center Is Becoming a $49 Billion Machine The Dark Side Of The Boom",
-      "source": "The Dark Side Of The Boom",
-      "published_at": "2026-11-04T13:15:33+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmQ1cFNUTkdSSElkSHJpakNpdFpjazJiSWhlV29nQVBqeXROeG9oVEt3QWFEaE1KQnFHeHoxMUpXaHRlUWNxYkc2b19iNTFBYkJDNllHbW1PaktHZklPcTNvME5uNU5GdHZaVXNiNTJST2RYeXlhc2prMFNxQkJiaXN3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "National Grid acquires land for Teesside AI data center substation - ET Datacenters",
-      "summary": "National Grid acquires land for Teesside AI data center substation ET Datacenters",
-      "source": "ET Datacenters",
-      "published_at": "2026-11-04T10:59:43+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObndPMG5iNEIxd0Rpem96T19CSzRlUFZ5aGdzQWd5a1ZfTUpUdGwyUFQzcVZNb3RLaDdRZm1oMm40OUF0M09hRWkxNW1GQ2N1X0RMeWdPb3g5akFmdUJWMlRQYlprUUJTT015Zjh1bUxITU9HLU1remNxa0FodFBXZVN0eGFpeTh6R0hSNDZBMmFKdXZKUXpPVUJUaWc0S1ZXN0U5akc4TWZKUTctbUVLYUh0SXdrRDJvaWpydkVLaHNRTHVMSG5jRWVteU96S1YxYkw3R183elhIWDJZRkZsVDBZVmpMSEgyMWFVeDZRd2hqRndUemdRTXUtV25nNkxFZmhnaE9hOFc1ay01QzRvVEJtajRhUTBnc3h3ckxQT216dnl5b1FV0gH2AUFVX3lxTE1lYzNvNWROYU5zajFGenNJZVNkSEtSTXlIX1hYcTZFVFlnWDZEek1HNFN6aWFMdWxZOW5iSGhCd3hUUTBHR1IxVXFlT1VEemhRbjRSeGFWSEV1U2p1SmJwYnlYeEQxRm5XMDQ3Z09NanB5WXFxY3I3M21HU0RQSDBITTFMSjJRZ3lNRXNvRkM5WVNzZnRPaTVDbTUxNlcwWDNSeGJtVm9oQUozZkNzUThwNDR3T2JCellUeUJCWWpnOUk1LVJjMHRRM1RnWjExRVRiRHhnTjYwYXZhNXZISFlwYVdmZnEwOUJ1RXU1TFgwM0hpLVg2Zw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
