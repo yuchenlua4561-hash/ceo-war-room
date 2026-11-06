@@ -2,12 +2,15 @@
   "schema_version": "1.0",
   "updated_at": "2026-11-06T11:35:00+08:00",
   "market_status": {
-    "state": "ok",
-    "updated_sources": 2,
-    "source_failures": [],
+    "state": "fallback",
+    "updated_sources": 0,
+    "source_failures": [
+      "BOT FX: RuntimeError: Bank of Taiwan anti-bot challenge",
+      "BOT gold: RuntimeError: Bank of Taiwan anti-bot challenge"
+    ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-06T11:42:11+08:00",
+  "intel_updated_at": "2026-11-06T19:36:16+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -293,6 +296,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Infineon teams with Korea firms to drive 800V AI data center power shift - Chosunbiz",
+      "summary": "Infineon teams with Korea firms to drive 800V AI data center power shift Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-11-05T15:17:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16aVBBemhkLVRsUndpd3F0MExTRVZIdkN2T2toei1VbGF5UU5keU8zRTl5VTUzbWRSZG1wdVVYZWlyc2JoTTkwenJ3Mm5HdUdpZ3FZcHRBQS1FcHdWX1RFQ2czcEhscjVURzBWQzRJZGRxWXNTcUxldFRn0gGOAUFVX3lxTFAwYlYwbGR2QTh4NFF2TFN4SUptVXBsbkNWdERRdGx4YzQtYVR2anRkVUY1NXp2RWNLTHpQYzlSZWk1S2ttTmRmYUJXQTZsVHNBWGROcjFDWW43Wmt5aFpkRjNaN2JNcjFtb0U1Vk9odndnX2JTejZkQjhvZEkwUi1mTGpDX1E4MkYyTnRoS2c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research - PR Newswire",
       "summary": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research PR Newswire",
       "source": "PR Newswire",
@@ -348,16 +361,6 @@
       "source": "openPR.com",
       "published_at": "2026-11-04T18:28:57+08:00",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1JGLTV5ZGx3WVFsdlRLdWhFOU1xOW5VaWNZVDBMUDFWeW1UNDBLMjJELU1VS1N2U1lyYXBlUnVieHRsLU5rdXJuSjNoRlhUeHExbHBiT2xfeTBUMklqb2FvY2l3YVFCcG5OcGpRYjdmbzcyWUtmOXNTX0hPREN1Z1oyMDFVNE5Dd3pQMkprWUxUTUJiN0hDbXVrYTJidw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Schneider Electric Unveils Integrated AI Data Center Solutions - Seoul Economic Daily",
-      "summary": "Schneider Electric Unveils Integrated AI Data Center Solutions Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "published_at": "2026-11-04T17:25:07+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWw0OEhnWVhYMWRnR3pzXy1lSVZoTm5yTVB3RjlqRTdCUk9tbjNVcU9Dd1BiUENGQWJOR2dqVmRLRGJVd1JiaEVTZzVMS3BvVjdheUVCeUdvVXFqelo4MThNUGVNQmhTLVVzQVF4TGE4aTZXYVE4UkZIbjZ3RjdTakJZM2hRUjg3dHVvY2VtZ2NmRHRDTVRxWmc0RFFlQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
