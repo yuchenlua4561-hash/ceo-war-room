@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-08T00:35:46+08:00",
+  "intel_updated_at": "2026-11-08T04:27:54+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -253,6 +253,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study - The Chronicle-Journal",
+      "summary": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study The Chronicle-Journal",
+      "source": "The Chronicle-Journal",
+      "published_at": "2026-11-07T04:30:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORE9JX0dOWVRIU2hjeHl0SGZ2cEJVYWlHTXdESGNtZW5Ya19xSm9ScWFIRmt0ZUsyaFQ1WVJKM01aVmRveG1DWjZrbDBTZDg1M0VXd0lXWUQ0dzV3S0tBSXZtdUF0Z0ZEcXZTemh6YzdYUWxFbDVKSGExXzBvcmt2ay1YYU1nUkhWVDZEdVNZN1VzYjJ4VGMwUlc3U1dHOG9ITVk0cEFUUDFBSDdIdWZJYmZaMTBnV2pkSkJuZjkwUC1Pd1NMT1k0aFJZZkRIMFpYVmdadFlOWlVnSG9HOHd3NUpFQV9RTF9fTTA4cWNyUm84dkVqNDF1SWxpX1pRVVR3QnktSXJR?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "U.S. Data Center Delays Spark Korean Semiconductor Stock Panic - 조선일보",
       "summary": "U.S. Data Center Delays Spark Korean Semiconductor Stock Panic 조선일보",
       "source": "조선일보",
@@ -293,11 +303,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study - FinancialContent",
-      "summary": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study FinancialContent",
-      "source": "FinancialContent",
-      "published_at": "2026-11-06T13:42:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWTh2TTFtd3pUNEdoZC1MeE9NNkZPdHUzNGVRVVQySjYxZEtTMjE4bUdpSWRzVjYzbE1NNldfM0VVSVpYcURnRWI0THNDMllIN0NCM0d6VG9fV0EtdmNhYlRacFR2dXdRcU5rN3k0TWowTVI2b2Fjbms1eWhGWTBNWFY5WnlCYy14M1lYbTB0aWkzTXRDSkxwblhNT09ibl9lVU1Ddl9ORHlyZktqd0lUVWlyNko0TmVQblFGUGE5NF84eGtPTmVaVmgzQ3QzQUE5bzdNX1J2QXZJcVl3TGU5TG1LZmQ?oc=5",
+      "headline": "Cooling Optimization in AI Data Centers - Siemens",
+      "summary": "Cooling Optimization in AI Data Centers Siemens",
+      "source": "Siemens",
+      "published_at": "2026-11-06T12:39:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1k0UG9qRExBTGg0bXhKNkM5eWZWZ2tRMGh0UHBUT01QZHM4WWNZa0ZDQk52ajE1QklmRHFWQWJOYmpqRmF2WkZBc3Rxem5XRVhhNF9pZF9OaEtUZE5FLVNSeXZMa0Y3cXEzWm9IRlI3TlJPQjdSRHVmX2NHcV9WeXh0WFYzZWtaTVBpZHRsN2k3c1JWdjB4dTNncUIzRVRzSWo1cjZSSklmNW9zcXFYSQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "Chosunbiz",
       "published_at": "2026-11-05T15:17:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16aVBBemhkLVRsUndpd3F0MExTRVZIdkN2T2toei1VbGF5UU5keU8zRTl5VTUzbWRSZG1wdVVYZWlyc2JoTTkwenJ3Mm5HdUdpZ3FZcHRBQS1FcHdWX1RFQ2czcEhscjVURzBWQzRJZGRxWXNTcUxldFRn0gGOAUFVX3lxTFAwYlYwbGR2QTh4NFF2TFN4SUptVXBsbkNWdERRdGx4YzQtYVR2anRkVUY1NXp2RWNLTHpQYzlSZWk1S2ttTmRmYUJXQTZsVHNBWGROcjFDWW43Wmt5aFpkRjNaN2JNcjFtb0U1Vk9odndnX2JTejZkQjhvZEkwUi1mTGpDX1E4MkYyTnRoS2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research - PR Newswire",
-      "summary": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research PR Newswire",
-      "source": "PR Newswire",
-      "published_at": "2026-11-05T14:27:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObmFScXYybXR6UHdDYTU1NTdzZ1F0Q0VkNUF1RmxobVJyTEFpX2JvV2ZkbnM3VWdWb2t3Z1NoYTZUWWFpY2VKTVhaQlItdUthV1MteTJZRkZDZThYUklLV2I5eHlseFVQTnN5aHdqdVMwQ2ZGT2xOZ1hUbllFRFNLSUZSRVVvYW41WWduU29WVTAwOTZXUnhyU0FPYUpjOVZfcDZtYXczN3M4U0hEMng0czRuR2VidUxMeV9LS0lFUjRvN18wWXh4MUdDY0xEcGF5UktSZWNqX3pmaVdEdFJvMlBnVmthaDZ5WmNnWjVCa19rQXhJMzZwSU5BN2w2aVNtRUhBSVdBZmtzVXIzbF9j?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
