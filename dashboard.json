@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-08T13:49:50+08:00",
+  "intel_updated_at": "2026-11-08T20:14:08+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -263,16 +263,6 @@
     },
     {
       "category": "資料中心",
-      "headline": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study - The Chronicle-Journal",
-      "summary": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study The Chronicle-Journal",
-      "source": "The Chronicle-Journal",
-      "published_at": "2026-11-07T04:30:33+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORE9JX0dOWVRIU2hjeHl0SGZ2cEJVYWlHTXdESGNtZW5Ya19xSm9ScWFIRmt0ZUsyaFQ1WVJKM01aVmRveG1DWjZrbDBTZDg1M0VXd0lXWUQ0dzV3S0tBSXZtdUF0Z0ZEcXZTemh6YzdYUWxFbDVKSGExXzBvcmt2ay1YYU1nUkhWVDZEdVNZN1VzYjJ4VGMwUlc3U1dHOG9ITVk0cEFUUDFBSDdIdWZJYmZaMTBnV2pkSkJuZjkwUC1Pd1NMT1k0aFJZZkRIMFpYVmdadFlOWlVnSG9HOHd3NUpFQV9RTF9fTTA4cWNyUm84dkVqNDF1SWxpX1pRVVR3QnktSXJR?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "U.S. Data Center Delays Spark Korean Semiconductor Stock Panic - 조선일보",
       "summary": "U.S. Data Center Delays Spark Korean Semiconductor Stock Panic 조선일보",
       "source": "조선일보",
@@ -298,6 +288,26 @@
       "source": "Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
       "published_at": "2026-11-06T18:23:35+08:00",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVBqNm5ial9zREtKQ0dMZzJzbEw2ek4yTUI2SE5BZWdyMDlQLU1ZMTFqdXBMdkRFempVMlpMY1kzejNnOUM5X2p1QmVlU3RiaEh4cW1Tbm83SnpuWE1rQVZuWTE1QnpWMWl6SV9tMUwtMmtVcXY1T0xOUl9oeURsTzlTenBpbzNCQjY3ZVVFMGZ4ZURuUkQ5MDJpZWxyenA5aVRESGZ3bEhmU01mVXAyc01oZnFVOFI3QWhJV2dDYTB2YnNUakJpMDB0QlDSAcwBQVVfeXFMUFFQajZuYmpfc0RLSkNHTGcyc2xMNnpOMk1CNkhOQWVncjA5UC1NWTExanVwTHZERXpqVTJaTGNZM3ozZzlDOV9qdUJlZVN0YmhIeHFtU25vN0p6blhNa0FWblkxNUJ6VjFpeklfbTFMLTJrVXF2NU9MTlJfaHlEbE85U3pwaW8zQkI2N2VVRTBmeGVEblJEOTAyaWVscnpwOWlUREhmd2xIZlNNZlVwMnNNaGZxVThSN0FoSVdnQ2EwdmJzVGpCaTAwdEJQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "“Power, land and talent”: Malaysia emerges as a battleground for AI data center investment as Google, Microsoft and Amazon pour in - https://economy.ac/",
+      "summary": "“Power, land and talent”: Malaysia emerges as a battleground for AI data center investment as Google, Microsoft and Amazon pour in https://economy.ac/",
+      "source": "https://economy.ac/",
+      "published_at": "2026-11-06T15:22:56+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTHJQV0xxbUdsQnFNNWpkRkY2dm1jUTZnWXFmMWs0SjI2R3V5WWNwU1JIaWNvaks5aDdkVkFwTTM1TjQzSmtnOTdaZUlRQ2F4eUdKeUF2cw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study - FinancialContent",
+      "summary": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study FinancialContent",
+      "source": "FinancialContent",
+      "published_at": "2026-11-06T13:42:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWTh2TTFtd3pUNEdoZC1MeE9NNkZPdHUzNGVRVVQySjYxZEtTMjE4bUdpSWRzVjYzbE1NNldfM0VVSVpYcURnRWI0THNDMllIN0NCM0d6VG9fV0EtdmNhYlRacFR2dXdRcU5rN3k0TWowTVI2b2Fjbms1eWhGWTBNWFY5WnlCYy14M1lYbTB0aWkzTXRDSkxwblhNT09ibl9lVU1Ddl9ORHlyZktqd0lUVWlyNko0TmVQblFGUGE5NF84eGtPTmVaVmgzQ3QzQUE5bzdNX1J2QXZJcVl3TGU5TG1LZmQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "THE ELEC, Korea Electronics Industry Media",
       "published_at": "2026-11-05T17:50:29+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMTVRYk9nYUhPMXJOLXVQendhcDU1NkNwRjFWalA2R04zRHpGRTRENlo2OFduWGRJc2Zqemd1OXFQYl9sZVRKU2NMZWNWVUQ5MkprVkdiUk55QlpDTzVpOWtEc09YTlU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research - PR Newswire",
-      "summary": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research PR Newswire",
-      "source": "PR Newswire",
-      "published_at": "2026-11-05T14:27:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObmFScXYybXR6UHdDYTU1NTdzZ1F0Q0VkNUF1RmxobVJyTEFpX2JvV2ZkbnM3VWdWb2t3Z1NoYTZUWWFpY2VKTVhaQlItdUthV1MteTJZRkZDZThYUklLV2I5eHlseFVQTnN5aHdqdVMwQ2ZGT2xOZ1hUbllFRFNLSUZSRVVvYW41WWduU29WVTAwOTZXUnhyU0FPYUpjOVZfcDZtYXczN3M4U0hEMng0czRuR2VidUxMeV9LS0lFUjRvN18wWXh4MUdDY0xEcGF5UktSZWNqX3pmaVdEdFJvMlBnVmthaDZ5WmNnWjVCa19rQXhJMzZwSU5BN2w2aVNtRUhBSVdBZmtzVXIzbF9j?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
