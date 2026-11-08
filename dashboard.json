@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-08T20:14:08+08:00",
+  "intel_updated_at": "2026-11-09T01:57:42+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -282,6 +282,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "Data Center Market: How Much Power It Will Need - Kings Research",
+      "summary": "Data Center Market: How Much Power It Will Need Kings Research",
+      "source": "Kings Research",
+      "published_at": "2026-11-06T21:12:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11NTUxT2I4azhSTm9GaUpjdi1SbFB6ZXlNU3RaOVJzVVIwdVJmTEJEeUZMMHJoYi1SR2dkNko3T2NmQWp3QUVDZ2NGZVZqc1NaSDEzX2k0bHZvQ2I0MU1Wb01pSG01dVBYQWJZ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Can Nvidia's Liquid Cooling Solve the AI Data Center Water Crisis? - Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
       "summary": "Can Nvidia's Liquid Cooling Solve the AI Data Center Water Crisis? Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
@@ -348,16 +358,6 @@
       "source": "Global Market Insights Inc.",
       "published_at": "2026-11-05T18:19:56+08:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnZTaUpRTjhUUkxheG9Cd1pRRWNvWFhUbTU1VnQ0V2trcHNIN0w0ZUlKNXlUalRZUEVDczFmNlpOYjdzWkxKZy1QalRXYzFxZXJadTR5MlBqT09DMUY2ZGljWHgtZmd5UEg5WXNXSWVxSGFYZVBvRG9pNndtS0ltNlVQSU1tZW5h?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Schneider Electric Targets AI Data Centers With Intelligent Power Distribution - THE ELEC, Korea Electronics Industry Media",
-      "summary": "Schneider Electric Targets AI Data Centers With Intelligent Power Distribution THE ELEC, Korea Electronics Industry Media",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "published_at": "2026-11-05T17:50:29+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMTVRYk9nYUhPMXJOLXVQendhcDU1NkNwRjFWalA2R04zRHpGRTRENlo2OFduWGRJc2Zqemd1OXFQYl9sZVRKU2NMZWNWVUQ5MkprVkdiUk55QlpDTzVpOWtEc09YTlU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
