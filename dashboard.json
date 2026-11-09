@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-09T09:34:00+08:00",
+  "updated_at": "2026-11-09T16:41:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-09T09:37:39+08:00",
+  "intel_updated_at": "2026-11-09T16:42:21+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/09 09:34；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/09 16:41；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.935,
+      "value": 32.955,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-09 09:34 GMT+8",
+      "as_of": "2026-11-09 16:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2099,
+      "value": 0.2107,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-09 09:34 GMT+8",
+      "as_of": "2026-11-09 16:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.88,
+      "value": 37.095,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-09 09:34 GMT+8",
+      "as_of": "2026-11-09 16:41 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4369.0,
+      "value": 4356.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-09 09:29 GMT+8",
+      "as_of": "2026-11-09 16:35 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,26 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays ",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-11-09T13:00:04+08:00",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+      "summary": "News Summary: Rebellions plans to adopt NVIDIA NVLink Fusion to connect its next-generation R200 neural processing units to NVIDIA’s open infrastructure platform for rack-scale inference. SK Telecom plans to deploy these systems in its AI data center to suppor",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-11-09T13:00:00+08:00",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake - 24/7 Wall St.",
       "summary": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake 24/7 Wall St.",
       "source": "24/7 Wall St.",
@@ -263,6 +283,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Can’t cook or shower: Indonesians take aim at AI data centers - Inquirer.net",
+      "summary": "Can’t cook or shower: Indonesians take aim at AI data centers Inquirer.net",
+      "source": "Inquirer.net",
+      "published_at": "2026-11-08T11:07:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3JMQm1iODhNZW5jLXBXVXd4OTdxMGt1bGVrNkpZbENFYm5BRXpsXzhjdXprVjk3dVRjTFRKS1I3R0c3M2N3aWREdWpVOXlrcWRqdHFHdk5DQTZnaGhjSTBQYjhDc09WM1ZBLUQ3M3hHUmlDLXpBbVFoaXlaLWxNT2czR3QzR3Q0Z1hBcDN1bU9EdEk4cklZT0oxN0dfY213V3fSAacBQVVfeXFMTWZQTFU5c2FmdEN6d1pOVmFpNWxzLVhuQ1pKTlRvSGN4Ty1sQVFCZmQ3RnlIcnI4SlUwMnIzaGhUYUVoSl9QZXZVWm9rQi12VV9GMGtlelNEODd0X2Z2RTNPOUFKc3hnWjZsSmdwWnJTMndnbGhYbkNiWkNSN2NUOGxvT1RhR3pQeDNzUXN2N2UteHFTNWppTTVvd0NORWNQTDJ6U2NxT00?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv? - 24/7 Wall St.",
       "summary": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv? 24/7 Wall St.",
       "source": "24/7 Wall St.",
@@ -273,11 +303,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study - The Chronicle-Journal",
-      "summary": "Roarable Releases 2026 AI Data Center Memory Wafer and Supply-Chain Bottleneck Study The Chronicle-Journal",
-      "source": "The Chronicle-Journal",
-      "published_at": "2026-11-07T04:30:33+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORE9JX0dOWVRIU2hjeHl0SGZ2cEJVYWlHTXdESGNtZW5Ya19xSm9ScWFIRmt0ZUsyaFQ1WVJKM01aVmRveG1DWjZrbDBTZDg1M0VXd0lXWUQ0dzV3S0tBSXZtdUF0Z0ZEcXZTemh6YzdYUWxFbDVKSGExXzBvcmt2ay1YYU1nUkhWVDZEdVNZN1VzYjJ4VGMwUlc3U1dHOG9ITVk0cEFUUDFBSDdIdWZJYmZaMTBnV2pkSkJuZjkwUC1Pd1NMT1k0aFJZZkRIMFpYVmdadFlOWlVnSG9HOHd3NUpFQV9RTF9fTTA4cWNyUm84dkVqNDF1SWxpX1pRVVR3QnktSXJR?oc=5",
+      "headline": "Precision Air Conditioners Market To 2035: AI Data Center Cooling Demand Drives Growth - News and Statistics - IndexBox",
+      "summary": "Precision Air Conditioners Market To 2035: AI Data Center Cooling Demand Drives Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-11-07T19:56:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTZSN3BfMTJ5aXVvOUFXTUUwa3VPelJmbjd1dmpvSUxGOEQ2QTFfX2JOTHpJaWFVb3VGX3NGbnRwODdDbnExXzR4eFM4Z25odEJ5MnFYX0ZZbnJhVjRDUGhtVXZDN18yNm9CcWJtUnV3dE9Bc1N6aUh5VXgwWVp5cS1KNWM1eERreV8yV2JPTzNqc0xFUWd6SnlIZWpGbkF3MWxIVGZFUFppSUpWSEZ4QnlwSHRzc25hQ2dpNg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -328,36 +358,6 @@
       "source": "https://economy.ac/",
       "published_at": "2026-11-06T15:22:56+08:00",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTHJQV0xxbUdsQnFNNWpkRkY2dm1jUTZnWXFmMWs0SjI2R3V5WWNwU1JIaWNvaks5aDdkVkFwTTM1TjQzSmtnOTdaZUlRQ2F4eUdKeUF2cw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Cooling Optimization in AI Data Centers - Siemens",
-      "summary": "Cooling Optimization in AI Data Centers Siemens",
-      "source": "Siemens",
-      "published_at": "2026-11-06T12:39:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1k0UG9qRExBTGg0bXhKNkM5eWZWZ2tRMGh0UHBUT01QZHM4WWNZa0ZDQk52ajE1QklmRHFWQWJOYmpqRmF2WkZBc3Rxem5XRVhhNF9pZF9OaEtUZE5FLVNSeXZMa0Y3cXEzWm9IRlI3TlJPQjdSRHVmX2NHcV9WeXh0WFYzZWtaTVBpZHRsN2k3c1JWdjB4dTNncUIzRVRzSWo1cjZSSklmNW9zcXFYSQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center Market to Reach USD 1,103.70 Billion by 2035 as - GlobeNewswire",
-      "summary": "Data Center Market to Reach USD 1,103.70 Billion by 2035 as GlobeNewswire",
-      "source": "GlobeNewswire",
-      "published_at": "2026-11-05T23:12:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNk9IY3Q5bUhEUEtWSUNxaDNHNWtsTUZha3V3R0ZmdlpaOTlfU0dKSktVWHV5MTAtZEpyQmdNcU1TaERXMGZSdVBVLUdJUE55TEJ6TzZwVkJ5VGxVOFFMSEViQVd5QlQ0MUVyT0cxSjlwZldmTFdacnVFbS1MTDlQZURHbmwxNjIzSlNJMGVMTy05cWNaSWxYLXNTWU5KSEVVR2F1YWZ3MDB6d0phbkNnTXlvX004NzdxbUV0bUR2cEpmcXZaTGZHcW1fSnJ3YnpZV01CcDZFbTc1Z19xeTczUi0yQktBU1YtTXZ1ckFPUE04eHZ6NURWbVVvVjlVSm9Ld0hWVHNKZ2lBOVFSazVTOWd3Unl1RG0taTN0S1ZvYm44VVJHOHhZWDh3emFBcmE2?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Chemours Launches Faizeon Two-Phase Liquid Cooling Solutions for AI Data Centers - HPCwire",
-      "summary": "Chemours Launches Faizeon Two-Phase Liquid Cooling Solutions for AI Data Centers HPCwire",
-      "source": "HPCwire",
-      "published_at": "2026-11-05T22:54:55+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmVXYVM5V0x4X2VQWm1rMFpDUW5ydERacVE1QVh4NDdlSzFmcmh4NzNIZzFrNkJBVDBtRHhIVTZ4eTRvWGhzWm82blV2TmVubHFnZ1dlSjZsMEhFVlVOWmJtVmJFTDNPc0U1VVRjZlpRS0hwT3I5eE9CVlcwWGxJWEE0Xy16MzhhRGFueENYVkJtR21mYU9Lb3pST1ZsZDY4QVJSVTJwNGYzbTVUTkZSMV9pS0xyR2t0UGc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
