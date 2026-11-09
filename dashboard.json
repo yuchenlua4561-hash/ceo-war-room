@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-09T16:41:00+08:00",
+  "updated_at": "2026-11-10T01:01:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-09T16:42:21+08:00",
+  "intel_updated_at": "2026-11-10T03:13:04+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/09 16:41；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/10 01:01；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-09 16:41 GMT+8",
+      "as_of": "2026-11-10 01:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-09 16:41 GMT+8",
+      "as_of": "2026-11-10 01:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 37.095,
+      "value": 37.115,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-09 16:41 GMT+8",
+      "as_of": "2026-11-10 01:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4356.0,
+      "value": 4372.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-09 16:35 GMT+8",
+      "as_of": "2026-11-09 19:43 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,36 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "RC Power's Strategy: Navigating Data Center Challenges - Bisnow",
+      "summary": "RC Power's Strategy: Navigating Data Center Challenges Bisnow",
+      "source": "Bisnow",
+      "published_at": "2026-11-10T00:00:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmRMeTcybDZOR1VrQXVJOTV0aldqQUlxa1ozTDBobXgxaEFmTTN2UllrRkw3WXk3X3B2ekNDWkowakdBQ0RJWFZ1LUo0ZS1nSTdZOXZ4cEliZHV3ZDVqdmRWVlNwRFNpLUpJV1NyQ3dlTVRZQ3hTX2pxX1dRQjFENVh0WFhZZG1YQUxlOEluOHJJUGZHY2xQRS1kbjB1Zw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Data Center Cooling CDU Pumps Market to Reach USD 5,500.47 Million by 2035 as AI Racks Move to Liquid Cooling and Megawatt-Scale CDUs - Yahoo Finance",
+      "summary": "Data Center Cooling CDU Pumps Market to Reach USD 5,500.47 Million by 2035 as AI Racks Move to Liquid Cooling and Megawatt-Scale CDUs Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-09T20:18:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUlRcFhPRGJkRUdaSjhkYUlsdjhkVXNJeWF3ZEVBWnpxdFJfMmEtdzUyM2xIcDcyYkZjY3BxUEYtT2dPdExNRGc4Tk5LbjZQcm1KT21wYnEtM19MdHZBUlNvQmJMZFRPaE1RbmlNaUkwd3hNdmtUMkhjZGhZeUNmcU92RTlpVEJmb3prQVh5TmtnZjVCNWNYUA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "[Exclusive] “Let’s capture the 2,800-trillion AI infrastructure market” ... POSCO, GS forge data center “alliance” - 매일경제",
+      "summary": "[Exclusive] “Let’s capture the 2,800-trillion AI infrastructure market” ... POSCO, GS forge data center “alliance” 매일경제",
+      "source": "매일경제",
+      "published_at": "2026-11-09T16:45:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc21UMmVBLXk1VWcxa2lzdE1XX2xhMG92c3d6M09qLWFicFNyOU5mMFJ0MTRTZG5uVEtRVDdFYlduT1FhRjI1T0tHZ09LRE9HVmFJ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
       "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays ",
       "source": "NVIDIA Blog",
@@ -323,41 +353,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Google Invests $160M in Malaysia Water Project Amid AI Data Center Boom - CarbonCredits.com",
-      "summary": "Google Invests $160M in Malaysia Water Project Amid AI Data Center Boom CarbonCredits.com",
-      "source": "CarbonCredits.com",
-      "published_at": "2026-11-07T00:38:10+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGl0M3ZTelZxTzhCaVhCMXllV1FUODhvMVByMUxlcVpuaTg3Rjd3UHA3TkJDSHdkdzlWNG11YXl1dE5Na1RoSXlwR3FaNWg1V19EODNMWjNJYkYzNmJiQlpIOWZlbW5uejY0YWtzTFdiV3k3WkNMOWtyZ0Vmczc3Q2FIeWRxazh6QW5OU0hQMi0xUi1OQjVwNHk3YWNxQQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Data Center Market: How Much Power It Will Need - Kings Research",
       "summary": "Data Center Market: How Much Power It Will Need Kings Research",
       "source": "Kings Research",
       "published_at": "2026-11-06T21:12:44+08:00",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11NTUxT2I4azhSTm9GaUpjdi1SbFB6ZXlNU3RaOVJzVVIwdVJmTEJEeUZMMHJoYi1SR2dkNko3T2NmQWp3QUVDZ2NGZVZqc1NaSDEzX2k0bHZvQ2I0MU1Wb01pSG01dVBYQWJZ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Can Nvidia's Liquid Cooling Solve the AI Data Center Water Crisis? - Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
-      "summary": "Can Nvidia's Liquid Cooling Solve the AI Data Center Water Crisis? Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
-      "source": "Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
-      "published_at": "2026-11-06T18:23:35+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVBqNm5ial9zREtKQ0dMZzJzbEw2ek4yTUI2SE5BZWdyMDlQLU1ZMTFqdXBMdkRFempVMlpMY1kzejNnOUM5X2p1QmVlU3RiaEh4cW1Tbm83SnpuWE1rQVZuWTE1QnpWMWl6SV9tMUwtMmtVcXY1T0xOUl9oeURsTzlTenBpbzNCQjY3ZVVFMGZ4ZURuUkQ5MDJpZWxyenA5aVRESGZ3bEhmU01mVXAyc01oZnFVOFI3QWhJV2dDYTB2YnNUakJpMDB0QlDSAcwBQVVfeXFMUFFQajZuYmpfc0RLSkNHTGcyc2xMNnpOMk1CNkhOQWVncjA5UC1NWTExanVwTHZERXpqVTJaTGNZM3ozZzlDOV9qdUJlZVN0YmhIeHFtU25vN0p6blhNa0FWblkxNUJ6VjFpeklfbTFMLTJrVXF2NU9MTlJfaHlEbE85U3pwaW8zQkI2N2VVRTBmeGVEblJEOTAyaWVscnpwOWlUREhmd2xIZlNNZlVwMnNNaGZxVThSN0FoSVdnQ2EwdmJzVGpCaTAwdEJQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "“Power, land and talent”: Malaysia emerges as a battleground for AI data center investment as Google, Microsoft and Amazon pour in - https://economy.ac/",
-      "summary": "“Power, land and talent”: Malaysia emerges as a battleground for AI data center investment as Google, Microsoft and Amazon pour in https://economy.ac/",
-      "source": "https://economy.ac/",
-      "published_at": "2026-11-06T15:22:56+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTHJQV0xxbUdsQnFNNWpkRkY2dm1jUTZnWXFmMWs0SjI2R3V5WWNwU1JIaWNvaks5aDdkVkFwTTM1TjQzSmtnOTdaZUlRQ2F4eUdKeUF2cw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
