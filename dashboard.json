@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-11T10:10:00+08:00",
+  "updated_at": "2026-11-11T17:21:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-11T10:11:44+08:00",
+  "intel_updated_at": "2026-11-11T17:33:11+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/11 10:10；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/11 17:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.91,
+      "value": 32.935,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-11 10:10 GMT+8",
+      "as_of": "2026-11-11 17:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2089,
+      "value": 0.2094,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-11 10:10 GMT+8",
+      "as_of": "2026-11-11 17:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.91,
+      "value": 36.925,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-11 10:10 GMT+8",
+      "as_of": "2026-11-11 17:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4299.0,
+      "value": 4306.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-11 10:05 GMT+8",
+      "as_of": "2026-11-11 17:19 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv? - 24/7 Wall St.",
-      "implication": "公開情報更新於 2026-11-08T07:30:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeno3VlNNamYyVWl6S19GUXBXQXJGVXQxUndsQlpKXzFjQWJnMEMxWjRvZ3p5cTBLLS1OMkl4LXpPYllPYjduczhYM1plNVpKZ3BaaUVraGQ0RTlSSUZaQ2IxREctcWppcmo2VXBwRUxkU0F4ekxsV2ExOVhvWTh2RVBVNnd0dFYxMFhMdi1keE9RLV9TNGtpRi1pV24xekkxeDN5aWVR?oc=5"
+      "move": "DCD Talks Cooling Transformation with Greg Stover, Vertiv - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-11-11T01:16:39+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlEtbmt0QTZrblBSczlnM0NseWNnZTRUMWc0cTduSllHV0dyaDNGN3NmM2M0QWdWTU0tNnhHR0Jva1lzUXc0LTktbUt4OFZGM2xVcHRFZ0JVOEZPYmdQSTM3bTE4VVI0a0JpOUxLM2RtQUZhcUFDdHdsNVE0dXROWEp3TWFvdXpJODJTQ05LU3hFdlFrVi15aFVvSlphWVFpbGExeUFKSWltcjhUMkN4RDl2TFVZQVF6X3k0SmZpVVlCeF82OGJuWGVHXzJkS0NfWXFfaU12azNiYWJaNG5qbjktaXM5VDJSUDFQTElGYTQ?oc=5"
     },
     {
       "company": "Boyd",
@@ -243,11 +243,81 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "POSCO, GS partner to supply steel solutions for AI data centers - Chosunbiz",
+      "summary": "POSCO, GS partner to supply steel solutions for AI data centers Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-11-11T17:14:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0NHekw4Wl9wQjNkTkRYOFpKUWQ1Z2tjUWUwZS03a3ZXajhFb0pNMk9wODBNUmN3czBxNXU4azU3SmctMkNDRzFCMVk3OTFreTQ5a0dGdWU3djM0MW1uQTlFREZrX2sxSlpGM00tcS1JWWZ4SWZUVTFuX254Z1V6V0N30gGWAUFVX3lxTE5LSmNUVHUxSW93N052TkJINmVrNDBjVE00cnItWV9kaXFJUUNLT2JxMElLbXlIdWFjXzBvdkZLRzAwM3RMcmNUWFlZZXlEYlh2UEtfTmtnQ2JtMXE0M0ZJeVpmd0xpM3RKVGZpdkd0VUl2UXE5eTJIejNZa3A4cVZGU0trYmxHSnBKUWdFUUEtWjIwelZsdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "GCM Corporation Limited (ASX:GCM) Advances Data Centre Thermal Management Pipeline Through JDA and ALVC Evaluation Programme - Kalkine",
+      "summary": "GCM Corporation Limited (ASX:GCM) Advances Data Centre Thermal Management Pipeline Through JDA and ALVC Evaluation Programme Kalkine",
+      "source": "Kalkine",
+      "published_at": "2026-11-11T15:47:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT3o4YVVDOG5semZpb2UxNWRuZWFxTWhUWTJUZXl3Wm1KcXhQRE9YLUZQQ180Z3N3NXFsVFJzWHc3NWNPdUF1VUNUbk4teDB1VEZJMUMxQkROUzZKRTBoTlF3TWM2b2FfbjRzWG5MVEwyZUdHZWhXM2lRR0k3VFBRMksyVklPU2c2QUh0N0VuTTh3RVBSZmtnVkZiLWZ5bVFyWW45WjNIWHdHMXJKV0FuWEt6YnpMdGNTaG5jdWo2WkU5OXhhNFlsUXdpclVzY2pROGJtdWo1eUlKVDRqS2FRYmZiSW85SlZnRFp0bEJhd3ZSQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Posco, GS Group join forces on AI data center push, from design to overseas expansion - 헤럴드경제",
+      "summary": "Posco, GS Group join forces on AI data center push, from design to overseas expansion 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-11-11T15:39:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwNFJwZ2I4djY3S2s0R1dtVDIxaDV0dG1xLTJ2QXBPUjNDb3FVNVBBT2d6VGM4LVQ3a1FYOHVJZWVxd193WmVZR2lCeldUOUZhcE9YcUI0aw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure - Data Center Knowledge",
+      "summary": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "published_at": "2026-11-11T14:17:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaElmX2gxaFBYWFN4QllRaUVVOHZIY3VGbnc5Y1BYZnJzcEkwZWM1TFFMeUJpM1RKaTMzYjh4M09qMkpVaE00bGJZSnk3S3NNSC1HWUVmSnltb0tiWEJaRXJXUHdVWnVfYWNxMWF6ZEVld0VtbGRIeFpGM1J1eWZBM3hFbU5wUFEweGEzbnRUNmNiNzA0ZkF4MmdNVEI5MExmRVJpVXpiS3htTHE2bmc1eGFmRHZ0ell1?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Data Centers Market Projected to Reach US$1,020.83 Billion - openPR.com",
+      "summary": "AI Data Centers Market Projected to Reach US$1,020.83 Billion openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-11T13:35:13+08:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjB6T2syTGRmTG1MSnRNOEtnVVVac3phX3dxcXN6TjZqbm03aVJkZkVnV2U0NFVuTWRXWk55TGFaaEx0bE51dlNsUTBORWMwRjgxbndQaVJSUkVIdEE2NUxJc2l3ZHV6aE8tSDRURFo0R0pnajNwUlVWejVzTF9XSDlZZTFYV2tkb0VsXzJYN0NVRm5SVG5sT2ZaVk82dw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Taiwan's AcBel Polytech Posts Record Q3 Revenue of NT$10.805 Billion, EPS NT$0.25; HVDC Power Supplies to Enter Mass Production Next Year in AI Data Center Push - BigGo Finance",
+      "summary": "Taiwan's AcBel Polytech Posts Record Q3 Revenue of NT$10.805 Billion, EPS NT$0.25; HVDC Power Supplies to Enter Mass Production Next Year in AI Data Center Push BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-11-11T10:35:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSVhOWjhXZ2tVc2dNakdDaFlSOEwxUzlMVnN6OGFjY3gza3FqUm5rcVhFTzdXcFhQRnROd3VEWUw4clZXaUFjRm9hOGZqNlZ3QVh1dUdlRGdmWTFUZmh0VDVFblVRWkY4dEZsOHdHbFBUVlhHb0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "How the AI Data Center Boom Is Reshaping the Re/Insurance Landscape - Beinsure",
       "summary": "How the AI Data Center Boom Is Reshaping the Re/Insurance Landscape Beinsure",
       "source": "Beinsure",
       "published_at": "2026-11-11T04:11:47+08:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFRISFBfZkpXUGxjel9ZQXhSaVZsLTl1TURqdHBmLUhqQ0VUMExjckotbnNJOGxrdFJZbG1vZk5hSmMyQXZKUXBKMFBrazlyRW5EdHQ3RW5GZ3dJcHBVSmpfVTdaOGZCdnEzZVdkODdEV3pwSmM5U1lkY0JFRHZyWDA0cDUzWmlweV9QczZzOG1TM0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "DCD Talks Cooling Transformation with Greg Stover, Vertiv - Data Center Dynamics",
+      "summary": "DCD Talks Cooling Transformation with Greg Stover, Vertiv Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-11-11T01:16:39+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlEtbmt0QTZrblBSczlnM0NseWNnZTRUMWc0cTduSllHV0dyaDNGN3NmM2M0QWdWTU0tNnhHR0Jva1lzUXc0LTktbUt4OFZGM2xVcHRFZ0JVOEZPYmdQSTM3bTE4VVI0a0JpOUxLM2RtQUZhcUFDdHdsNVE0dXROWEp3TWFvdXpJODJTQ05LU3hFdlFrVi15aFVvSlphWVFpbGExeUFKSWltcjhUMkN4RDl2TFVZQVF6X3k0SmZpVVlCeF82OGJuWGVHXzJkS0NfWXFfaU12azNiYWJaNG5qbjktaXM5VDJSUDFQTElGYTQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -288,76 +358,6 @@
       "source": "Siemens",
       "published_at": "2026-11-10T02:35:44+08:00",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcldRMWtrcGlkR2wtMi1OZFk3bWNEOFI0YjVoTFpqWGVGSDlLNFlSU0pMNHZpelcxZEJaWmhzM1BKOW4zbnkwdEVhMlpMbmJWWjRmLTlWWW1qQnhJTFJKajdteWs5M0UwbDNpdkxDUGp4bm15Rzg5ejU3T3h6VGVXMUk0VWpybzdST0pHWTJYQUlMem9xQm9RNWpyc3UxZ1NRWlVCeWMyVkk0c3Rwc0k5ZA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "RC Power's Strategy: Navigating Data Center Challenges - Bisnow",
-      "summary": "RC Power's Strategy: Navigating Data Center Challenges Bisnow",
-      "source": "Bisnow",
-      "published_at": "2026-11-10T00:00:03+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmRMeTcybDZOR1VrQXVJOTV0aldqQUlxa1ozTDBobXgxaEFmTTN2UllrRkw3WXk3X3B2ekNDWkowakdBQ0RJWFZ1LUo0ZS1nSTdZOXZ4cEliZHV3ZDVqdmRWVlNwRFNpLUpJV1NyQ3dlTVRZQ3hTX2pxX1dRQjFENVh0WFhZZG1YQUxlOEluOHJJUGZHY2xQRS1kbjB1Zw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data Center Cooling CDU Pumps Market to Reach USD 5,500.47 Million by 2035 as AI Racks Move to Liquid Cooling and Megawatt-Scale CDUs - Yahoo Finance",
-      "summary": "Data Center Cooling CDU Pumps Market to Reach USD 5,500.47 Million by 2035 as AI Racks Move to Liquid Cooling and Megawatt-Scale CDUs Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-09T20:18:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUlRcFhPRGJkRUdaSjhkYUlsdjhkVXNJeWF3ZEVBWnpxdFJfMmEtdzUyM2xIcDcyYkZjY3BxUEYtT2dPdExNRGc4Tk5LbjZQcm1KT21wYnEtM19MdHZBUlNvQmJMZFRPaE1RbmlNaUkwd3hNdmtUMkhjZGhZeUNmcU92RTlpVEJmb3prQVh5TmtnZjVCNWNYUA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "[Exclusive] “Let’s capture the 2,800-trillion AI infrastructure market” ... POSCO, GS forge data center “alliance” - 매일경제",
-      "summary": "[Exclusive] “Let’s capture the 2,800-trillion AI infrastructure market” ... POSCO, GS forge data center “alliance” 매일경제",
-      "source": "매일경제",
-      "published_at": "2026-11-09T16:45:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc21UMmVBLXk1VWcxa2lzdE1XX2xhMG92c3d6M09qLWFicFNyOU5mMFJ0MTRTZG5uVEtRVDdFYlduT1FhRjI1T0tHZ09LRE9HVmFJ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays ",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-11-09T13:00:04+08:00",
-      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
-      "summary": "News Summary: Rebellions plans to adopt NVIDIA NVLink Fusion to connect its next-generation R200 neural processing units to NVIDIA’s open infrastructure platform for rack-scale inference. SK Telecom plans to deploy these systems in its AI data center to suppor",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-11-09T13:00:00+08:00",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake - 24/7 Wall St.",
-      "summary": "David Sacks Warns the AI Data Center Pipeline Could Dry Up. Here’s What’s at Stake 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-11-09T08:07:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWFUamRmY0E0TGExeEtFelJZQ2IxZndwRENUbDZsUGtzcjVXR1RQUE92cE02Sm4wN1VSNWhRSUdFeTVQVVlCbmt2b1N5VWF4dFB4d0tBdk1ZVmNUcGd1MWIzV2tvR0J1b05VZWVVcUM0dlp3bkNHc0J4TW9Ic1dqNHdMRHZqS2Ztdng3V2poVDlrMF9fUmR3ZUNMZjkzUmgxd0J6LWktM3VjSzBNd202d0VjanAzVzNlOEtfQkN5MjU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv? - 24/7 Wall St.",
-      "summary": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv? 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-11-08T07:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeno3VlNNamYyVWl6S19GUXBXQXJGVXQxUndsQlpKXzFjQWJnMEMxWjRvZ3p5cTBLLS1OMkl4LXpPYllPYjduczhYM1plNVpKZ3BaaUVraGQ0RTlSSUZaQ2IxREctcWppcmo2VXBwRUxkU0F4ekxsV2ExOVhvWTh2RVBVNnd0dFYxMFhMdi1keE9RLV9TNGtpRi1pV24xekkxeDN5aWVR?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
