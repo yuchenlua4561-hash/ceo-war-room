@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-11T17:21:00+08:00",
+  "updated_at": "2026-11-12T01:21:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-11T17:33:11+08:00",
+  "intel_updated_at": "2026-11-12T01:24:01+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/11 17:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/12 01:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-11 17:21 GMT+8",
+      "as_of": "2026-11-12 01:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2094,
+      "value": 0.2082,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-11 17:21 GMT+8",
+      "as_of": "2026-11-12 01:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.925,
+      "value": 36.745,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-11 17:21 GMT+8",
+      "as_of": "2026-11-12 01:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4306.0,
+      "value": 4304.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-11 17:19 GMT+8",
+      "as_of": "2026-11-11 19:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,11 +243,51 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Delta showcases AI data center cooling and power solutions at Electronica 2026 - Data Centre Solutions",
+      "summary": "Delta showcases AI data center cooling and power solutions at Electronica 2026 Data Centre Solutions",
+      "source": "Data Centre Solutions",
+      "published_at": "2026-11-11T22:03:38+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNnF4d1JZdzF3bVFZMUlSLTNjVXVhd2J4Y0w5dVZNeUlHUEk5VkRZUExzR2Y0ZlFvcUJydmpERG01X1RUWU1jT29aMi1GSk5WWnFCUmdrdTVVVTF6VzItZmFrbEZYZGY3VFhKSGxfOUEtQUYwdjFsQ1BmdVdKVFNNWmhqbUZSLTI3WjA3TzdyamhuMV9RMlA2eWJjY2ZEZ0NaNDE5UXRfSkpEanczVXkxY1czMXo5bFQyVHc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Q&A | Liquid cooling is changing how we design, and deploy the entire rack: Matt McGuff, Jabil - W.Media",
+      "summary": "Q&A | Liquid cooling is changing how we design, and deploy the entire rack: Matt McGuff, Jabil W.Media",
+      "source": "W.Media",
+      "published_at": "2026-11-11T19:45:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWNHRlBDV3k4QVNaZ1Z3S05YMWJtb1FWbm4xMnF5TW5mTGJZbjBoT2JWeW92cTYtaGU0b1k5MXpDYVNSaWRsS0hzeWJRNmRZR2Zvb0N4Tm1CZFl2Qy1mc3c4UDFuWDJFc2J1VFlrci1XSGktZUJITHBvMC11NXlHa25nelZZb1diZW8zci1sdXFVc2ZKNGNLaWwtUm5HTVdmcWVJc2JMYlU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Data Center Cooling Solutions Market to Reach USD 49.84 Billion - openPR.com",
+      "summary": "Data Center Cooling Solutions Market to Reach USD 49.84 Billion openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-11T17:29:43+08:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeDRmaERQRi1oZG01dXBrQ1lEMXZkMEVWSTMtOFNkUHFuZU5Db3VSeXdxMGdjSDV5MV9obFl3czQ5Umc3cTBRVndOVEhzdHJuUEMxOEV4YkJLbFk5MTFYc2tWVU1iX2MwdXVtVHoxMWZzenhLZE4tR2k2OGdxaTR6UUotUzRWcFlkR2luQ1doTjBaZklYLVhaN1dlMDcyS3Mw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "POSCO, GS partner to supply steel solutions for AI data centers - Chosunbiz",
       "summary": "POSCO, GS partner to supply steel solutions for AI data centers Chosunbiz",
       "source": "Chosunbiz",
       "published_at": "2026-11-11T17:14:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0NHekw4Wl9wQjNkTkRYOFpKUWQ1Z2tjUWUwZS03a3ZXajhFb0pNMk9wODBNUmN3czBxNXU4azU3SmctMkNDRzFCMVk3OTFreTQ5a0dGdWU3djM0MW1uQTlFREZrX2sxSlpGM00tcS1JWWZ4SWZUVTFuX254Z1V6V0N30gGWAUFVX3lxTE5LSmNUVHUxSW93N052TkJINmVrNDBjVE00cnItWV9kaXFJUUNLT2JxMElLbXlIdWFjXzBvdkZLRzAwM3RMcmNUWFlZZXlEYlh2UEtfTmtnQ2JtMXE0M0ZJeVpmd0xpM3RKVGZpdkd0VUl2UXE5eTJIejNZa3A4cVZGU0trYmxHSnBKUWdFUUEtWjIwelZsdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "POSCO and GS join forces to tap the AI data center infrastructure market, pooling steel, power and cooling capabilities - 스포츠조선",
+      "summary": "POSCO and GS join forces to tap the AI data center infrastructure market, pooling steel, power and cooling capabilities 스포츠조선",
+      "source": "스포츠조선",
+      "published_at": "2026-11-11T16:47:58+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDU1MkZmS2VWdnVNcTlWbEJlamd4d2J5dVFzdzhKVGZQbVQ1MXMyWE84ODNlMVczUnlYMVl1STBOZElmWU9jQTN1cExQYk9aQi1GYVdGT1N0Q0c5eDh3SHRZbHlMbjJsVDF5bW15SFk2X3BIYV9UdTM5X3NvYl8tRA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -296,7 +336,7 @@
       "headline": "Taiwan's AcBel Polytech Posts Record Q3 Revenue of NT$10.805 Billion, EPS NT$0.25; HVDC Power Supplies to Enter Mass Production Next Year in AI Data Center Push - BigGo Finance",
       "summary": "Taiwan's AcBel Polytech Posts Record Q3 Revenue of NT$10.805 Billion, EPS NT$0.25; HVDC Power Supplies to Enter Mass Production Next Year in AI Data Center Push BigGo Finance",
       "source": "BigGo Finance",
-      "published_at": "2026-11-11T10:35:00+08:00",
+      "published_at": "2026-11-11T10:39:55+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSVhOWjhXZ2tVc2dNakdDaFlSOEwxUzlMVnN6OGFjY3gza3FqUm5rcVhFTzdXcFhQRnROd3VEWUw4clZXaUFjRm9hOGZqNlZ3QVh1dUdlRGdmWTFUZmh0VDVFblVRWkY4dEZsOHdHbFBUVlhHb0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -313,51 +353,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "DCD Talks Cooling Transformation with Greg Stover, Vertiv - Data Center Dynamics",
-      "summary": "DCD Talks Cooling Transformation with Greg Stover, Vertiv Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-11-11T01:16:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlEtbmt0QTZrblBSczlnM0NseWNnZTRUMWc0cTduSllHV0dyaDNGN3NmM2M0QWdWTU0tNnhHR0Jva1lzUXc0LTktbUt4OFZGM2xVcHRFZ0JVOEZPYmdQSTM3bTE4VVI0a0JpOUxLM2RtQUZhcUFDdHdsNVE0dXROWEp3TWFvdXpJODJTQ05LU3hFdlFrVi15aFVvSlphWVFpbGExeUFKSWltcjhUMkN4RDl2TFVZQVF6X3k0SmZpVVlCeF82OGJuWGVHXzJkS0NfWXFfaU12azNiYWJaNG5qbjktaXM5VDJSUDFQTElGYTQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
       "headline": "Can NVT's AI Data Center Exposure Accelerate its Revenue Growth? - TradingView",
       "summary": "Can NVT's AI Data Center Exposure Accelerate its Revenue Growth? TradingView",
       "source": "TradingView",
       "published_at": "2026-11-10T23:30:54+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHYxenpCczRMVU5oOU1QbkZIRVdaWnRuOFNhTmxKa0lvd2dIdmRlcU1vRHdIakJRTDAtamFFU2ZSR2Q3RHBsdjZIdThZZU5hZWNqSnZ2VkJvTjN6OGI5dVJiLU9HdVlBNGJNQnpvcnA2dUFIZjF3ZVBUa3BSc2IzaVdlNTZrcEw1Vy1ZelJ3QjVGMHpWNHpVYjVTRk84dHpnOGpDTTVoS3FsdFV0MHJGZjQzODJBc0VsRDZ3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Record 350 megawatts of cooling gear ships in a month for data centers - Interesting Engineering",
-      "summary": "Record 350 megawatts of cooling gear ships in a month for data centers Interesting Engineering",
-      "source": "Interesting Engineering",
-      "published_at": "2026-11-10T23:13:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnNrLTlaY0JNRzlUTWh6MnVlaEI5QnNjOFhlNkNFZDVPcHhvRk1ScjFHUTFnNWhKSWVGZkZvdUUyRDZ6TTBHZVQwWHBfTEszR2RtLUExSmVyWm83QzhjMmlFMEktRkV3WE95NnB6bEZfb3ktOUs2WTdqQmpCb3hNSGNhUXFuTDJRaUt2cVI0MFlaZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Power is the new blueprint for the AI data center - W.Media",
-      "summary": "Power is the new blueprint for the AI data center W.Media",
-      "source": "W.Media",
-      "published_at": "2026-11-10T11:51:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9McEs4X21iaFF1S2JsQzBEVEZFV0EtdHpjc1ZMelhMajFnNWREcUdVamtiRmpkSERKZjFBQ1FDaDYtMjZCM25WVTFfX0syVjJFMjFYNTgzdzZ0bmlicHNlUFRfVTRvcHhuZ29qR2VkRF84enBh?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Ottimizzazione del raffreddamento nei data center con intelligenza artificiale - Siemens",
-      "summary": "Ottimizzazione del raffreddamento nei data center con intelligenza artificiale Siemens",
-      "source": "Siemens",
-      "published_at": "2026-11-10T02:35:44+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcldRMWtrcGlkR2wtMi1OZFk3bWNEOFI0YjVoTFpqWGVGSDlLNFlSU0pMNHZpelcxZEJaWmhzM1BKOW4zbnkwdEVhMlpMbmJWWjRmLTlWWW1qQnhJTFJKajdteWs5M0UwbDNpdkxDUGp4bm15Rzg5ejU3T3h6VGVXMUk0VWpybzdST0pHWTJYQUlMem9xQm9RNWpyc3UxZ1NRWlVCeWMyVkk0c3Rwc0k5ZA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
