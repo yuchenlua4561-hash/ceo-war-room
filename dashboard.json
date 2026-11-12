@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-12T07:31:00+08:00",
+  "updated_at": "2026-11-12T12:21:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-12T07:39:34+08:00",
+  "intel_updated_at": "2026-11-12T12:21:55+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/12 07:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/12 12:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 32.935,
+      "value": 32.97,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-12 07:31 GMT+8",
+      "as_of": "2026-11-12 12:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2084,
+      "value": 0.2082,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-12 07:31 GMT+8",
+      "as_of": "2026-11-12 12:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.785,
+      "value": 36.67,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-12 07:31 GMT+8",
+      "as_of": "2026-11-12 12:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4304.0,
+      "value": 4236.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-11 19:51 GMT+8",
+      "as_of": "2026-11-12 12:15 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier - Yahoo! Finance Canada",
+      "move": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier - TradingView",
       "implication": "公開情報更新於 2026-11-12T02:54:08+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Fbk4tY3ktaDkxZkRPWFVWYWtPZ2JpSHdoa0NsdGU5bnlLN0RWTHZDaUVhdmJEclhPdHdXNWtCOHhUdXVLWE1GcmZ6Y01BdmdWSUZVY295bERjOHFmQnVpbGg2c0ItSFpFXzVwNGY1RWhBQXhFUi1PRVZUTE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEdHM1N1b3ZjTjZ4ZHVMUlZycnEtU0ExZmNXT1dXTkI0ZXV6U0hCOG00a2NoNGNGRWxOVHY4VDdPUXF0X0JtVHl0MkpxVjZIS2VNcnNFV0dBZllaVmpnc0JjbTFZUzdyaVpQNlJUUC1nVEtHaVVWUTY0ZDdQT3hZa2FCT0FhUklNM3RJSTFRM2ZXMVNVWWp6Z0Z6MHVBSmpzdGNlWm00cG9mN0JaUmhrdDlwb0JlVnZaNTBsXzB6a2ZBTElPWHJrdkFMVERaZXZLRUs2SC1hRXltQQ?oc=5"
     },
     {
       "company": "Boyd",
@@ -243,6 +243,36 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "India’s electronics makers pivot to data center optics and cooling - Communications Today",
+      "summary": "India’s electronics makers pivot to data center optics and cooling Communications Today",
+      "source": "Communications Today",
+      "published_at": "2026-11-12T11:12:24+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVNGZVZNWDNDUmgzQ0NMWUVfOEdMSFlwYTVBbHgwMW5Jc2ZCdTBZNmVXVUFydE9HbFNBNll2ckQtdVpzTzdXVEFDY1ZTRjVrcW9haUtKUkNycW1rRDRtUEU5ZXJjSXhOVUJNNTdYa0QzaDZsQUNocDFkWXpYZW9SRkN0SE1CeDFva1NKclVPSXhOcVJmcmxoR3JLUlJ0Y01yVWw4dGoxUQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Daikin Unveils Standard Cooling Design for NVIDIA-Based AI Data Centers, Laying Groundwork for ¥800 Billion Target - BigGo Finance",
+      "summary": "Daikin Unveils Standard Cooling Design for NVIDIA-Based AI Data Centers, Laying Groundwork for ¥800 Billion Target BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-11-12T10:26:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcjBSM09xM0N3eWlaYlB6YlpZem9lN2VLQzdFMkRMR1l3Y3RUVXpSaXlKaGFCSEsxY25ZM01XXzdkWnRjUTIzWXlFLV81SnpvWGUwT0MwOXEtQ0VzUmxucDNWZ3RPNDFhMnBHeGRBN2RXOVk4OUE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier - TradingView",
+      "summary": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier TradingView",
+      "source": "TradingView",
+      "published_at": "2026-11-12T02:54:08+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEdHM1N1b3ZjTjZ4ZHVMUlZycnEtU0ExZmNXT1dXTkI0ZXV6U0hCOG00a2NoNGNGRWxOVHY4VDdPUXF0X0JtVHl0MkpxVjZIS2VNcnNFV0dBZllaVmpnc0JjbTFZUzdyaVpQNlJUUC1nVEtHaVVWUTY0ZDdQT3hZa2FCT0FhUklNM3RJSTFRM2ZXMVNVWWp6Z0Z6MHVBSmpzdGNlWm00cG9mN0JaUmhrdDlwb0JlVnZaNTBsXzB6a2ZBTElPWHJrdkFMVERaZXZLRUs2SC1hRXltQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier - Yahoo! Finance Canada",
       "summary": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
@@ -253,21 +283,21 @@
     },
     {
       "category": "資料中心",
+      "headline": "Data center developers balance greenfield and brownfield amid AI demand - ET Datacenters",
+      "summary": "Data center developers balance greenfield and brownfield amid AI demand ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-11-12T00:24:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNXlWMjN0bGRGTjhqR1VkNlpWdGNkRVlQckg3akl2OENmaFRZMW0ySlNzUTc2MU9XUVRWWFRpdXgzZ0Ftc1UwVjJhaDk0WXMwelNMNGRwS01seUJPUHJFZ1ZoUlF2UXRZWTdObWh1T3JEX0FRenVPOXZLUWRTa1dWZzl6NDBNY3lianhFcXdjRFJ1UWFZN0ZZS2N5VXlyVmZwTm5kcXh1Qk80WUlMUjZYU2dwejJiRlkzcHJmVUVYU25sdWh5OE14NkVjc2kwNTU5T3pSNmFkRGdXSlRrQ1lRdVZQeXVOVTItMkVwem1sVE56dEFldURiTdIB_AFBVV95cUxOWU9yVEswdVp1WkZpeF9Sa090eGZkc3pLRXRsREljcFZpRENrWGV3Z0NfV1dDSlVFZ1JzOWs1WERvd2NQcVg2endTampRNERhMURES1doMjZSTTN0QlN6VXViR1dIOUtTRWtoSzNGX0hGT0NXZDNTN1c5STVPcWRxbVBoWkw3MmtTNkpRdHV0cUpHWnB2ci1iVEdhamFiTjRwV0dNclVxTy10TUx2aFBmaWl5cjNubXpGNHY3TnFIQlV5MC1BV1ZlUHRQNzlTTDJpcWxIUTdYOWhLMHJQNEh6NFJyTW1wck8xcEthOTBGcERIMDJqa1RFOXE3X3A?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Delta showcases AI data center cooling and power solutions at Electronica 2026 - Data Centre Solutions",
       "summary": "Delta showcases AI data center cooling and power solutions at Electronica 2026 Data Centre Solutions",
       "source": "Data Centre Solutions",
       "published_at": "2026-11-11T22:03:38+08:00",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNnF4d1JZdzF3bVFZMUlSLTNjVXVhd2J4Y0w5dVZNeUlHUEk5VkRZUExzR2Y0ZlFvcUJydmpERG01X1RUWU1jT29aMi1GSk5WWnFCUmdrdTVVVTF6VzItZmFrbEZYZGY3VFhKSGxfOUEtQUYwdjFsQ1BmdVdKVFNNWmhqbUZSLTI3WjA3TzdyamhuMV9RMlA2eWJjY2ZEZ0NaNDE5UXRfSkpEanczVXkxY1czMXo5bFQyVHc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Q&A | Liquid cooling is changing how we design, and deploy the entire rack: Matt McGuff, Jabil - W.Media",
-      "summary": "Q&A | Liquid cooling is changing how we design, and deploy the entire rack: Matt McGuff, Jabil W.Media",
-      "source": "W.Media",
-      "published_at": "2026-11-11T19:45:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWNHRlBDV3k4QVNaZ1Z3S05YMWJtb1FWbm4xMnF5TW5mTGJZbjBoT2JWeW92cTYtaGU0b1k5MXpDYVNSaWRsS0hzeWJRNmRZR2Zvb0N4Tm1CZFl2Qy1mc3c4UDFuWDJFc2J1VFlrci1XSGktZUJITHBvMC11NXlHa25nelZZb1diZW8zci1sdXFVc2ZKNGNLaWwtUm5HTVdmcWVJc2JMYlU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -328,36 +358,6 @@
       "source": "Data Center Knowledge",
       "published_at": "2026-11-11T14:17:06+08:00",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaElmX2gxaFBYWFN4QllRaUVVOHZIY3VGbnc5Y1BYZnJzcEkwZWM1TFFMeUJpM1RKaTMzYjh4M09qMkpVaE00bGJZSnk3S3NNSC1HWUVmSnltb0tiWEJaRXJXUHdVWnVfYWNxMWF6ZEVld0VtbGRIeFpGM1J1eWZBM3hFbU5wUFEweGEzbnRUNmNiNzA0ZkF4MmdNVEI5MExmRVJpVXpiS3htTHE2bmc1eGFmRHZ0ell1?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Centers Market Projected to Reach US$1,020.83 Billion - openPR.com",
-      "summary": "AI Data Centers Market Projected to Reach US$1,020.83 Billion openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-11-11T13:35:13+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjB6T2syTGRmTG1MSnRNOEtnVVVac3phX3dxcXN6TjZqbm03aVJkZkVnV2U0NFVuTWRXWk55TGFaaEx0bE51dlNsUTBORWMwRjgxbndQaVJSUkVIdEE2NUxJc2l3ZHV6aE8tSDRURFo0R0pnajNwUlVWejVzTF9XSDlZZTFYV2tkb0VsXzJYN0NVRm5SVG5sT2ZaVk82dw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Taiwan's AcBel Polytech Posts Record Q3 Revenue of NT$10.805 Billion, EPS NT$0.25; HVDC Power Supplies to Enter Mass Production Next Year in AI Data Center Push - BigGo Finance",
-      "summary": "Taiwan's AcBel Polytech Posts Record Q3 Revenue of NT$10.805 Billion, EPS NT$0.25; HVDC Power Supplies to Enter Mass Production Next Year in AI Data Center Push BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-11-11T10:39:55+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSVhOWjhXZ2tVc2dNakdDaFlSOEwxUzlMVnN6OGFjY3gza3FqUm5rcVhFTzdXcFhQRnROd3VEWUw4clZXaUFjRm9hOGZqNlZ3QVh1dUdlRGdmWTFUZmh0VDVFblVRWkY4dEZsOHdHbFBUVlhHb0E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "How the AI Data Center Boom Is Reshaping the Re/Insurance Landscape - Beinsure",
-      "summary": "How the AI Data Center Boom Is Reshaping the Re/Insurance Landscape Beinsure",
-      "source": "Beinsure",
-      "published_at": "2026-11-11T04:11:47+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFRISFBfZkpXUGxjel9ZQXhSaVZsLTl1TURqdHBmLUhqQ0VUMExjckotbnNJOGxrdFJZbG1vZk5hSmMyQXZKUXBKMFBrazlyRW5EdHQ3RW5GZ3dJcHBVSmpfVTdaOGZCdnEzZVdkODdEV3pwSmM5U1lkY0JFRHZyWDA0cDUzWmlweV9QczZzOG1TM0E?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
