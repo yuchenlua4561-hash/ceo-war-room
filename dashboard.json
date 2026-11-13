@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-14T00:42:00+08:00",
+  "updated_at": "2026-11-14T01:42:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-14T00:46:35+08:00",
+  "intel_updated_at": "2026-11-14T06:14:27+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/14 00:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/14 01:42；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-14 00:42 GMT+8",
+      "as_of": "2026-11-14 01:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-14 00:42 GMT+8",
+      "as_of": "2026-11-14 01:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.545,
+      "value": 36.525,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-14 00:42 GMT+8",
+      "as_of": "2026-11-14 01:42 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "資料中心",
+      "headline": "Samsung Wants to Buy an American AI Data Center Cooling Company - 24/7 Wall St.",
+      "summary": "Samsung Wants to Buy an American AI Data Center Cooling Company 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-11-14T01:27:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdC04dVFXUU8xVmpJRWw3MEZJdzFycEJTVjgzMUtPWERkMENUR1p6Y1ZvUGtXdGtJV2NLUnBVMGlVdjhTamItbE4xbW1wazVzTUNKeFhLbTM1R3ZPaTQ2Y05JZk9nTE9LX0ZXbU9TMDNpUVMydUg1U0NPX3pkenplNTNJWExFbVlUdjVmVmxyQkl1c1VkSnpBUFVrUDltUkZyTXliYTNrOE5RV0E?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "Why AI infrastructure must rethink facility water loop management - Data Center Dynamics",
       "summary": "Why AI infrastructure must rethink facility water loop management Data Center Dynamics",
       "source": "Data Center Dynamics",
@@ -258,16 +268,6 @@
       "source": "The Times of India",
       "published_at": "2026-11-14T00:05:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM1ZIWTlsV1Zmb2FsN1h5MmVfSXRnZTdOVzc4dFFFZmx3d2RBTjZWWDc4WjVGSUZCSXN1NjYySmFiV2ttRkl6dm5TX21CUWRXa0RWNm8xeEMyUnNTM0xNZzFsdUNvSEpTV3U1VEdfSnk4MEZHM0VxYXBRWGpVei1PVVZ5MEpINl9JYldSVFdMd0NRQi01YmRVdnhqR0ttYXVDX2c2dU54TGhXOTJseVVqZTZWY21hUHhSWVFrTWFuQTFmZ2hVZ0Q0MWNldnRsblZQMjJCeVhTbFNORDFNSVkxTGJRWF9teFhHeXJ2T2gxWdIB9AFBVV95cUxQSWhlamE0bDVFTEh3UDhxeC1kTXdYZk9mZVVidEk3RWhnYVFOU0FuUHZ4YTdGLWZQN0s3OERtTDVJR3NjblQtd0FuSkU0Ul94ZExienF1N1Z5TGFxTWxtTkxsV1FoSFlualVrWng4bFpUazVXMU85UElGaGVfNF9Xb3RNX3RvRUlwYnB1VnVnNFFJb2lCNlNjX2lEOFJaLXg5cFFhd1B6QXl6c1VrRGxYblhZN3AxZlktNGJpZWo4LURieVBFRkR1elEzOXk3LWhXVVViU2ZOSFZ2bFd5SmtpWlNzbXExVVZCMXZ5RUprNTZzVjk3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "How AI Is Rewriting the Rules of Data Center Cooling - Data Center Frontier",
-      "summary": "How AI Is Rewriting the Rules of Data Center Cooling Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-11-13T19:45:12+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkV5UHYwRUJBYnViNlRLd083c1ZSS1NrMHJBRWh4OFJHTEpaelRoRHRFOVZkc1VCcTJfNmVjNHE3aktKUXVSVXFYckZvNElUcmJoRjJLNjZqUlFDd0xfMjlIejlTQ25oTzZUREplQ0dyQlhia3Vta3hvcWg2eFJxY1M0WndyUkxTTEsxTkhoQUp3UTZGZVFsYlJKalpIdlU3SlduU2VoNDJmYnVDSVlVb2dnb3h0SUFQeVpELQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
