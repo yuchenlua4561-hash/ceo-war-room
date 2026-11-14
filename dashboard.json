@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-14T17:19:10+08:00",
+  "intel_updated_at": "2026-11-14T23:52:50+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "液冷散熱",
-      "move": "Vertiv launches global ecosystem for AI liquid cooling - TechGig",
-      "implication": "公開情報更新於 2026-11-14T15:07:17+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS25lWDA4dW10ZlJpcUZMeHlzOEN3akNrVDdzczRHX2hfOUVSRlBySHdabG1ZdjVLMFh0ZVg4SDFPYVNZYkpJNFlnQzFOUnlCQXlkdmh3dFFmWURaTUVPOThCalVTTW1MQ0ZqRnJlMFp4YXZvX2RZcFNmVFFmT1hlZ3lqZDVSa2M5MjRlLWVHLWFJc3dJZDZvaEQtSUZIUzRacHc3TWFTVWtPWEdMLUJv?oc=5"
+      "move": "Vertiv launches global ecosystem for AI liquid cooling - ET Datacenters",
+      "implication": "公開情報更新於 2026-11-14T17:33:33+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn?oc=5"
     },
     {
       "company": "Boyd",
@@ -242,11 +242,21 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Vertiv launches global ecosystem for AI liquid cooling - ET Datacenters",
+      "summary": "Vertiv launches global ecosystem for AI liquid cooling ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-11-14T17:33:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "When the pressure heats up, what really cools servers down? - Data Center Dynamics",
       "summary": "When the pressure heats up, what really cools servers down? Data Center Dynamics",
       "source": "Data Center Dynamics",
-      "published_at": "2026-11-14T16:07:16+08:00",
+      "published_at": "2026-11-14T16:06:34+08:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXpWaDNNNHZiNUlwb2xHSWJnNGlmV3ltUmRWM1J5bDZzMW5kbGFnQXcwX00tU0lJUnY2UE5qN09aakRBVDNRN3JyZ1EtaEFGaUJoOXVBTWg1LVRERXBrRmd1bkZtN1RHakQyQkotVGxzQ2R3VWl5ekYwTE81TnRzN1RmMzQxSjR1OURLaktNYmxNWDVWdzBBcUV4VjNTLUxZSEx1OTZuclFic05T?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
@@ -333,31 +343,21 @@
     },
     {
       "category": "資料中心",
+      "headline": "Samsung in talks to buy AI data center cooling maker Modine - Startup Fortune",
+      "summary": "Samsung in talks to buy AI data center cooling maker Modine Startup Fortune",
+      "source": "Startup Fortune",
+      "published_at": "2026-11-13T08:40:59+08:00",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzhwcmZkamY4LTVrRU1JM1ZlSElUc3I2RzRpanpVME4xQ0FsbmdIX3VmUVNzNnpBWTREZEpNNmFKVVoxSFZ5Nm9BWHZfWUlnRVUtaWE4bGc5TXVLcjdyOFZPOU55c1NqTHltUlZyc0pfY0MxNnk2YUZGZkZnLW1YVE5Cc3ZSSWRzTS1WNkpobXM?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "SLB acquires Kelvion for $4.1B to expand AI data center cooling capabilities - scanx.trade",
       "summary": "SLB acquires Kelvion for $4.1B to expand AI data center cooling capabilities scanx.trade",
       "source": "scanx.trade",
       "published_at": "2026-11-13T07:29:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNak9lTjJ3d1VuZGJsVm9nTVRtZFRGSXNOX2trRDFNS1dlZFFQcXFGYmhSVFE0bGUzSlV4RERSN0xTVDdsM3lxcFcwMk1QSTRQcWhSem9GdU80eDFzNjV5U0twQ2RYN0dyaFhKdFhOVjRfSV8yMmpWTkFBWnk3V01uTW55MExZVzJDUU8tQTR3VW9paFgxaVEyU0tOZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Data Center World brings new opportunities for Nidec - IT Brief Asia",
-      "summary": "Data Center World brings new opportunities for Nidec IT Brief Asia",
-      "source": "IT Brief Asia",
-      "published_at": "2026-11-13T07:23:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTdFd0VKdTQ5RUw0aU9Td2F0VE1lTXUyeDd3eGZSbHJUakE4NWt4U0RBb2JyUzRSQXBLaHo2OHBRSExMSG1XTzRJTThmXzhCZ1N3LW5GMmo0ZFRuZEJ1eEIweUFJX1o4cF9YUllrWFpvaXhyV3loNGcyekdOdklUM1JfZVlQZw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "DCD Studio: Cooling the future - Selecting the right thermal strategy with Jerry Toth, Boyd Thermal - Data Center Dynamics",
-      "summary": "DCD Studio: Cooling the future - Selecting the right thermal strategy with Jerry Toth, Boyd Thermal Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-11-13T06:34:20+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcExEMmJCUzBrNWw4Qm1BWW5ZY2VfNmF3dzh0eUw3a1RhSk1tT1Q3dldoVkdRQVdCQ0EtYldvdEt5bVhjbXVDZmVIOEJ1ejVSZ0t4SkFQUEFteWxBVTNSa2IzQkUtRGdWNkRjSmpqdE56djV2VjlHWWI2TE9zZW9CV241WUJ1Q2JjLTF5MGJabko1d2NtSVZ0akVpNmtFd0VZZzBrT293MTlQSmpVdlpUZE43dEFtZlBHOEJrUnpLM28yYmRaY0VyY1NYNTFpODFyd01mSmtPNUtoS1N2WXVRNVMxTTRTTFVfb2ptaG42QQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
