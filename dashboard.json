@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-14T10:29:42+08:00",
+  "intel_updated_at": "2026-11-14T17:19:10+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "液冷散熱",
-      "move": "Vertiv launches global ecosystem for AI-scale liquid cooling infrastructure - The Times of India",
-      "implication": "公開情報更新於 2026-11-14T00:05:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM1ZIWTlsV1Zmb2FsN1h5MmVfSXRnZTdOVzc4dFFFZmx3d2RBTjZWWDc4WjVGSUZCSXN1NjYySmFiV2ttRkl6dm5TX21CUWRXa0RWNm8xeEMyUnNTM0xNZzFsdUNvSEpTV3U1VEdfSnk4MEZHM0VxYXBRWGpVei1PVVZ5MEpINl9JYldSVFdMd0NRQi01YmRVdnhqR0ttYXVDX2c2dU54TGhXOTJseVVqZTZWY21hUHhSWVFrTWFuQTFmZ2hVZ0Q0MWNldnRsblZQMjJCeVhTbFNORDFNSVkxTGJRWF9teFhHeXJ2T2gxWdIB9AFBVV95cUxQSWhlamE0bDVFTEh3UDhxeC1kTXdYZk9mZVVidEk3RWhnYVFOU0FuUHZ4YTdGLWZQN0s3OERtTDVJR3NjblQtd0FuSkU0Ul94ZExienF1N1Z5TGFxTWxtTkxsV1FoSFlualVrWng4bFpUazVXMU85UElGaGVfNF9Xb3RNX3RvRUlwYnB1VnVnNFFJb2lCNlNjX2lEOFJaLXg5cFFhd1B6QXl6c1VrRGxYblhZN3AxZlktNGJpZWo4LURieVBFRkR1elEzOXk3LWhXVVViU2ZOSFZ2bFd5SmtpWlNzbXExVVZCMXZ5RUprNTZzVjk3?oc=5"
+      "move": "Vertiv launches global ecosystem for AI liquid cooling - TechGig",
+      "implication": "公開情報更新於 2026-11-14T15:07:17+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS25lWDA4dW10ZlJpcUZMeHlzOEN3akNrVDdzczRHX2hfOUVSRlBySHdabG1ZdjVLMFh0ZVg4SDFPYVNZYkpJNFlnQzFOUnlCQXlkdmh3dFFmWURaTUVPOThCalVTTW1MQ0ZqRnJlMFp4YXZvX2RZcFNmVFFmT1hlZ3lqZDVSa2M5MjRlLWVHLWFJc3dJZDZvaEQtSUZIUzRacHc3TWFTVWtPWEdMLUJv?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,6 +241,26 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "When the pressure heats up, what really cools servers down? - Data Center Dynamics",
+      "summary": "When the pressure heats up, what really cools servers down? Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-11-14T16:07:16+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXpWaDNNNHZiNUlwb2xHSWJnNGlmV3ltUmRWM1J5bDZzMW5kbGFnQXcwX00tU0lJUnY2UE5qN09aakRBVDNRN3JyZ1EtaEFGaUJoOXVBTWg1LVRERXBrRmd1bkZtN1RHakQyQkotVGxzQ2R3VWl5ekYwTE81TnRzN1RmMzQxSjR1OURLaktNYmxNWDVWdzBBcUV4VjNTLUxZSEx1OTZuclFic05T?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Vertiv launches global ecosystem for AI liquid cooling - TechGig",
+      "summary": "Vertiv launches global ecosystem for AI liquid cooling TechGig",
+      "source": "TechGig",
+      "published_at": "2026-11-14T15:07:17+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS25lWDA4dW10ZlJpcUZMeHlzOEN3akNrVDdzczRHX2hfOUVSRlBySHdabG1ZdjVLMFh0ZVg4SDFPYVNZYkpJNFlnQzFOUnlCQXlkdmh3dFFmWURaTUVPOThCalVTTW1MQ0ZqRnJlMFp4YXZvX2RZcFNmVFFmT1hlZ3lqZDVSa2M5MjRlLWVHLWFJc3dJZDZvaEQtSUZIUzRacHc3TWFTVWtPWEdMLUJv?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "液冷散熱",
       "headline": "AI liquid cooling is only as good as the building water loop - MarketScale",
@@ -338,26 +358,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-11-13T06:34:20+08:00",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcExEMmJCUzBrNWw4Qm1BWW5ZY2VfNmF3dzh0eUw3a1RhSk1tT1Q3dldoVkdRQVdCQ0EtYldvdEt5bVhjbXVDZmVIOEJ1ejVSZ0t4SkFQUEFteWxBVTNSa2IzQkUtRGdWNkRjSmpqdE56djV2VjlHWWI2TE9zZW9CV241WUJ1Q2JjLTF5MGJabko1d2NtSVZ0akVpNmtFd0VZZzBrT293MTlQSmpVdlpUZE43dEFtZlBHOEJrUnpLM28yYmRaY0VyY1NYNTFpODFyd01mSmtPNUtoS1N2WXVRNVMxTTRTTFVfb2ptaG42QQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Gates launches liquid cooling pump for AI data centers - Investing.com",
-      "summary": "Gates launches liquid cooling pump for AI data centers Investing.com",
-      "source": "Investing.com",
-      "published_at": "2026-11-13T05:59:49+08:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjVsYjVUMHJVQTZQeVY4bXB2dDJTOEEzYWdpS1BQX2EwRmc3T1RJWDJ6bWgzVmMtS05hRDJ0TWJPVW9INFJUV0Y5UXJmWnFQcVBiTFV6S3VWakYwOS1LekdzN3JLRjIxZTBnMklmbnVTRmk1LWlxOUhWeXRiMVpSX0dQT3M5ZEVVSEU3RVlCaHY5ZkpvcXlIallaZ1VrVzRobDlKemJ3TW1wek1hc1hPcg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "Gates Introduces Compact ThermalCool™ 2100SS Pump to Expand Data Center Portfolio - Yahoo Finance",
-      "summary": "Gates Introduces Compact ThermalCool™ 2100SS Pump to Expand Data Center Portfolio Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-13T05:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYk04Rl9wNldlaGZjMVhUcGphZzhqa0FsRk5fdE5KZFVodWppbU9SYl8walEzX2dlT2ozQ19jQTFqbU1LTTBCWmlkd1Z5Vng5QmxFcDZVb0E4MXlPQWZ4T3U2Ynk2WHAtekZ0UVFqZ3ZVUlZOU25GazROaUZkeTNMRU1iQjNRbVpWUFpKdXZIVktPODBwOFFjSFRiTlBBVXFuZnNrTjl5MA?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
