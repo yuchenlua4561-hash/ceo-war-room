@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-14T06:14:27+08:00",
+  "intel_updated_at": "2026-11-14T10:29:42+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -242,6 +242,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "AI liquid cooling is only as good as the building water loop - MarketScale",
+      "summary": "AI liquid cooling is only as good as the building water loop MarketScale",
+      "source": "MarketScale",
+      "published_at": "2026-11-14T10:24:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzlpUXk1RkN3bG52Y0RZSG5PYUtRNldPS3Z0QzVwMkQ5UWxPNHNMTnV5dnVSUm5mUGk2azFHUXhCN3B5aUdSMW8zaVZEaktRUHdYXzhZeHhzM0RNd21xNEZmTmVxWDlNTUFoUklzSGZmYVp0d3ZJM3l6a3lfNldUSWRGNERubDk1YmItN0QyMkJsRmp1WmhzWl9NbWJJaEtvaUF6VzVqaWw5OUJ4Y3NTT2FiSFpkcXlfdlFJXzZKUnNMV3RaUTVtZkhSZE1Rdw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Samsung Wants to Buy an American AI Data Center Cooling Company - 24/7 Wall St.",
       "summary": "Samsung Wants to Buy an American AI Data Center Cooling Company 24/7 Wall St.",
@@ -298,16 +308,6 @@
       "source": "Aju Press",
       "published_at": "2026-11-13T12:25:48+08:00",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yMXRtSjZFUENxV1FnVndIUi1ieEZ5bUlLQVh4VEZSejlHTm9kcmZySUtlWUVDNWRwRnVsVjY0bUlkRW92REpiSDVPRmZhTzF0R0Vya1hkb9IBV0FVX3lxTE5yMXRtSjZFUENxV1FnVndIUi1ieEZ5bUlLQVh4VEZSejlHTm9kcmZySUtlWUVDNWRwRnVsVjY0bUlkRW92REpiSDVPRmZhTzF0R0Vya1hkbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Samsung in talks to buy AI data center cooling maker Modine - Startup Fortune",
-      "summary": "Samsung in talks to buy AI data center cooling maker Modine Startup Fortune",
-      "source": "Startup Fortune",
-      "published_at": "2026-11-13T08:40:59+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzhwcmZkamY4LTVrRU1JM1ZlSElUc3I2RzRpanpVME4xQ0FsbmdIX3VmUVNzNnpBWTREZEpNNmFKVVoxSFZ5Nm9BWHZfWUlnRVUtaWE4bGc5TXVLcjdyOFZPOU55c1NqTHltUlZyc0pfY0MxNnk2YUZGZkZnLW1YVE5Cc3ZSSWRzTS1WNkpobXM?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
