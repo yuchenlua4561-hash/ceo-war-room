@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-14T23:52:50+08:00",
+  "intel_updated_at": "2026-11-15T04:36:40+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -201,8 +201,8 @@
       "company": "Vertiv",
       "product": "液冷散熱",
       "move": "Vertiv launches global ecosystem for AI liquid cooling - ET Datacenters",
-      "implication": "公開情報更新於 2026-11-14T17:33:33+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn?oc=5"
+      "implication": "公開情報更新於 2026-11-14T19:45:57+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn0gHmAUFVX3lxTFB5X3hrc2M0QnFuU2NJNFNWcWF1RXd2TW40eS1scmZoRlNrNXFLazVodHI1aUJjQjZZZThJa0luclVQaVRacFRCcG1GV0hGWUdfVzhVWlFsVllReVlnMTVGcmVFbXFFVWJ5d0ZidWxSVWJJUXRvbndkc1gzQ2lYQVVuOTNwRXViTHJqMWllT3VhbndCSlBvaDViMlREalM4WUN6M2xSR2VWRHhTbEgxQllCeFI1VTQ5REVvSG5mdGUtanRyanRWbHFhY1VEa0lGLUU1SzlaMTFzSHBjY3ZONFBQdXN3MWJB?oc=5"
     },
     {
       "company": "Boyd",
@@ -242,12 +242,22 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "Dell (NYSE:DELL) Powers AI Data Centers: What’s Next? - Kalkine Media",
+      "summary": "Dell (NYSE:DELL) Powers AI Data Centers: What’s Next? Kalkine Media",
+      "source": "Kalkine Media",
+      "published_at": "2026-11-15T01:30:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3kyT0FyRHBaYUg1dHdzSWhmbW1lZHdLYXZ2V05ocjJ2WTNIdXVBYUFTWFhXWHhQR2JjLXJkQm5qM1hnYzRZaGFudmxmbkRqYWFtMDZWRkhYQnFrdURMNEtWQmxKSEMtb2hZeGltcFYzczdRaG9wa2ZWV1EybG5wQlotUW1FcUE2V3V0UDJTTDJGMW9lWXhDYQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Vertiv launches global ecosystem for AI liquid cooling - ET Datacenters",
       "summary": "Vertiv launches global ecosystem for AI liquid cooling ET Datacenters",
       "source": "ET Datacenters",
-      "published_at": "2026-11-14T17:33:33+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn?oc=5",
+      "published_at": "2026-11-14T19:45:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn0gHmAUFVX3lxTFB5X3hrc2M0QnFuU2NJNFNWcWF1RXd2TW40eS1scmZoRlNrNXFLazVodHI1aUJjQjZZZThJa0luclVQaVRacFRCcG1GV0hGWUdfVzhVWlFsVllReVlnMTVGcmVFbXFFVWJ5d0ZidWxSVWJJUXRvbndkc1gzQ2lYQVVuOTNwRXViTHJqMWllT3VhbndCSlBvaDViMlREalM4WUN6M2xSR2VWRHhTbEgxQllCeFI1VTQ5REVvSG5mdGUtanRyanRWbHFhY1VEa0lGLUU1SzlaMTFzSHBjY3ZONFBQdXN3MWJB?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -338,16 +348,6 @@
       "source": "Aju Press",
       "published_at": "2026-11-13T12:25:48+08:00",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yMXRtSjZFUENxV1FnVndIUi1ieEZ5bUlLQVh4VEZSejlHTm9kcmZySUtlWUVDNWRwRnVsVjY0bUlkRW92REpiSDVPRmZhTzF0R0Vya1hkb9IBV0FVX3lxTE5yMXRtSjZFUENxV1FnVndIUi1ieEZ5bUlLQVh4VEZSejlHTm9kcmZySUtlWUVDNWRwRnVsVjY0bUlkRW92REpiSDVPRmZhTzF0R0Vya1hkbw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Samsung in talks to buy AI data center cooling maker Modine - Startup Fortune",
-      "summary": "Samsung in talks to buy AI data center cooling maker Modine Startup Fortune",
-      "source": "Startup Fortune",
-      "published_at": "2026-11-13T08:40:59+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzhwcmZkamY4LTVrRU1JM1ZlSElUc3I2RzRpanpVME4xQ0FsbmdIX3VmUVNzNnpBWTREZEpNNmFKVVoxSFZ5Nm9BWHZfWUlnRVUtaWE4bGc5TXVLcjdyOFZPOU55c1NqTHltUlZyc0pfY0MxNnk2YUZGZkZnLW1YVE5Cc3ZSSWRzTS1WNkpobXM?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
