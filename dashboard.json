@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-15T14:45:38+08:00",
+  "intel_updated_at": "2026-11-15T22:20:34+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -202,7 +202,7 @@
       "product": "液冷散熱",
       "move": "Vertiv launches global ecosystem for AI liquid cooling - ET Datacenters",
       "implication": "公開情報更新於 2026-11-14T19:45:57+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn0gHmAUFVX3lxTFB5X3hrc2M0QnFuU2NJNFNWcWF1RXd2TW40eS1scmZoRlNrNXFLazVodHI1aUJjQjZZZThJa0luclVQaVRacFRCcG1GV0hGWUdfVzhVWlFsVllReVlnMTVGcmVFbXFFVWJ5d0ZidWxSVWJJUXRvbndkc1gzQ2lYQVVuOTNwRXViTHJqMWllT3VhbndCSlBvaDViMlREalM4WUN6M2xSR2VWRHhTbEgxQllCeFI1VTQ5REVvSG5mdGUtanRyanRWbHFhY1VEa0lGLUU1SzlaMTFzSHBjY3ZONFBQdXN3MWJB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamJsY2plT2psY21FX2lxOFlOZkI4bjI0SEszbWx3Z2Zwbzl4aDN2aFVMVUxaczVkNlN3aExMWmtWSGszM0pVWEpiV2Z3d25LRzBIVC1ad0p2SEpBQ2Z6ZVRfZGFEQXFBbXBYVmswYUs1cjhNR3kzelJUOEhvbUREazlURVc5X01yNERJcE9FQjhhOUFwUVp1NGF6WVd4QTMyTjZ4TjdHcnJQOWIydW5aVFFPNS1uS0ZqM0hJYXg2bHZ1ZTBQaUNWWFNHckZSbXVNcnR2Q1FLbVdfbWRvX1BpctIB5gFBVV95cUxQeV94a3NjNEJxblNjSTRTVnFhdUV3dk1uNHktbHJmaEZTazVxS2s1aHRyNWlCY0I2WWU4SWtJbnJVUGlUWnBUQnBtRldIRllHX1c4VVpRbFZZUXlZZzE1RnJlRW1xRVVieXdGYnVsUlViSVF0b253ZHNYM0NpWEFVbjkzcEV1YkxyajFpZU91YW53QkpQb2g1YjJURGpTOFlDejNsUkdlVkR4U2xIMUJZQnhSNVU0OURFb0huZnRlLWp0cmp0VmxxYWNVRGtJRi1FNUs5WjExc0hwY2N2TjRQUHVzdzFiQQ?oc=5"
     },
     {
       "company": "Boyd",
@@ -242,12 +242,22 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Taiwan Stocks Rebound Nearly 4,000 Points; Fund Managers Say Correction Nearing End, Eyeing Liquid Cooling, CPUs and Optical Communications for Next Year - BigGo Finance",
+      "summary": "Taiwan Stocks Rebound Nearly 4,000 Points; Fund Managers Say Correction Nearing End, Eyeing Liquid Cooling, CPUs and Optical Communications for Next Year BigGo Finance",
+      "source": "BigGo Finance",
+      "published_at": "2026-11-15T17:55:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNFZlTEtEeEFtODUzWE9PMWRLdDVjeDUzbTB3Y1loMnN2bG5lUDdpQVo1Yk1oSHhjQWhxTXNlaDlHbXNLcm1sZ3phZ3pCN2I4aXlhQW1YRndlUk5ackJtZW0wWFREVVVBNlIteGtFMjdWelN4b2c?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "AI data center boom tightens supply for industrial chips, TI Korea eyes lead - Chosunbiz",
       "summary": "AI data center boom tightens supply for industrial chips, TI Korea eyes lead Chosunbiz",
       "source": "Chosunbiz",
       "published_at": "2026-11-15T08:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjBOdEVPaHFmc19Hdk9DcmdITEhGM2hLbzBjMkozUkVBUWlzY3UtQ2ExRm51aG5PbTZsMkRDYXlCR0ZBdkRXUllJT29mejJ0alRETEdqdUhtNmZ1aTI2VXhLNlludkpmeDB2V2JJRWZ0aERsVTJxSVhhdkdUUHBQREUtM3lYdnVqek40MkRR0gGOAUFVX3lxTE1OME50RU9ocWZzX0d2T0NyZ0hMSEYzaEtvMGMySjNSRUFRaXNjdS1DYTFGbnVobk9tNmwyRENheUJHRkF2RFdSWUlPb2Z6MnRqVERMR2p1SG02ZnVpMjZVeEs2WW52SmZ4MHZXYklFZnRoRGxVMnFJWGF2R1RQcFBERS0zeVh2dWp6TjQyRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVHdxcHo5Znp2aWJoc0ItWnpEY2djMlFmbndSTVFPbUZfTV9KbUhWVlI0OHBPaUtJd0M3RkFMNjNQQWFUdURjMWhOdEFPNktqU2ZtTWc1N3JXODVVNnFYRDZURjNoRS11SG1wQ3NGVEwzMTM0UDFBUWZ30gGOAUFVX3lxTE1OME50RU9ocWZzX0d2T0NyZ0hMSEYzaEtvMGMySjNSRUFRaXNjdS1DYTFGbnVobk9tNmwyRENheUJHRkF2RFdSWUlPb2Z6MnRqVERMR2p1SG02ZnVpMjZVeEs2WW52SmZ4MHZXYklFZnRoRGxVMnFJWGF2R1RQcFBERS0zeVh2dWp6TjQyRFE?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -267,7 +277,7 @@
       "summary": "Vertiv launches global ecosystem for AI liquid cooling ET Datacenters",
       "source": "ET Datacenters",
       "published_at": "2026-11-14T19:45:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2ViV21Rc0N0YTd6VmFaTkk0a0YwNDllNHhmZmE2a191RV9MV2NwX09Ib1UtYXVWcVFET3pvcTBtSWdaZmJheXg3dWZuMUoxX1JuZllqbUY1TjF6TVFBTXNBSEFJWDdsNllyNUhFUzNfQy1QZlhQbWtJWG0yeEZIS05OcWxqWE9NSUlfLUY5WEp4cUhLeVQxeVRkUHlDR2FuTW5kS2JjbWRVS2ZLVkRpdWVnN0ZvV1VqRlVXbmdBYy1hZEhZdEh2MXhWaFZHYjZCaVJYSTA4ZlhLczdwcjhITFdn0gHmAUFVX3lxTFB5X3hrc2M0QnFuU2NJNFNWcWF1RXd2TW40eS1scmZoRlNrNXFLazVodHI1aUJjQjZZZThJa0luclVQaVRacFRCcG1GV0hGWUdfVzhVWlFsVllReVlnMTVGcmVFbXFFVWJ5d0ZidWxSVWJJUXRvbndkc1gzQ2lYQVVuOTNwRXViTHJqMWllT3VhbndCSlBvaDViMlREalM4WUN6M2xSR2VWRHhTbEgxQllCeFI1VTQ5REVvSG5mdGUtanRyanRWbHFhY1VEa0lGLUU1SzlaMTFzSHBjY3ZONFBQdXN3MWJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamJsY2plT2psY21FX2lxOFlOZkI4bjI0SEszbWx3Z2Zwbzl4aDN2aFVMVUxaczVkNlN3aExMWmtWSGszM0pVWEpiV2Z3d25LRzBIVC1ad0p2SEpBQ2Z6ZVRfZGFEQXFBbXBYVmswYUs1cjhNR3kzelJUOEhvbUREazlURVc5X01yNERJcE9FQjhhOUFwUVp1NGF6WVd4QTMyTjZ4TjdHcnJQOWIydW5aVFFPNS1uS0ZqM0hJYXg2bHZ1ZTBQaUNWWFNHckZSbXVNcnR2Q1FLbVdfbWRvX1BpctIB5gFBVV95cUxQeV94a3NjNEJxblNjSTRTVnFhdUV3dk1uNHktbHJmaEZTazVxS2s1aHRyNWlCY0I2WWU4SWtJbnJVUGlUWnBUQnBtRldIRllHX1c4VVpRbFZZUXlZZzE1RnJlRW1xRVVieXdGYnVsUlViSVF0b253ZHNYM0NpWEFVbjkzcEV1YkxyajFpZU91YW53QkpQb2g1YjJURGpTOFlDejNsUkdlVkR4U2xIMUJZQnhSNVU0OURFb0huZnRlLWp0cmp0VmxxYWNVRGtJRi1FNUs5WjExc0hwY2N2TjRQUHVzdzFiQQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "THE ELEC, Korea Electronics Industry Media",
       "published_at": "2026-11-13T14:47:40+08:00",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qb3ZrRGdTOExTM3RZZDJmU0hpR1BVV2pzaUZSWEFfa1RHWFlSWGszSGtoUFd6Wm94bjYxSHRLNWQ4cXVPeWcxRTZ3cGJIWWVsbm5MUDkwSGN0UVUxeWo2ZnpvRVVEVm8?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI bust? Or not, Koreas data center suppliers stay busy - Aju Press",
-      "summary": "AI bust? Or not, Koreas data center suppliers stay busy Aju Press",
-      "source": "Aju Press",
-      "published_at": "2026-11-13T12:25:48+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yMXRtSjZFUENxV1FnVndIUi1ieEZ5bUlLQVh4VEZSejlHTm9kcmZySUtlWUVDNWRwRnVsVjY0bUlkRW92REpiSDVPRmZhTzF0R0Vya1hkb9IBV0FVX3lxTE5yMXRtSjZFUENxV1FnVndIUi1ieEZ5bUlLQVh4VEZSejlHTm9kcmZySUtlWUVDNWRwRnVsVjY0bUlkRW92REpiSDVPRmZhTzF0R0Vya1hkbw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
