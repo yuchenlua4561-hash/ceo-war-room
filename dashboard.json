@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-18T10:55:00+08:00",
+  "updated_at": "2026-11-18T19:21:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-18T10:56:36+08:00",
+  "intel_updated_at": "2026-11-18T19:28:26+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/18 10:55；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/18 19:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 33.04,
+      "value": 33.02,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-18 10:55 GMT+8",
+      "as_of": "2026-11-18 19:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2091,
+      "value": 0.2094,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-18 10:55 GMT+8",
+      "as_of": "2026-11-18 19:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.47,
+      "value": 36.455,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-18 10:55 GMT+8",
+      "as_of": "2026-11-18 19:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4061.0,
+      "value": 4013.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-18 10:14 GMT+8",
+      "as_of": "2026-11-18 19:15 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "液冷散熱",
-      "move": "Vertiv launches global ecosystem for AI liquid cooling - ET Datacenters",
-      "implication": "公開情報更新於 2026-11-14T19:45:57+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamJsY2plT2psY21FX2lxOFlOZkI4bjI0SEszbWx3Z2Zwbzl4aDN2aFVMVUxaczVkNlN3aExMWmtWSGszM0pVWEpiV2Z3d25LRzBIVC1ad0p2SEpBQ2Z6ZVRfZGFEQXFBbXBYVmswYUs1cjhNR3kzelJUOEhvbUREazlURVc5X01yNERJcE9FQjhhOUFwUVp1NGF6WVd4QTMyTjZ4TjdHcnJQOWIydW5aVFFPNS1uS0ZqM0hJYXg2bHZ1ZTBQaUNWWFNHckZSbXVNcnR2Q1FLbVdfbWRvX1BpctIB5gFBVV95cUxQeV94a3NjNEJxblNjSTRTVnFhdUV3dk1uNHktbHJmaEZTazVxS2s1aHRyNWlCY0I2WWU4SWtJbnJVUGlUWnBUQnBtRldIRllHX1c4VVpRbFZZUXlZZzE1RnJlRW1xRVVieXdGYnVsUlViSVF0b253ZHNYM0NpWEFVbjkzcEV1YkxyajFpZU91YW53QkpQb2g1YjJURGpTOFlDejNsUkdlVkR4U2xIMUJZQnhSNVU0OURFb0huZnRlLWp0cmp0VmxxYWNVRGtJRi1FNUs5WjExc0hwY2N2TjRQUHVzdzFiQQ?oc=5"
+      "move": "Data Center Liquid Cooling Market Gains Momentum as Vertiv - openPR.com",
+      "implication": "公開情報更新於 2026-11-18T18:46:07+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYlItSzJrM0psTmhTaWktM0xKd21HZHdDZzl1OVRLck45TUtkX3hYR1MzRmt5U3VkY2NPS0N1REQ4OGh1UlJGVi1zVWVhR1dQT3pzSGFldG8ydXZsd3M3RDdERnd5U3FVNWlZN296dFpBUEs0X1ZHUnFMZGNBZ00yZXVPcDRsQnBHZU1EVEYzdkZMVlJ1bmZrMmRB?oc=5"
     },
     {
       "company": "Boyd",
@@ -242,12 +242,52 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Data Center Liquid Cooling Market Gains Momentum as Vertiv - openPR.com",
+      "summary": "Data Center Liquid Cooling Market Gains Momentum as Vertiv openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-18T18:46:07+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYlItSzJrM0psTmhTaWktM0xKd21HZHdDZzl1OVRLck45TUtkX3hYR1MzRmt5U3VkY2NPS0N1REQ4OGh1UlJGVi1zVWVhR1dQT3pzSGFldG8ydXZsd3M3RDdERnd5U3FVNWlZN296dFpBUEs0X1ZHUnFMZGNBZ00yZXVPcDRsQnBHZU1EVEYzdkZMVlJ1bmZrMmRB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Modular power conversion enhances AI data center deployability - ET Datacenters",
+      "summary": "Modular power conversion enhances AI data center deployability ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-11-18T17:56:15+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTW81d1FiVDFQSTBUbTRibGUxWmxJUFloUXpHOW0wVzBPMkdWUVBveVFiM2VUM0JnbmVfdFBOSS1YRkNHOVpqalNrMjYwMkJhX2RJOVVlQTRkenA3U3Bnb2VuWEM4eVdjM0JQOThZZ1Z2MHMtLUtKZTd2Wmh5MEtYQ2FpYTRienY2TGIycmVCVG5SeTJXTDB2Snd5bUxtNmp0TE9Ka0dXMVlpMGpKd0lXWmYwalA1NU43MlU4aV9UYWxnRmV4WVgzWktXQzhSeXp0THhYelpoTG9BSDRKWkNjLXFKdXluRjZ3MkhLbdIB8AFBVV95cUxQd2tTTmV5UkhPVHF2aVRKT2Q1ZVB0WVJtVm5mYWVzeU5xOF9QeHItS0VJZVpVN3BxQVFTWnJjN05NYklVem12T29scXdGb3BhOTlSYUxTQjM5bkotaUlIYnlSRk9BV2dnbXBoTmUwc0xOcEMxenRESzJ5YU5wREo3ZzJReERpLTVnaXZRN0YtdmM4MjVBRWtuLWlJR0RpZE9mcUdoRTRRVWpGMERyX3ZIYkJvQk00RmVYeV8zSENqYWdqekVxcWpZTEhlaWk4VlBlVURkRG9iTVRCQnktWmcwY1VIcjB0VUtJbE5tLXNEQk8?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "“Is the Investment Boom Cooling?” Southeast Asian Data Center Stocks Plunge as U.S. Export Controls and Local Environmental Rules Fuel AI Infrastructure Bubble Fears - economy.ac",
+      "summary": "“Is the Investment Boom Cooling?” Southeast Asian Data Center Stocks Plunge as U.S. Export Controls and Local Environmental Rules Fuel AI Infrastructure Bubble Fears economy.ac",
+      "source": "economy.ac",
+      "published_at": "2026-11-18T13:29:58+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MQzlacnZsT3JvcXpsXzZjQnBqUXpaNHEwTWNBcTlQbWhZMWxKcUF6YkNkSk56dkM0aWdQV3FkMXlpQmdFdmM5SXhWdERnV2ZXRjRrdHJWYw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
       "summary": "Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever built, has shipped NVIDIA (NASDAQ: NVDA) today reported revenue for the ",
       "source": "NVIDIA Newsroom",
       "published_at": "2026-11-18T05:20:00+08:00",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "How to assess liquid cooling readiness Before adding AI racks",
+      "summary": "Author: Mark Deguara, Technology Innovation Leader Imagine a neocloud tenant asking an Australian colocation provider for a row of liquid-cooled GPU racks in an occupied Western Sydney data centre. On paper, the site has floor space and spare electrical capaci",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-11-17T22:40:28+08:00",
+      "url": "https://blog.se.com/datacenter/2026/11/17/how-to-assess-liquid-cooling-readiness-before-adding-ai-racks/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -263,11 +303,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Ecolab Launches Premier Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure - Business Wire",
-      "summary": "Ecolab Launches Premier Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure Business Wire",
-      "source": "Business Wire",
+      "headline": "Ecolab Launches Premier Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure - Yahoo Finance",
+      "summary": "Ecolab Launches Premier Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure Yahoo Finance",
+      "source": "Yahoo Finance",
       "published_at": "2026-11-17T22:20:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVUxPUEd2elZtc1BjMWpzSGlvYjlfckJfLUlNNHNkS09CbUNIcl9WdldsMVJMSnZna3dCaGstUW1WUFJFeTRzbDEtUmk1c21NQkVsWm03NUR4akZPVnpUVWhJbjVaV0tiYjEwU3d3bVdodXF1UVRLb0JtWkFiNlRRSHRZc3BrQzBoSmFqRTlDWF9acS1UbTBqUExGNG5zQmNqdjdFdmFsV2R1LXFjeDA4SHFLcVJuZnFXTXNFVldZRE9leEx6R1c1eDk4QWtNTV9kVFFlMjYxc0VGZHUzeF9LcmJmQ1VnNjI0dVl0eGtkUDdweGM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1U4SUw1aWJtcUJaSDhTTm5CMVFDOHRGanRvT29HM1BiWVgyR3cyNlBzNFNlb2IweklSSTJIdU5xMzh2MTRUMThmLWpIdWNPNFFrWmpTVkdlM1R1OHo1blBwNlp6QlAyU0FWY01fNjktWDQ0V2JkNVl1NUJSLVRvMDBaeGNLM0k4a1E2OUpJYTY4c3pwSnBHcFpMTlhJLXFzOU8tQw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -302,62 +342,22 @@
       "data_label": "公開情報"
     },
     {
+      "category": "CDU／幫浦",
+      "headline": "Aviemore introduces seal-less pump platform for liquid-cooled AI data centres - World Pumps",
+      "summary": "Aviemore introduces seal-less pump platform for liquid-cooled AI data centres World Pumps",
+      "source": "World Pumps",
+      "published_at": "2026-11-17T11:07:34+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHpSUWVSbUFIb09JQ25POV95TmZMc0k5S2FkOEJJeWtmTE5qdW1TYy1GN0xxUVV3d0gtaEhTQ3dLNUpMRlJKVU1uX0tHeTI5bW5oU18tRjBHbl9JTm03UTc2VFNGT3dISEpsSE93S3ZmcFFLbXFPUG9KdDQtcHl3U2hTblFFUXdDckdQMjJiS1VUVWlYMlMwa2Jnci0tcnRrbzJYd3lobDJoaTFPclV6WXFoS2dPQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "nVent unveils advanced liquid cooling and 800V DC power solutions for AI data centers at SC26 - Pluang",
       "summary": "nVent unveils advanced liquid cooling and 800V DC power solutions for AI data centers at SC26 Pluang",
       "source": "Pluang",
       "published_at": "2026-11-17T05:48:52+08:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUpVdHFkSmI0bVhJZi10WkFiQjJVV3p2Y0V6TjNfa3pWY0pib1JVbGFiOTZ6XzMzVG9JX3JPVmZSVnludGZpRXpQcVgxOW5oZ21hWWpnSjhYZW95UkZmUEtDLUowLTk5YUpSbmU3QUhGRUhxTXp5a3JJcW5xdTFsTDk1bXV1N3gxYjVMUktkRmo?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent Electric Showcases Expanded Liquid Cooling and 800V DC Power Solutions for AI Data Centers at SC26 - Quiver Quantitative",
-      "summary": "nVent Electric Showcases Expanded Liquid Cooling and 800V DC Power Solutions for AI Data Centers at SC26 Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "published_at": "2026-11-17T05:43:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakpyMmpSd01DVzBFOUtZMEdHRXJZUUU5WnlmSDZwUk96UFlUV0owc184NW1oc3lwbmkyYUFqTnBDaUotbUdaWVZWWE5FZVpFcWNDbWlqaWdJRV9nOHBwUXVBWkNHeS1zZEpxQ24xY0xPYklMU1ZEMkZHTFpSUU43RGpfN0UxVUQ1WEp1enJhUDV6TDhEVV9saVcwQ3I0YnRjY2w0SzRHM0RXS3N1RHRTWkVLcEZmR1Q4R3dXU1N6dHBISzcxSFkwRUkzSGRQSERLbnM0?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent Features Expanded Liquid Cooling and Power Portfolio at SC26 - Yahoo Finance",
-      "summary": "nVent Features Expanded Liquid Cooling and Power Portfolio at SC26 Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-17T05:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnFpMWM2blNsMTRzVjlQRlVCalhvVDBQaXI4b1hhVG1lV3U5eENyT19fcW05N0pyZGRpMHUwNzZGcmJQbUZJZXJ6YTFIWF9mU3VYOTc0YkhqdlpTM3BZenhzcURDclFFQm1ESTBqS09HY040R19fMk5oTG1EWHI4S2d3LVE2bEdnci1XUFZBN1dSVjNvUEN5aHRvalBzUVo5?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "NVent Electric plc Showcases Expanded Liquid Cooling and Power Portfolio At Sc26 - www.marketscreener.com",
-      "summary": "NVent Electric plc Showcases Expanded Liquid Cooling and Power Portfolio At Sc26 www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-11-17T05:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXRHSVcyTmV2N1FTdEtQMzlJeFRMQ3Nsb0cwUVI5ZmFqa21ETVRscXlCSURydW1faFJuTDdrWXlleVlhLXVWOE5rcXJFeWsxUkRWbjgzMllrY2dVU05VUXhQTmdjWmZkMWV4VkVJUS1FSXF4clNTZ1JkaUNZVVAzVTRKYktWSHlVYmt0N0VFSlRVNjF6b01TVDNxNXY5Q1NNU3FYM256eXlJRGN5UzhQNWREM3F3N1Y1S3BUN0JpUU1Qa00yUTljZ1dvSktZUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "ZutaCore and Munters Unveil Waterless Chip-to-Rooftop Cooling Architecture for AI Data Centers - Data Center Frontier",
-      "summary": "ZutaCore and Munters Unveil Waterless Chip-to-Rooftop Cooling Architecture for AI Data Centers Data Center Frontier",
-      "source": "Data Center Frontier",
-      "published_at": "2026-11-17T00:43:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVRtdXF4bUdrYng2Wjkya0I4eXRQWkZMYktfa2ljVkR2V2xvTzNVQTBCX0p6c2FqRUkwUWdTc1RCWkNseU1CMkMzNHIxUjJrNU5ZS2lCUlIyVW1fR1dmY0pQdGc3LUMwTmlQV2d4Z25WcU44eFFTZ2dZZWRDZWE3WUNKV0VhOHBIcVJFaFgzbS1uNFQ2RVRqektoVW5sNDJmRGRZR3VKdFdJUUhUR1lWbVFhbFdtWm5KX1RzNXd0QjQ0cHlyRWNVZGRwbEhyQWtfNm15Q1dGRndaZjZOc3BaLTZFUjIzaEcya0tfUWlxWlNDV3c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-11-17T00:00:51+08:00",
-      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
       "data_type": "live",
       "data_label": "公開情報"
     }
