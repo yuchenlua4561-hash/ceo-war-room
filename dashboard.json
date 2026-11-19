@@ -1,25 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-19T03:21:00+08:00",
+  "updated_at": "2026-11-19T09:24:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-19T03:31:16+08:00",
+  "intel_updated_at": "2026-11-19T09:25:47+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError",
-      "Google News: HTTPError",
-      "Google News: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/19 03:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/19 09:24；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -48,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 33.02,
+      "value": 33.065,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -57,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-19 03:21 GMT+8",
+      "as_of": "2026-11-19 09:24 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2094,
+      "value": 0.2092,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -72,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-19 03:21 GMT+8",
+      "as_of": "2026-11-19 09:24 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.465,
+      "value": 36.43,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -87,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-19 03:21 GMT+8",
+      "as_of": "2026-11-19 09:24 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 4010.0,
+      "value": 4004.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -102,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-18 19:51 GMT+8",
+      "as_of": "2026-11-19 09:04 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -190,9 +186,9 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "資料中心",
-      "move": "Schneider Electric Targets AI Data Centers With Intelligent Power Distribution - THE ELEC, Korea Electronics Industry Media",
-      "implication": "公開情報更新於 2026-11-05T17:50:29+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMTVRYk9nYUhPMXJOLXVQendhcDU1NkNwRjFWalA2R04zRHpGRTRENlo2OFduWGRJc2Zqemd1OXFQYl9sZVRKU2NMZWNWVUQ5MkprVkdiUk55QlpDTzVpOWtEc09YTlU?oc=5"
+      "move": "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operational reality",
+      "implication": "公開情報更新於 2026-11-18T21:03:36+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://blog.se.com/datacenter/2026/11/18/deploying-enterprise-ai-how-schneider-electric-and-amd-are-helping-turn-ai-ambition-into-operational-reality/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign"
     },
     {
       "company": "CoolIT Systems",
@@ -231,10 +227,10 @@
     },
     {
       "company": "nVent",
-      "product": "液冷散熱",
-      "move": "nVent unveils advanced liquid cooling and 800V DC power solutions for AI data centers at SC26 - Pluang",
-      "implication": "公開情報更新於 2026-11-17T05:48:52+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUpVdHFkSmI0bVhJZi10WkFiQjJVV3p2Y0V6TjNfa3pWY0pib1JVbGFiOTZ6XzMzVG9JX3JPVmZSVnludGZpRXpQcVgxOW5oZ21hWWpnSjhYZW95UkZmUEtDLUowLTk5YUpSbmU3QUhGRUhxTXp5a3JJcW5xdTFsTDk1bXV1N3gxYjVMUktkRmo?oc=5"
+      "product": "資料中心",
+      "move": "How AI Data Center Expansion Will Impact nVent Electric Stock - Yahoo Finance",
+      "implication": "公開情報更新於 2026-11-19T07:24:34+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTFCQ1F0N25EU3Z4cE8tMmx0V3ppaldhR1pnVjBkQm1zT2lncnJzQlZEQkJuMllnTTliYjJUX2dJNU9GUVM1cHNQeWliaVdBQUM5N2RZdlg0c1dlMkluSmR0b1IzQjJhTlMwTm9xRHNWUjBvdkhjZEhoaXd1YlR3TU9haE1TbnlBb3Z3NV9LUFNPUFNVa1AyYnJxeGc?oc=5"
     },
     {
       "company": "Johnson Controls",
@@ -245,6 +241,26 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "How AI Data Center Expansion Will Impact nVent Electric Stock - Yahoo Finance",
+      "summary": "How AI Data Center Expansion Will Impact nVent Electric Stock Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-19T07:24:34+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTFCQ1F0N25EU3Z4cE8tMmx0V3ppaldhR1pnVjBkQm1zT2lncnJzQlZEQkJuMllnTTliYjJUX2dJNU9GUVM1cHNQeWliaVdBQUM5N2RZdlg0c1dlMkluSmR0b1IzQjJhTlMwTm9xRHNWUjBvdkhjZEhoaXd1YlR3TU9haE1TbnlBb3Z3NV9LUFNPUFNVa1AyYnJxeGc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Cooling Distribution Unit Market Forecast to Reach USD 6.08 - openPR.com",
+      "summary": "Cooling Distribution Unit Market Forecast to Reach USD 6.08 openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-19T00:36:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0t5bzByT0ZsRUJSRkZocG5tOTRaQ19GQ1hrdVZrRVBJREU1azdsYjZOVmxiaDlTemhJNTRCdFBnR1ZHTlZLcWMtSXZzU1g4blZOb05Td0FQc09Nb1ZXaUdycGc4Xzkwa0FSNTZGVTRLZ3JZREJuMklOODhsWDRJWmlhZ2hVTloyZ3NuZDIxTXkySXpIcGctTHZrcw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "CDU／幫浦",
       "headline": "DCF Video: CoolIT's 3 MW CDU Brings Smart Monitoring and Fanless Cooling to AI Infrastructure - Data Center Frontier",
@@ -260,8 +276,28 @@
       "headline": "CoolIT & Ecolab launch 3MW CDU - Data Center Dynamics",
       "summary": "CoolIT & Ecolab launch 3MW CDU Data Center Dynamics",
       "source": "Data Center Dynamics",
-      "published_at": "2026-11-18T23:17:09+08:00",
+      "published_at": "2026-11-18T23:19:43+08:00",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TTHBwbVlpWTFXWUNqVkdHTmYzWTUtTzMzOHJleldPWW9Ecm1rbnBGQVpRSzkyYXBOQjBqNTVVQkRKTVM0TzdlaDFDR2g1eVBUWldBQWFQZGJFa01udENJbDExR3FJai1odmtuTnpmRVFQUW5iLXpieHVWRHM?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operational reality",
+      "summary": "AI is moving beyond experimentation. For CIOs, CTOs, IT leaders, and data center teams, the conversation is increasingly shifting from “What can AI do?” to “How do we deploy AI successfully at enterprise scale?” As AI workloads move closer to enterprise data, ",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-11-18T21:03:36+08:00",
+      "url": "https://blog.se.com/datacenter/2026/11/18/deploying-enterprise-ai-how-schneider-electric-and-amd-are-helping-turn-ai-ambition-into-operational-reality/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "CDU／幫浦",
+      "headline": "The $100K Valve Decision Hiding in Your Coolant Distribution Unit Design",
+      "summary": "Data centers are in an unprecedented infrastructure super cycle. Global spend is projected to top $650 billion in 2026, spread across 3,200+ hyperscale facilities and growing at a 14% CAGR through 2030. AI workloads alone will add 97 GW of new capacity between",
+      "source": "Schneider Electric Blog",
+      "published_at": "2026-11-18T21:00:00+08:00",
+      "url": "https://blog.se.com/buildings/2026/11/18/the-100k-valve-decision-hiding-in-your-coolant-distribution-unit-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -287,6 +323,16 @@
     },
     {
       "category": "資料中心",
+      "headline": "Modular power conversion enhances AI data center deployability - ET Datacenters",
+      "summary": "Modular power conversion enhances AI data center deployability ET Datacenters",
+      "source": "ET Datacenters",
+      "published_at": "2026-11-18T13:11:32+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWFhJVG9pVExSNHlKYjFyUzgwT09GZWpwLVV4WmZTYzBZcUtiNFB0MGVzakZjLXRYTEY5MlFrcFJScm84RncweW1VdGI2U1ZqZ3k2YkRQN21FU29SMjB6QVdITnRpRGlZdnlRMFFMNFVsSVFSOTFYdmF2Y2dDWXlnV0tjNGlOWTBRVV9SdmVUa2Y1SXZEcl83TV9MZlY5UFlYZ2I4SDRYVHpzY182SlhZbUtxa1M1dE43Mi1iUGtzbWNmR0habGVqZUw1TW1jYnJTbGkzMGNtRVdrTFdSUExNMDZnY3VGSTJxUm5GNXMzXzZRMkNUYXJlcU5rY0N6M2FhRzdMLXpjTWNyd3NaampWVjM0NjkxUFFrcHFEWGp5RXlCSFhob0M2S9IB8AFBVV95cUxQd2tTTmV5UkhPVHF2aVRKT2Q1ZVB0WVJtVm5mYWVzeU5xOF9QeHItS0VJZVpVN3BxQVFTWnJjN05NYklVem12T29scXdGb3BhOTlSYUxTQjM5bkotaUlIYnlSRk9BV2dnbXBoTmUwc0xOcEMxenRESzJ5YU5wREo3ZzJReERpLTVnaXZRN0YtdmM4MjVBRWtuLWlJR0RpZE9mcUdoRTRRVWpGMERyX3ZIYkJvQk00RmVYeV8zSENqYWdqekVxcWpZTEhlaWk4VlBlVURkRG9iTVRCQnktWmcwY1VIcjB0VUtJbE5tLXNEQk8?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
       "headline": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
       "summary": "Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever built, has shipped NVIDIA (NASDAQ: NVDA) today reported revenue for the ",
       "source": "NVIDIA Newsroom",
@@ -297,71 +343,21 @@
     },
     {
       "category": "液冷散熱",
+      "headline": "Ecolab Launches Premier Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure - Ecolab",
+      "summary": "Ecolab Launches Premier Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure Ecolab",
+      "source": "Ecolab",
+      "published_at": "2026-11-17T23:40:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS2lCSzZxdGZsSjNOMi1BRmlDUkV2UTNIeVU2bkNEcVplUWVhX0lWckZxbXhVb0tRdk1qOUR5bXlkNkNwV25LZVM1cHJ1V1lOMDJxLXZ3bng1Nk9NaXdNUzJPN3FzN0F2dVMzSHZIYW5Id1p4UTFjRVd0RlllT2hZbHJnU3I3TXRlN0w0b2syTVdzTE94TTJVRFlPRFFJYUJ1NTNiM1p6Y3REUmpLSG1TS1dQYWRMcV9lRlhLcnlfcDdNQXN5cm5BQnhpTF9iSmpSUnh4dFRER09DMGp1c2EzcHlsbS1wZw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "How to assess liquid cooling readiness Before adding AI racks",
       "summary": "Author: Mark Deguara, Technology Innovation Leader Imagine a neocloud tenant asking an Australian colocation provider for a row of liquid-cooled GPU racks in an occupied Western Sydney data centre. On paper, the site has floor space and spare electrical capaci",
       "source": "Schneider Electric Blog",
       "published_at": "2026-11-17T22:40:28+08:00",
       "url": "https://blog.se.com/datacenter/2026/11/17/how-to-assess-liquid-cooling-readiness-before-adding-ai-racks/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "US Stocks to Watch in the AI Data Center Sector for NASDAQ:STRL by Swissquote - TradingView",
-      "summary": "US Stocks to Watch in the AI Data Center Sector for NASDAQ:STRL by Swissquote TradingView",
-      "source": "TradingView",
-      "published_at": "2026-11-17T13:42:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVR5SkUtZUs0eS1PdDdzZ05PQUEwaVpDSFB2TENYNFViZmZrS2dkR1M0NmtpVkNTY2FRQnVWdl94ckNyY2F3SldORDFGLXp0bzlGSGNXQ2pyQnh5cm1icFVHalJzVy1MSUhfRGVfeS1yQkxhcWxWRW84M2FZMFRFXzVlTlFqcWpiWmd2OTJyOFFraWVOdzNzOXZxWlk?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent unveils advanced liquid cooling and 800V DC power solutions for AI data centers at SC26 - Pluang",
-      "summary": "nVent unveils advanced liquid cooling and 800V DC power solutions for AI data centers at SC26 Pluang",
-      "source": "Pluang",
-      "published_at": "2026-11-17T05:48:52+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUpVdHFkSmI0bVhJZi10WkFiQjJVV3p2Y0V6TjNfa3pWY0pib1JVbGFiOTZ6XzMzVG9JX3JPVmZSVnludGZpRXpQcVgxOW5oZ21hWWpnSjhYZW95UkZmUEtDLUowLTk5YUpSbmU3QUhGRUhxTXp5a3JJcW5xdTFsTDk1bXV1N3gxYjVMUktkRmo?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent Electric Showcases Expanded Liquid Cooling and 800V DC Power Solutions for AI Data Centers at SC26 - Quiver Quantitative",
-      "summary": "nVent Electric Showcases Expanded Liquid Cooling and 800V DC Power Solutions for AI Data Centers at SC26 Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "published_at": "2026-11-17T05:43:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakpyMmpSd01DVzBFOUtZMEdHRXJZUUU5WnlmSDZwUk96UFlUV0owc184NW1oc3lwbmkyYUFqTnBDaUotbUdaWVZWWE5FZVpFcWNDbWlqaWdJRV9nOHBwUXVBWkNHeS1zZEpxQ24xY0xPYklMU1ZEMkZHTFpSUU43RGpfN0UxVUQ1WEp1enJhUDV6TDhEVV9saVcwQ3I0YnRjY2w0SzRHM0RXS3N1RHRTWkVLcEZmR1Q4R3dXU1N6dHBISzcxSFkwRUkzSGRQSERLbnM0?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "nVent Features Expanded Liquid Cooling and Power Portfolio at SC26 - Yahoo Finance",
-      "summary": "nVent Features Expanded Liquid Cooling and Power Portfolio at SC26 Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-17T05:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnFpMWM2blNsMTRzVjlQRlVCalhvVDBQaXI4b1hhVG1lV3U5eENyT19fcW05N0pyZGRpMHUwNzZGcmJQbUZJZXJ6YTFIWF9mU3VYOTc0YkhqdlpTM3BZenhzcURDclFFQm1ESTBqS09HY040R19fMk5oTG1EWHI4S2d3LVE2bEdnci1XUFZBN1dSVjNvUEN5aHRvalBzUVo5?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "NVent Electric plc Showcases Expanded Liquid Cooling and Power Portfolio At Sc26 - www.marketscreener.com",
-      "summary": "NVent Electric plc Showcases Expanded Liquid Cooling and Power Portfolio At Sc26 www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-11-17T05:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXRHSVcyTmV2N1FTdEtQMzlJeFRMQ3Nsb0cwUVI5ZmFqa21ETVRscXlCSURydW1faFJuTDdrWXlleVlhLXVWOE5rcXJFeWsxUkRWbjgzMllrY2dVU05VUXhQTmdjWmZkMWV4VkVJUS1FSXF4clNTZ1JkaUNZVVAzVTRKYktWSHlVYmt0N0VFSlRVNjF6b01TVDNxNXY5Q1NNU3FYM256eXlJRGN5UzhQNWREM3F3N1Y1S3BUN0JpUU1Qa00yUTljZ1dvSktZUQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the",
-      "source": "NVIDIA Blog",
-      "published_at": "2026-11-17T00:00:51+08:00",
-      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
       "data_type": "live",
       "data_label": "公開情報"
     }
