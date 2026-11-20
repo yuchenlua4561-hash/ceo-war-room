@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-20T08:39:00+08:00",
+  "updated_at": "2026-11-20T16:21:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-20T08:53:13+08:00",
+  "intel_updated_at": "2026-11-20T16:22:44+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/20 08:39；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/20 16:21；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-20 07:51 GMT+8",
+      "as_of": "2026-11-20 16:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2089,
+      "value": 0.2097,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-20 07:51 GMT+8",
+      "as_of": "2026-11-20 16:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.445,
+      "value": 36.465,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-20 07:51 GMT+8",
+      "as_of": "2026-11-20 16:21 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 3855.0,
+      "value": 3812.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-20 08:39 GMT+8",
+      "as_of": "2026-11-20 16:07 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -199,10 +199,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "資料中心",
-      "move": "Vertiv Holdings Co (VRT) Expands AI Data Center Reach, Is The Valuation Pullback A Chance? - Simply Wall St",
-      "implication": "公開情報更新於 2026-11-20T08:17:13+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMl9yaEFuQkQ2Mm5RR0syWEpTWFN6MjBFd0phTTB5Um1nWWpvZWpfMGlYUG5qSlNmRG02SEhDZWxaOUZBVk9zNFFvVF9hT21rU2trWVpRRGQycV9aQWRVbUcwRzh2WXpwUEV6QWVMRDZnd21hWkVsZWZXTU9sTWg3dDM2WGxEcWc0aS1JVTBZWnhUem1TR0pobUFYR0VBZ0ZScUFzRHU3MUlmemJtYk42ei1MeW9tTU5KMUFIdlJCT3BuVDduTkNLX0FjektkREwzeng4Ml930gHbAUFVX3lxTE1PVjMwWldNSXVRRWtQMDgxbUNIc2xZc2pOYU9ST1B0eVVaelBlM2lUdWUycTlSTkdmaTBPYmZuTU9SZDdMekQ2UXlwS0t0NmJrZkpvQ09wU0RyRWZ6U0owSFNVcERNNE95bjF1SC1KVTQza3pLZzVXa08zdWNjQVFZRlJNZW95YXhlYnY0Qm1ZOWYtU1p6d183SUY2S2VvTENsYllmMkFZbVk3OUFwdlI3djZybDh6VlhUd0s1NlJnWUNJMmtTRFZTc0RCLUNWeW1HY2FLY1VvbWh5Yw?oc=5"
+      "product": "液冷散熱",
+      "move": "Vertiv, Solenis Collaborate to Provide Liquid Cooling Management for AI Data Centers - marketscreener.com",
+      "implication": "公開情報更新於 2026-11-19T21:46:13+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG1XZXBFcWFJX1ZDVXd3YUY2ZktrVEZKX1lQSXFpTUlqSjdjZ2NTNHJlampiMXdnNmlkcTAxZ2hVWThGZVh4bVNtUWpyaEdER20yYjhPbWROMzBKMEpRYWFIU3BPNWFzWW1jZEVFdTJTZjR3Ym8zN0RoWDg5Y0V1TkJFQUVKdVJKZ3RfR3ZYTlJwbm5fbkpLR1ZBYy0xd25wdmRDSmF0X0dCSnFkcmdIcC1oSkhQQjgtRlZZOEQyLXdVbHBNdnU1QzZJVDRXTkh5eEE?oc=5"
     },
     {
       "company": "Boyd",
@@ -243,21 +243,31 @@
   "news": [
     {
       "category": "資料中心",
-      "headline": "Vertiv Holdings Co (VRT) Expands AI Data Center Reach, Is The Valuation Pullback A Chance? - Simply Wall St",
-      "summary": "Vertiv Holdings Co (VRT) Expands AI Data Center Reach, Is The Valuation Pullback A Chance? Simply Wall St",
-      "source": "Simply Wall St",
-      "published_at": "2026-11-20T08:17:13+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMl9yaEFuQkQ2Mm5RR0syWEpTWFN6MjBFd0phTTB5Um1nWWpvZWpfMGlYUG5qSlNmRG02SEhDZWxaOUZBVk9zNFFvVF9hT21rU2trWVpRRGQycV9aQWRVbUcwRzh2WXpwUEV6QWVMRDZnd21hWkVsZWZXTU9sTWg3dDM2WGxEcWc0aS1JVTBZWnhUem1TR0pobUFYR0VBZ0ZScUFzRHU3MUlmemJtYk42ei1MeW9tTU5KMUFIdlJCT3BuVDduTkNLX0FjektkREwzeng4Ml930gHbAUFVX3lxTE1PVjMwWldNSXVRRWtQMDgxbUNIc2xZc2pOYU9ST1B0eVVaelBlM2lUdWUycTlSTkdmaTBPYmZuTU9SZDdMekQ2UXlwS0t0NmJrZkpvQ09wU0RyRWZ6U0owSFNVcERNNE95bjF1SC1KVTQza3pLZzVXa08zdWNjQVFZRlJNZW95YXhlYnY0Qm1ZOWYtU1p6d183SUY2S2VvTENsYllmMkFZbVk3OUFwdlI3djZybDh6VlhUd0s1NlJnWUNJMmtTRFZTc0RCLUNWeW1HY2FLY1VvbWh5Yw?oc=5",
+      "headline": "Nidec adapting cooling strategy for Vera Rubin era - DataCenterNews Asia Pacific",
+      "summary": "Nidec adapting cooling strategy for Vera Rubin era DataCenterNews Asia Pacific",
+      "source": "DataCenterNews Asia Pacific",
+      "published_at": "2026-11-20T13:02:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMW9RdVUwZy12N2dZcmEzanNzUjV6OV9HWnNTVVR6d3VmVS00eVkzSWx3S3c0bThnNk1YblZlQkt6ell3VE9OdE9iaVZXR2s3Vi1sbkcycVFOTHJxamh3MXBoV042QVNiOWV1clBOTXdNZERJSXRDRXhUZXdQai1ER01nM18zZnh0WkxrTQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "資料中心",
-      "headline": "Vertiv Partners with Solenis to Enhance AI Data Center Cooling - KuCoin",
-      "summary": "Vertiv Partners with Solenis to Enhance AI Data Center Cooling KuCoin",
-      "source": "KuCoin",
-      "published_at": "2026-11-20T02:00:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTg5OTNZU0ZPajZNdlM3MEVoa2FVWDF3cWVwWXVDZHEtazBNMURkZVVyTkNvLWE5TW9TUDRHOF9MWEVqQjQ0Y1p0Y3dIM3V6RzhydHhhVG11SWE5OGtvWTNFSXNlcy05TkE1enhNWVdHdWt2TWRlZjVqR3JjR1RLS2RyUmdoWlBQSTBGaTRrNGZkMXItRGRDRlZ5WFU?oc=5",
+      "headline": "Ecolab launches cooling platform for AI data centres - datacenter.news",
+      "summary": "Ecolab launches cooling platform for AI data centres datacenter.news",
+      "source": "datacenter.news",
+      "published_at": "2026-11-20T06:37:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkpJWnp2NlR3aFVHclo1dnRLWnJzNzJHbm1ZeFlHTG4tY21MMUlQY1Q4ZVBDREVKd2g2N2RzQ2lKM1FVYnM3bGR2OGJXYzVfR0RaczE2SkYzamdINkVldWhxVVJhT2paLTBjU0dUZUV4T1g3bUNJTUhYUlRBbWx0Mzk1cGNlN2NlUlE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "DCD>Talks: Waterless two-phase liquid cooling for AI with Brian Lillie, ZutaCore - Data Center Dynamics",
+      "summary": "DCD>Talks: Waterless two-phase liquid cooling for AI with Brian Lillie, ZutaCore Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-11-20T05:12:09+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOUJON1A2NzM4SWhtd0lETXF5clhkWEdONktFaXFRQmNIaENOV05sX3pyUzdTOEE2V1RpQjRhY1ZTNUQwZ1g3R3ZUbWQ4c0tUdFhhRk04Zm5SUUhnYUNOUnRpWnVUU3hRUmR2UXN3MlFVWlFPMU1BTTlDNGREeWZ6bUF3bEppdUdBd283VWloMnpRWmt2c0lwRlFBa19EV0JPLUZrRTM0M3g3WTRDTUsyaHFMZ2xkUFhiSXZzR0JIQjlCaG5EZVlQVWhKdWxIdFdnZGg0Z1dn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "Refindustry",
       "published_at": "2026-11-19T07:30:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVhITVdqQnNuVlVLbEVXLUhNSU1fMDRTa2EzNkRWcWY0UWlEWjVISzFUbXJqajhjRWxtX0VpNkI5a1V4Z1d2S1BGMkk0U2V1N2ZrRy0zbXhuWDZCRURJNkZMNFZRUnVIXzZ4ekNOVmFkT24tM25iYWdydmZ0MGJ6TXZZT0dnalNRTGZJMXhRclNLWGxKT09RWnlLem5wcjZJV2h4T05sVEVkc0Uwd0E?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "How AI Data Center Expansion Will Impact nVent Electric Stock - Yahoo Finance",
-      "summary": "How AI Data Center Expansion Will Impact nVent Electric Stock Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-19T07:24:34+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTFCQ1F0N25EU3Z4cE8tMmx0V3ppaldhR1pnVjBkQm1zT2lncnJzQlZEQkJuMllnTTliYjJUX2dJNU9GUVM1cHNQeWliaVdBQUM5N2RZdlg0c1dlMkluSmR0b1IzQjJhTlMwTm9xRHNWUjBvdkhjZEhoaXd1YlR3TU9haE1TbnlBb3Z3NV9LUFNPUFNVa1AyYnJxeGc?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
