@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-21T09:25:00+08:00",
+  "updated_at": "2026-11-22T05:31:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-22T03:42:36+08:00",
+  "intel_updated_at": "2026-11-22T07:57:18+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/21 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/22 05:31；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +53,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-21 09:25 GMT+8",
+      "as_of": "2026-11-22 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +68,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-21 09:25 GMT+8",
+      "as_of": "2026-11-22 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +83,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-21 09:25 GMT+8",
+      "as_of": "2026-11-22 05:31 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -200,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "液冷散熱",
-      "move": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push - Yahoo! Finance Canada",
+      "move": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push - Yahoo Finance UK",
       "implication": "公開情報更新於 2026-11-21T00:10:49+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVFISW9POTZlWElUQ0VZYXVQUWxHUlhXYS1XcXd4cnoybnRPMXBxTGZUSmhGRVRpRFEtR2Ezamk4dlFoZ0dqTUxwT2dQaU5pUklFX0VjU2lpdFpMdUp0QkwtcGdnNTg1d0c0Z2ZicTdxYzluM1JCVTNhWTc1RlROWDUzdjB6dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXNOV25JYWNkSGxkSFNuVjFTcXBDWV9BU2JNRlBGVXZvRzBVTzN0TGJHMFlpRVlTV1FqN2hpMmtGM180SDBQbWcyRzdjUTBUd0daVVh3SUV5XzRSTXFyaUJGUk5CdTJ2VVlTR2w2R1JRSGFRYU5lRmNqdTJNQ1NEc2pRVndvdw?oc=5"
     },
     {
       "company": "Boyd",
@@ -253,11 +253,11 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push - Yahoo! Finance Canada",
-      "summary": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
+      "headline": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push - Yahoo Finance UK",
+      "summary": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
       "published_at": "2026-11-21T00:10:49+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVFISW9POTZlWElUQ0VZYXVQUWxHUlhXYS1XcXd4cnoybnRPMXBxTGZUSmhGRVRpRFEtR2Ezamk4dlFoZ0dqTUxwT2dQaU5pUklFX0VjU2lpdFpMdUp0QkwtcGdnNTg1d0c0Z2ZicTdxYzluM1JCVTNhWTc1RlROWDUzdjB6dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXNOV25JYWNkSGxkSFNuVjFTcXBDWV9BU2JNRlBGVXZvRzBVTzN0TGJHMFlpRVlTV1FqN2hpMmtGM180SDBQbWcyRzdjUTBUd0daVVh3SUV5XzRSTXFyaUJGUk5CdTJ2VVlTR2w2R1JRSGFRYU5lRmNqdTJNQ1NEc2pRVndvdw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -292,6 +292,16 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "How Does the Vertiv-Solenis (NYSE:VRT) Partnership Address Liquid Cooling Challenges in AI Data Centers? - Kalkine",
+      "summary": "How Does the Vertiv-Solenis (NYSE:VRT) Partnership Address Liquid Cooling Challenges in AI Data Centers? Kalkine",
+      "source": "Kalkine",
+      "published_at": "2026-11-20T18:09:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEVLd21vWUZxQWdjMm5ZalEtRHlVaWZHTGJuTERteTZ0QlBfTExpcEhqd0VmMFFsQ09saDQzN3dKVzduX19WX200NENZNkpBb21lbE9qY0ExRjdVaXgzblcwY1hKc0c1ZEN3Wl9kOWs4UVY5eW84NDUwdVBORVdPOTgySjRISjBFSnhicmg0WkxlTl9qNkIzOXI4VVNBWUFMVzZIX1FVTS1ZaTk1YkFIWWpXczk0WU9qaFdQZXJRMUdnTjRvcXZZZFgxUHZOSUUzTVFGMUdn?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Esmo launches Vulcon contactors for semiconductor final test - DataCenterNews Asia Pacific",
       "summary": "Esmo launches Vulcon contactors for semiconductor final test DataCenterNews Asia Pacific",
@@ -316,8 +326,8 @@
       "headline": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them. - The Globe and Mail",
       "summary": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them. The Globe and Mail",
       "source": "The Globe and Mail",
-      "published_at": "2026-11-20T01:50:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPbVh0dGZndTdLVWRwcVJoTnV5LVpYdVZMX1JTSV9za0hCV1hSVjA0a21pQ3JNc1U1X2ZJbjVUbGtCekRTdVhWUGhlUEFDZkV1b09XTkVOV0szWFJsWUNNT2piMkdXeTlSNll6OXBWRUxabURPS1ZGWFo3TGRJMHJhemVuZzBsa0hHaUdWWjZBeFVEOHAxQ3lNMDRnMm54NHpJcUFGTTN2VEZDSEhoN05RVzdGV2wydy1VZERfdjdoWm8yZHk3a2tVN1J1Q3MyWl8wUV9sRUdQLS1ITGxuVGk2QXFGV0NhVGhXNmJ6dDRIZWExRjFZclBSbTltS0RWbHZ3cU9wbkpJVHRFU1pRQ2NDQUp6MkxXN0R5T25fYm1yQkdYdFEwNjZQc3Y5VXM?oc=5",
+      "published_at": "2026-11-20T01:58:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQM0hoRy1qeGJIbHB3MkR1cGVBT1MxVklpMnYyTU84M0FNQ0F3VjR0VDd2ZjRkVE1vSllRaVZyT2RUTFV3UzNvczJBSVJxcjF6OVNJc0V1eHVxN1d1Y2MzU1dUbHRBbVpjR3NyY0N6cGFIREJDODVpNkRlb3BVUzdkYUtuN0hPcm50U0tZbllkUy0tdkYzb1QwcUs3QWFHQmlZZm9mVDRETkNZYXBvcktmYV90MWdOeWo1OXhEblZNUWJ5Wkt3UjVCUTVUbjk5STlIUFIxZDYycXB1X1o4RThEZk91LTZTcFY4UXg3Sm5LYkpTZzR6MGgzVkY2emtWRkEyZHEwbFc3SGtkMWZlVTRzWjhJZmx3ZGtBZXFNOWlUWnY2YXBOZzJmSUdmZ09yXzQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +358,6 @@
       "source": "marketscreener.com",
       "published_at": "2026-11-19T21:46:13+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG1XZXBFcWFJX1ZDVXd3YUY2ZktrVEZKX1lQSXFpTUlqSjdjZ2NTNHJlampiMXdnNmlkcTAxZ2hVWThGZVh4bVNtUWpyaEdER20yYjhPbWROMzBKMEpRYWFIU3BPNWFzWW1jZEVFdTJTZjR3Ym8zN0RoWDg5Y0V1TkJFQUVKdVJKZ3RfR3ZYTlJwbm5fbkpLR1ZBYy0xd25wdmRDSmF0X0dCSnFkcmdIcC1oSkhQQjgtRlZZOEQyLXdVbHBNdnU1QzZJVDRXTkh5eEE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Solenis partners with Vertiv on data center cooling management - Investing.com",
-      "summary": "Solenis partners with Vertiv on data center cooling management Investing.com",
-      "source": "Investing.com",
-      "published_at": "2026-11-19T21:29:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYU9zVTljdVB0YVRlLXcyYmo0M1lxdzJLWHM2cGV0T1B2ajhlZUdTbkxBMTFwRjM2aFdvRFJBVjdkU1hFQ1dfQlpDcG5MVWdyUlVVM0NtSXRGSEJ3ZGR6bUwxSVd4MmRmSWdUUDhoRTdNZWNCZzE0NkdPLTY5VFU0YTg3OHBnREpkNy04NndGQ0JyVmh3WUtQcWdCTEhpdWFVeWx4VktIZ2V4XzZTaDBSMkZyd211QmFsakRz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
