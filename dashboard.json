@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-21T12:01:18+08:00",
+  "intel_updated_at": "2026-11-21T20:27:36+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -243,6 +243,16 @@
   "news": [
     {
       "category": "液冷散熱",
+      "headline": "Taiwan liquid cooling suppliers eye growth from custom chip demand - Taiwan News",
+      "summary": "Taiwan liquid cooling suppliers eye growth from custom chip demand Taiwan News",
+      "source": "Taiwan News",
+      "published_at": "2026-11-21T20:06:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RWR2RVBrUjZURkt0N2YwMElDYldCQ1BvMnQtWFF6WkFuY1J1eXlxUVVudTRMLXY0QlFEOWFyNHlNTHltbjVJb0Z0VjRiQm5OTzZkdzdTcEI?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push - Yahoo! Finance Canada",
       "summary": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
@@ -293,21 +303,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Nidec adapting cooling strategy for Vera Rubin era - DataCenterNews Asia Pacific",
-      "summary": "Nidec adapting cooling strategy for Vera Rubin era DataCenterNews Asia Pacific",
+      "headline": "Esmo launches Vulcon contactors for semiconductor final test - DataCenterNews Asia Pacific",
+      "summary": "Esmo launches Vulcon contactors for semiconductor final test DataCenterNews Asia Pacific",
       "source": "DataCenterNews Asia Pacific",
-      "published_at": "2026-11-20T13:02:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMW9RdVUwZy12N2dZcmEzanNzUjV6OV9HWnNTVVR6d3VmVS00eVkzSWx3S3c0bThnNk1YblZlQkt6ell3VE9OdE9iaVZXR2s3Vi1sbkcycVFOTHJxamh3MXBoV042QVNiOWV1clBOTXdNZERJSXRDRXhUZXdQai1ER01nM18zZnh0WkxrTQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Ecolab launches cooling platform for AI data centres - datacenter.news",
-      "summary": "Ecolab launches cooling platform for AI data centres datacenter.news",
-      "source": "datacenter.news",
-      "published_at": "2026-11-20T06:37:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkpJWnp2NlR3aFVHclo1dnRLWnJzNzJHbm1ZeFlHTG4tY21MMUlQY1Q4ZVBDREVKd2g2N2RzQ2lKM1FVYnM3bGR2OGJXYzVfR0RaczE2SkYzamdINkVldWhxVVJhT2paLTBjU0dUZUV4T1g3bUNJTUhYUlRBbWx0Mzk1cGNlN2NlUlE?oc=5",
+      "published_at": "2026-11-20T16:07:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUhZeldTVVQ2X09PNWVfX3FDWjBsVl9ZQVhLRzBjM0VsaTg4MjJOMklPdXhTUzJJSWc3YXcxeHFvV1c1WllkTFkwT0RycmdKbVlLQ3NaaWtWNjAtU3RIX1JLSDJRRGVKV01iOHVFX3lfRjFyaThldFcwNDZMSmljZ1dBeVZTaDA3VFFrOTlDd2k5MFROTExkZTlB?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -342,22 +342,22 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "STMicroelectronics Sees Data Center Revenue More Than Doubling in 2027 as AI Demand Surges - TradingView",
+      "summary": "STMicroelectronics Sees Data Center Revenue More Than Doubling in 2027 as AI Demand Surges TradingView",
+      "source": "TradingView",
+      "published_at": "2026-11-19T22:12:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ0tYQzVVODZGaDR1ay11SFhOOUxfS3o5S0UwOTQ1Vng2UTFET0NJSlBUcHU3YW9rd0lRcTRBN0NuUzlseGFHRzM4VW5heUJfSTBIcDhfcTZ6and5dG9vOVFNTFdnajJSM2x6OVNLcTlpR2hGRFl3M1pNRExvX2ZkdEJ6amFlVzBrcW9pR0lmMU1ES3dsSURoYUo5am1MQlZnalpkeHhhNTJNbHdVN0tWdTgtVTBDaHFDcktzNGlIS3RPTXlRUVhlWk9pZTZySDUtbi0zQ2ZGQ0ZYRmZGNGY3dXVMWDlQQQ?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Vertiv, Solenis Collaborate to Provide Liquid Cooling Management for AI Data Centers - marketscreener.com",
       "summary": "Vertiv, Solenis Collaborate to Provide Liquid Cooling Management for AI Data Centers marketscreener.com",
       "source": "marketscreener.com",
       "published_at": "2026-11-19T21:46:13+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG1XZXBFcWFJX1ZDVXd3YUY2ZktrVEZKX1lQSXFpTUlqSjdjZ2NTNHJlampiMXdnNmlkcTAxZ2hVWThGZVh4bVNtUWpyaEdER20yYjhPbWROMzBKMEpRYWFIU3BPNWFzWW1jZEVFdTJTZjR3Ym8zN0RoWDg5Y0V1TkJFQUVKdVJKZ3RfR3ZYTlJwbm5fbkpLR1ZBYy0xd25wdmRDSmF0X0dCSnFkcmdIcC1oSkhQQjgtRlZZOEQyLXdVbHBNdnU1QzZJVDRXTkh5eEE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Solenis partners with Vertiv on data center cooling management - Investing.com",
-      "summary": "Solenis partners with Vertiv on data center cooling management Investing.com",
-      "source": "Investing.com",
-      "published_at": "2026-11-19T21:29:22+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYU9zVTljdVB0YVRlLXcyYmo0M1lxdzJLWHM2cGV0T1B2ajhlZUdTbkxBMTFwRjM2aFdvRFJBVjdkU1hFQ1dfQlpDcG5MVWdyUlVVM0NtSXRGSEJ3ZGR6bUwxSVd4MmRmSWdUUDhoRTdNZWNCZzE0NkdPLTY5VFU0YTg3OHBnREpkNy04NndGQ0JyVmh3WUtQcWdCTEhpdWFVeWx4VktIZ2V4XzZTaDBSMkZyd211QmFsakRz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
