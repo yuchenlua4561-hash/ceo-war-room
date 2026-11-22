@@ -7,7 +7,7 @@
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-22T14:29:55+08:00",
+  "intel_updated_at": "2026-11-22T22:50:48+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -199,10 +199,10 @@
     },
     {
       "company": "Vertiv",
-      "product": "液冷散熱",
-      "move": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push - Yahoo Finance UK",
-      "implication": "公開情報更新於 2026-11-21T00:10:49+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXNOV25JYWNkSGxkSFNuVjFTcXBDWV9BU2JNRlBGVXZvRzBVTzN0TGJHMFlpRVlTV1FqN2hpMmtGM180SDBQbWcyRzdjUTBUd0daVVh3SUV5XzRSTXFyaUJGUk5CdTJ2VVlTR2w2R1JRSGFRYU5lRmNqdTJNQ1NEc2pRVndvdw?oc=5"
+      "product": "資料中心",
+      "move": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-11-22T05:23:42+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObXRLV3ZHOGpFT25iMjZRN25pMkt5WklDelQzdDAwZnRvNEh0S2dWb1JVai10eUpUSTIwNzgyS0RTdnZVTU01eDFseTl2bEh4YkpBdFhhSk9RR0VxTG93d1N0WmVLUWt0QlBfcEhFYWZFTUZ2a2hzV3BXdUtxTEl4Q1RXcTRZeUVGTVRNcHJFRnF5aFBBWmprblVFVi1fVzdMV18xU3FHTFJvVFB4bWlFYzg5SDkwMW8yWGJZa2FudXh5b1lqLS0ycVB1cDlBMjM3NVlZdEY0N3J5UTdkTXJSZDdENHhBRkZ0RDAyVWJ6a0dpOFhUaWU0ZXE3NEo?oc=5"
     },
     {
       "company": "Boyd",
@@ -242,6 +242,16 @@
   ],
   "news": [
     {
+      "category": "資料中心",
+      "headline": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain - Data Center Dynamics",
+      "summary": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-11-22T05:23:42+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObXRLV3ZHOGpFT25iMjZRN25pMkt5WklDelQzdDAwZnRvNEh0S2dWb1JVai10eUpUSTIwNzgyS0RTdnZVTU01eDFseTl2bEh4YkpBdFhhSk9RR0VxTG93d1N0WmVLUWt0QlBfcEhFYWZFTUZ2a2hzV3BXdUtxTEl4Q1RXcTRZeUVGTVRNcHJFRnF5aFBBWmprblVFVi1fVzdMV18xU3FHTFJvVFB4bWlFYzg5SDkwMW8yWGJZa2FudXh5b1lqLS0ycVB1cDlBMjM3NVlZdEY0N3J5UTdkTXJSZDdENHhBRkZ0RDAyVWJ6a0dpOFhUaWU0ZXE3NEo?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Taiwan liquid cooling suppliers eye growth from custom AI chip demand - Taiwan News",
       "summary": "Taiwan liquid cooling suppliers eye growth from custom AI chip demand Taiwan News",
@@ -272,12 +282,32 @@
       "data_label": "公開情報"
     },
     {
+      "category": "液冷散熱",
+      "headline": "AI Data Center Liquid Cooling Market to Reach USD 20.39 Billion by 2032, at a CAGR of 34.0% — MarketsandMarkets™ - Yahoo Finance",
+      "summary": "AI Data Center Liquid Cooling Market to Reach USD 20.39 Billion by 2032, at a CAGR of 34.0% — MarketsandMarkets™ Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-20T22:00:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGhUWEhvaUJ4WnBoa05odzlVTzVnNHB1eFpMb0k2d2ttYmxXWnNMWllpOUd3eEFpaDEwU2NTOXVxZGhhbU1icDM0MGV4TThZV1VfM3NfX0puZk1fWlFFMjh1OGRXcGdQY3Ftal9wemVMUzBPTm81TVdCVUVDd1RHRmw5RmZtTjkzU25hSDN4QTFYejQxSUhoUw?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Should AI Data Center Push Require Action From nVent Electric (NVT) Investors? - Simply Wall St",
       "summary": "Should AI Data Center Push Require Action From nVent Electric (NVT) Investors? Simply Wall St",
       "source": "Simply Wall St",
       "published_at": "2026-11-20T19:10:17+08:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGdIUC1xdlcybmg4NS16ZXlXTjlVM3F3RG9ZY2UxSWJJWFVybC1DaC02UDF3ZXpuVUtsbkJVdXpOZ19nejBNeG5uZTJCb2ViaWsxV0hfQUVaTnJIaGFzNjBOcDE1cXdyWjRqbFFfaGdGUW8yTFZqWTZLMXhJdG4zcnpCWFJpMFRONVYxb2FCWUhxQU5QTlF3elBNbHFqTzJMRVF0Vld5NzhlenhaSWNMTC1lQlRtRUttYVVBSjFRZ1piNnpuOFJsUGFQWW95bFhi0gHWAUFVX3lxTE8zX0xEVFF6ZXRSSU1JZGJmcVc2T3Z5NXR3OVo1YWU1VDhPYndVM0k2VVY4RHdNT1BXaGl3MDNJQmtZZUstd1A5bC0zMVFGbWRRTXg2cE94Q1MxWjBUUVpnVE1FNW94VjBvQXk1bnRMd3pwYWdEcFV2dExmR01Mbm9LRkdGWVRuakQtVmtQOTBrS0NiQURfbERQdGgyVXcxS1RZZVNrWWNNU3U4dUNQQ0JOcnBSOVZOS0QyMDRHbXM2eF82cUQwMkZEYTBaZ3Q4blY2TjE1aHc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "How Does the Vertiv-Solenis (NYSE:VRT) Partnership Address Liquid Cooling Challenges in AI Data Centers? - Kalkine",
+      "summary": "How Does the Vertiv-Solenis (NYSE:VRT) Partnership Address Liquid Cooling Challenges in AI Data Centers? Kalkine",
+      "source": "Kalkine",
+      "published_at": "2026-11-20T18:09:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEVLd21vWUZxQWdjMm5ZalEtRHlVaWZHTGJuTERteTZ0QlBfTExpcEhqd0VmMFFsQ09saDQzN3dKVzduX19WX200NENZNkpBb21lbE9qY0ExRjdVaXgzblcwY1hKc0c1ZEN3Wl9kOWs4UVY5eW84NDUwdVBORVdPOTgySjRISjBFSnhicmg0WkxlTl9qNkIzOXI4VVNBWUFMVzZIX1FVTS1ZaTk1YkFIWWpXczk0WU9qaFdQZXJRMUdnTjRvcXZZZFgxUHZOSUUzTVFGMUdn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -326,38 +356,8 @@
       "headline": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them. - The Globe and Mail",
       "summary": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them. The Globe and Mail",
       "source": "The Globe and Mail",
-      "published_at": "2026-11-20T01:50:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPbVh0dGZndTdLVWRwcVJoTnV5LVpYdVZMX1JTSV9za0hCV1hSVjA0a21pQ3JNc1U1X2ZJbjVUbGtCekRTdVhWUGhlUEFDZkV1b09XTkVOV0szWFJsWUNNT2piMkdXeTlSNll6OXBWRUxabURPS1ZGWFo3TGRJMHJhemVuZzBsa0hHaUdWWjZBeFVEOHAxQ3lNMDRnMm54NHpJcUFGTTN2VEZDSEhoN05RVzdGV2wydy1VZERfdjdoWm8yZHk3a2tVN1J1Q3MyWl8wUV9sRUdQLS1ITGxuVGk2QXFGV0NhVGhXNmJ6dDRIZWExRjFZclBSbTltS0RWbHZ3cU9wbkpJVHRFU1pRQ2NDQUp6MkxXN0R5T25fYm1yQkdYdFEwNjZQc3Y5VXM?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nefab upgrades Taiwan lab for AI server rack packaging - DataCenterNews Asia Pacific",
-      "summary": "Nefab upgrades Taiwan lab for AI server rack packaging DataCenterNews Asia Pacific",
-      "source": "DataCenterNews Asia Pacific",
-      "published_at": "2026-11-20T00:30:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmRDZUtUQnhweEEwQjBNX0JTSkpwVHVfMHlzYzFSSld1QUFPamdGY0hqd2haMXpBaDdtV3dSR2V0SW9NemxWdFdpTTVIU21CRElCejZnQWxkVXNvWEpKc0dyX2pKblZoYk1lYVoyTnlWSnVHVnRrbGM2Sk01WldqSjBFRWNJUEtBVnFYVUNlYVk5dw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "The Data Center Boom Is Exposing the Limits of Conventional Logistics Planning - Logistics Viewpoints",
-      "summary": "The Data Center Boom Is Exposing the Limits of Conventional Logistics Planning Logistics Viewpoints",
-      "source": "Logistics Viewpoints",
-      "published_at": "2026-11-20T00:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOURQdlRCZmpCWkhueWljeDIwNS0zN0pqRVFlMmlHVVhGOHJRX3Z6aFdnMDdnUEpYb1NzQzllN0p4ZkZ1UFpjaXZXVTlBRmpVeG55UU9qMHVsbkd3S0RGTVg4bmh1NW9MaVpSa3Vta1BVREd4dDJHS0RBU1NBSmEtSjJKTUhZZUh6d0ljLTZuSFZFaHJ2a2NrSTZ3cUd2Q2padWpvNWEwVjRreWszdU9SSTN5T0QxZEMzWDNaRzFMRQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "STMicroelectronics Sees Data Center Revenue More Than Doubling in 2027 as AI Demand Surges - TradingView",
-      "summary": "STMicroelectronics Sees Data Center Revenue More Than Doubling in 2027 as AI Demand Surges TradingView",
-      "source": "TradingView",
-      "published_at": "2026-11-19T22:12:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ0tYQzVVODZGaDR1ay11SFhOOUxfS3o5S0UwOTQ1Vng2UTFET0NJSlBUcHU3YW9rd0lRcTRBN0NuUzlseGFHRzM4VW5heUJfSTBIcDhfcTZ6and5dG9vOVFNTFdnajJSM2x6OVNLcTlpR2hGRFl3M1pNRExvX2ZkdEJ6amFlVzBrcW9pR0lmMU1ES3dsSURoYUo5am1MQlZnalpkeHhhNTJNbHdVN0tWdTgtVTBDaHFDcktzNGlIS3RPTXlRUVhlWk9pZTZySDUtbi0zQ2ZGQ0ZYRmZGNGY3dXVMWDlQQQ?oc=5",
+      "published_at": "2026-11-20T01:58:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQM0hoRy1qeGJIbHB3MkR1cGVBT1MxVklpMnYyTU84M0FNQ0F3VjR0VDd2ZjRkVE1vSllRaVZyT2RUTFV3UzNvczJBSVJxcjF6OVNJc0V1eHVxN1d1Y2MzU1dUbHRBbVpjR3NyY0N6cGFIREJDODVpNkRlb3BVUzdkYUtuN0hPcm50U0tZbllkUy0tdkYzb1QwcUs3QWFHQmlZZm9mVDRETkNZYXBvcktmYV90MWdOeWo1OXhEblZNUWJ5Wkt3UjVCUTVUbjk5STlIUFIxZDYycXB1X1o4RThEZk91LTZTcFY4UXg3Sm5LYkpTZzR6MGgzVkY2emtWRkEyZHEwbFc3SGtkMWZlVTRzWjhJZmx3ZGtBZXFNOWlUWnY2YXBOZzJmSUdmZ09yXzQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
