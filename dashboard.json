@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-22T09:25:00+08:00",
+  "updated_at": "2026-11-23T04:45:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-22T22:50:48+08:00",
+  "intel_updated_at": "2026-11-23T04:51:16+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "Schneider Electric Blog: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/22 09:25；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/23 04:45；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -53,7 +55,7 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-22 09:25 GMT+8",
+      "as_of": "2026-11-23 04:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -68,7 +70,7 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-22 09:25 GMT+8",
+      "as_of": "2026-11-23 04:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -83,7 +85,7 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-22 09:25 GMT+8",
+      "as_of": "2026-11-23 04:45 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -242,6 +244,16 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "AI Data Center Liquid Cooling Market to Reach US$23.23 Billion - openPR.com",
+      "summary": "AI Data Center Liquid Cooling Market to Reach US$23.23 Billion openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-22T23:38:55+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHE4TTZyNENBcWZtUFl4MDdFMjVXdmJ4eHpMNHFoX0NNT2FZU25abTV6cTZsWkdYZW9saUpRaldPNEZZWUI5d2R2UDMwM29DNUI4aTNOekg2azAwd2lPcjZaSnZ4TTJ2VnBBaUQ4TTdUbmkxYVduTXhpVmM5TGx1YVkybVVDYUU5ZGVrempsbzFET0VueHA4M3JybmlLSzg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain - Data Center Dynamics",
       "summary": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain Data Center Dynamics",
@@ -252,12 +264,32 @@
       "data_label": "公開情報"
     },
     {
+      "category": "資料中心",
+      "headline": "7 Technologies to Keep Data Centers On Without Overloads - shattered.io",
+      "summary": "7 Technologies to Keep Data Centers On Without Overloads shattered.io",
+      "source": "shattered.io",
+      "published_at": "2026-11-22T01:14:23+08:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1JiX3hGT0hqQUpxcWowVWFaaDIxVFJQdUFDVzhGTzdLcWh0b21hMUo2bTZkS3IySy1Pb0FkTUtHcHkwaWt3dnNXSTAxb19sMGU4UXNvZGthUVJ6RFc0UEQ0Z2p4bnQ2dU8yVmU2NTFKUG5kZFRBZDVwaU1tWnJONWt6RnowbFU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "液冷散熱",
       "headline": "Taiwan liquid cooling suppliers eye growth from custom AI chip demand - Taiwan News",
       "summary": "Taiwan liquid cooling suppliers eye growth from custom AI chip demand Taiwan News",
       "source": "Taiwan News",
       "published_at": "2026-11-21T20:06:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RWR2RVBrUjZURkt0N2YwMElDYldCQ1BvMnQtWFF6WkFuY1J1eXlxUVVudTRMLXY0QlFEOWFyNHlNTHltbjVJb0Z0VjRiQm5OTzZkdzdTcEI?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
+      "headline": "Vertiv stock: Solenis partnership targets liquid cooling for AI data centers - ad-hoc-news.de",
+      "summary": "Vertiv stock: Solenis partnership targets liquid cooling for AI data centers ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "published_at": "2026-11-21T18:06:35+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXhRQUVyakhrZ1Q5NUFtTjFoSmQ4NnBJamYwQ25ZY0pLSE9UcG9CazBZelQ2MmtBR19LR2V3cFdvZzUwUDhVcnJrTmNSLTZZVFRJM3NZejBkUFhiQ1ZJd3dZd2xmVlZKeExhSVNLWHJZY2VQZVNaN2ZkQ3pSVDJXOE1HYTJ6RXZSR3NmVDNUSmJKTEZFTThqWlVHdllRQ1B5aWxUS0s5UkFmQ21zMHhZekk4Ykh0MFF3QlFNSDJSUk16VG82dEwyRXJOV2wwRkU4Ymc2cQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -328,36 +360,6 @@
       "source": "DataCenterNews Asia Pacific",
       "published_at": "2026-11-20T16:07:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUhZeldTVVQ2X09PNWVfX3FDWjBsVl9ZQVhLRzBjM0VsaTg4MjJOMklPdXhTUzJJSWc3YXcxeHFvV1c1WllkTFkwT0RycmdKbVlLQ3NaaWtWNjAtU3RIX1JLSDJRRGVKV01iOHVFX3lfRjFyaThldFcwNDZMSmljZ1dBeVZTaDA3VFFrOTlDd2k5MFROTExkZTlB?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Nidec adapting cooling strategy for Vera Rubin era - DataCenterNews Asia Pacific",
-      "summary": "Nidec adapting cooling strategy for Vera Rubin era DataCenterNews Asia Pacific",
-      "source": "DataCenterNews Asia Pacific",
-      "published_at": "2026-11-20T13:02:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMW9RdVUwZy12N2dZcmEzanNzUjV6OV9HWnNTVVR6d3VmVS00eVkzSWx3S3c0bThnNk1YblZlQkt6ell3VE9OdE9iaVZXR2s3Vi1sbkcycVFOTHJxamh3MXBoV042QVNiOWV1clBOTXdNZERJSXRDRXhUZXdQai1ER01nM18zZnh0WkxrTQ?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "DCD>Talks: Waterless two-phase liquid cooling for AI with Brian Lillie, ZutaCore - Data Center Dynamics",
-      "summary": "DCD>Talks: Waterless two-phase liquid cooling for AI with Brian Lillie, ZutaCore Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-11-20T05:12:09+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOUJON1A2NzM4SWhtd0lETXF5clhkWEdONktFaXFRQmNIaENOV05sX3pyUzdTOEE2V1RpQjRhY1ZTNUQwZ1g3R3ZUbWQ4c0tUdFhhRk04Zm5SUUhnYUNOUnRpWnVUU3hRUmR2UXN3MlFVWlFPMU1BTTlDNGREeWZ6bUF3bEppdUdBd283VWloMnpRWmt2c0lwRlFBa19EV0JPLUZrRTM0M3g3WTRDTUsyaHFMZ2xkUFhiSXZzR0JIQjlCaG5EZVlQVWhKdWxIdFdnZGg0Z1dn?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them. - The Globe and Mail",
-      "summary": "Anthropic Is Leasing Its Own Data Centers to Cut Its Reliance on Amazon and Google. Here’s Who Wires, Cools, and Powers Them. The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-11-20T01:58:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQM0hoRy1qeGJIbHB3MkR1cGVBT1MxVklpMnYyTU84M0FNQ0F3VjR0VDd2ZjRkVE1vSllRaVZyT2RUTFV3UzNvczJBSVJxcjF6OVNJc0V1eHVxN1d1Y2MzU1dUbHRBbVpjR3NyY0N6cGFIREJDODVpNkRlb3BVUzdkYUtuN0hPcm50U0tZbllkUy0tdkYzb1QwcUs3QWFHQmlZZm9mVDRETkNZYXBvcktmYV90MWdOeWo1OXhEblZNUWJ5Wkt3UjVCUTVUbjk5STlIUFIxZDYycXB1X1o4RThEZk91LTZTcFY4UXg3Sm5LYkpTZzR6MGgzVkY2emtWRkEyZHEwbFc3SGtkMWZlVTRzWjhJZmx3ZGtBZXFNOWlUWnY2YXBOZzJmSUdmZ09yXzQ?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
