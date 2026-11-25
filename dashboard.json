@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-25T00:00:00+08:00",
+  "updated_at": "2026-11-25T08:39:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-25T00:16:03+08:00",
+  "intel_updated_at": "2026-11-25T08:50:59+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "Google News: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/25 00:00；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/25 08:39；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -55,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-25 00:00 GMT+8",
+      "as_of": "2026-11-25 07:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2097,
+      "value": 0.2094,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-25 00:00 GMT+8",
+      "as_of": "2026-11-25 07:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.435,
+      "value": 36.425,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-25 00:00 GMT+8",
+      "as_of": "2026-11-25 07:51 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 3871.0,
+      "value": 3781.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -100,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-24 19:45 GMT+8",
+      "as_of": "2026-11-25 08:39 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -202,9 +200,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain - Data Center Dynamics",
-      "implication": "公開情報更新於 2026-11-22T05:23:42+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObXRLV3ZHOGpFT25iMjZRN25pMkt5WklDelQzdDAwZnRvNEh0S2dWb1JVai10eUpUSTIwNzgyS0RTdnZVTU01eDFseTl2bEh4YkpBdFhhSk9RR0VxTG93d1N0WmVLUWt0QlBfcEhFYWZFTUZ2a2hzV3BXdUtxTEl4Q1RXcTRZeUVGTVRNcHJFRnF5aFBBWmprblVFVi1fVzdMV18xU3FHTFJvVFB4bWlFYzg5SDkwMW8yWGJZa2FudXh5b1lqLS0ycVB1cDlBMjM3NVlZdEY0N3J5UTdkTXJSZDdENHhBRkZ0RDAyVWJ6a0dpOFhUaWU0ZXE3NEo?oc=5"
+      "move": "What Vertiv Stock Says About AI Data Center Sentiment - Simply Wall St",
+      "implication": "公開情報更新於 2026-11-23T22:08:44+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXc3X3BNa3F0QUdRY2dXMjliaGdFSFB6dmFrNkNNemFPS0xnN2pmcjNjT1NUaVBTX2RqQ0Y1RzVJTGh5b1FOY0ZlLXN1VGg2YXNYV2xoU3dZaDJlUkcxNHJncGJHNlRBSnVDcHJtOWp0eDVWdC1aRktTbEFucUNqVGZTNF8yZTc4RE5JbGU0YjRqSUJyOEZndnNVWktUT1BLNGtPZE9PaXpibFhDZWtsZDh0ZUVpZmV4bjlNWkhGSmE0VXJrQk12WmRBdHLSAdIBQVVfeXFMTXJ1bmRYc2lJMUdyQ001ckRnTWNqRGlNT25IRXRBUnFhS3FudDBSMEx0SVpkX1MybUtKV3ViR19oZW5WRVlHcDdEVXpVSXR5NFdLck9kQllLSVBpUWNEUDUtd2RRY0RtV1pqZC1vdldYenZTTXlsdF9sWFRjQ2w3OUtuTWRhLXJ4REhweEFQTTRoQi03MDRVLS02ZWtfQlRuX3gtQl9uZzVYcExHTWNsME15U3NDcVV3cmk4bDF5UEJCTFhGaURoXzhxM3dfZGhqZUxn?oc=5"
     },
     {
       "company": "Boyd",
@@ -230,9 +228,9 @@
     {
       "company": "nVent",
       "product": "資料中心",
-      "move": "Should AI Data Center Push Require Action From nVent Electric (NVT) Investors? - Simply Wall St",
-      "implication": "公開情報更新於 2026-11-20T19:10:17+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGdIUC1xdlcybmg4NS16ZXlXTjlVM3F3RG9ZY2UxSWJJWFVybC1DaC02UDF3ZXpuVUtsbkJVdXpOZ19nejBNeG5uZTJCb2ViaWsxV0hfQUVaTnJIaGFzNjBOcDE1cXdyWjRqbFFfaGdGUW8yTFZqWTZLMXhJdG4zcnpCWFJpMFRONVYxb2FCWUhxQU5QTlF3elBNbHFqTzJMRVF0Vld5NzhlenhaSWNMTC1lQlRtRUttYVVBSjFRZ1piNnpuOFJsUGFQWW95bFhi0gHWAUFVX3lxTE8zX0xEVFF6ZXRSSU1JZGJmcVc2T3Z5NXR3OVo1YWU1VDhPYndVM0k2VVY4RHdNT1BXaGl3MDNJQmtZZUstd1A5bC0zMVFGbWRRTXg2cE94Q1MxWjBUUVpnVE1FNW94VjBvQXk1bnRMd3pwYWdEcFV2dExmR01Mbm9LRkdGWVRuakQtVmtQOTBrS0NiQURfbERQdGgyVXcxS1RZZVNrWWNNU3U4dUNQQ0JOcnBSOVZOS0QyMDRHbXM2eF82cUQwMkZEYTBaZ3Q4blY2TjE1aHc?oc=5"
+      "move": "nVent Electric (NVT) Stock Looks About Right On AI Data Center Cooling News - Simply Wall St",
+      "implication": "公開情報更新於 2026-11-24T20:09:57+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZHlGdFRZdDFDY2ZxczJHSkRfWnFVcjNqZ0tNZHZvSHgwWGJYRWh6MGFJQm1DajltSW9kY2k1aFVfa3M3d1BsTnRzTDhzUVI0M201bUc0OE5QQ1BnN3hqV0ZwZjVJOFVOVUdZUFRlZXVUTjRIcW5kWVJHcjJiT1QycXZiQlc4cXVqT011cWNmNS1zLUtmcXZVWmRTejRHVFkxaWR1dVFWVjdORElnYk9pM20xTVdfbDFOYl82TW1SYnlIenExV3hxZV9HT3JDbGxw0gHWAUFVX3lxTE1tSkNJVzhReUdIc2drYm52dUg0aTZSR0lvR2NxNElKVFVwYWk3WWRtR3ZhckluZGp5dWhrNUhHTGJDeElDUW85UHhVYTR0R090SGxRZEMzSkZmYVRCVlkwQ19YWUpXM0tmRjg0UVRxeExaUWJ5cW1mZVVsNWhZX243OXJCTWNnNGVIaEdGbFlfbG5LS2JjdTlyNW1zS1RRQ1U2aW5sdjRzTGM3QTZLT1ZPczNOQUpaRzhZTFdjUW5CazlTX1VvRGNRNmdmSWhBcnFTSzNwUEE?oc=5"
     },
     {
       "company": "Johnson Controls",
@@ -243,6 +241,16 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "The Real Economics of AI Infrastructure: Power, Cooling and the Price of Growth - Data Center Frontier",
+      "summary": "The Real Economics of AI Infrastructure: Power, Cooling and the Price of Growth Data Center Frontier",
+      "source": "Data Center Frontier",
+      "published_at": "2026-11-25T05:51:21+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObDFRWGpWRDhjWW9xT3JpaFUyZU9oUWZHQm8tU2NGWlFsZndiSHRnSEZOMHNqZDhmdkljOTVHc0JndjJJeXJuWjhpNmJ4OTFHS21yTllGX0ZsSU1JMG5HdWQ1eGszbGFmeFNGa05tc1BFRWNLVnFkb1BUY0diOU5kVkxYZzNfaGFGbGJmVWgzc3BTTDdsbGJCNndvcmdxN2ZrSDRiRDZLOXFkdFRGckhNMTF3TW4wZ2NSMF9NZzA3M3dnXzdzWmlCMWVGcnVXbGtDS1k4bk1PcUJ5a2ZzVWJB?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "液冷散熱",
       "headline": "Server Backplane Cooling Channels Market To 2035: AI Thermal Loads Drive Liquid Cooling Shift - News and Statistics - IndexBox",
@@ -260,6 +268,26 @@
       "source": "openPR.com",
       "published_at": "2026-11-24T20:30:11+08:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNKcHZTVjVRMW5ta3Jmc25VcjNrQjZJenBUcTVjVDF1NnhPTlZFbXJPSUVkYi1fVlc1eUJjR040MXJ2bVpBX2dQeGFuVU9vN2RDd0p0MGVmZzlCcXZuZGlTeFRZeUhtTjRhY09SR1FVa20yR2U1dlpQVjhNUVZkQlNOVmduTFdodXNvc2ppOWs?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "nVent Electric (NVT) Stock Looks About Right On AI Data Center Cooling News - Simply Wall St",
+      "summary": "nVent Electric (NVT) Stock Looks About Right On AI Data Center Cooling News Simply Wall St",
+      "source": "Simply Wall St",
+      "published_at": "2026-11-24T20:09:57+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZHlGdFRZdDFDY2ZxczJHSkRfWnFVcjNqZ0tNZHZvSHgwWGJYRWh6MGFJQm1DajltSW9kY2k1aFVfa3M3d1BsTnRzTDhzUVI0M201bUc0OE5QQ1BnN3hqV0ZwZjVJOFVOVUdZUFRlZXVUTjRIcW5kWVJHcjJiT1QycXZiQlc4cXVqT011cWNmNS1zLUtmcXZVWmRTejRHVFkxaWR1dVFWVjdORElnYk9pM20xTVdfbDFOYl82TW1SYnlIenExV3hxZV9HT3JDbGxw0gHWAUFVX3lxTE1tSkNJVzhReUdIc2drYm52dUg0aTZSR0lvR2NxNElKVFVwYWk3WWRtR3ZhckluZGp5dWhrNUhHTGJDeElDUW85UHhVYTR0R090SGxRZEMzSkZmYVRCVlkwQ19YWUpXM0tmRjg0UVRxeExaUWJ5cW1mZVVsNWhZX243OXJCTWNnNGVIaEdGbFlfbG5LS2JjdTlyNW1zS1RRQ1U2aW5sdjRzTGM3QTZLT1ZPczNOQUpaRzhZTFdjUW5CazlTX1VvRGNRNmdmSWhBcnFTSzNwUEE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "AI Data Center Coolant Monitoring Equipment Market to Reach USD - openPR.com",
+      "summary": "AI Data Center Coolant Monitoring Equipment Market to Reach USD openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-24T15:59:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0ZUdG9Od3hRTUlrRG4zZlM2RmRQblJ2dGZCM2lXd3FaTHEtcFh5MENNSlNjeFdrZHFwRGpoMjlkUW5BdmlCbDRSMlRWbXBnUHdTLWNuRExDbzlXZTMyaUlrMmVHVnVoUE03TVo0Y0Y3RjZNOGdnbUx2bFFRVEhvSEJ3d1F0Um9rOFZkbXpWazVET1hCMURZOTBveEE1TEhz?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -315,51 +343,21 @@
     },
     {
       "category": "資料中心",
-      "headline": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain - Data Center Dynamics",
-      "summary": "DCD>Talks Power & Cooling Enabled Sustainability with Fred Rebarber, Vertiv & Tor Kristian Gyland, Green Mountain Data Center Dynamics",
-      "source": "Data Center Dynamics",
-      "published_at": "2026-11-22T05:23:42+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObXRLV3ZHOGpFT25iMjZRN25pMkt5WklDelQzdDAwZnRvNEh0S2dWb1JVai10eUpUSTIwNzgyS0RTdnZVTU01eDFseTl2bEh4YkpBdFhhSk9RR0VxTG93d1N0WmVLUWt0QlBfcEhFYWZFTUZ2a2hzV3BXdUtxTEl4Q1RXcTRZeUVGTVRNcHJFRnF5aFBBWmprblVFVi1fVzdMV18xU3FHTFJvVFB4bWlFYzg5SDkwMW8yWGJZa2FudXh5b1lqLS0ycVB1cDlBMjM3NVlZdEY0N3J5UTdkTXJSZDdENHhBRkZ0RDAyVWJ6a0dpOFhUaWU0ZXE3NEo?oc=5",
+      "headline": "What Vertiv Stock Says About AI Data Center Sentiment - Simply Wall St",
+      "summary": "What Vertiv Stock Says About AI Data Center Sentiment Simply Wall St",
+      "source": "Simply Wall St",
+      "published_at": "2026-11-23T22:08:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXc3X3BNa3F0QUdRY2dXMjliaGdFSFB6dmFrNkNNemFPS0xnN2pmcjNjT1NUaVBTX2RqQ0Y1RzVJTGh5b1FOY0ZlLXN1VGg2YXNYV2xoU3dZaDJlUkcxNHJncGJHNlRBSnVDcHJtOWp0eDVWdC1aRktTbEFucUNqVGZTNF8yZTc4RE5JbGU0YjRqSUJyOEZndnNVWktUT1BLNGtPZE9PaXpibFhDZWtsZDh0ZUVpZmV4bjlNWkhGSmE0VXJrQk12WmRBdHLSAdIBQVVfeXFMTXJ1bmRYc2lJMUdyQ001ckRnTWNqRGlNT25IRXRBUnFhS3FudDBSMEx0SVpkX1MybUtKV3ViR19oZW5WRVlHcDdEVXpVSXR5NFdLck9kQllLSVBpUWNEUDUtd2RRY0RtV1pqZC1vdldYenZTTXlsdF9sWFRjQ2w3OUtuTWRhLXJ4REhweEFQTTRoQi03MDRVLS02ZWtfQlRuX3gtQl9uZzVYcExHTWNsME15U3NDcVV3cmk4bDF5UEJCTFhGaURoXzhxM3dfZGhqZUxn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "液冷散熱",
-      "headline": "Taiwan liquid cooling suppliers eye growth from custom AI chip demand - Taiwan News",
-      "summary": "Taiwan liquid cooling suppliers eye growth from custom AI chip demand Taiwan News",
-      "source": "Taiwan News",
-      "published_at": "2026-11-21T20:06:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RWR2RVBrUjZURkt0N2YwMElDYldCQ1BvMnQtWFF6WkFuY1J1eXlxUVVudTRMLXY0QlFEOWFyNHlNTHltbjVJb0Z0VjRiQm5OTzZkdzdTcEI?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "AI Data Center Liquid Cooling Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
-      "summary": "AI Data Center Liquid Cooling Market Size, Forecasts Report 2026-2035 Global Market Insights Inc.",
-      "source": "Global Market Insights Inc.",
-      "published_at": "2026-11-21T16:00:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnZTaUpRTjhUUkxheG9Cd1pRRWNvWFhUbTU1VnQ0V2trcHNIN0w0ZUlKNXlUalRZUEVDczFmNlpOYjdzWkxKZy1QalRXYzFxZXJadTR5MlBqT09DMUY2ZGljWHgtZmd5UEg5WXNXSWVxSGFYZVBvRG9pNndtS0ltNlVQSU1tZW5h?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push - Yahoo! Finance Canada",
-      "summary": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-11-21T00:10:49+08:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVFISW9POTZlWElUQ0VZYXVQUWxHUlhXYS1XcXd4cnoybnRPMXBxTGZUSmhGRVRpRFEtR2Ezamk4dlFoZ0dqTUxwT2dQaU5pUklFX0VjU2lpdFpMdUp0QkwtcGdnNTg1d0c0Z2ZicTdxYzluM1JCVTNhWTc1RlROWDUzdjB6dw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "冷板／機櫃",
-      "headline": "Direct To Chip Cold Plate Market To 2035: AI Data Center Demand Drives Growth - News and Statistics - IndexBox",
-      "summary": "Direct To Chip Cold Plate Market To 2035: AI Data Center Demand Drives Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-11-20T21:56:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcFM5RGY4ZEJ2S09QN0Jxb3p1SC16SVV3cDJPOTdRRURQSFc5a1lCcVA5TndoWWtQZm5hSldfaU04M3FaNTlWZUhtR0gya25TeVZiV1Rady1zRnN2NDFMaTcyWDlJLVlpX2UyLWxJS0p5alh2QnVVUy1XSzZPX2ljbmwxVVpPSVVyMG1hekNMX3JoZkZtOUZyN1RoUjV5blhENGZsdE1iOXVlUURlMWd3SXM1MkhzcE81UjhjbHQ1OHRhMTFKWUlpMXZjakxMMzJIaEYxVU9vTi1fQ192dXc?oc=5",
+      "headline": "AI Data Center Liquid Cooling Market to Reach US$23.23 Billion - openPR.com",
+      "summary": "AI Data Center Liquid Cooling Market to Reach US$23.23 Billion openPR.com",
+      "source": "openPR.com",
+      "published_at": "2026-11-22T23:38:55+08:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHE4TTZyNENBcWZtUFl4MDdFMjVXdmJ4eHpMNHFoX0NNT2FZU25abTV6cTZsWkdYZW9saUpRaldPNEZZWUI5d2R2UDMwM29DNUI4aTNOekg2azAwd2lPcjZaSnZ4TTJ2VnBBaUQ4TTdUbmkxYVduTXhpVmM5TGx1YVkybVVDYUU5ZGVrempsbzFET0VueHA4M3JybmlLSzg?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
