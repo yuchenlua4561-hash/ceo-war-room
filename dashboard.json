@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-26T10:18:00+08:00",
+  "updated_at": "2026-11-26T19:22:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-26T10:24:13+08:00",
+  "intel_updated_at": "2026-11-26T19:25:35+08:00",
   "intel_status": {
     "state": "ok",
     "collected": 12,
@@ -15,7 +15,7 @@
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/26 10:18；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/26 19:22；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 33.01,
+      "value": 33.03,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-26 10:18 GMT+8",
+      "as_of": "2026-11-26 19:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2092,
+      "value": 0.2095,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-26 10:18 GMT+8",
+      "as_of": "2026-11-26 19:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.36,
+      "value": 36.465,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-26 10:18 GMT+8",
+      "as_of": "2026-11-26 19:22 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 3823.0,
+      "value": 3803.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-26 10:15 GMT+8",
+      "as_of": "2026-11-26 19:18 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -186,9 +186,9 @@
     {
       "company": "Schneider Electric／Motivair",
       "product": "液冷散熱",
-      "move": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand (P) - The Diplomat Bucharest",
-      "implication": "公開情報更新於 2026-11-25T21:00:43+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMU45SjFMb3F3UFpGUGZ3M1BpVTRXZ1RyZERVRUVybEloM05fdTREcEs0VmpXWl9vSzc0S0ZncUtiNW9BTVRsaUVpRU9taHJ5ZWpNUkJRalVlVy01NDNiMFlTRFAzRm03Q3ZjWE42bzJxcXFTWS1wdTVpSUI4enVraUlqRy1IU3VXNk9TQ0NJU1Rjc2ItSlE0RDl4bkl4NDRUVGUweGR0NEpNWVR3ZkludFQ2TUtCOTZUZ29zZkhiYW5hQmJ0OWZBeUItYml2d0NRaTBOOGxEQUV3RHI4amhFTXlIYVNWOGtjS0Fv?oc=5"
+      "move": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - Business Review",
+      "implication": "公開情報更新於 2026-11-26T18:54:28+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS0NwdUNuU0lwRUc5OXBFSTR0UERMRmJkbEhJNWdWcDhfbUhuR2lmY2dEdHJEV0JqUGF6OUtPUkhGWXRwSjZ6ZGptenF4QS1pT2hldURIc3ZsaTFnM2hLSFpJWmZQWTBmWmlCM3NPMG0tSTFRYUN6V1hEVFFPT2lONXRSbEpIYVBSeHczQWNob1ZiaXZRTnlkS05PUWR6TW5td2g5MlFxYnlsNTBNN0dDWHVPZWZINGxTaXZYTkhCcFBsbjVSOVRYb0pFbXU2Um9BSWpyQ29YVzVkZVJxUmVxUlQ5dExvTnZMeDJTUWhPNzNUUXN6cm1samo1RGg?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -242,6 +242,36 @@
   ],
   "news": [
     {
+      "category": "液冷散熱",
+      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - Business Review",
+      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand Business Review",
+      "source": "Business Review",
+      "published_at": "2026-11-26T18:54:28+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS0NwdUNuU0lwRUc5OXBFSTR0UERMRmJkbEhJNWdWcDhfbUhuR2lmY2dEdHJEV0JqUGF6OUtPUkhGWXRwSjZ6ZGptenF4QS1pT2hldURIc3ZsaTFnM2hLSFpJWmZQWTBmWmlCM3NPMG0tSTFRYUN6V1hEVFFPT2lONXRSbEpIYVBSeHczQWNob1ZiaXZRTnlkS05PUWR6TW5td2g5MlFxYnlsNTBNN0dDWHVPZWZINGxTaXZYTkhCcFBsbjVSOVRYb0pFbXU2Um9BSWpyQ29YVzVkZVJxUmVxUlQ5dExvTnZMeDJTUWhPNzNUUXN6cm1samo1RGg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KT Cloud partners with Keppel on 60 MW AI data center in Ansan - Chosunbiz",
+      "summary": "KT Cloud partners with Keppel on 60 MW AI data center in Ansan Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-11-26T17:21:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0MGlEX2xQNUVWQmxXWURVVVowS2FPbFhiTzRHYVBod0E5U0ZwaHV2d2N6djZjUmlyZTkzTzdycE5kNk1ESEVZaXVrMHBTSWhNU1FrZ1R1dGJ4WWY4Qjg0MHIzclZtUmxmNGVkZDRfMmNtLTNneTNoU2dn0gGOAUFVX3lxTE0yRnh3dENicEdiNk9NOF9UUEJmTzRtak1Ca3NXRVQ2eFkxY1dtR2otQmt4VFB1YWtaWG5Ea0NsRU45d211RUp1RWhSSmZnVGFPWHVpcUNESnowdzVmVHBhZVFYbno1ZEJpcmtYcUY1TVc0TmdpUG1ZUFg2VUQ3S2xSM3RhNEF5WWcydkdqRVE?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KT Cloud to build second Ansan AI data center, targeting 110 MW hub - 헤럴드경제",
+      "summary": "KT Cloud to build second Ansan AI data center, targeting 110 MW hub 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-11-26T09:27:49+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tZ3F1Qi15TTdveVNhZDFCeElTRmdDSzZSZjlnTUpDYThUb2J6bXRjVHJhdnBnb0RrcF9RRGxhNGFQTS1USWlNSzdKZ0lNYVZSdnBSTWVoNA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
       "category": "資料中心",
       "headline": "Local Manufacturing: Mexico’s Data Center Supply Chain Developmen - Mexico Business News",
       "summary": "Local Manufacturing: Mexico’s Data Center Supply Chain Developmen Mexico Business News",
@@ -253,21 +283,11 @@
     },
     {
       "category": "資料中心",
-      "headline": "Next-Gen Data Center Real Estate: EPC and Industrial Parks - Mexico Business News",
-      "summary": "Next-Gen Data Center Real Estate: EPC and Industrial Parks Mexico Business News",
-      "source": "Mexico Business News",
-      "published_at": "2026-11-26T01:23:05+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlcxQVV3WXIwQk9lVUNSY2hhVlR5ai1PemVHb1I5UW93c1NOeEdBOVZRX2FycGpXdUlfUzE1WWxkUFRWWE1ESW9ZRm5oZ1doS0tZLTM2VUFpWFNuNjE2ZDJmWTY5TUhQQkg3c1lEa2IxaFNfYlVJeEI5S1VibHpxRkJSZmNfTFNvR18wOXJYSmsxMUVFSlNtYVc5QXNWdThoRWxwbXlB?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand (P) - The Diplomat Bucharest",
-      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand (P) The Diplomat Bucharest",
-      "source": "The Diplomat Bucharest",
-      "published_at": "2026-11-25T21:00:43+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMU45SjFMb3F3UFpGUGZ3M1BpVTRXZ1RyZERVRUVybEloM05fdTREcEs0VmpXWl9vSzc0S0ZncUtiNW9BTVRsaUVpRU9taHJ5ZWpNUkJRalVlVy01NDNiMFlTRFAzRm03Q3ZjWE42bzJxcXFTWS1wdTVpSUI4enVraUlqRy1IU3VXNk9TQ0NJU1Rjc2ItSlE0RDl4bkl4NDRUVGUweGR0NEpNWVR3ZkludFQ2TUtCOTZUZ29zZkhiYW5hQmJ0OWZBeUItYml2d0NRaTBOOGxEQUV3RHI4amhFTXlIYVNWOGtjS0Fv?oc=5",
+      "headline": "The case for an integrated power and cooling approach for AI workloads - Data Center Dynamics",
+      "summary": "The case for an integrated power and cooling approach for AI workloads Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-11-26T00:03:24+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeTJNVjhtR0lfdUJBQVhDWHJJTGlkWngyTGU0MGtuQTBoM1F2NXRaeFRpY0p4VkVKTkFJUXlQcWhybE4xRkRIazNwR1NoNnV2S2xJMmtBTzU2NURSMkkyLTUxcDFUT1FSR0dheWRwd3E0WHg0bWcyeThacTdRMmdMeEdYLVh5NF9sQ3RHYUpvaXFRY0w0QjFvUTBwc3c5dWFEN2lCbzlnNTFoLXh6dnduU2hHNUEwdzVpR3c?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -288,6 +308,16 @@
       "source": "BigGo Finance",
       "published_at": "2026-11-25T18:05:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tOWQ5aEZBUGNNZ3FRWDllWllWcGpFQlRJNGRXNmpNU0hGZzhaVFdGSTVoNzF6UXVjOVFvQ21iRGlaTC15RmlOZDNOZnBzNDNHZ3doNk1KNHhvdkI1clFkMTlYRjlsekw2ZTNPWkRUTXRWUFBydWc?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Delta Electronics Highlights Its Future-Ready AI Containerized Data Center, Industrial Automation and Energy Infrastructure Solutions at IIEE Expo 2026 in the Philippines - Plataforma Media",
+      "summary": "Delta Electronics Highlights Its Future-Ready AI Containerized Data Center, Industrial Automation and Energy Infrastructure Solutions at IIEE Expo 2026 in the Philippines Plataforma Media",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-25T16:59:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOeXRQTUpjTGI4ZFVpZ2l6YVd5T09VNS1aWWJHbW1wWlBMbDVOcVI5YjZLc3Vpc3cwU0Y2X0VkRmluOHY2dUhfSEh3ejg0RkZXRU1wR2U2UC04Ykc3SklJMnFXSi1OQ2t3TFFYU0ZZV05DVzVyZWEwVnVhLWJ5REpXOXUwNjFtWmotOEgyOUZlS2VBYnp6MUJ4bGV1NHBLUEozWHF3UmJxUVFCMkVTT3dsMGQ2dGRXN2FsQWVLMDBEbFlWdmgycjhnMy1WY0thdjE0eENESlZOTVEwOXJOdG4zMmdwNFJWT1JOSTU5Z0lfSEowSFRfdldzSzZrYXBVbXM5Q1Iyek9HUjRfcjh5VmwyTEpMbTI1cTRzd2lMVTREN1pidzJ4eUxiazg1STUxRzNrOW5UVXQ0WDZzZUJp?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -328,36 +358,6 @@
       "source": "IndexBox",
       "published_at": "2026-11-24T21:46:04+08:00",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbVpEbXdBWmhYSGNtQmNsUVA1akNyNERlcy1JbmoyYllGSWkwYW9JQ29oUjU3V29OYmM4UmktamVwdE9GRldDTXA0a005Y2FfNWRpR20xaXh3azRiRlNuOXJDaFpNYnhNZ1pfYVYxZlV3NVRLaVRMaTkzTXM2VmZsekdfUXVMejVRYWRZRm41OVo5c0RvNDNWMFVQaTZacDVEZWhzTGw3bXlaaDR6NnVGRTRkVERiUHNTT0pITWdXZ1Zwb1FiTThTcmduNXhWcklZeUQ5UlhFUmdvTC1POUdWTHVSY2I1OXg2?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "nVent Electric (NVT) Stock Looks About Right On AI Data Center Cooling News - Simply Wall St",
-      "summary": "nVent Electric (NVT) Stock Looks About Right On AI Data Center Cooling News Simply Wall St",
-      "source": "Simply Wall St",
-      "published_at": "2026-11-24T20:09:57+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUpDSVc4UXlHSHNna2JudnVINGk2UkdJb0djcTRJSlRVcGFpN1lkbUd2YXJJbmRqeXVoazVIR0xiQ3hJQ1FvOVB4VWE0dEdPdEhsUWRDM0pGZmFUQlZZMENfWFlKVzNLZkY4NFFUcXhMWlFieXFtZmVVbDVoWV9uNzlyQk1jZzRlSGhHRmxZX2xuS0tiY3U5cjVtc0tUUUNVNmlubHY0c0xjN0E2S09WT3MzTkFKWkc4WUxXY1FuQms5U19Vb0RjUTZnZkloQXJxU0szcFBB0gHWAUFVX3lxTE1tSkNJVzhReUdIc2drYm52dUg0aTZSR0lvR2NxNElKVFVwYWk3WWRtR3ZhckluZGp5dWhrNUhHTGJDeElDUW85UHhVYTR0R090SGxRZEMzSkZmYVRCVlkwQ19YWUpXM0tmRjg0UVRxeExaUWJ5cW1mZVVsNWhZX243OXJCTWNnNGVIaEdGbFlfbG5LS2JjdTlyNW1zS1RRQ1U2aW5sdjRzTGM3QTZLT1ZPczNOQUpaRzhZTFdjUW5CazlTX1VvRGNRNmdmSWhBcnFTSzNwUEE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "AI Data Center Coolant Monitoring Equipment Market to Reach USD - openPR.com",
-      "summary": "AI Data Center Coolant Monitoring Equipment Market to Reach USD openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-11-24T15:59:02+08:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0ZUdG9Od3hRTUlrRG4zZlM2RmRQblJ2dGZCM2lXd3FaTHEtcFh5MENNSlNjeFdrZHFwRGpoMjlkUW5BdmlCbDRSMlRWbXBnUHdTLWNuRExDbzlXZTMyaUlrMmVHVnVoUE03TVo0Y0Y3RjZNOGdnbUx2bFFRVEhvSEJ3d1F0Um9rOFZkbXpWazVET1hCMURZOTBveEE1TEhz?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "CDU／幫浦",
-      "headline": "【Mayer Steel Pipe FY2026 Q3 Earnings Call】Revenue Falls 22% but Operating Profit Jumps 70%; Server Liquid-Cooling Manifolds Begin Stable Deliveries in July - finance.biggo.com",
-      "summary": "【Mayer Steel Pipe FY2026 Q3 Earnings Call】Revenue Falls 22% but Operating Profit Jumps 70%; Server Liquid-Cooling Manifolds Begin Stable Deliveries in July finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-11-24T15:34:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15TWFxQnBhejI5RjQzOHVBb0t5dVJlRzQzMHBMcU5jMS1oN1pNTnNPOHUxS1VFSXBKZUV2VGxfeVlPRWRnNEpZLXNPQm1jQjNDdm1WYmZ6RWFma1U1V1l6S0hn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
