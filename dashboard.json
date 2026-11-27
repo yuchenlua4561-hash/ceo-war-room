@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-27T11:09:00+08:00",
+  "updated_at": "2026-11-27T20:23:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-27T11:10:38+08:00",
+  "intel_updated_at": "2026-11-27T20:42:15+08:00",
   "intel_status": {
-    "state": "partial",
+    "state": "ok",
     "collected": 12,
-    "source_failures": [
-      "CoolIT Systems: HTTPError"
-    ]
+    "source_failures": []
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/27 11:09；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/27 20:23；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -46,7 +44,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 33.035,
+      "value": 33.015,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -55,13 +53,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-27 11:01 GMT+8",
+      "as_of": "2026-11-27 20:23 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2093,
+      "value": 0.2092,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -70,13 +68,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-27 11:01 GMT+8",
+      "as_of": "2026-11-27 20:23 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.43,
+      "value": 36.425,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -85,13 +83,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-27 11:01 GMT+8",
+      "as_of": "2026-11-27 20:23 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 3876.0,
+      "value": 3911.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -100,7 +98,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-27 11:09 GMT+8",
+      "as_of": "2026-11-27 19:49 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -275,6 +273,16 @@
     },
     {
       "category": "液冷散熱",
+      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - Macau Business",
+      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand Macau Business",
+      "source": "Macau Business",
+      "published_at": "2026-11-27T02:37:35+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWtmaUwzVHpMOXNCYWFEQmJJTHdwbVZudDBXS3BwVndpWDJXRGpWR0FKWXhJZF9uMFhfZ1V0Yl9LMGs0ZlhTSkZRQUpLRUU2MG5uR19WbWpuemhYSkpqbHA4bTdHOEQxVkpPOFRUZkhfSWVqb2gtUzZZZjNsMzNENFhmMldQTEUyLWlxcENYaTJ1TE1HR2ZlMDUwYVhnRUJfLTUwVXM3eWRCVkRkdzFTTXNHeDBlYUMxR2sySFdXWW95dHN4M2pDYnExMlpuU0I3Y3o4U1hFbWU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - markets.businessinsider.com",
       "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand markets.businessinsider.com",
       "source": "markets.businessinsider.com",
@@ -295,21 +303,21 @@
     },
     {
       "category": "液冷散熱",
-      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - The Globe and Mail",
-      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand The Globe and Mail",
-      "source": "The Globe and Mail",
-      "published_at": "2026-11-27T00:08:42+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPaGZBYk1FRWtraEs1WkhFX3k3eHBlNXk4ZktaMFhMV3Qtd1RKcG85TTRheGRqSmwyZUJ3clk5bWNTQkhUVFZCVlFEME42Q0tvQ1FqdGxXN05XV2RLcVpDcnVrWWRwblhnb1ZfT3FYbWRkdXprQlJpaU90THVfMG0wandUU0hoelN3X1JXbFhkamdSazFEU3hTZHc0Z01UUGxsSTVqTUIwemhHNXZBTTY4aEU4M00xU3g4NUpDb2pISmpnZTYxYjhPS3FWLUt0VUdoYVNjUVc3V2pyaWN6U2FKRWRiMnhKMHl4ck5CeUxPTENyZUZWeS1qSEJkRENJQ3czOW5CWnFWNk5VMDY2cE1GQ3hPWTI0T3FkNkR1VUp3MXFyZkgzNUpn?oc=5",
+      "headline": "Schneider Electric to double liquid cooling capacity at its Italian plant - MLQ.ai",
+      "summary": "Schneider Electric to double liquid cooling capacity at its Italian plant MLQ.ai",
+      "source": "MLQ.ai",
+      "published_at": "2026-11-27T00:39:14+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVFIcEU2S0IwQW80ZEphLWRTMFB3Ty0tV1NDRFpReE9vTXJHOFFySEVvRE5zUnVRQ2Qwd0NEQUwyVHJJMVA0OGlOLTUxQUFOSnBxVmw5VmdzS2Y3dnlHOXlRNkxjZjZBUGZ3UmM1UG9zeDEtZ1FncFBWU3FRcVphQlpfdjdHSUc4bFR1RUx0aWJ3QVB2MW42bjJ3?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
     {
       "category": "液冷散熱",
-      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - The Manila Times",
-      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand The Manila Times",
-      "source": "The Manila Times",
-      "published_at": "2026-11-26T23:56:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOenJwcTV2NXJaZVVFRzdaVTh6d2pRbjZCUVRrekpQSkx3MU4tTXBLVjdLd0pFano0eGdGY0VNSWVvbDFvZmJQU0VjMWFFLXZWbWxDbEhmYzR1TF90SzFud050TFlVR1VwYTU1RkF2cDV2THl6WDMyX1hJSUtMY0lvU01jS0ltU0tVSWhWTW42cmUyTXdsVllmbFpuSmduVGg0dkRhNWYzODdqdXRGYXJZS2JCaFp2WGw4WmFPYmF4VkNtcEF6LXVsNFlReXJCNVlUeFhVdk1kYnYtQTJwTmk3ZXF0MEhpdl8teV9mQmFBSnBHVnJZZXp5Q3ZJTUo3U01XdlN1YmtqZGpCeEt6ODYtQjdPYVlNVjDSAZwCQVVfeXFMUHlHS2tJZGJrOUw0aXM4ekQ3N0J0a012U1BDS29BbkF2d3VHNU85X2tUX0hLamdoR2VkNV9ybG5HVmowMmNIS19pSFNrdzVydUVRcENzWU5Ud2Y0M1hjM3RMZ3B3MFpFdFpwaUpNS0xBMjNZN2xwZlItTTVJdEttWFgydW1iNHEwREl1R242OGhPc1hsVHBpUGhLMEtRZlU1eFRJeTFDWEk5SWt6R2NRLXZTVmdoVFdIeEpHa3JBeDdQVXZkd2VuUFRCUTlNNTI0UWhLb3M4Zlc1QnFBVGQtcmUtWUhXS1BWR2NyMkxGNThXTTNTSG5qMktwWHZISnFmZWFXbXBsN2J5b2JTcEFwV3pLU2dEeVlfaXcwWVk?oc=5",
+      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - The Globe and Mail",
+      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand The Globe and Mail",
+      "source": "The Globe and Mail",
+      "published_at": "2026-11-27T00:08:42+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPaGZBYk1FRWtraEs1WkhFX3k3eHBlNXk4ZktaMFhMV3Qtd1RKcG85TTRheGRqSmwyZUJ3clk5bWNTQkhUVFZCVlFEME42Q0tvQ1FqdGxXN05XV2RLcVpDcnVrWWRwblhnb1ZfT3FYbWRkdXprQlJpaU90THVfMG0wandUU0hoelN3X1JXbFhkamdSazFEU3hTZHc0Z01UUGxsSTVqTUIwemhHNXZBTTY4aEU4M00xU3g4NUpDb2pISmpnZTYxYjhPS3FWLUt0VUdoYVNjUVc3V2pyaWN6U2FKRWRiMnhKMHl4ck5CeUxPTENyZUZWeS1qSEJkRENJQ3czOW5CWnFWNk5VMDY2cE1GQ3hPWTI0T3FkNkR1VUp3MXFyZkgzNUpn?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -340,16 +348,6 @@
       "source": "openPR.com",
       "published_at": "2026-11-26T20:26:26+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVJ1VWRvSnBMbUlpaUswYlpVLWx0WENUNkdtbzdiWXJISTl6WDMxc09xNWpiQ1RwWENpSWQzcUpxQndROXRZOE90UG9ETVdOYktGVVhGUS10TG1BQ2NuMEpaY1BuSWV1dnpVREI0ajA3SGF6dXE0VE5PeGx3VEVhWlE4NE9mQmdwaUpUV1hBanVGVng4M2wySlNsTEkyOVU?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT Cloud Joins Keppel on 60MW Ansan 2 AI Data Center: Server Load, Ownership Terms Undisclosed - Tech Times",
-      "summary": "KT Cloud Joins Keppel on 60MW Ansan 2 AI Data Center: Server Load, Ownership Terms Undisclosed Tech Times",
-      "source": "Tech Times",
-      "published_at": "2026-11-26T20:12:59+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVHhnWE1CMTducWRFZmEweWRKaXl3OF9JZ1B0cTlNLW5xbFMtMnZfRk10SWYzcGltT0lkWGFSclJYRWhxQmNjeWM1SWxwY3d0dkRRTU5EUXFUaXNUXzJTd000c3Q3UVFZaUdsOHd5VUpsYU1yZTlfcl9sRWNVaEUtVlhiRi1GbjYzNUh5Y3VyRjVpRkZYcXgxemJIaFg2akJ3blVXZlM4YXZhdUIwNEc2akc1NjdaTXpxM0Z4Y00xNUNaTW9iaFlnT3d5ZTdseHhqWWhaNG1LaUhIZFhr?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
