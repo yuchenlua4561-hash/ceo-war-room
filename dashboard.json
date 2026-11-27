@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-27T04:22:00+08:00",
+  "updated_at": "2026-11-27T11:09:00+08:00",
   "market_status": {
     "state": "ok",
     "updated_sources": 2,
     "source_failures": [],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-27T04:28:38+08:00",
+  "intel_updated_at": "2026-11-27T11:10:38+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
-    "headline": "台銀匯率與黃金已更新至 2026/11/27 04:22；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
+    "headline": "台銀匯率與黃金已更新至 2026/11/27 11:09；Brent 與 LME 3M 在正式授權來源完成前暫停顯示。",
     "action": "AI Cooling 情報與台銀牌告採分流更新；市場決策請以各卡片標示的來源時間為準。"
   },
   "risk": {
@@ -44,7 +46,7 @@
   "markets": {
     "usd_twd": {
       "name": "USD / TWD 即期賣出",
-      "value": 33.03,
+      "value": 33.035,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -53,13 +55,13 @@
       "unit": "每 1 USD",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-27 04:22 GMT+8",
+      "as_of": "2026-11-27 11:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "jpy_twd": {
       "name": "JPY / TWD 即期賣出",
-      "value": 0.2095,
+      "value": 0.2093,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -68,13 +70,13 @@
       "unit": "每 1 JPY",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-27 04:22 GMT+8",
+      "as_of": "2026-11-27 11:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "eur_twd": {
       "name": "EUR / TWD 即期賣出",
-      "value": 36.475,
+      "value": 36.43,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -83,13 +85,13 @@
       "unit": "每 1 EUR",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
-      "as_of": "2026-11-27 04:22 GMT+8",
+      "as_of": "2026-11-27 11:01 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
     "gold_twd": {
       "name": "新臺幣黃金牌價",
-      "value": 3803.0,
+      "value": 3876.0,
       "previous": null,
       "change": null,
       "change_pct": null,
@@ -98,7 +100,7 @@
       "unit": "每公克賣出",
       "source": "臺灣銀行",
       "source_url": "https://rate.bot.com.tw/gold?Lang=zh-TW",
-      "as_of": "2026-11-26 19:18 GMT+8",
+      "as_of": "2026-11-27 11:09 GMT+8",
       "price_type": "live",
       "price_label": "台銀牌告"
     },
@@ -185,10 +187,10 @@
   "competitors": [
     {
       "company": "Schneider Electric／Motivair",
-      "product": "液冷散熱",
-      "move": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - markets.businessinsider.com",
-      "implication": "公開情報更新於 2026-11-27T01:20:16+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPR0liM2lPYXlsal9GRWZWMEI0ZEs3dzNMNDc0Z21TcjJCbzdrQ2IzUS04Z0l5VFFsUS1xZDc0RDEyMm1Ud25RYmRtcThTSzNUbzYzc3ZZVTdScUFzaVFGVmo4T0h0TUY5LUF2V2ZuV2RFN3dFbkhwWWZYWjhHLXVaMG9oOGdLMTZCSHBxbHZiNG9XdXA4d3ZIWk4yZFJNakxLOEtoOTVuNUt0eUNtVFJrSEFIS2ZPXzBZTkVvbWtxVDZGWWhOcXZqbzhFT0FvbmR1TmQ1d0xpeVRuTDVZTnRfeTI5UEo2dGpGa01KR3loNzNTVVZNclFTNGN5b2tJdGZ6aHhB?oc=5"
+      "product": "資料中心",
+      "move": "Schneider Electric S.E. (SBGSY) Stock: Accelerates AI Data Center Growth With European Expansion - Blockonomi",
+      "implication": "公開情報更新於 2026-11-27T04:38:29+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzB4SDRRUG5rcHF3dmtpNlRCMGZYdzdSVWtHYkJ2Sl9fX3FQNG5fZXI3a1RwaWFxYnNtSzhOQVZwTk8tXy05QUEwcHp4RGJOUkRWdjlHSmpDRGM2VW8tRmtXRklUQVdQVjNBREhFcHAyaGNhWjktOC1valEySXpQdnFsNDZBdnFtTmFNRFE2elZsS1FYMmo2N0FtdkpaQndRaHBoU1d1eWpyOVJuaVYwRXp4OHF2dXM?oc=5"
     },
     {
       "company": "CoolIT Systems",
@@ -200,9 +202,9 @@
     {
       "company": "Vertiv",
       "product": "資料中心",
-      "move": "What Vertiv Stock Says About AI Data Center Sentiment - Simply Wall St",
-      "implication": "公開情報更新於 2026-11-23T22:08:44+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXc3X3BNa3F0QUdRY2dXMjliaGdFSFB6dmFrNkNNemFPS0xnN2pmcjNjT1NUaVBTX2RqQ0Y1RzVJTGh5b1FOY0ZlLXN1VGg2YXNYV2xoU3dZaDJlUkcxNHJncGJHNlRBSnVDcHJtOWp0eDVWdC1aRktTbEFucUNqVGZTNF8yZTc4RE5JbGU0YjRqSUJyOEZndnNVWktUT1BLNGtPZE9PaXpibFhDZWtsZDh0ZUVpZmV4bjlNWkhGSmE0VXJrQk12WmRBdHLSAdIBQVVfeXFMTXJ1bmRYc2lJMUdyQ001ckRnTWNqRGlNT25IRXRBUnFhS3FudDBSMEx0SVpkX1MybUtKV3ViR19oZW5WRVlHcDdEVXpVSXR5NFdLck9kQllLSVBpUWNEUDUtd2RRY0RtV1pqZC1vdldYenZTTXlsdF9sWFRjQ2w3OUtuTWRhLXJ4REhweEFQTTRoQi03MDRVLS02ZWtfQlRuX3gtQl9uZzVYcExHTWNsME15U3NDcVV3cmk4bDF5UEJCTFhGaURoXzhxM3dfZGhqZUxn?oc=5"
+      "move": "Vertiv expands 800VDC power portfolio for AI data center market - Data Center Dynamics",
+      "implication": "公開情報更新於 2026-11-26T20:34:05+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVpOc3prakU1X2lzbmhCX2FRbENmU3QwbTM3SmZyMEd2eUt3cFFpS0ZkN1dYV3hxRFlvcjFUY0lpMDk3OW14MEM5OHBRbktUYjB4UF91Y3VtWmNXNUFSRExZbDE2UHBJbDBUY2gtbGFQWFlJNHJNdWJKZlUza05qUUJoVkRubmlJZ3NPcFd0d0xnczlDNzh3a1VENGdSRU1HdFd5VW9abzJPbDg?oc=5"
     },
     {
       "company": "Boyd",
@@ -241,6 +243,26 @@
     }
   ],
   "news": [
+    {
+      "category": "液冷散熱",
+      "headline": "Nidec expands liquid cooling push as AI demand rises - DataCenterNews Asia Pacific",
+      "summary": "Nidec expands liquid cooling push as AI demand rises DataCenterNews Asia Pacific",
+      "source": "DataCenterNews Asia Pacific",
+      "published_at": "2026-11-27T07:05:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnhYWngzQ0U0aGduQVQ4c3NUdFlQcVBhVnJYTGl2RnZiNnlXWTFJMnVBRlBDMjJQT2ppQ2d3dHgwNWIzd0lzSm1DcE5VLUptSUZhM2pReFJCdDZYQjNXanFhY1JkdW9jSU01WTZmQ1JXQzloeVc2NGNlLU9NbEwyQTktV29HT2pJSmRFM1ZtNA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Schneider Electric S.E. (SBGSY) Stock: Accelerates AI Data Center Growth With European Expansion - Blockonomi",
+      "summary": "Schneider Electric S.E. (SBGSY) Stock: Accelerates AI Data Center Growth With European Expansion Blockonomi",
+      "source": "Blockonomi",
+      "published_at": "2026-11-27T04:38:29+08:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzB4SDRRUG5rcHF3dmtpNlRCMGZYdzdSVWtHYkJ2Sl9fX3FQNG5fZXI3a1RwaWFxYnNtSzhOQVZwTk8tXy05QUEwcHp4RGJOUkRWdjlHSmpDRGM2VW8tRmtXRklUQVdQVjNBREhFcHAyaGNhWjktOC1valEySXpQdnFsNDZBdnFtTmFNRFE2elZsS1FYMmo2N0FtdkpaQndRaHBoU1d1eWpyOVJuaVYwRXp4OHF2dXM?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "AI data center energy demand: Why efficiency alone won’t bend the curve - Arcadis",
@@ -283,11 +305,51 @@
     },
     {
       "category": "液冷散熱",
+      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - The Manila Times",
+      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand The Manila Times",
+      "source": "The Manila Times",
+      "published_at": "2026-11-26T23:56:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOenJwcTV2NXJaZVVFRzdaVTh6d2pRbjZCUVRrekpQSkx3MU4tTXBLVjdLd0pFano0eGdGY0VNSWVvbDFvZmJQU0VjMWFFLXZWbWxDbEhmYzR1TF90SzFud050TFlVR1VwYTU1RkF2cDV2THl6WDMyX1hJSUtMY0lvU01jS0ltU0tVSWhWTW42cmUyTXdsVllmbFpuSmduVGg0dkRhNWYzODdqdXRGYXJZS2JCaFp2WGw4WmFPYmF4VkNtcEF6LXVsNFlReXJCNVlUeFhVdk1kYnYtQTJwTmk3ZXF0MEhpdl8teV9mQmFBSnBHVnJZZXp5Q3ZJTUo3U01XdlN1YmtqZGpCeEt6ODYtQjdPYVlNVjDSAZwCQVVfeXFMUHlHS2tJZGJrOUw0aXM4ekQ3N0J0a012U1BDS29BbkF2d3VHNU85X2tUX0hLamdoR2VkNV9ybG5HVmowMmNIS19pSFNrdzVydUVRcENzWU5Ud2Y0M1hjM3RMZ3B3MFpFdFpwaUpNS0xBMjNZN2xwZlItTTVJdEttWFgydW1iNHEwREl1R242OGhPc1hsVHBpUGhLMEtRZlU1eFRJeTFDWEk5SWt6R2NRLXZTVmdoVFdIeEpHa3JBeDdQVXZkd2VuUFRCUTlNNTI0UWhLb3M4Zlc1QnFBVGQtcmUtWUhXS1BWR2NyMkxGNThXTTNTSG5qMktwWHZISnFmZWFXbXBsN2J5b2JTcEFwV3pLU2dEeVlfaXcwWVk?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Liquid-Cooled Motherboard Assemblies Market To 2035: Data Center Thermal Density Drives Growth - News and Statistics - IndexBox",
+      "summary": "Liquid-Cooled Motherboard Assemblies Market To 2035: Data Center Thermal Density Drives Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "published_at": "2026-11-26T22:26:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3QyWkpvLXBGSzRleGdqOF9LNXMwUVBpbjhZVGFaZVNjZzYzZmhPWXR0UmVQSUI4ay1jVnFxTENhT2t4cGxHTW4yRms1UXZtYnNFaDlmYVkwYWVxMDhmQTc1ekdPWnRCVGVNaE5MaTJBbnpPYzZOMkJZN0F4YUxzMUVtN05MekN0bTZDUWNfbHFzOGdpVk5RNXFGSk9JaENmNWNxM2E2bXExSkNfaTduOG5IU3hrZWxfZnNHLUNualEtdENITnh1eGlNUjgyUW5VbzhmMGxIZlhwMjlxME1J?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "Vertiv expands 800VDC power portfolio for AI data center market - Data Center Dynamics",
+      "summary": "Vertiv expands 800VDC power portfolio for AI data center market Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "published_at": "2026-11-26T20:34:05+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVpOc3prakU1X2lzbmhCX2FRbENmU3QwbTM3SmZyMEd2eUt3cFFpS0ZkN1dYV3hxRFlvcjFUY0lpMDk3OW14MEM5OHBRbktUYjB4UF91Y3VtWmNXNUFSRExZbDE2UHBJbDBUY2gtbGFQWFlJNHJNdWJKZlUza05qUUJoVkRubmlJZ3NPcFd0d0xnczlDNzh3a1VENGdSRU1HdFd5VW9abzJPbDg?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "液冷散熱",
       "headline": "Data Center Liquid Cooling Valves Market Trends, AI Data Center - openPR.com",
       "summary": "Data Center Liquid Cooling Valves Market Trends, AI Data Center openPR.com",
       "source": "openPR.com",
       "published_at": "2026-11-26T20:26:26+08:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVJ1VWRvSnBMbUlpaUswYlpVLWx0WENUNkdtbzdiWXJISTl6WDMxc09xNWpiQ1RwWENpSWQzcUpxQndROXRZOE90UG9ETVdOYktGVVhGUS10TG1BQ2NuMEpaY1BuSWV1dnpVREI0ajA3SGF6dXE0VE5PeGx3VEVhWlE4NE9mQmdwaUpUV1hBanVGVng4M2wySlNsTEkyOVU?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "KT Cloud Joins Keppel on 60MW Ansan 2 AI Data Center: Server Load, Ownership Terms Undisclosed - Tech Times",
+      "summary": "KT Cloud Joins Keppel on 60MW Ansan 2 AI Data Center: Server Load, Ownership Terms Undisclosed Tech Times",
+      "source": "Tech Times",
+      "published_at": "2026-11-26T20:12:59+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVHhnWE1CMTducWRFZmEweWRKaXl3OF9JZ1B0cTlNLW5xbFMtMnZfRk10SWYzcGltT0lkWGFSclJYRWhxQmNjeWM1SWxwY3d0dkRRTU5EUXFUaXNUXzJTd000c3Q3UVFZaUdsOHd5VUpsYU1yZTlfcl9sRWNVaEUtVlhiRi1GbjYzNUh5Y3VyRjVpRkZYcXgxemJIaFg2akJ3blVXZlM4YXZhdUIwNEc2akc1NjdaTXpxM0Z4Y00xNUNaTW9iaFlnT3d5ZTdseHhqWWhaNG1LaUhIZFhr?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -298,66 +360,6 @@
       "source": "Refindustry",
       "published_at": "2026-11-26T20:10:00+08:00",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjF5OGxlNUZsdk5uY0V6bXJOWDFmSFliMDV0ckpoOHk5UDd6YktweDdQRnNyRHBoSEo4RDdRdlJtRlZtb1Z3OGdwanpkUFdicWg0aGItZG9lMzVNcWxTVjhmeVd6Z1pyVnp6ZFZfSmRpc2ZBVW5SNGFmcnFtMWxOZkFMUVE5UzZ3X1ZCV0pHNkJ6ZDA3VVJXV094Sy1BMk92MjBF?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT Cloud Partners with Keppel to Add 60MW AI Data Center in Ansan, Building 110MW Campus in South Korea - BigGo Finance",
-      "summary": "KT Cloud Partners with Keppel to Add 60MW AI Data Center in Ansan, Building 110MW Campus in South Korea BigGo Finance",
-      "source": "BigGo Finance",
-      "published_at": "2026-11-26T19:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1udW84UjdqSWJUV3dIcW53RzdIQTVwM25kaHlIanA1QVl2UHNEcll3dHBjUHpQZk03WFBMTUljQ0pBNkFVV1AzMTlBSE4xZXNTaU5saTAtUmNnMnVnRXQwZXc5aHltSlJPZ2pOTk54Y2NueG1ub2c?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT Cloud partners with Keppel on 60 MW AI data center in Ansan - Chosunbiz",
-      "summary": "KT Cloud partners with Keppel on 60 MW AI data center in Ansan Chosunbiz",
-      "source": "Chosunbiz",
-      "published_at": "2026-11-26T17:21:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0MGlEX2xQNUVWQmxXWURVVVowS2FPbFhiTzRHYVBod0E5U0ZwaHV2d2N6djZjUmlyZTkzTzdycE5kNk1ESEVZaXVrMHBTSWhNU1FrZ1R1dGJ4WWY4Qjg0MHIzclZtUmxmNGVkZDRfMmNtLTNneTNoU2dn0gGOAUFVX3lxTE0yRnh3dENicEdiNk9NOF9UUEJmTzRtak1Ca3NXRVQ2eFkxY1dtR2otQmt4VFB1YWtaWG5Ea0NsRU45d211RUp1RWhSSmZnVGFPWHVpcUNESnowdzVmVHBhZVFYbno1ZEJpcmtYcUY1TVc0TmdpUG1ZUFg2VUQ3S2xSM3RhNEF5WWcydkdqRVE?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "LG Electronics' AI Data Center Cooling Orders Top 3 Trillion Won, But Profitability Remains the Challenge - finance.biggo.com",
-      "summary": "LG Electronics' AI Data Center Cooling Orders Top 3 Trillion Won, But Profitability Remains the Challenge finance.biggo.com",
-      "source": "finance.biggo.com",
-      "published_at": "2026-11-26T16:25:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80SzNLVTctaG9McW9BWmt0cEhJMm5OdmtCTnJxbEFlNVhQaXZCTmpQa2RMMWVlQTZ1akRhMGRnVm53bjdFNkpZM1pFR0hqenM3SFV0Y0xia3BMeTVoSWxzdk10SnN2QnlHck5xc0dicEIwNXFTMnc?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Beyond Building Management: DCS Coordinates the AI Data Center - ARC Advisory Group",
-      "summary": "Beyond Building Management: DCS Coordinates the AI Data Center ARC Advisory Group",
-      "source": "ARC Advisory Group",
-      "published_at": "2026-11-26T14:59:39+08:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmF6ejdQUUlBWkRZYjBlLXE2T3RkLXhNa0ItS1JLOWtGZ25JUUY1UXFHU3V0d1FJcFczTURPYnd2OV9ZcWRsTTJUYVFsV0ZTWk1SS3VJYWJhYnZ0aE9WZEZJaHktWldVUkp6MVdQZUpfd3V3eWpsbWlKb3pldzhFYW84cV83ZHZCNHNVWmNVTVBoc0lfSU9hNHViWTJLODUwR1ZTZFJWdw?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "KT Cloud to build second Ansan AI data center, targeting 110 MW hub - 헤럴드경제",
-      "summary": "KT Cloud to build second Ansan AI data center, targeting 110 MW hub 헤럴드경제",
-      "source": "헤럴드경제",
-      "published_at": "2026-11-26T09:27:49+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tZ3F1Qi15TTdveVNhZDFCeElTRmdDSzZSZjlnTUpDYThUb2J6bXRjVHJhdnBnb0RrcF9RRGxhNGFQTS1USWlNSzdKZ0lNYVZSdnBSTWVoNA?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "資料中心",
-      "headline": "Sustainability,Cooling & Energy Efficiency: Mexico’s Data Centers - Mexico Business News",
-      "summary": "Sustainability,Cooling & Energy Efficiency: Mexico’s Data Centers Mexico Business News",
-      "source": "Mexico Business News",
-      "published_at": "2026-11-26T05:57:45+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjNYaXNCTXg5dVJtOTFfQ2gya05wQXFTcFE3VjhSZ2VtNS01cGpsVWFqb2hrX0N3V2FsVmNhNTZEdjhmR3NoN3JOR2xtSjY2S2Z3NWdRWHJYUnpwRFI2dUpYYzVXanRKQksyLTlRano2azJxMld5TXgyblRRazVKN09QVWlKZzVTTy1MakFWdWh6aFVKZ1d0UnNfaXNyenVQTUJjSGxzcmRCZw?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
