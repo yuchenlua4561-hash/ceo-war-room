@@ -2,16 +2,21 @@
   "schema_version": "1.0",
   "updated_at": "2026-11-28T09:25:00+08:00",
   "market_status": {
-    "state": "ok",
-    "updated_sources": 2,
-    "source_failures": [],
+    "state": "fallback",
+    "updated_sources": 0,
+    "source_failures": [
+      "BOT FX: RuntimeError: Bank of Taiwan anti-bot challenge",
+      "BOT gold: RuntimeError: Bank of Taiwan anti-bot challenge"
+    ],
     "message": "前一交易日比較待正式歷史資料介接。"
   },
-  "intel_updated_at": "2026-11-28T11:34:20+08:00",
+  "intel_updated_at": "2026-11-28T20:15:43+08:00",
   "intel_status": {
-    "state": "ok",
+    "state": "partial",
     "collected": 12,
-    "source_failures": []
+    "source_failures": [
+      "CoolIT Systems: HTTPError"
+    ]
   },
   "ceo_summary": {
     "stance": "公開資料監控",
@@ -214,9 +219,9 @@
     {
       "company": "Delta Electronics",
       "product": "資料中心",
-      "move": "Delta Electronics Highlights Its Future-Ready AI Containerized Data Center, Industrial Automation and Energy Infrastructure Solutions at IIEE Expo 2026 in the Philippines - The Malaysian Reserve",
-      "implication": "公開情報更新於 2026-11-25T18:06:04+08:00；請由來源頁確認產品規格、客戶與量產時程。",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdjNvZjIyaWVwYlRIdUlteU15UTJ3OG15bkVUWkNtUnJCZ2gwOEpWbW5zbEZVYlhEeFo5clFpelhQSXFiU216VUNqM2lueG5ZSjBxVUdNY2dSd09EWFhnOVJPZ3RRUGFMUHEyV2hweExWS0ttNlpGTWZrTjJpcjZjd051MWFuOUNGT3NOYkVNQjlhT24wRlFaRHFqS1V3d1BMTEU5MU9CZ3R2ZVFZbDZLNVAtV2xaTGppWVhXVGlZLUh0V1NmU3N6WFFRcjZqZlhQMlJiek5fbmc5c1M0ek1Uc3F3OVp4SUxuaFM3bmticy0wc3RkdDF5eU1nTVVHREVLN0xlTDlNNkRhZ21qb05Wb3REdW81VmF0YVZBYjNMWHNERXpyR0YzMUJFTlBRcTdRc2luSDdPXzBQQVNOcnc?oc=5"
+      "move": "Why Delta Electronics Stock Is A Key AI Data Center Play Outside China - Yahoo Finance",
+      "implication": "公開情報更新於 2026-11-28T15:11:00+08:00；請由來源頁確認產品規格、客戶與量產時程。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUE9jblFWXzRoc25kZTlrQkxtcEc1UXVPd3g1VEVkejJuZU5Lam1VRnpveUNzWHpDcC1QSXBMa1VSUmJPV0wzNTRkTF9BZjd1bU9jUzB0WE9LaEVwXzdhaHhzNDBrVnJNY2ZnUk5LX3U4UU9lVk82cG5ELVBwamdBdjdyMFZJcmdKc2RVZHNNS2dON1hCbThfT3VBNA?oc=5"
     },
     {
       "company": "STULZ",
@@ -241,6 +246,26 @@
     }
   ],
   "news": [
+    {
+      "category": "資料中心",
+      "headline": "Why Delta Electronics Stock Is A Key AI Data Center Play Outside China - Yahoo Finance",
+      "summary": "Why Delta Electronics Stock Is A Key AI Data Center Play Outside China Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-28T15:11:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUE9jblFWXzRoc25kZTlrQkxtcEc1UXVPd3g1VEVkejJuZU5Lam1VRnpveUNzWHpDcC1QSXBMa1VSUmJPV0wzNTRkTF9BZjd1bU9jUzB0WE9LaEVwXzdhaHhzNDBrVnJNY2ZnUk5LX3U4UU9lVk82cG5ELVBwamdBdjdyMFZJcmdKc2RVZHNNS2dON1hCbThfT3VBNA?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
+    {
+      "category": "資料中心",
+      "headline": "President Lee Attends Groundbreaking of Gangwon AI Data Center: \"Asia's Largest Infrastructure\" - news.sbs.co.kr",
+      "summary": "President Lee Attends Groundbreaking of Gangwon AI Data Center: \"Asia's Largest Infrastructure\" news.sbs.co.kr",
+      "source": "news.sbs.co.kr",
+      "published_at": "2026-11-28T15:04:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iaTJ6cEJjYjhxYUNhRW5Td0VGWGFfQ2RYai1EXzZLeG5hV2pMMThtdkRuZWNvNUlDWTZIUEN3cUliTEZrd2Q2T1JMM2N4czQ2M0Z2VW4zMVE5Mm1EVkl1cmtLajkxOVNhV1NtdHl3?oc=5",
+      "data_type": "live",
+      "data_label": "公開情報"
+    },
     {
       "category": "資料中心",
       "headline": "Data Center Water Treatment and Recycling - Market Share, Trends, and Growth Forecasts, 2027-2032 | AI Cooling and Water Scarcity Propel a USD 7.09 Billion Market by 2032 - Supply Chain Digital",
@@ -278,16 +303,6 @@
       "source": "Arcadis",
       "published_at": "2026-11-27T03:49:57+08:00",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDgxNl93Qk1zUmdmbWdncEFKU1l0MjBBZkF6cDVVekZCQVB2QkFIY1YteTM3ZmFJSlRzbXJsaDFNaEwyeUp0UG5SeVpzdHNIUkR1RFp4R1dKZFlNYWp5TmdKb2N5TWFGVU55a0JCTnRtRmFZcl9vSEd3bW0tdVVWLTAzcHptbVN5TUhibGFYcExDdHAxeEJ3?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - Macau Business",
-      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand Macau Business",
-      "source": "Macau Business",
-      "published_at": "2026-11-27T02:37:35+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWtmaUwzVHpMOXNCYWFEQmJJTHdwbVZudDBXS3BwVndpWDJXRGpWR0FKWXhJZF9uMFhfZ1V0Yl9LMGs0ZlhTSkZRQUpLRUU2MG5uR19WbWpuemhYSkpqbHA4bTdHOEQxVkpPOFRUZkhfSWVqb2gtUzZZZjNsMzNENFhmMldQTEUyLWlxcENYaTJ1TE1HR2ZlMDUwYVhnRUJfLTUwVXM3eWRCVkRkdzFTTXNHeDBlYUMxR2sySFdXWW95dHN4M2pDYnExMlpuU0I3Y3o4U1hFbWU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -332,12 +347,12 @@
       "data_label": "公開情報"
     },
     {
-      "category": "資料中心",
-      "headline": "Liquid-Cooled Motherboard Assemblies Market To 2035: Data Center Thermal Density Drives Growth - News and Statistics - IndexBox",
-      "summary": "Liquid-Cooled Motherboard Assemblies Market To 2035: Data Center Thermal Density Drives Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "published_at": "2026-11-26T22:26:04+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3QyWkpvLXBGSzRleGdqOF9LNXMwUVBpbjhZVGFaZVNjZzYzZmhPWXR0UmVQSUI4ay1jVnFxTENhT2t4cGxHTW4yRms1UXZtYnNFaDlmYVkwYWVxMDhmQTc1ekdPWnRCVGVNaE5MaTJBbnpPYzZOMkJZN0F4YUxzMUVtN05MekN0bTZDUWNfbHFzOGdpVk5RNXFGSk9JaENmNWNxM2E2bXExSkNfaTduOG5IU3hrZWxfZnNHLUNualEtdENITnh1eGlNUjgyUW5VbzhmMGxIZlhwMjlxME1J?oc=5",
+      "category": "液冷散熱",
+      "headline": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand - NTB Kommunikasjon",
+      "summary": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand NTB Kommunikasjon",
+      "source": "NTB Kommunikasjon",
+      "published_at": "2026-11-26T23:51:48+08:00",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOSVBEUENFSGhBWGkxcVczcnd5dTNrcGJWbWkzYms2cTEzeG43YVVwNTlsYWZKSEJsV2FFN2JmdkdnZWZZLXBvVXhjRkRLeHFNc0JWVXMtVk1jZG81QjVvMGo5eTRMYXpvTnBRUC1PS0R6OW5OaVAtZ09NekxQWWdLdDZJcndaMk1WWHZ6UjRkQjFlRWhJZElOOURyUFNoVl9LczlDdDNoRHRnOGR2QTVBWEtGOUliUXl2UUYzSnkxQV9ucDlEWmNFLXRWWERNNlpyUlRXRzBielotYkxJNGI2ZGlfNjZRZWMtdWZ4YTNSQ2xndTJOTmVTQjJ5ak5ZVXA0MDJPN19SWFRtNGhRRGpVQUtDR1Z3Ym8zSlhIWjg5aTkybGI1?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     },
@@ -348,16 +363,6 @@
       "source": "Data Center Dynamics",
       "published_at": "2026-11-26T20:34:05+08:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVpOc3prakU1X2lzbmhCX2FRbENmU3QwbTM3SmZyMEd2eUt3cFFpS0ZkN1dYV3hxRFlvcjFUY0lpMDk3OW14MEM5OHBRbktUYjB4UF91Y3VtWmNXNUFSRExZbDE2UHBJbDBUY2gtbGFQWFlJNHJNdWJKZlUza05qUUJoVkRubmlJZ3NPcFd0d0xnczlDNzh3a1VENGdSRU1HdFd5VW9abzJPbDg?oc=5",
-      "data_type": "live",
-      "data_label": "公開情報"
-    },
-    {
-      "category": "液冷散熱",
-      "headline": "Data Center Liquid Cooling Valves Market Trends, AI Data Center - openPR.com",
-      "summary": "Data Center Liquid Cooling Valves Market Trends, AI Data Center openPR.com",
-      "source": "openPR.com",
-      "published_at": "2026-11-26T20:26:26+08:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVJ1VWRvSnBMbUlpaUswYlpVLWx0WENUNkdtbzdiWXJISTl6WDMxc09xNWpiQ1RwWENpSWQzcUpxQndROXRZOE90UG9ETVdOYktGVVhGUS10TG1BQ2NuMEpaY1BuSWV1dnpVREI0ajA3SGF6dXE0VE5PeGx3VEVhWlE4NE9mQmdwaUpUV1hBanVGVng4M2wySlNsTEkyOVU?oc=5",
       "data_type": "live",
       "data_label": "公開情報"
     }
